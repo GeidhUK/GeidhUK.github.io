@@ -132,7 +132,7 @@ body { padding-bottom: 70px; }
   font-size: 18px;
   border: none;
   outline: none;
-  background-color: red;
+  background-color: {{ site.featured-color }};
   color: white;
   cursor: pointer;
   padding: 15px;
