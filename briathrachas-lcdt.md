@@ -4,7 +4,7 @@ title: Briathrachas LCDTQ+
 permalink: /briathrachas-lcdt/
 ---
 
-<button onclick="topFunction()" id="myBtn" title="Dhan mhullach"><i class="far fa-arrow-alt-circle-up"></i> Mullach</button>
+<button onclick="topFunction()" id="myBtn" title="Dhan mhullach"><i class="fas fa-arrow-alt-circle-up"></i> Mullach</button>
 
 'S e seo liosta dhen briathrachas LCDTE+ a bhios mi a' cleachdadh air an làrach-lìn seo. Cuiribh fios thugam air [Twitter](https://twitter.com/intent/tweet?screen_name=GeidhUK) no [Post-d](mailto:chris@macmhicheil.uk) ma lorgas sibh mearachd no facal a tha a dhìth.
 
