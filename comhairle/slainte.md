@@ -1,5 +1,5 @@
 ---
 layout: page
 title: Slàinte
-permalink: /slainte/
+permalink: /comhairle/slainte/
 ---
