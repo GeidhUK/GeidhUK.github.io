@@ -20,6 +20,10 @@ html {
 }
 
 .index-image{
+  margin: 0 auto;
+  display: block;
+  max-width: 100%;
+  height: auto;
   border: 1px whitesmoke solid;
 }
 
