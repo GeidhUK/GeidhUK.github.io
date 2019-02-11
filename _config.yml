@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: An t-Ubhal-ghort
+title: Gèidh.uk
 email: chris@macmhicheil.uk
-description: A' toirt thugaibh na naidheachdan teicneòlais as ùire le fòcas àraidh air teicneòlas Apple
-baseurl: "/atug" # the subpath of your site, e.g. /blog
+description: A' toirt thugaibh na naidheachdan LCDQT as ùire le fòcas àraidh air naidheachdan Albannach
+baseurl: "/GeidhUK" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /:year/:month/:day/:title/
 
@@ -40,7 +40,7 @@ plugins:
 #   - vendor/ruby/
 
 # Sets the color of the header and page links
-featured-color: "#556b2f"
+featured-color: "#fb135b"
 
 # Separator to mark end of post excerpt
 excerpt_separator: <!--more-->
