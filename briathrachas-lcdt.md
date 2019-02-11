@@ -4,6 +4,8 @@ title: Briathrachas LCDTQ+
 permalink: /briathrachas-lcdt/
 ---
 
+<button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+
 'S e seo liosta dhen briathrachas LCDTE+ a bhios mi a' cleachdadh air an làrach-lìn seo. Cuiribh fios thugam air [Twitter](https://twitter.com/intent/tweet?screen_name=GeidhUK) no [Post-d](mailto:chris@macmhicheil.uk) ma lorgas sibh mearachd no facal a tha a dhìth.
 
 _Below is a list of the LGBTI+ vocabulary used on this site. Let me know on [Twitter](https://twitter.com/intent/tweet?screen_name=GeidhUK) or [Email](mailto:chris@macmhicheil.uk) if you spot a mistake or a missing word._
@@ -541,3 +543,22 @@ Mìneachadh
 <div class="text-muted">_(unisex)_</div>
 
 Mìneachadh
+
+<script>
+// When the user scrolls down 20px from the top of the document, show the button
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+  if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+    document.getElementById("myBtn").style.display = "block";
+  } else {
+    document.getElementById("myBtn").style.display = "none";
+  }
+}
+
+// When the user clicks on the button, scroll to the top of the document
+function topFunction() {
+  document.body.scrollTop = 0;
+  document.documentElement.scrollTop = 0;
+}
+</script>
