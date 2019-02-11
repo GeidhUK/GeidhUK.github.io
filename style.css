@@ -12,8 +12,11 @@ html {
     display: block;
     max-width: 100%;
     height: auto;
-    padding-top: 25px;
-    padding-bottom: 25px;
+}
+
+.post-image{
+  padding-top: 25px;
+  padding-bottom: 25px;
 }
 
 .index-image{
