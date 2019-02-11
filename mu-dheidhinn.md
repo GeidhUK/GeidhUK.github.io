@@ -10,10 +10,10 @@ Chaidh a stèidheachadh ann an 2008 mar Naidheachdan Pinc le Crìstean MacMhìch
 
 ‘S e prìomh-amasan Geidh.uk a bhith:
 
-    a’ tabhann seirbheis naidheachd do Ghàidheil LCDTE+;
-    a’ brosnachadh cultar, dualchas agus ealain LCDTE+ taobh a-staigh coimhearsnachd na Gàidhlig;
-    a’ brosnachadh  co-ionnanachd agus iomadachd;
-    a’ lughdachadh iomallachd sa choimhearsnachd LCDTE+ Gàidhealach le bhith a’ cruthachadh cheanglaichean brìoghmhor agus luachmhor
+* a’ tabhann seirbheis naidheachd do Ghàidheil LCDTE+;
+* a’ brosnachadh cultar, dualchas agus ealain LCDTE+ taobh a-staigh coimhearsnachd na Gàidhlig;
+* a’ brosnachadh  co-ionnanachd agus iomadachd;
+* a’ lughdachadh iomallachd sa choimhearsnachd LCDTE+ Gàidhealach le bhith a’ cruthachadh cheanglaichean brìoghmhor agus luachmhor
 
 ##### Mu dheidhinn Crìstean MacMhìcheil
 
