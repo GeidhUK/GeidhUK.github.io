@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Leigheas sìolachadh in-bhiotro air a thabhann do chàraid fhireannach ann an Alba
-date: 2018-01-29 19:51:39
+date: 2019-01-29 19:51:39
 categories: [alba, an-rioghachd-aonaichte, slainte]
 author: Crìstean MacMhìcheil
 author_url: https://twitter.com/macmhicheil
