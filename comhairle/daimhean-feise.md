@@ -1,5 +1,5 @@
 ---
 layout: page
 title: Dàimhean & Feise
-permalink: /daimhean-feise/
+permalink: /comhairle/daimhean-feise/
 ---

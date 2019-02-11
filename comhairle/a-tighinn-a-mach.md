@@ -1,5 +1,5 @@
 ---
 layout: page
 title: A' Tighinn A-mach
-permalink: /a-tighinn-a-mach/
+permalink: /comhairle/a-tighinn-a-mach/
 ---

@@ -1,5 +1,5 @@
 ---
 layout: page
 title: Còirichean & Reachdas
-permalink: /coirichean-reachdas/
+permalink: /comhairle/coirichean-reachdas/
 ---

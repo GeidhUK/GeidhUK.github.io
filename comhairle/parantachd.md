@@ -1,5 +1,5 @@
 ---
 layout: page
 title: Pàrantachd
-permalink: /parantachd/
+permalink: /comhairle/parantachd/
 ---
