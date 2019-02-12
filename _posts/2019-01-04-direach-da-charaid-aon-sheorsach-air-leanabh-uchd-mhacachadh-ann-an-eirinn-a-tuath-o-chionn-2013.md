@@ -2,7 +2,7 @@
 layout: post
 title: Dìreach dà chàraid aon-sheòrsach air leanabh uchd-mhacachadh ann an Èirinn a Tuath o chionn 2013
 date: 2019-01-04 15:57:05
-categories: [blog, gaidhlig]
+categories: [an-rioghachd-aonaichte]
 author: Crìstean MacMhìcheil
 author_url: https://twitter.com/macmhicheil
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2019-01-04-direach-da-charaid-aon-sheorsach-air-leanabh-uchd-mhacachadh-ann-an-eirinn-a-tuath-o-chionn-2013.png
