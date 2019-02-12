@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Geamaichean-bhidio LCDTQ air an taisbeanadh ann an taigh-tasgaidh Bherlin
-date: 2019-01-11 16:12:28
+date: 2019-01-07 16:12:28
 categories: [an-roinn-eorpa, cultar, teicneolas]
 author: Crìstean MacMhìcheil
 author_url: https://twitter.com/macmhicheil
