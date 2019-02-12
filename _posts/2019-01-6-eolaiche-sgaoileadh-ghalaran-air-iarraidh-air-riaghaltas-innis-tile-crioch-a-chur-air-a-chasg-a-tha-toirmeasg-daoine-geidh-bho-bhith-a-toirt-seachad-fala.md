@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Geamaichean-bhidio LCDTQ air an taisbeanadh ann an taigh-tasgaidh Bherlin
+title: Eòlaiche Sgaoileadh-ghalaran air iarraidh air Riaghaltas Innis Tìle crìoch a chur air a' chasg a tha toirmeasg daoine gèidh bho bhith a' toirt seachad fala
 date: 2019-01-06 10:58:38
 categories: [an-roinn-eorpa, an-t-saoghal, slainte]
 author: Crìstean MacMhìcheil
