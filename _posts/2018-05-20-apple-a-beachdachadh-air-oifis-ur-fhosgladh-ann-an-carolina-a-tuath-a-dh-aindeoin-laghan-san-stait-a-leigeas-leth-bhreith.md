@@ -6,10 +6,11 @@ categories: [teicneolas, gniomhachas]
 author: Crìstean MacMhìcheil
 author_url: https://twitter.com/macmhicheil
 image: https://raw.githubusercontent.com/MacMhicheil/atug/master/images/Apple_Pride.jpg
-post-excerpt: Tha dithis oifigearan riaghaltais à Carolina a Tuath air a ràdh gu  bheil Apple a’ beachdachadh air oifis corporra mòr fhosgladh anns an  stàit – a dh’aindeoin laghan san stàit a leigeas lethbhreith an aghaidh  coimhearsnachd LCDTE na stàite.
 ---
 
 Tha dithis oifigearan riaghaltais à Carolina a Tuath air a ràdh gu  bheil Apple a’ beachdachadh air oifis corporra mòr fhosgladh anns an  stàit – a dh’aindeoin laghan san stàit a leigeas lethbhreith an aghaidh  coimhearsnachd LCDTE na stàite.
+
+<!--more-->
 
 [Dh’innis iad dhan Associated Press](https://www.seattletimes.com/business/gay-friendly-apple-weighs-north-carolina-despite-lgbt-laws/)  gu bheil an companaidh teicneòlais faisg air co-dhùnadh am bu chòir dha  ionad corporra mòr fhosgladh ann an sgìre Raleigh-Durham ann an  Carolina a Tuath.
 

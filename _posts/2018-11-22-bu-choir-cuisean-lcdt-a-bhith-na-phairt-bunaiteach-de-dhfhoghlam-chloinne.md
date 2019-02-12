@@ -6,7 +6,6 @@ categories: [an-rioghachd-aonaichte, foghlam, slainte]
 author: Crìstean MacMhìcheil
 author_url: https://twitter.com/macmhicheil
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-11-22-bu-choir-cuisean-lcdt-a-bhith-na-phairt-bunaiteach-de-dhfhoghlam-chloinne.png
-post-excerpt: 
 ---
 
 Tha doctairean bho Cholaiste Rìoghail Leigheas agus Slàinte Chloinne ([RCPCH](https://www.rcpch.ac.uk/) air aontachadh gum bu chòir cùisean LCDT a bhith na phàirt "bunaiteach" de dh'fhoghlam chloinne.

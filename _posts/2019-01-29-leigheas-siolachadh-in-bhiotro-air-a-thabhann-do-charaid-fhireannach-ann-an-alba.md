@@ -6,10 +6,11 @@ categories: [alba, an-rioghachd-aonaichte, slainte]
 author: Crìstean MacMhìcheil
 author_url: https://twitter.com/macmhicheil
 image: https://geidh.uk/wp-content/uploads/2008/06/IVF.jpg
-post-excerpt: Thàinig e am follais Didòmhnaich gun deach leigheas sìolachadh in-bhiotro a thabhann do chàraid fhireannach co-sheòrsach ann an Alba airson a’ chiad turas a-riamh san Rìoghachd Aonaichte.
 ---
 
 Thàinig e am follais Didòmhnaich gun deach leigheas sìolachadh in-bhiotro a thabhann do chàraid fhireannach co-sheòrsach ann an Alba airson a’ chiad turas a-riamh san Rìoghachd Aonaichte.
+
+<!--more-->
 
 A-rèir <a href="https://www.dailymail.co.uk/health/article-6636419/Gay-male-couple-offered-IVF-treatment-NHS-time-Britain.html">The Mail on Sunday</a>, bidh SNS a’ toirt maoineachadh dhan chàraid gus ugh a thorrachadh le sìol-ghinidh aon dhiubh mus tèid an suth a ion-phlanntadh ann an neach-ionaid gus a thoirt gu breith.
 

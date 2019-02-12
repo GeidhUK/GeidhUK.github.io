@@ -5,8 +5,7 @@ date: 2019-01-06 10:58:38
 categories: [an-roinn-eorpa, an-t-saoghal, slainte]
 author: Crìstean MacMhìcheil
 author_url: https://twitter.com/macmhicheil
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2019-01-6-eolaiche-sgaoileadh-ghalaran-air-iarraidh-air-riaghaltas-innis-tile-crioch-a-chur-air-a-chasg-a-tha-toirmeasg-daoine-geidh-bho-bhith-a-toirt-seachad-fala.png
-post-excerpt: 
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2019-01-6-eolaiche-sgaoileadh-ghalaran-air-iarraidh-air-riaghaltas-innis-tile-crioch-a-chur-air-a-chasg-a-tha-toirmeasg-daoine-geidh-bho-bhith-a-toirt-seachad-fala.png 
 ---
 
 Tha Þórólfur Guðnason, aon dhe na prìomh Eòlaichean Sgaoileadh-ghalaran (_Epidemiologist_) ann an Innis Tìle, air iarraidh air an riaghaltas crìoch a chur air a' chasg iomlan a th' air fireannaich co-sheòrsach agus dà-sheòrsach bho bhith a' toirt seachad fala.

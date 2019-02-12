@@ -6,10 +6,11 @@ categories: [alba, feisean-proise]
 author: Crìstean MacMhìcheil
 author_url: https://twitter.com/macmhicheil
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-10-10-an-t-oban-airson-a-chiad-feis-proise-aca-a-chumail-an-ath-bhliadhna.png
-post-excerpt: Thèid fèis-pròise a chumail anns an t-Òban an ath-bhliadhna airson a' chiad turas a-riamh.
 ---
 
 Thèid fèis-pròise a chumail anns an t-Òban an ath-bhliadhna airson a' chiad turas a-riamh.
+
+<!--more-->
 
 Chaidh ainmeachadh air Facebook [ann an bhidio goirid](https://www.facebook.com/ObanPride/videos/309848773165788/) le bànrigh draga ionadail, Crystal, anns a bheil i ag iarraidh air muinntir an àite tighinn gu sgrìonadh sònraichte dhen film <em>God's Own Country</em> ann an Taigh-dhealbh Pheonix 26mh Dàmhair aig 7f. Cuideachd thuirt i gum bi oidhche làn ceòl agus fealla-dhà aig Bar na Seilear as a dhèidh.
 

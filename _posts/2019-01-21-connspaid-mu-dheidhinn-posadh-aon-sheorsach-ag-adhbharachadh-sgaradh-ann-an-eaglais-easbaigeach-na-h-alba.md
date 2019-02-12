@@ -6,7 +6,6 @@ categories: [alba, creideamh]
 author: Crìstean MacMhìcheil
 author_url: https://twitter.com/macmhicheil
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2019-01-21-connspaid-mu-dheidhinn-posadh-aon-sheorsach-ag-adhbharachadh-sgaradh-ann-an-eaglais-easbaigeach-na-h-alba.png
-post-excerpt: 
 ---
 
 Tha 87% de bhuill Eaglais Choimhearsnachd Westhill ann an Siorrachd Obair Dheathain air bhòtadh gus briseadh air falbh bho Eaglais Easbaigeach na h-Alba air sgàth ‘s suidheachadh a’ bhuidheann nàiseanta a-thaobh pòsadh aon-sheòrsach.

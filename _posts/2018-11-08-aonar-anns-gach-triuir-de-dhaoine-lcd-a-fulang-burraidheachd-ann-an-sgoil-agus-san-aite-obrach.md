@@ -6,7 +6,6 @@ categories: [an-rioghachd-aonaichte, foghlam, gniomhachas]
 author: Crìstean MacMhìcheil
 author_url: https://twitter.com/macmhicheil
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-11-08-aonar-anns-gach-triuir-de-dhaoine-lcd-a-fulang-burraidheachd-ann-an-sgoil-agus-san-aite-obrach.png
-post-excerpt: 
 ---
 
 Tha aonar anns gach triùir de dhaoine LCDT+ a dh'fhulaing burraidheachd nuair a bha iad ann an sgoil cuideachd a' fulaing burraidheachd san àite-obrach a-rèir sgrùdadh ùr bho Oilthigh Anglia Ruskin.
