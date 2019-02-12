@@ -12,10 +12,10 @@ Bhidiothan dhe na h-òraidean aig Fèis-pròise Inbhir Nis 2018.
 
 <!--more-->
 
-% include youtubePlayer.html id=0X3DkUCoVu8 %}
+{% include youtubePlayer.html id=0X3DkUCoVu8 %}
 
-% include youtubePlayer.html id=Hd4IvN4OW4Q %}
+{% include youtubePlayer.html id=Hd4IvN4OW4Q %}
 
-% include youtubePlayer.html id=x19jGnU5P8M %}
+{% include youtubePlayer.html id=x19jGnU5P8M %}
 
-% include youtubePlayer.html id=vg1H0z4npBc %}
+{% include youtubePlayer.html id=vg1H0z4npBc %}
