@@ -5,7 +5,7 @@ date: 2018-10-07 21:50:34
 categories: [alba, feisean-proise]
 author: Crìstean MacMhìcheil
 author_url: https://twitter.com/macmhicheil
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/oraidean-feis-proise-inbhir-nis-2018.png
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-10-07-oraidean-feis-proise-inbhir-nis-2018.png
 ---
 
 Bhidiothan dhe na h-òraidean aig Fèis-pròise Inbhir Nis 2018.
