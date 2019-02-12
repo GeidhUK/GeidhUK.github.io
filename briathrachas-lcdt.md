@@ -2,6 +2,7 @@
 layout: page
 title: Briathrachas LCDTQ+
 permalink: /briathrachas-lcdt/
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/briathrachas-lcdt.png
 ---
 
 <button onclick="topFunction()" id="myBtn" title="Dhan mhullach"><i class="fas fa-arrow-alt-circle-up"></i> Mullach</button>
