@@ -20,9 +20,6 @@ baseurl: "/GeidhUK" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /:year/:month/:day/:title/
 
-# Pagination number
-paginate: 10
-
 # Build settings
 markdown: kramdown
 theme: minima
