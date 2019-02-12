@@ -28,31 +28,51 @@ title: Dachaigh
   <hr/>
     {% endfor %}
 
-    <!-- pagination -->
-    {% if paginator.total_pages > 1 %}
-    <div class="pagination">
-      {% if paginator.previous_page %}
-        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
-      {% else %}
-        <span>&laquo; Prev</span>
-      {% endif %}
-
-      {% for page in (1..paginator.total_pages) %}
-        {% if page == paginator.page %}
-          <span class="webjeda">{{ page }}</span>
-        {% elsif page == 1 %}
-          <a href="/">{{ page }}</a>
+    <!-- Pagination -->
+    <nav aria-label="pagenation navbar">
+      <ul class="pagination justify-content-center pagination-lg">
+        {% if paginator.next_page %}
+          <li class="page-item">
+            <a class="page-link" href="{{ site.baseurl }}/page{{paginator.next_page}}">
+              <i class="genericons-neue genericons-neue-previous"></i>
+            </a>
+          </li>
         {% else %}
-          <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
+          <li class="page-item disabled">
+            <a class="page-link" href="{{ site.baseurl }}/">
+              <i class="genericons-neue genericons-neue-previous"></i>
+            </a>
+          </li>
         {% endif %}
-      {% endfor %}
 
-      {% if paginator.next_page %}
-        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
-      {% else %}
-        <span>Next &raquo;</span>
-      {% endif %}
-    </div>
-    {% endif %}
+        <li class="page-item disabled">
+          <a class="page-link" href="{{ site.baseurl }}/">
+            Page {{ paginator.page }} / {{ paginator.total_pages }}
+          </a>
+        </li>
+
+        {% if paginator.previous_page %}
+          {% if paginator.page == 2 %}
+            <li class="page-item">
+              <a class="page-link" href="{{ site.baseurl }}/">
+                <i class="genericons-neue genericons-neue-next"></i>
+              </a>
+            </li>
+          {% else %}
+            <li class="page-item">
+              <a class="page-link" href="{{ site.baseurl }}/page{{paginator.previous_page}}">
+                <i class="genericons-neue genericons-neue-next"></i>
+              </a>
+            </li>
+          {% endif %}
+        {% else %}
+          <li class="page-item disabled">
+            <a class="page-link" href="{{ site.baseurl }}/">
+              <i class="genericons-neue genericons-neue-next"></i>
+            </a>
+          </li>
+        {% endif %}
+      </ul>
+    </nav>
 
 </div>
