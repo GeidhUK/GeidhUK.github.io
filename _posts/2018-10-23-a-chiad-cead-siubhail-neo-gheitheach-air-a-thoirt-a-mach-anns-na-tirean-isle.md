@@ -6,7 +6,7 @@ categories: [an-roinn-eorpa, an-t-saoghal, lagh, poilitigs]
 author: Crìstean MacMhìcheil
 author_url: https://twitter.com/macmhicheil
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-10-23-a-chiad-cead-siubhail-neo-gheitheach-air-a-thoirt-a-mach-anns-na-tirean-isle.png
-post-excerpt: Chaidh cead-siubhail neo-ghnèitheach (_gender neutral_) a thoirt a-mach anns Na Tìrean Ìsle airson a' chiad turas.
+post-excerpt: Chaidh cead-siubhail neo-ghnèitheach (*gender neutral*) a thoirt a-mach anns Na Tìrean Ìsle airson a' chiad turas.
 ---
 
 Chaidh cead-siubhail neo-ghnèitheach (<em>gender neutral</em>) a thoirt a-mach anns Na Tìrean Ìsle airson a' chiad turas.
