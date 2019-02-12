@@ -6,6 +6,7 @@ categories: [teicneolas, gniomhachas]
 author: Crìstean MacMhìcheil
 author_url: https://twitter.com/macmhicheil
 image: https://raw.githubusercontent.com/MacMhicheil/atug/master/images/Apple_Pride.jpg
+excerpt: Tha dithis oifigearan riaghaltais à Carolina a Tuath air a ràdh gu  bheil Apple a’ beachdachadh air oifis corporra mòr fhosgladh anns an  stàit – a dh’aindeoin laghan san stàit a leigeas lethbhreith an aghaidh  coimhearsnachd LCDTE na stàite. ABCXYZ
 ---
 
 Tha dithis oifigearan riaghaltais à Carolina a Tuath air a ràdh gu  bheil Apple a’ beachdachadh air oifis corporra mòr fhosgladh anns an  stàit – a dh’aindeoin laghan san stàit a leigeas lethbhreith an aghaidh  coimhearsnachd LCDTE na stàite.
