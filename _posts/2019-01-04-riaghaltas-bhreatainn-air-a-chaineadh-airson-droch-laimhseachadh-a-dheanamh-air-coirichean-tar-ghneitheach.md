@@ -1,47 +1,23 @@
 ---
 layout: post
-title: Postairean Stonewall
-date: 2019-01-05 21:50:34
-categories: [blog, gaidhlig]
+title: Riaghaltas Bhreatainn air a chàineadh airson droch-làimhseachadh a dhèanamh air còirichean tar-ghnèitheach
+date: 2019-01-04 20:55:27
+categories: [an-rioghachd-aonaichte, lagh, poilitigs]
 author: Crìstean MacMhìcheil
 author_url: https://twitter.com/macmhicheil
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2019-01-04-riaghaltas-bhreatainn-air-a-chaineadh-airson-droch-laimhseachadh-a-dheanamh-air-coirichean-tar-ghneitheach.png
 ---
 
-Postairean Gàidhlig ann an stoidhle an iomairt "Get Over It" le Stonewall.
+Tha Maria Miller, cathraiche Comataidh nam Ban agus Co-ionannachd, air an riaghaltas a chàineadh airson droch-làimhseachadh a dhèanamh air còirichean tar-ghnèitheach.
 
 <!--more-->
 
-![](https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2019-01-05-postairean-stonewall-co-sheorsach.png){: .post-image }
+Ann an 2016 bha a’ Bh-Uas Miller na cathraiche rannsachadh air cùisean tar-ghnèitheach a mhol grunn atharrachaidhean laghail gus dèanamh cinnteach gu bi seirbheisean poblach a’ solarachadh airson feuman dhaoine tar-ghnèitheach.
 
-![](https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2019-01-05-postairean-stonewall-da-sheorsach.png){: .post-image }
+Bhon uair sin, tha an Riaghaltas air ainmeachadh gum bi iad a’ dèanamh ath-leasachadh dhen Achd Aithneachadh Gnè gus am bi e nas fhasa do dhaoine tar-ghnèitheach aithneachadh laghail fhaighinn. Ged a bha seo a-measg molaidhean a’ chomataidh ann an 2016 tha a’ Bh-Uas Miller air ràdh gum bu chòir am fòcas a bhith air seirbheisean poblach ath-leasachadh an toiseach.
 
-![](https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2019-01-05-postairean-stonewall-far-ghneitheach.png){: .post-image }
+Ann an aithris ris _The Press Association_, thuirt i:
 
-![](https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2019-01-05-postairean-stonewall-ioma-ghneitheach.png){: .post-image }
+“Tha mi a’ smaointinn gu bheil iad air droch-làimhseachadh a dhèanamh air an dòigh anns a bheil iad a’ dèiligeadh ri cùisean tar-ghnèitheach agus nam biodh iad a’ coimhead gu cùramach air an aithisg comataidh agam gum biodh iad a’ dèanamh fòcas air solarachadh sheirbheisean an toiseach gus dèanamh cinnteach gum biodh sin ceart."
 
-![](https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2019-01-05-postairean-stonewall-ioma-sheorsach.png){: .post-image }
-
-![](https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2019-01-05-postairean-stonewall-leasbach.png){: .post-image }
-
-![](https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2019-01-05-postairean-stonewall-leth-ghneitheach.png){: .post-image }
-
-![](https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2019-01-05-postairean-stonewall-leth-sheorsach.png){: .post-image }
-
-![](https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2019-01-05-postairean-stonewall-neo-bhinearaidh.png){: .post-image }
-
-![](https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2019-01-05-postairean-stonewall-neo-ghneitheach.png){: .post-image }
-
-![](https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2019-01-05-postairean-stonewall-neo-romansach.png){: .post-image }
-
-![](https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2019-01-05-postairean-stonewall-neo-sheorsach.png){: .post-image }
-
-![](https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2019-01-05-postairean-stonewall-pan-ghneitheach.png){: .post-image }
-
-![](https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2019-01-05-postairean-stonewall-pan-sheorsach.png){: .post-image }
-
-![](https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2019-01-05-postairean-stonewall-queer.png){: .post-image }
-
-![](https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2019-01-05-postairean-stonewall-tar-ghneitheach.png){: .post-image }
-
-![](https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2019-01-05-postairean-stonewall-tar-sheorsach.png){: .post-image }
+"'S iad na cùisean a tha cudromach do bheathannan dhaoine tar-ghnèitheach, agus an uair sin bhèir sùil air Achd Aithne Gnè - cha b' e sin an cùis as cudromaiche do dhaoine tar-ghnèitheach a lorg sinn mar phàirt den rannsachadh."
