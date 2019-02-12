@@ -1,6 +1,6 @@
 ---
 layout: post
-title:
+title: Riaghailtean ùra gus dèiligeadh ri gràin-tar-ghnèitheachd air Twitter
 date: 2018-11-26 12:33:21
 categories: [teicneolas]
 author: Crìstean MacMhìcheil
@@ -10,7 +10,9 @@ image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-
 
 Tha Twitter air na riaghailtean aca ùrachadh gus dèiligeadh ri daoine a tha ri gràin-tar-ghnèitheachd.
 
-Tha <a href="https://www.gaytimes.co.uk/community/115811/twitter-updates-its-rules-to-ban-deadnaming-and-misgendering/">Gay Times ag aithris</a> gun deach na riaghailtean ùrachadh san Dàmhair ach cha deach a mhothachadh ron a sheo.
+<!--more-->
+
+Tha [Gay Times ag aithris](https://www.gaytimes.co.uk/community/115811/twitter-updates-its-rules-to-ban-deadnaming-and-misgendering/) gun deach na riaghailtean ùrachadh san Dàmhair ach cha deach a mhothachadh ron a sheo.
 
 Anns na Teirmean agus Cumhaichean ùra aca tha iad a’ soilleireachadh gum bi tòrr dhaoine LCDT+ a’ fulang droch-dhìol air loidhne.
 
@@ -27,5 +29,3 @@ A bharrachd air na Teirmean agus Cumhaichean tha iad air na riaghailtean atharra
 “Tha sinn a’ toirmeasg cuimseachadh air daoine le aithisean, tròpaichean no susbaint eile a bhios dì-dhaonnachadh, ìsleachadh no a bhios a’ daingneachadh gnàth-ìomhaighean àicheil no cronail mu bhuidhnean glèidhte.”
 
 “Tha seo a’ toirt a-steach cuimseachadh a dh’aona-ghnothach air daoine tar-ghnèitheach le bhith a’ cleachdadh an gnè neo ainm ceàrr dhaibh.”
-
-<!--more-->
