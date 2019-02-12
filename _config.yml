@@ -23,7 +23,7 @@ permalink: /:year/:month/:day/:title/
 # Pagination number
 plugins: [jekyll-paginate]
 paginate: 10
-paginate_path: /duilleag:num/
+paginate_path: /duilleag-:num/
 
 # Build settings
 markdown: kramdown
