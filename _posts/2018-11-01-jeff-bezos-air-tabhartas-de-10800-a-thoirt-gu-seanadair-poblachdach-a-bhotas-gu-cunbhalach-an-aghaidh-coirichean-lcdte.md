@@ -6,6 +6,7 @@ categories: [an-t-saoghal, gniomhachas, poilitigs]
 author: Crìstean MacMhìcheil
 author_url: https://twitter.com/macmhicheil
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-11-01-jeff-bezos-air-tabhartas-de-10800-a-thoirt-gu-seanadair-poblachdach-a-bhotas-gu-cunbhalach-an-aghaidh-coirichean-lcdte.md.png
+post-excerpt: 
 ---
 
 Tha Jeff Bezos, Ceannard [Amazon](https://www.amazon.co.uk/), air tabhartas de $10,800 a thoirt gu Seanadair Poblachdach a tha air bhòtadh gu cunbhalach an aghaidh còirichean LCDTE+.

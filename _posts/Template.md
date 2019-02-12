@@ -6,8 +6,5 @@ categories: []
 author: Crìstean MacMhìcheil
 author_url: https://twitter.com/macmhicheil
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.png
+post-excerpt: 
 ---
-
-
-
-<!--more-->

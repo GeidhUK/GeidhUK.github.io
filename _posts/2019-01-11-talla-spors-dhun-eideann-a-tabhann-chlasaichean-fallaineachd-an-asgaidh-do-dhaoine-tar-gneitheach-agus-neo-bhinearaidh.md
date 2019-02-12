@@ -6,6 +6,7 @@ categories: [alba, slainte]
 author: Crìstean MacMhìcheil
 author_url: https://twitter.com/macmhicheil
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2019-01-11-talla-spors-dhun-eideann-a-tabhann-chlasaichean-fallaineachd-an-asgaidh-do-dhaoine-tar-gneitheach-agus-neo-bhinearaidh.png
+post-excerpt: 
 ---
 
 Tha an talla-spòrs neo-phrothaideach [Projekt 42](https://www.projekt42.co.uk/) ann an Lìte air ainmeachadh gum bi iad a’ tabhann chlasaichean fallaineachd seachdaineil an-asgaidh do dhaoine tar-ghnèitheach agus neo-bhìnearaidh.

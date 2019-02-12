@@ -6,6 +6,7 @@ categories: [an-roinn-eorpa, cultar, teicneolas]
 author: Crìstean MacMhìcheil
 author_url: https://twitter.com/macmhicheil
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2019-01-07-geamaichean-bhidio-lcdtq-air-an-taisbeanadh-ann-an-taigh-tasgaidh-bherlin.png
+post-excerpt: 
 ---
 
 Tha [Taigh-tasgaidh Schwules](https://www.schwulesmuseum.de/?lang=en) ann am Berlin air taisbeanadh ùr fhosgladh gus geamaichean-bhidio LCDTQ a chomharrachadh.

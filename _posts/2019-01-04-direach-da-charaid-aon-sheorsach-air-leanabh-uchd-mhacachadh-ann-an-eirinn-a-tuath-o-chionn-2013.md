@@ -6,6 +6,7 @@ categories: [an-rioghachd-aonaichte]
 author: Crìstean MacMhìcheil
 author_url: https://twitter.com/macmhicheil
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2019-01-04-direach-da-charaid-aon-sheorsach-air-leanabh-uchd-mhacachadh-ann-an-eirinn-a-tuath-o-chionn-2013.png
+post-excerpt: 
 ---
 
 Chaidh a nochdadh gur ann aig Èirinn a Tuath a tha an an ìre uchd-mhacaichidh as ìsle a-measg càraidean aon-sheòrsach anns an Rìoghachd Aonaichte le dìreach 1 anns gach 15 iarrtasan soirbheachadh, an taca ri 1 anns gach 2 ann an àiteachan eile san Rìoghachd Aonaichte.
