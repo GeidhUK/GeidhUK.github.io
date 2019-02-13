@@ -1,0 +1,41 @@
+---
+title: Deuchainnean HIV saor an-asgaidh taobh a-staigh 15 mionaid
+author: Crìstean MacMhìcheil
+type: post
+date: 2008-06-22T19:12:44+00:00
+excerpt: "Tha clionaig ann an meadhan a' choimhearsnachd LCDT Lunnainn a' toirt seachad deuchainnean airson HIV do dhaoine co-sheòrsach saor an-asgaidh agus tha toraidhean ri fhaotainn taobh a-staigh 15 mionaid."
+url: /deuchainnean-hiv-saor-an-asgaidh-taobh-a-staigh-15-mionaid/
+featured_image: /wp-content/uploads/2008/06/Deuchainn_HIV.jpg
+categories:
+  - An Rìoghachd Aonaichte
+  - Slàinte
+tags:
+  - AIDS
+  - Annlachd Inneamh Dìon-slàinte
+  - Bhìoras Dìon-slàinte Daonna
+  - Buidheann Dìon na Slàinte
+  - Comann HIV na Bhreatainn
+  - Health
+  - Health Protection Agency
+  - Hepatitis B
+  - HIV
+  - London
+  - Lunnainn
+  - slàinte
+  - Soho
+  - Sorted Soho
+
+---
+Tha clionaig ann am meadhan a&#8217; choimhearsnachd LCDT ann an Lunnainn a&#8217; toirt seachad deuchainnean airson HIV do dhaoine co-sheòrsach saor an-asgaidh agus tha toraidhean ri fhaotainn taobh a-staigh 15 mionaid.
+
+A bharrachd air seo tha Sorted Soho a&#8217; toirt seachad banachdaich an-aghaidh Hepatitis B.
+
+A-rèir nan figearan oifigeil bidh Hepatitis B air aon dhuine co-sheòrsach anns gach triùir mus ruigidh iad 35 bliadhna a dh&#8217;aois.
+
+A thaobh HIV tha iad ag ràdh gu bheil fichead sa cheud air deuchainnean airson HIV fhaighinn ro anmoch. Cuideachd tha iad ag ràdh gu bheil an tinneas air deichnear sa cheud ann an Lunnainn agus nach eil fios aig an treas cuid dhiubh.
+
+Tha [Buidheann Dìon na Slàinte][1] (HPA) agus Comann HIV na Bhreatainn ag ràdh gum bu chòir do co-ghnèithich deuchainn airson HIV fhaighinn co-dhiù gach bliadhna.
+
+Tha an seirbheisean ri fhaotainn gach Dimàirt agus Diciadain eadar 17:30 agus 20:00 aig Sorted Soho, Ionad Slàinte Soho, Lunnainn, W1 agus gach Dihaoine eadar 17:30 agus 20:00 aig Clash, 020 7734 1794.
+
+ [1]: https://www.gov.uk/government/organisations/health-protection-agency

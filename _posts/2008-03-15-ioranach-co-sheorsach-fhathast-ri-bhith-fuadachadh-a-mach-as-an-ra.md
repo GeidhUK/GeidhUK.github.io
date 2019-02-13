@@ -1,0 +1,51 @@
+---
+title: Iorànach co-sheòrsach fhathast ri bhith fuadachadh a-mach às an RA
+author: Crìstean MacMhìcheil
+type: post
+date: 2008-03-15T11:17:37+00:00
+excerpt: Tha gnìomhaichean LCDTE ag ràdh gum bu chòir do Riaghaltas Bhreatainn ath-sgrùdadh a dhèanamh air cùisean-lagha aig Iorànach co-sheòrsach eile as dèidh do chùis Medhi Kazemi allsachadh.
+url: /ioranach-co-sheorsach-fhathast-ri-bhith-fuadachadh-a-mach-as-an-ra/
+featured_image: /wp-content/uploads/2008/03/Iran.png
+categories:
+  - An Rìoghachd Aonaichte
+  - An t-Saoghal
+  - Poilitigs
+tags:
+  - An Ear Mheadhanach
+  - Ball Pàrlamaid na h-Eòrpa
+  - 'Border &amp; Immigration Agency'
+  - 'Buidheann nan Crìochan &amp; In-imrich'
+  - comraich
+  - Ioràn
+  - Iorànach
+  - Jacqui Smith
+  - Medhi Kazemi
+  - Na Tìrean Ìsle
+  - Omar Kuddus
+  - Riaghaltas an Rìoghachd Aonaichte
+  - Riaghaltas Bhreatainn
+  - Rùnaire na Dùthcha
+  - Sarah Ludford
+  - The Netherlands
+  - Tìr Ìosal
+
+---
+Tha gnìomhaichean LCDTE ag ràdh gum bu chòir do Riaghaltas Bhreatainn ath-sgrùdadh a dhèanamh air cùisean-lagha aig Iorànach co-sheòrsach eile as dèidh do chùis Medhi Kazemi allsachadh.
+
+Thuirt Rùnaire na Dùthcha Jacqui Smith gum bu chòir do ath-shùil a bhith a’ toirt air chùis Medhi Kazemi air sgàth ’s an suidheachadh ùr aige.
+
+Tha Kazemi, 19, air a bhith a’ fuireach anns an Rìoghachd Aonaichte o chionn 2005 ach theich e dha na Tìrean Ìsle air sgàth ’s gun do dhiùlt Riaghaltas Bhreatainn comraich a thoirt dha.
+
+Air sgàth ’s a’ cho-dhùnadh seo bha Kazemi ri bhith fuadachadh a-mach às an Tìr Ìosal air ais dhan Rìoghachd Aonaichte agus air adhart gu Ioràn far a bheil co-sheòrsachd mì-laghail.
+
+Thuirt Omar Kuddus a tha na gnìomhaiche còirichean co-sheòrsach a’ sabaid air taobh Kazemi:
+
+“Airson aon turas rinn Riaghaltas Bhreatainn an rud ceart agus thug iad cothrom dhan a’ ghille seo.”
+
+“Chan eil teagamh sam bith dè bhios a’ tachairt do Kazemi ma tèid e air ais gu Ioràn &#8211; thèid ga chur gu bàs, dìreach air sgàth ’s gu bheil e co-sheòrsach.
+
+“Chan eil Ioràn a’ gabhail ri daoine co-sheòrsach agus thèid gan cur gu bàs leis an stàit, ma tha iad ciontach ri co-sheòrsachd.”
+
+Ach thuirt Bhana-bharan Sarah Ludford a tha na Ball Pàrlamaid na h-Eòrpa:
+
+“Cha bu chòir dhuinn dìochuimhneachadh gu bheil an t-eagal fhathast air Iorànach co-sheòrsach eile. Tha iad airidh air ceartas cuideachd.”
