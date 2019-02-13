@@ -5,7 +5,7 @@ type: post
 date: 2008-04-08T19:29:20+00:00
 excerpt: Chaidh lìon-sòisealta ùr do phàrantan LCDT a chruthachadh le càraid co-sheòrsach gus taic a thoirt ri càraidean LCDT eile a tha airson leanabh uchd-mhacachadh.
 url: /lion-soisealta-ur-do-pharantan-lcdt/
-featured_image: /wp-content/uploads/2008/04/NFS.png
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An Rìoghachd Aonaichte
   - Teicneòlas

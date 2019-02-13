@@ -5,7 +5,7 @@ type: post
 date: 2018-05-21T18:22:52+00:00
 excerpt: Tha Eaglais na h-Alba air ceum nas dlùithe a ghluasad gus leigeil le ministearan pòsaidhean aon-sheòrsach a chumail.
 url: /eaglais-na-h-alba-a-gluasad-nas-fhaisge-air-posaidhean-aon-sheorsach/
-featured_image: /wp-content/uploads/2018/05/GA.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - Alba
   - Creideamh

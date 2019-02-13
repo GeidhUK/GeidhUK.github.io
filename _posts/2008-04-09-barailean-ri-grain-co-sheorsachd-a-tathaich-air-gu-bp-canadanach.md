@@ -5,7 +5,7 @@ type: post
 date: 2008-04-09T12:51:01+00:00
 excerpt: Tha ball pàrlamaid ann an Canada air leisgeul a dhèanamh as dèidh bhidio fhoillseachadh anns a thuirt e gun robh daoine co-sheòrsach "galarach".
 url: /barailean-ri-grain-co-sheorsachd-a-tathaich-air-gu-bp-canadanach/
-featured_image: /wp-content/uploads/2008/04/Tom_Lukikski_Screenshot.jpeg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An t-Saoghal
   - Poilitigs

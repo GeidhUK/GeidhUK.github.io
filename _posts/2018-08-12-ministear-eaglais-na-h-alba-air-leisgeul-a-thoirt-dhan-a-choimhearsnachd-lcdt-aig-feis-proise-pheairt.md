@@ -5,7 +5,7 @@ type: post
 date: 2018-08-12T16:06:54+00:00
 excerpt: "Tha ministear Eaglais na h-Alba air leisgeul a thoirt seachad aig Fèis-pròise Pheairt airson cron sam bith a tha an eaglais air a dhèanamh dhan a' choimhearsnachd LCDT."
 url: /ministear-eaglais-na-h-alba-air-leisgeul-a-thoirt-dhan-a-choimhearsnachd-lcdt-aig-feis-proise-pheairt/
-featured_image: /wp-content/uploads/2018/08/Scott_Burton_Perthshire_Pride.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - Alba
   - Creideamh

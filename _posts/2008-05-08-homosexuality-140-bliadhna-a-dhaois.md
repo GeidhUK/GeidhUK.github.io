@@ -6,7 +6,7 @@ date: 2008-05-08T16:56:56+00:00
 excerpt: |
   B' ann air an 6mh den Chèitean 1868 a thàinig am facal "homosexuality" gu bith.
 url: /homosexuality-140-bliadhna-a-dhaois/
-featured_image: /wp-content/uploads/2008/05/Ulrichs_Kertbeny_.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An t-Saoghal
   - Foghlam

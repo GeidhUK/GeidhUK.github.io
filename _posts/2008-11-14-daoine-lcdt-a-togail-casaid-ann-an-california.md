@@ -5,7 +5,7 @@ type: post
 date: 2008-11-14T14:23:20+00:00
 excerpt: "Tha daoine LCDT air a bhith a' caismeachd air sràidean Chalifornia agus iad a' togail casaid as dèidh buaidhe Proposition 8."
 url: /daoine-lcdt-a-togail-casaid-ann-an-california/
-featured_image: /wp-content/uploads/2009/05/Prop8.gif
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An t-Saoghal
   - Fèisean-pròise

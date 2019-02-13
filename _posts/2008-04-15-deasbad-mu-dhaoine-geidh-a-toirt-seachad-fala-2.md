@@ -5,7 +5,7 @@ type: post
 date: 2008-04-15T09:45:02+00:00
 excerpt: "Thèid ath-chuinge airson cead a thoirt do dhaoine gèidh ann an Alba fuil a thoirt seachad a dheasbad anns a' Phàrlamaid Dimàirt."
 url: /deasbad-mu-dhaoine-geidh-a-toirt-seachad-fala-2/
-featured_image: /wp-content/uploads/2018/06/BloodDonor.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - Alba
   - Slàinte
@@ -38,7 +38,7 @@ tags:
 
 ---
 Nochd an sgeulachd seo air [làrach-lìn a&#8217; BhBC][1]
-  
+
 na bu tràithe:-
 
 **Thèid ath-chuinge airson cead a thoirt do dhaoine gèidh ann an Alba fuil a thoirt seachad a dheasbad anns a&#8217; Phàrlamaid Dimàirt.**

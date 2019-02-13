@@ -5,7 +5,7 @@ type: post
 date: 2018-10-23T21:00:24+00:00
 excerpt: "Chaidh cead-siubhail neo-ghnèitheach (<em>gender neutral</em>) a thoirt a-mach anns Na Tìrean Ìsle airson a' chiad turas."
 url: /a-chiad-cead-siubhail-neo-gheitheach-air-a-thoirt-a-mach-anns-na-tirean-isle/
-featured_image: /wp-content/uploads/2018/10/GettyImages-1052530194-1200x800.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An Roinn-eòrpa
   - An t-Saoghal

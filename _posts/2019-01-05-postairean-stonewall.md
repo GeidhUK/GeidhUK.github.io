@@ -5,7 +5,7 @@ type: post
 date: 2019-01-05T21:50:34+00:00
 excerpt: Postairean Gàidhlig ann an stoidhle an iomairt "Get Over It" le Stonewall.
 url: /postairean-stonewall/
-featured_image: /wp-content/uploads/2019/01/G.png
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - Blog
   - Gàidhlig

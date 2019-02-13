@@ -5,7 +5,7 @@ type: post
 date: 2008-11-05T09:11:09+00:00
 excerpt: Tha Associated Press ag ràdh gu bheil luchd-bhòtaidh ann an Arizona air bhòtadh airson casg a chur air pòsadh aon-sheòrsach.
 url: /air-urachadh-bhot-california-florida-agus-arizona-airson-casg-a-chur-air-posadh-aon-sheorsach/
-featured_image: /wp-content/uploads/2009/05/Prop8.gif
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An t-Saoghal
   - Lagh

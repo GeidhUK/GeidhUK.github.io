@@ -5,7 +5,7 @@ type: post
 date: 2008-10-02T21:10:55+00:00
 excerpt: "Tha Google air ràdh gu bheil iad an aghaidh a' chaisg air pòsadh aon-sheòrsach ann an California."
 url: /google-an-aghaidh-a-chaisg-air-posadh-aon-sheorsach/
-featured_image: /wp-content/uploads/2009/05/Prop8.gif
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An t-Saoghal
   - Lagh

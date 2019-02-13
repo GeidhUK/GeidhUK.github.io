@@ -5,7 +5,7 @@ type: post
 date: 2008-11-04T10:17:35+00:00
 excerpt: "A bharrachd air taghadh Ceann-suidhe na Stàitean Aonaichte, bidh muinntir Chalifornia a' bhòtadh an-diugh air Proposition 8 an-diugh a tha a' feuchainn ri casg a chur air pòsadh aon-sheòrsach le bhith ag atharrachadh bun-reachd Chalifornia le earrann ùr ag ràdh gur ann eadar fear agus boireannach a-mhàin a th' ann am pòsadh."
 url: /muinntir-chalifornia-gu-bhith-a-bhotadh-air-proposition-8-an-diugh/
-featured_image: /wp-content/uploads/2009/05/Prop8.gif
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An t-Saoghal
   - Lagh

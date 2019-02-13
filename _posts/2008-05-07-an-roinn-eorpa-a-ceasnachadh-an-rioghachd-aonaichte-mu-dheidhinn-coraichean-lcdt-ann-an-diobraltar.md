@@ -5,7 +5,7 @@ type: post
 date: 2008-05-07T08:03:21+00:00
 excerpt: "Tha Riaghaltas na Bhreatainn air innse do Chomhairle na h-Eòrpa gu bheil iad a' coimhead air còirichean LCDT leasachadh ann an Diobraltar."
 url: /an-roinn-eorpa-a-ceasnachadh-an-rioghachd-aonaichte-mu-dheidhinn-coraichean-lcdt-ann-an-diobraltar/
-featured_image: /wp-content/uploads/2008/05/Bratach_Giobraltair.png
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An Rìoghachd Aonaichte
   - An Roinn-eòrpa

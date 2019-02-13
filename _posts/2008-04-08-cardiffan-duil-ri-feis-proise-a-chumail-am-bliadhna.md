@@ -5,7 +5,7 @@ type: post
 date: 2008-04-08T18:10:07+00:00
 excerpt: Thèid coinneamh a chumail an seachdain seo gus deasbad a dhèanamh air fèis-pròise a chumail ann an Cardiff.
 url: /cardiffan-duil-ri-feis-proise-a-chumail-am-bliadhna/
-featured_image: /wp-content/uploads/2008/04/Pride_Cymru.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An Rìoghachd Aonaichte
   - Cùltar

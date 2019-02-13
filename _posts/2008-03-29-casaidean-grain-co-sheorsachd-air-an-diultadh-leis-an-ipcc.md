@@ -5,7 +5,7 @@ type: post
 date: 2008-03-29T10:30:36+00:00
 excerpt: Tha an IPCC (Independent Police Complaints Commission) a’ diùltadh casaidean gràin-co-sheòrsachd an aghaidh ochd oifigearan ann an Duibhe agus a’ Chòrn.
 url: /casaidean-grain-co-sheorsachd-air-an-diultadh-leis-an-ipcc/
-featured_image: /wp-content/uploads/2008/03/IPCC.png
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An Rìoghachd Aonaichte
   - Lagh

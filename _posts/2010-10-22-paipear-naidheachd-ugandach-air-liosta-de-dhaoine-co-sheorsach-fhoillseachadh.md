@@ -5,7 +5,7 @@ type: post
 date: 2010-10-22T09:59:38+00:00
 excerpt: 'Tha am pàipear-naidheachd Ugandach <em>Rolling Stone</em> air liosta de dhaoine co-sheòrsach san dùthaich agus na dealbhan aca fhoillseachadh.'
 url: /paipear-naidheachd-ugandach-air-liosta-de-dhaoine-co-sheorsach-fhoillseachadh/
-featured_image: /wp-content/uploads/2010/10/RollingStone.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An t-Saoghal
 tags:

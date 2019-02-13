@@ -5,7 +5,7 @@ type: post
 date: 2008-03-18T16:20:59+00:00
 excerpt: Tha cùirt ann an Iosrael air co-dhùnadh a dhèanamh gun urrainn do càraid co-sheòrsach a chlàradh mar athraichean an uchd-mhac.
 url: /co-dhunadh-uchd-mhacachaidh-mar-eisimpleir-ann-an-iosrael/
-featured_image: /wp-content/uploads/2008/03/Teaghlach.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An t-Saoghal
   - Lagh

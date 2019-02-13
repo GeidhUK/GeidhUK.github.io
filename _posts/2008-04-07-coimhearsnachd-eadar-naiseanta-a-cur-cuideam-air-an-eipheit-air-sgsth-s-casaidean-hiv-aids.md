@@ -5,7 +5,7 @@ type: post
 date: 2008-04-07T19:55:23+00:00
 excerpt: "Tha còrr 's 115 buidhnean còirichean daonna air cuideam a chur air an Èipheit air sgàth 's casaidean HIV."
 url: /coimhearsnachd-eadar-naiseanta-a-cur-cuideam-air-an-eipheit-air-sgsth-s-casaidean-hiv-aids/
-featured_image: /wp-content/uploads/2008/03/Bratach_na_h_Èipheit.png
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An t-Saoghal
   - Poilitigs

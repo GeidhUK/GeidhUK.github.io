@@ -5,7 +5,7 @@ type: post
 date: 2017-06-02T20:27:46+00:00
 excerpt: Chaidh Leo Varadkar a thaghadh mar cheannard am partaidh poilitigeach Fine Gael an-diugh agus e a-nis gu bhith a chiad Prìomhaire (Taoiseach) co-sheòrsach ann an eachdraidh na h-Èirinn.
 url: /leo-varadkar-na-chiad-priomhaire-co-sheorsach-aig-eirinn/
-featured_image: /wp-content/uploads/2017/06/Leo-Varadkar-e1496348026589-1.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An Roinn-eòrpa
   - Èirinn

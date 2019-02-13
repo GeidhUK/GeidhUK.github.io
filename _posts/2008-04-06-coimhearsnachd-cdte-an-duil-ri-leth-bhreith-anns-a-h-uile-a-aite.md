@@ -5,7 +5,7 @@ type: post
 date: 2008-04-06T21:21:39+00:00
 excerpt: "Chaidh sgrùdadh ùr fhoillseachadh le <em>Stonewall</em> a tha a' sealltainn gu bheil an coimhearsnachd LCDTE an còmhnaidh an dùil ri leth-bhreith anns a h-uile àite."
 url: /coimhearsnachd-cdte-an-duil-ri-leth-bhreith-anns-a-h-uile-a-aite/
-featured_image: /wp-content/uploads/2017/02/Stonewall-GD2.png
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An Rìoghachd Aonaichte
 tags:

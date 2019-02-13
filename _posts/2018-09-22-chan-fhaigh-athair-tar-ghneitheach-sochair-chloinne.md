@@ -5,7 +5,7 @@ type: post
 date: 2018-09-22T07:59:45+00:00
 excerpt: "Chan fhaigh athair tar-ghnèitheach sochair-chloinne air sgàth 's nach eil e airson a bhith clàraichte mar màthair air teisteanas breith an leanaibh."
 url: /chan-fhaigh-athair-tar-ghneitheach-sochair-chloinne/
-featured_image: /wp-content/uploads/2018/09/Sochair-chloinne.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An Rìoghachd Aonaichte
 tags:
@@ -34,7 +34,7 @@ Tha _The Times_ ag aithris nach tèid co-dhùnadh a dhèanamh air a&#8217; chùi
 ### Tùsan
 
 The Times: [Trans man who gave birth denied child benefits][1]
-  
+
 PinkNews: [Transgender man ‘denied child benefit’ for baby he gave birth to][2]
 
  [1]: https://www.thetimes.co.uk/article/trans-man-who-gave-birth-denied-childbenefits-lnd2lbjfj "Trans man who gave birth denied child benefits"

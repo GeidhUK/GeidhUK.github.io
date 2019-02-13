@@ -5,7 +5,7 @@ type: post
 date: 2008-04-09T09:08:35+00:00
 excerpt: Tha breitheamh feadarail anns na Stàitean Aonaichte ag ràdh gum bu chòir dhan Westboro Baptist Church agus na h-oifisean aig Phelps-chartered Law a bhith air an toirt air falbh bhon luchd-seilbh aca gus càin de $5m a phàigheadh.
 url: /buidheann-god-hates-fags-gu-bhith-a-caill-na-h-eaglais-aca/
-featured_image: /wp-content/uploads/2008/04/WBC.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An t-Saoghal
   - Creideamh

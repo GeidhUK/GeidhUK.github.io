@@ -5,7 +5,7 @@ type: post
 date: 2009-01-29T19:55:46+00:00
 excerpt: Tha an Eaglais Chaitligeach ann an Alba air ionnsaigh a thoirt air daoine co-sheòrsach agus leasbaich a-rithist.
 url: /caitligich-albannach-air-radh-gu-bheil-co-sheorsachd-ag-adhbharachadh-bais-tratha/
-featured_image: /wp-content/uploads/2009/01/Peter-Kearney.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - Alba
   - An Rìoghachd Aonaichte

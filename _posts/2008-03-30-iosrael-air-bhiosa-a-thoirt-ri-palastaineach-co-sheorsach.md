@@ -5,7 +5,7 @@ type: post
 date: 2008-03-30T11:24:35+00:00
 excerpt: Tha Iosrael air bhìosa a thoirt ri Palastaineach co-sheòrsach air sgàth ’s gun robh e ann an cunnart anns a’ Bhruach an Iar.
 url: /iosrael-air-bhiosa-a-thoirt-ri-palastaineach-co-sheorsach/
-featured_image: /wp-content/uploads/2008/03/Bratach_na_h_Iosrael.png
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An t-Saoghal
   - Poilitigs

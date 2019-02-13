@@ -5,7 +5,7 @@ type: post
 date: 2011-01-03T13:09:22+00:00
 excerpt: Chaidh laghan ùra a chur an gnìomh ann an Èirinn Disathairne gus companasan-catharra a dhèanamh laghail anns an dùthaich.
 url: /companasan-catharra-air-a-dheanamh-laghail-ann-an-eirinn/
-featured_image: /wp-content/uploads/2011/01/image12-760x440.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An Roinn-eòrpa
   - Èirinn

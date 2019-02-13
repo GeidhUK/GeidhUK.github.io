@@ -5,7 +5,7 @@ type: post
 date: 2008-03-14T10:19:44+00:00
 excerpt: Tha Easbaig Caitligeach a’ tagradh gu bheil daoine co-sheòrsach a’ dèanamh co-fheall an aghaidh dualchas Crìosdaidheachd.
 url: /easbaig-a-caineadh-a-choimhearsnachd-lcdte/
-featured_image: /wp-content/uploads/2008/03/Easbaig_Joseph_Devine.png
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - Alba
   - An Rìoghachd Aonaichte

@@ -5,7 +5,7 @@ type: post
 date: 2008-04-08T15:23:08+00:00
 excerpt: "Tha fianais ùr air nochdadh gun do rinn boireannach tar-ghnèitheach gearan mus do chur à dhì fèin gun robh prìosanaich eile ga burraidheachd air sgàth 's an gnè aice."
 url: /priosanach-tar-ghneitheach-na-fulangaiche-burraidheachaidh/
-featured_image: /wp-content/uploads/2008/04/PPO.png
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An Rìoghachd Aonaichte
   - Lagh
@@ -34,7 +34,7 @@ Chaidh Woodhall fo obair lannsa ann an 2004 gus a gnè atharrachadh.
 
 Chaidh a corp ga lorg anns a&#8217; chealla phrìosain aice le luchd-obrach a&#8217; phrìosain 26mh An Dàmhair 2006 còmhla ri litir anns a sgrìobh i:
 
-_&#8220;I grow tired of this war.&#8221;</p> 
+_&#8220;I grow tired of this war.&#8221;</p>
 
 &#8220;Perhaps death is the only way out. I expect no heaven only hell.&#8221;
 

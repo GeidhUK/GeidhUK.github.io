@@ -5,7 +5,7 @@ type: post
 date: 2008-04-09T08:30:36+00:00
 excerpt: "Chaidh bacadh a chur air làrach-lìn, a tha a' toirt seachad seirbheis gus companaich-flat a lorg, le cùirt anns na Stàitean Aonaichte air sgàth 's gun robh an làrach-lìn a' cur ceistean air na buill mu dheidhinn an gnèitheachd aca."
 url: /larach-lin-air-a-chaineadh-airson-faighneachd-dhan-luchd-cleachdaidh-mun-gneitheachd-aca/
-featured_image: /wp-content/uploads/2008/04/Roommates_logo.png
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An t-Saoghal
   - Lagh

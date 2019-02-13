@@ -6,7 +6,7 @@ date: 2008-06-12T14:46:11+00:00
 excerpt: |
   Tha fireannaich HIV+ anns na Stàitean Aonaichte a' cur dòchas anns a' bhuidheann <a title="Làrach-lìn aig Growing Generations" href="http://www.growinggenerations.com/">Growing Generations</a> a tha ag ràdh gum faod iad a bhith nam pàrantan.
 url: /buidheann-ameireaganach-a-toirt-dochas-ur-do-fireannaich-le-hiv/
-featured_image: /wp-content/uploads/2008/06/IVF.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An t-Saoghal
   - Slàinte

@@ -5,7 +5,7 @@ type: post
 date: 2009-01-16T10:40:10+00:00
 excerpt: 'Chaidh iomairt ùr a chur air bhog ann am <a title="Làrach-lìn aig Pàrlamaid na h-Alba" href="http://www.scottish.parliament.uk/vli/language/gaelic/index.htm">Pàrlamaid na h-Alba</a> Dimàirt gus cead pòsaidh slàn a thoirt do dhaoine LCDT.'
 url: /athchuinge-airson-posadh-aon-sheorsach-air-a-thoirt-gu-parlamaid-na-h-alba/
-featured_image: /wp-content/uploads/2009/03/Scottish-Government.png
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - Alba
   - An Rìoghachd Aonaichte

@@ -5,7 +5,7 @@ type: post
 date: 2018-05-20T16:15:17+00:00
 excerpt: "Tha dithis oifigearan riaghaltais à Carolina a Tuath air a ràdh gu bheil Apple a' beachdachadh air oifis corporra mòr fhosgladh anns an stàit - a dh'aindeoin laghan san stàit a leigeas lethbhreith an aghaidh coimhearsnachd LGDTE na stàite."
 url: /apple-a-beachdachadh-air-oifis-ur-fhosgladh-ann-an-carolina-a-tuath-a-dhaindeoin-laghan-san-stait-a-leigeas-lethbhreith-an-aghaidh-luchd-lgdte/
-featured_image: /wp-content/uploads/2018/05/Apple_Pride-e1526821025346.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An t-Saoghal
   - Teicneòlas

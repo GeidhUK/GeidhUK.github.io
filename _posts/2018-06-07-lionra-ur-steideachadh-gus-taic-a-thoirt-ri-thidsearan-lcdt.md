@@ -5,7 +5,7 @@ type: post
 date: 2018-06-07T21:30:35+00:00
 excerpt: Chaidh lìonra air loidhne ùr stèideachadh an seachdain seo gus taic a thoirt ri thidsearan LCDT san Rìoghachd Aonaichte.
 url: /lionra-ur-steideachadh-gus-taic-a-thoirt-ri-thidsearan-lcdt/
-featured_image: /wp-content/uploads/2018/06/LEGTed.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An Rìoghachd Aonaichte
   - Foghlam

@@ -5,7 +5,7 @@ type: post
 date: 2018-07-25T19:48:16+00:00
 excerpt: "Chaidh rannsachadh a chur air bhog le Comhairle Obair Dheathain an dèidh sgaoileadh de bhileagan a dh'fhaodadh a bhith gràineil ri daoine LCDTE."
 url: /comhairle-obair-dheathain-a-rannsachadh-sgaoileadh-de-bhileagan-a-dhfhaodadh-a-bhith-graineil-ri-daoine-lcdte/
-featured_image: /wp-content/uploads/2018/07/MSCI_Leaflet.png
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - Alba
 tags:

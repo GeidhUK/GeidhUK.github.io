@@ -5,7 +5,7 @@ type: post
 date: 2008-03-18T16:55:18+00:00
 excerpt: Tha Michael Stipe, seinneadair anns a’ chòmhlan-ciùil R.E.M. air a ràdh gu bheil e co-sheòrsach.
 url: /michael-stipe-air-radh-gu-bheil-e-co-sheorsach/
-featured_image: /wp-content/uploads/2008/03/Michael_Stipe_R.E.M..jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - Cùltar
 tags:

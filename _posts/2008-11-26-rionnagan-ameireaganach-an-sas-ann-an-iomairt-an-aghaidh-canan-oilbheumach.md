@@ -5,7 +5,7 @@ type: post
 date: 2008-11-26T16:15:39+00:00
 excerpt: Chaidh iomairt ùr a chur air bhog anns na Stàitean Aonaichte gus sgoilearan a theagasg mu dheidhinn am buaidh a tha aig cànan oilbheumach air daoine LCDTE.
 url: /rionnagan-ameireaganach-an-sas-ann-an-iomairt-an-aghaidh-canan-oilbheumach/
-featured_image: /wp-content/uploads/2008/11/GLSEN_Think.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An t-Saoghal
   - Cùltar

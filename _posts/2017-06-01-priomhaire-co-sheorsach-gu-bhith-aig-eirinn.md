@@ -5,7 +5,7 @@ type: post
 date: 2017-06-01T13:13:34+00:00
 excerpt: Thathar an dùil gun tèid Leo Varadkar, 38 a thaghadh mar ceannard am pàrtaidh poilitigeach Fine Gael.
 url: /priomhaire-co-sheorsach-gu-bhith-aig-eirinn/
-featured_image: /wp-content/uploads/2017/06/Leo-Varadkar-e1496348026589-1.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An Roinn-eòrpa
   - Èirinn

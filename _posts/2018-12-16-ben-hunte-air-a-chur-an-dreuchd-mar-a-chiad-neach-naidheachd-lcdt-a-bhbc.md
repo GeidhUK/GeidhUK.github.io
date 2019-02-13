@@ -5,7 +5,7 @@ type: post
 date: 2018-12-16T21:04:42+00:00
 excerpt: Tha BBC News air an neach-naidheachd BBC Afraga, Ben Hunte, ainmeachadh mar a’ chiad neach-naidheachd LCDT aca.
 url: /ben-hunte-air-a-chur-an-dreuchd-mar-a-chiad-neach-naidheachd-lcdt-a-bhbc/
-featured_image: /wp-content/uploads/2018/12/Ben_Hunte.png
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An Rìoghachd Aonaichte
   - Cùltar

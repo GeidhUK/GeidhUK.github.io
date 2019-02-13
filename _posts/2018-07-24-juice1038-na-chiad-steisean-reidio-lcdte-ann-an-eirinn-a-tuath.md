@@ -5,7 +5,7 @@ type: post
 date: 2018-07-24T12:46:59+00:00
 excerpt: "Tòisichidh Juice1038 a' craoladh bho phrìomh-bhaile Èirinn a Tuath air 4mh An Lùnastal, an aon latha ri Fèis-pròise Bheul Feirste."
 url: /juice1038-na-chiad-steisean-reidio-lcdte-ann-an-eirinn-a-tuath/
-featured_image: /wp-content/uploads/2018/07/Juice1038.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An Rìoghachd Aonaichte
   - Cùltar

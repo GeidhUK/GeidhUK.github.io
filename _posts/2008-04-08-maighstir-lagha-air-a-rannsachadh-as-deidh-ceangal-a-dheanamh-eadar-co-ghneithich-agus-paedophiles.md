@@ -5,7 +5,7 @@ type: post
 date: 2008-04-08T17:21:20+00:00
 excerpt: "Chaidh rannsachadh a thòiseachadh air sgàth 's gun do rinn maighstir lagha ceangal eadar daoine co-sheòrsach agus <em>paedophiles</em> air prògram aithriseach anns a' Chuimrigh."
 url: /maighstir-lagha-air-a-rannsachadh-as-deidh-ceangal-a-dheanamh-eadar-co-ghneithich-agus-paedophiles/
-featured_image: /wp-content/uploads/2008/04/Week_In_Week_Out.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An Rìoghachd Aonaichte
   - Cùltar

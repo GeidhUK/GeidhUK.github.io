@@ -5,7 +5,7 @@ type: post
 date: 2018-11-09T14:36:50+00:00
 excerpt: "Chaidh ainmeachadh le Riaghaltas na h-Alba Diardaoin gun tèid cùisean LCDTE a theagaisg ann an leasanan sgoile airson a' chiad turas."
 url: /cuisean-lcdte-ri-theagaisg-ann-an-sgoiltean-albannach-airson-a-chiad-turas/
-featured_image: /wp-content/uploads/2018/11/Iomairt_TIE.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - Alba
   - An Rìoghachd Aonaichte

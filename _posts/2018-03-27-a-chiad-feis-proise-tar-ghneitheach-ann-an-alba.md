@@ -5,7 +5,7 @@ type: post
 date: 2018-03-27T19:57:22+00:00
 excerpt: "Thèid a' chiad Fèis Pròise Tar-ghnèitheach ann an Alba a chumail Disaithairne 31 Màrt 2018 eadar 12-5f."
 url: /a-chiad-feis-proise-tar-ghneitheach-ann-an-alba/
-featured_image: /wp-content/uploads/2018/03/TransPride_Logo.png
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - Alba
   - Fèisean-pròise
@@ -23,7 +23,7 @@ tags:
   - TransPride Scotland
 
 ---
- 
+
 
 Thèid a' chiad Fèis Pròise Tar-ghnèitheach ann an Alba a chumail Disaithairne 31 Màrt 2018 eadar 12-5f.
 

@@ -5,7 +5,7 @@ type: post
 date: 2018-06-03T15:23:59+00:00
 excerpt: "Thathar an dùil gun tèid a' chiad fèis pròis na h-Antartaig a chumail an t-seachdain-sa."
 url: /a-chiad-feis-proise-na-h-antartaig/
-featured_image: /wp-content/uploads/2018/06/McMurdo_Pride.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An t-Saoghal
   - Fèisean-pròise

@@ -6,7 +6,7 @@ date: 2018-09-21T19:19:21+00:00
 excerpt: |
   Tha Ministear na h-Eaglaise Saoire Leantainnich air iomradh a thoirt air a' chiad fèis-pròise anns na h-Eileanan an Iar mar "duilich agus nàireach".
 url: /feis-proise-innse-ghall-air-a-chaineadh-le-ministear-na-h-eaglaise-saoire-leantainnich/
-featured_image: /wp-content/uploads/2018/09/Hebridian-Pride.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - Alba
   - Creideamh

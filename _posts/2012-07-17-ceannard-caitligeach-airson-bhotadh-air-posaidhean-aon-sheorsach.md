@@ -5,7 +5,7 @@ type: post
 date: 2012-07-17T21:08:05+00:00
 excerpt: Tha ceannard Eaglais Chaitligeach na h-Alba air iarraidh gun tèid bhòt a chumail ann an Alba a thaobh pòsadh càraidean aon-sheòrsach.
 url: /ceannard-caitligeach-airson-bhotadh-air-posaidhean-aon-sheorsach/
-featured_image: /wp-content/uploads/2012/07/Cardinal-Keith-O-Brien-GETT.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - Alba
   - Creideamh

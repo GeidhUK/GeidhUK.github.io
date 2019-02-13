@@ -5,7 +5,7 @@ type: post
 date: 2008-04-05T16:47:05+00:00
 excerpt: "Chruinnich còrr 's mìle daoine ann an Oklahoma Diciadain gus taic a thoirt ri Riochdaire Sally Kern."
 url: /cruinneachadh-gus-taic-a-thoirt-ri-neach-poileataigs-a-tha-dhen-bheachd-gu-bheil-a-choimhearsnachd-lcdte-nas-miosa-na-ceannaircich/
-featured_image: /wp-content/uploads/2008/04/Sally_Kern.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An t-Saoghal
   - Creideamh

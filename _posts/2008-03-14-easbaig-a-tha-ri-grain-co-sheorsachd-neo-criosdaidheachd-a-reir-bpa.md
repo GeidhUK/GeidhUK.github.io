@@ -5,7 +5,7 @@ type: post
 date: 2008-03-14T16:58:48+00:00
 excerpt: Tha George Foulkes, Ball Pàrlamaid na h-Alba, air ràdh gu bheil e ag aontachadh le aithris a’ bhuidheann co-ionannachd Stonewall anns an tuirt iad gu bheil Easbaig Joseph Devine neo-criosdaidheachd.
 url: /easbaig-a-tha-ri-grain-co-sheorsachd-neo-criosdaidheachd-a-reir-bpa/
-featured_image: /wp-content/uploads/2008/03/Easbaig_Joseph_Devine.png
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - Alba
   - An Rìoghachd Aonaichte

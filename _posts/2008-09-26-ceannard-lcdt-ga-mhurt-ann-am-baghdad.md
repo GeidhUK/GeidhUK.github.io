@@ -5,7 +5,7 @@ type: post
 date: 2008-09-26T16:25:42+00:00
 excerpt: Chaidh ceannard LCDT a mhurt ann am Baghdad, Ioràc an-dè.
 url: /ceannard-lcdt-ga-mhurt-ann-am-baghdad/
-featured_image: /wp-content/uploads/2009/04/iraqi-flag-large.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An t-Saoghal
   - Creideamh

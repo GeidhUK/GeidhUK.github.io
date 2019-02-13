@@ -6,7 +6,7 @@ date: 2018-11-08T10:26:17+00:00
 excerpt: |
   Tha aonar anns gach triùir de dhaoine leasbach, co-sheòrsach agus dà-sheòrsach a dh'fhulaing burraidheachd nuair a bha iad ann an sgoil cuideachd a' fulaing burraidheachd san àite-obrach a-rèir sgrùdadh ùr bho <a href="https://www.anglia.ac.uk/">Oilthigh Anglia Ruskin</a>.
 url: /aonar-anns-gach-triuir-de-dhaoine-lcd-a-fulang-burraidheachd-ann-an-sgoil-agus-san-aite-obrach/
-featured_image: /wp-content/uploads/2018/11/DreWdInWoAAOO0i.jpg-large.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An Rìoghachd Aonaichte
   - Foghlam
@@ -64,7 +64,7 @@ Gus dèiligeadh ris an duilgheadas seo tha an sgrùdadh a&#8217; moladh ro-innle
 ##### Tùsan
 
 Cambridge Network: [Bullying ‘follows’ LGB people from school to work][3]
-  
+
 Gay Star News: [Bullied in school due to your sexuality? It may not get better at work][4]
 
  [1]: https://www.anglia.ac.uk/

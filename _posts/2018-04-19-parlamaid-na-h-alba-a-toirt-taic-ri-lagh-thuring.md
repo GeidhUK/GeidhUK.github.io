@@ -5,7 +5,7 @@ type: post
 date: 2018-04-19T13:39:27+00:00
 excerpt: "Dh'aontaich Pàrlamaid na h-Alba gu h-aon-ghuthach Diciadan ri prìomh-amasan an Historical Sexual Offences (Pardons and Disregards) (Scotland) Bill."
 url: /parlamaid-na-h-alba-a-toirt-taic-ri-lagh-thuring/
-featured_image: /wp-content/uploads/2018/04/Parlamaid_na_h_Alba.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - Alba
   - Poilitigs

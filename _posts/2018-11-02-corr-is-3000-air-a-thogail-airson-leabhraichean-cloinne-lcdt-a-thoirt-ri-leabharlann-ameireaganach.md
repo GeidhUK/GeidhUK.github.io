@@ -5,7 +5,7 @@ type: post
 date: 2018-11-02T20:58:33+00:00
 excerpt: Tha an t-eadar-lìon air còrr is $3000 a thogail gus leabhraichean cloinne LCDT+ ùra a cheannach dhan leabharlann ann am Baile Orainds, Iowa.
 url: /corr-is-3000-air-a-thogail-airson-leabhraichean-cloinne-lcdt-a-thoirt-ri-leabharlann-ameireaganach/
-featured_image: /wp-content/uploads/2018/11/Iowa_Book_Burning.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An t-Saoghal
   - Cùltar

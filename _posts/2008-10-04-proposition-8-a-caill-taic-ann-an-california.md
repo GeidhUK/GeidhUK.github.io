@@ -5,7 +5,7 @@ type: post
 date: 2008-10-04T13:35:18+00:00
 excerpt: "Tha cunntas-bheachd ùr a' sealltainn gu bheil Proposition 8 a' caill taic ann an California."
 url: /proposition-8-a-caill-taic-ann-an-california/
-featured_image: /wp-content/uploads/2009/05/Prop8.gif
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An t-Saoghal
   - Lagh

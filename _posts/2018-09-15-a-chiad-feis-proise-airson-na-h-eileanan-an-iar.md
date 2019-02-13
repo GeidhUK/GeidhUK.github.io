@@ -5,7 +5,7 @@ type: post
 date: 2018-09-15T09:44:15+00:00
 excerpt: "Chaidh ainmeachadh Diardaoin gun tèid a' chiad fèis-pròise a-riamh a chumail anns na h-Eileanan an Iar 6mh Dàmhair."
 url: /a-chiad-feis-proise-airson-na-h-eileanan-an-iar/
-featured_image: /wp-content/uploads/2018/09/Hebridian-Pride.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - Alba
   - Fèisean-pròise

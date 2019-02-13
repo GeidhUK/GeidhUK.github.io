@@ -6,7 +6,7 @@ date: 2008-05-07T09:21:39+00:00
 excerpt: |
   Tha triùir ann an Eilean Lesbos, a' Ghrèig, a' toirt buidheann LCDT gu lagh air sgàth 's gu bheil iad a' cleachdadh am facal "leasbach" anns an ainm aca.
 url: /triuir-ann-an-eilean-lesbos-a-toirt-buidheann-lcdt-gu-lagh/
-featured_image: /wp-content/uploads/2008/05/Bratach_na_Greige.png
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An Roinn-eòrpa
   - Poilitigs

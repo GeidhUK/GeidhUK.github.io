@@ -6,7 +6,7 @@ date: 2008-04-30T08:48:49+00:00
 excerpt: |
   Tha <a title="An làrach-lìn aig Comann Eadar-nàiseanta nan Leasbaich is Daoine Co-sheòrsach" href="http://www.ilga.org/">Comann Eadar-nàiseanta Leasbach agus Co-sheòrsach</a> (ILGA) air aithisg ùr fhoillseachadh a tha a' sealltainn gu bheil sgaradh mhòr thar an Aonadh Eòrpach ann an làimhseachadh de dhaoine tar-ghnèitheach.
 url: /aithisg-ur-a-sealltainn-gu-bheil-sgaradh-mhor-thar-an-aonadh-eorpach-ann-an-laimhseachadh-de-dhaoine-tar-ghneitheach/
-featured_image: /wp-content/uploads/2008/04/ILGA.png
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An Roinn-eòrpa
   - Poilitigs

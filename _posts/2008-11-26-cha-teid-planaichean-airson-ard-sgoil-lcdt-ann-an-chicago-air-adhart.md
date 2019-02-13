@@ -5,7 +5,7 @@ type: post
 date: 2008-11-26T16:37:18+00:00
 excerpt: Tha luchd-foghlaim ann an Chicago air a ràdh nach tèid planaichean airson sgoil LCDT fhosgladh sa bhaile air adhart.
 url: /cha-teid-planaichean-airson-ard-sgoil-lcdt-ann-an-chicago-air-adhart/
-featured_image: /wp-content/uploads/2008/11/Flag_of_Chicago_Illinois.svg_.png
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An t-Saoghal
   - Foghlam

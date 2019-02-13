@@ -5,7 +5,7 @@ type: post
 date: 2008-03-17T11:56:45+00:00
 excerpt: Tha an ASA (Advertising Standards Authority) ag ràdh nach eil iomairt sanasachaidh a’ bhuidheann Stonewall a’ dol an-aghaidh an còd aca.
 url: /gearanan-mu-dheidhinn-sanasan-co-sheorsach-air-an-diultadh/
-featured_image: /wp-content/uploads/2017/02/Stonewall-GD2.png
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An Rìoghachd Aonaichte
   - Creideamh

@@ -5,7 +5,7 @@ type: post
 date: 2018-10-30T16:10:43+00:00
 excerpt: "Chaidh ainmeachadh gum bi Fèis-pròise Iúr Cinn Trá (<em>Newry</em>) a' toirt aoigheachd dha Fhèis-pròise an Rìoghachd Aonaichte 2019."
 url: /feis-proise-iur-cinn-tra-gu-bhith-a-toirt-aoigheachd-dha-fheis-proise-an-rioghachd-aonaichte-2019/
-featured_image: /wp-content/uploads/2018/10/CC8A3D12-2D3E-4548-BF5D-1D42106DCBFE.jpeg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An Rìoghachd Aonaichte
   - Fèisean-pròise

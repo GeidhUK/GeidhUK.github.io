@@ -5,7 +5,7 @@ type: post
 date: 2010-04-08T13:18:35+00:00
 excerpt: "Tha aonadh teagaisg Èireannach air ràdh gu bheil laghanan co-ionannachd a' toirt cead do sgoiltean cràbhach a bhith a' dèanamh leth-bhreith air tidsearan co-sheòrsach."
 url: /aonadh-eireannach-air-radh-gu-bheil-leth-bhreith-ceadaichte-ann-an-sgoiltean/
-featured_image: /wp-content/uploads/2010/04/INTOLogo.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An Roinn-eòrpa
   - Èirinn

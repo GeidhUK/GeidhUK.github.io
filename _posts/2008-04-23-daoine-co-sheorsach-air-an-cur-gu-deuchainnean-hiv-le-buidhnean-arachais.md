@@ -6,7 +6,7 @@ date: 2008-04-23T18:33:50+00:00
 excerpt: |
   Chaidh sgrùdadh a dhèanamh le <a title="Làrach-lìn aig Compass IFA" href="http://www.compassifa.co.uk/">Compass IFA</a>, buidheann a tha a' toirt comhairle do dhaoine co-sheòrsach a thaobh ionmhais, a tha a' sealltainn gu bheil na buidhnean àrachais <a title="Làrach-lìn aig Legal &amp; General" href="http://www.legalandgeneral.com/">Legal &amp; General</a> agus <a title="Làrach-lìn aig AEGON" href="http://www.aegon.com/">AEGON</a> fhathast a' cur daoine co-sheòrsach gu deuchainnean HIV mus faigh iad àrachas slàinte.
 url: /daoine-co-sheorsach-air-an-cur-gu-deuchainnean-hiv-le-buidhnean-arachais/
-featured_image: /wp-content/uploads/2008/06/Deuchainn_HIV.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An Rìoghachd Aonaichte
   - Slàinte

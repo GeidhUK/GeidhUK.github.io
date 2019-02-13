@@ -5,7 +5,7 @@ type: post
 date: 2009-05-26T19:11:45+00:00
 excerpt: Tha Àrd-chùirt Chalifornia air bhòtadh gus cumail ri Proposition 8, an iomairt a chur casg air pòsadh aon-sheòrsach anns an stàit.
 url: /ard-chuirt-chalifornia-a-cumail-ri-prop-8/
-featured_image: /wp-content/uploads/2009/05/Prop8.gif
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An t-Saoghal
   - Lagh

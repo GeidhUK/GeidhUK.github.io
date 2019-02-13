@@ -5,7 +5,7 @@ type: post
 date: 2009-04-07T11:40:32+00:00
 excerpt: Tha Àrd-chùirt Iowa air bhòtadh gus pòsadh aon-sheòrsach a dhèanamh laghail anns an stàit.
 url: /ard-chuirt-iowa-air-bhotadh-gus-posadh-aon-sheorsach-a-dheanamh-laghail/
-featured_image: /wp-content/uploads/2011/01/image12-760x440.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An t-Saoghal
   - Creideamh

@@ -5,7 +5,7 @@ type: post
 date: 2009-01-29T18:14:28+00:00
 excerpt: "Tha daoine LCDT ann am Bachrain a' togail casaid an-aghaidh riaghaltas an dùthaich as dèidh dhaibh casg a chur air lìn-sòisealta LCDT."
 url: /daoine-lcdt-a-togail-casaid-an-aghaidh-riaghaltas-bharain/
-featured_image: /wp-content/uploads/2008/04/Bratach_Bhachrain.png
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An t-Saoghal
   - Poilitigs

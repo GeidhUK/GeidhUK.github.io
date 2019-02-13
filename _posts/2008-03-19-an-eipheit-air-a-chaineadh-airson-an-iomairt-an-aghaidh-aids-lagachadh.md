@@ -5,7 +5,7 @@ type: post
 date: 2008-03-19T07:31:44+00:00
 excerpt: Tha Amnesty International agus Human Rights Watch ag ràdh gu bheil Riaghaltas an Èipheit "aineolach mu dheidhinn HIV agus gu bheil iad a’ coimhead air le claon-bharail" an dèidh barrachd casaidean airson “habitual debauchery.”
 url: /an-eipheit-air-a-chaineadh-airson-an-iomairt-an-aghaidh-aids-lagachadh/
-featured_image: /wp-content/uploads/2008/03/Bratach_na_h_Èipheit.png
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An t-Saoghal
   - Lagh

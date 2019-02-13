@@ -5,7 +5,7 @@ type: post
 date: 2008-09-28T11:45:00+00:00
 excerpt: Chaochail Del Martin, gnìomhaiche leasbach air leth cudromach, aois 87, ann an San Francisco aig dheireadh an Lùnastal.
 url: /del-martin-air-basachadh/
-featured_image: /wp-content/uploads/2008/09/Del_Martin_Phyllis_Lyon.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An t-Saoghal
   - Poilitigs

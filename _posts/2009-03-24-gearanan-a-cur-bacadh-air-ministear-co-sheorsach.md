@@ -5,7 +5,7 @@ type: post
 date: 2009-03-24T18:32:33+00:00
 excerpt: Thèid coinneamh a chumail gus deasbad ma bhios ministear co-sheòrsach ann an Obair Dheathain comasach air obair airson an eaglais.
 url: /gearanan-a-cur-bacadh-air-ministear-co-sheorsach/
-featured_image: /wp-content/uploads/2009/05/Scott-Rennie.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - Alba
   - An Rìoghachd Aonaichte

@@ -5,7 +5,7 @@ type: post
 date: 2008-04-21T14:39:07+00:00
 excerpt: Tha Eilean Mhanainn air dreachd bhile fhoillseachadh a bhios ag aithneachadh daoine tar-ghnèitheach gu h-oifigeil.
 url: /eilean-mhanainn-air-dreachd-bhile-a-dheanamh-gus-coirichean-co-ionann-a-thoirt-ri-tar-ghneithich/
-featured_image: /wp-content/uploads/2008/04/Bratach_Eilean_Mhanainn.png
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An Rìoghachd Aonaichte
   - An Roinn-eòrpa

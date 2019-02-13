@@ -5,7 +5,7 @@ type: post
 date: 2010-10-22T10:35:55+00:00
 excerpt: "Chaidh iomairt a chur an sàs air Facebook gus a' chiad ceann-suidhe co-sheòrsach a thaghadh ann an Èirinn."
 url: /iomairt-facebook-airson-a-chiad-ceann-suidhe-co-sheorsach-aig-na-h-eirinn/
-featured_image: /wp-content/uploads/2010/10/David-Norris-008.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An Roinn-eòrpa
   - Èirinn

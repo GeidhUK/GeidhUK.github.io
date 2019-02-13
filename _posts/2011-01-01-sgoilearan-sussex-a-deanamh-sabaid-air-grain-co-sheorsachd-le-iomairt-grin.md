@@ -5,7 +5,7 @@ type: post
 date: 2011-01-01T15:45:17+00:00
 excerpt: "Tha sgoilearan aig Sgoil Bhedales, faisg air Petersfield air iomairt a chur air bhonn gus sabaid a' dèanamh air gràin air deugairean co-sheòrsach."
 url: /sgoilearan-sussex-a-deanamh-sabaid-air-grain-co-sheorsachd-le-iomairt-grin/
-featured_image: /wp-content/uploads/2011/01/GRIN_Logo_Background_1.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An Rìoghachd Aonaichte
   - Foghlam

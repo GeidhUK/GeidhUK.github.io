@@ -5,7 +5,7 @@ type: post
 date: 2008-03-13T15:20:22+00:00
 excerpt: Liosta dhen fhèisean-pròise a tha ri thighinn.
 url: /feisean-proise/
-featured_image: /wp-content/uploads/2017/12/cropped-LGBT_flag_square.svg_.png
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - Fèisean-pròise
 tags:
@@ -19,11 +19,11 @@ Thèid an duilleag seo ag ùrachadh mar a thèid tachartasan ùr ainmeachadh. [C
 ##### 6mh Am Màrt 2019
 
 **Fèis-pròise Tar-ghnèitheach na h-Alba**
-  
+
 <i class="fa fa-map-marker"></i> Dùn Dè
-  
+
 <i class="far fa-clock"></i> Ri dhearbhadh
-  
+
 [<i class="fas fa-external-link-alt"></i> Làrach-lìn][2] [<i class="fab fa-facebook"></i> Facebook][3] [<i class="fab fa-twitter"></i> Twitter][4]
 
 * * *

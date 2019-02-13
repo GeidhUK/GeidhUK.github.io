@@ -5,7 +5,7 @@ type: post
 date: 2008-03-17T18:36:35+00:00
 excerpt: Tha deugaire co-sheòrsach gu bhith a’ fuadachadh a-mach às an Eilbheis air ais gu Camarun far am b’ urrainn dha a bhith a’ cur an greim agus a’ dìteadh gu peanas corparra.
 url: /deugaire-co-sheorsach-gu-bhith-a-fuadachadh-a-mach-as-an-eilbheis-air-ais-gu-camarun/
-featured_image: /wp-content/uploads/2008/03/Bràthach_Chamaruine.png
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An Roinn-eòrpa
   - Lagh

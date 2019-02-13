@@ -5,7 +5,7 @@ type: post
 date: 2008-03-17T18:31:22+00:00
 excerpt: "Bha am buidheann Irish Queers a' togail fianais an aghaidh caismeachd Naomh Pàdraig ann an Nuadh Eabhrac an-diugh."
 url: /buidheann-irish-queers-a-togail-fianai-an-aghaidh-caismeachd-naomh-padraig/
-featured_image: /wp-content/uploads/2008/03/Irish_Queers.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An t-Saoghal
   - Creideamh

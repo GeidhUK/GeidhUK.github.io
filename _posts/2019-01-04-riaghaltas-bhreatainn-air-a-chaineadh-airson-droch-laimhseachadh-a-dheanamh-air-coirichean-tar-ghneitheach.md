@@ -5,7 +5,7 @@ type: post
 date: 2019-01-04T20:55:27+00:00
 excerpt: Tha Maria Miller, cathraiche Comataidh nam Ban agus Co-ionannachd, air an riaghaltas a chàineadh airson droch-làimhseachadh a dhèanamh air còirichean tar-ghnèitheach.
 url: /riaghaltas-bhreatainn-air-a-chaineadh-airson-droch-laimhseachadh-a-dheanamh-air-coirichean-tar-ghneitheach/
-featured_image: /wp-content/uploads/2019/01/Gender_Recognition_Act_Reforms.png
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An Rìoghachd Aonaichte
   - Lagh

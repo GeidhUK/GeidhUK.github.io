@@ -5,7 +5,7 @@ type: post
 date: 2018-06-19T14:28:13+00:00
 excerpt: Tha duine tar-ghnèitheach anns an Rìoghachd Aonaichte a’ strì airson a bhith air aithneachadh gu h-oifigeil mar athair a phàiste.
 url: /duine-tar-ghneitheach-a-stri-airson-a-bhith-air-aithneachadh-gu-h-oifigeil-mar-athair-a-phaiste/
-featured_image: /wp-content/uploads/2018/06/1024px-Transgender_Pride_flag.svg_.png
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An Rìoghachd Aonaichte
   - Poilitigs

@@ -5,7 +5,7 @@ type: post
 date: 2017-02-16T19:48:31+00:00
 excerpt: "Tha Dr. Emily McEwan air post inntinneach a sgrìobhadh air a' blog aice: Gaelic Revitalization: The Gaelic for Gay."
 url: /the-gaelic-for-gay/
-featured_image: /wp-content/uploads/2008/03/Briathrachas.png
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - Foghlam
   - Gàidhlig

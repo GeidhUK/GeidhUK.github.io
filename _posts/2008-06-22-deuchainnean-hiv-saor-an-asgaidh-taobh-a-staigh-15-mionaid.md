@@ -5,7 +5,7 @@ type: post
 date: 2008-06-22T19:12:44+00:00
 excerpt: "Tha clionaig ann an meadhan a' choimhearsnachd LCDT Lunnainn a' toirt seachad deuchainnean airson HIV do dhaoine co-sheòrsach saor an-asgaidh agus tha toraidhean ri fhaotainn taobh a-staigh 15 mionaid."
 url: /deuchainnean-hiv-saor-an-asgaidh-taobh-a-staigh-15-mionaid/
-featured_image: /wp-content/uploads/2008/06/Deuchainn_HIV.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An Rìoghachd Aonaichte
   - Slàinte

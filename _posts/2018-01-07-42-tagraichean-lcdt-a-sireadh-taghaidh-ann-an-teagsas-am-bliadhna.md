@@ -5,7 +5,7 @@ type: post
 date: 2018-01-07T18:02:27+00:00
 excerpt: "A-rèir an iris OutSmart tha co-dhiù 42 tagraichean LCDT+ a' sireadh taghaidh ann an Teagsas am bliadhna."
 url: /42-tagraichean-lcdt-a-sireadh-taghaidh-ann-an-teagsas-am-bliadhna/
-featured_image: /wp-content/uploads/2018/01/Bratach_Teagsas.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An t-Saoghal
   - Poilitigs

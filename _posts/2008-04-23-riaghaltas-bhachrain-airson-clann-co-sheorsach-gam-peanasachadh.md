@@ -5,7 +5,7 @@ type: post
 date: 2008-04-23T16:59:00+00:00
 excerpt: "Tha Riaghaltas Bhachrain a' dèanamh iomairt gus co-sheòrsachd a chur às dhan dhùthaich."
 url: /riaghaltas-bhachrain-airson-clann-co-sheorsach-gam-peanasachadh/
-featured_image: /wp-content/uploads/2008/04/Bratach_Bhachrain.png
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An t-Saoghal
   - Creideamh

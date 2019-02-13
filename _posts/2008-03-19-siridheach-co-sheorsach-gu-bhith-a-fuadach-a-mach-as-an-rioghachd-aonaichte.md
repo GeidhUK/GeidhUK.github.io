@@ -5,7 +5,7 @@ type: post
 date: 2008-03-19T07:47:57+00:00
 excerpt: Tha deugaire Siridheach gu bhith a’ fuadach a-mach às an Rìoghachd Aonaichte air sgàth ’s gun do dhiùlt Rùnaire na Dùthcha an iarrtas aige airson tèarmann poileataigeach.
 url: /siridheach-co-sheorsach-gu-bhith-a-fuadach-a-mach-as-an-rioghachd-aonaichte/
-featured_image: /wp-content/uploads/2008/03/Iran.png
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - Alba
   - An Rìoghachd Aonaichte

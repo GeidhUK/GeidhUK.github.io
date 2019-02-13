@@ -5,7 +5,7 @@ type: post
 date: 2018-03-24T21:24:35+00:00
 excerpt: "Thèid a' chiad Fèis-pròise a chumail ann an Siorrachd Pheairt Disathairne 12 Lùnastal 2018."
 url: /a-chiad-feis-proise-pheairt/
-featured_image: /wp-content/uploads/2018/03/Perthshire_Pride.jpeg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - Alba
   - Fèisean-pròise

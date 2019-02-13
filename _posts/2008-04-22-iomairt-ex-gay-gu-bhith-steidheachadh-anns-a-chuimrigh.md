@@ -5,7 +5,7 @@ type: post
 date: 2008-04-22T16:50:10+00:00
 excerpt: "Tha an Crìosdaidh Bun-chreidmheach (Fundamentalist Christian) chonnspaideach Stephen Green air ràdh gum faodadh iomairt <em>ex-gay</em> a bhith a stèidheachadh anns a' Chuimrigh."
 url: /iomairt-ex-gay-gu-bhith-steidheachadh-anns-a-chuimrigh/
-featured_image: /wp-content/uploads/2008/04/Bratach-na-Cuimrigh.png
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An Rìoghachd Aonaichte
   - Creideamh

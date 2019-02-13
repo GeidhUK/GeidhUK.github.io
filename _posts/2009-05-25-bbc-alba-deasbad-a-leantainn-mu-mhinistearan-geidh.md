@@ -5,7 +5,7 @@ type: post
 date: 2009-05-25T12:25:09+00:00
 excerpt: Leanaidh an deasbad aig Àrd-Sheanadh Eaglais na h-Alba Diluain air am bu chòir do dhaoine a tha gu fosgailte ann an càirdeasan gèidh a bhith ceadaichte àrd-oifisean a bhith aca san Eaglais.
 url: /bbc-alba-deasbad-a-leantainn-mu-mhinistearan-geidh/
-featured_image: /wp-content/uploads/2009/05/Scott-Rennie.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - Alba
   - An Rìoghachd Aonaichte

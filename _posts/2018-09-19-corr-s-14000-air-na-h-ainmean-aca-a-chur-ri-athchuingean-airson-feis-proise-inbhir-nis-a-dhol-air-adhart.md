@@ -4,7 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2018-09-19T10:32:24+00:00
 url: /corr-s-14000-air-na-h-ainmean-aca-a-chur-ri-athchuingean-airson-feis-proise-inbhir-nis-a-dhol-air-adhart/
-featured_image: /wp-content/uploads/2018/07/Proud_Ness.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - Alba
   - Fèisean-pròise

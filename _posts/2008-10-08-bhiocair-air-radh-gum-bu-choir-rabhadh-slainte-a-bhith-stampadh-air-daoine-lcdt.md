@@ -5,7 +5,7 @@ type: post
 date: 2008-10-08T19:37:30+00:00
 excerpt: "Tha bhiocair anns An Eaglais Shasannach air ràdh air a' bhlòg aige gum bu chòir rabhadh slàinte a bhith air stampadh air daoine LCDT."
 url: /bhiocair-air-radh-gum-bu-choir-rabhadh-slainte-a-bhith-stampadh-air-daoine-lcdt/
-featured_image: /wp-content/uploads/2008/10/Eaglais_Shasainn.png
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An Rìoghachd Aonaichte
   - Creideamh

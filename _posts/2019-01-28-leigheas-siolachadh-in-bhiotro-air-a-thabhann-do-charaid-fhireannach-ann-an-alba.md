@@ -5,7 +5,7 @@ type: post
 date: 2019-01-28T19:51:39+00:00
 excerpt: Thàinig e am follais Didòmhnaich gun deach leigheas sìolachadh in-bhiotro a thabhann do chàraid co-sheòrsach fireannach ann an Alba airson a’ chiad turas a-riamh san Rìoghachd Aonaichte.
 url: /leigheas-siolachadh-in-bhiotro-air-a-thabhann-do-charaid-fhireannach-ann-an-alba/
-featured_image: /wp-content/uploads/2008/06/IVF.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - Alba
   - An Rìoghachd Aonaichte

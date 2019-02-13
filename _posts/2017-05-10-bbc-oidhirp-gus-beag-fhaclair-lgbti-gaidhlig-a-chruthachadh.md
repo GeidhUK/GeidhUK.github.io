@@ -5,7 +5,7 @@ type: post
 date: 2017-05-10T16:00:13+00:00
 excerpt: "Chaidh iarraidh air luchd-labhairt na Gàidhlig cuideachadh gus liosta de dh'fhaclan agus briathrachas LGBTI a chruthachadh sa chànan."
 url: /bbc-oidhirp-gus-beag-fhaclair-lgbti-gaidhlig-a-chruthachadh/
-featured_image: /wp-content/uploads/2008/03/Briathrachas.png
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - Foghlam
   - Gàidhlig

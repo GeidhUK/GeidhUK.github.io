@@ -5,7 +5,7 @@ type: post
 date: 2008-03-14T09:33:41+00:00
 excerpt: Tha an carthannas fiaclach as motha anns an Rìoghachd Aonaichte airson balaich a thoirt a-steach dhan phrògram a bhios a’ toirt a-mach banachdaich an-aghaidh an tinneas feise HPV (Human papillomavirus) gus bacadh a chur air aillse beòil.
 url: /carthannas-ag-iarraidh-banachdaich-hpv-airson-balaich/
-featured_image: /wp-content/uploads/2008/03/Vaccination.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An Rìoghachd Aonaichte
   - Slàinte

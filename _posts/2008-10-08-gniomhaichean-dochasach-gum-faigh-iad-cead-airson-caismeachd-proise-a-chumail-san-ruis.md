@@ -5,7 +5,7 @@ type: post
 date: 2008-10-08T18:42:49+00:00
 excerpt: Tha gnìomhaichean Nicolas Alexeyev agus Anna Komarova ann an Tambov, an Ruis, an dùil tagradh a chur a-steach gus caismeachd pròise a chumail sa bhaile.
 url: /gniomhaichean-dochasach-gum-faigh-iad-cead-airson-caismeachd-proise-a-chumail-san-ruis/
-featured_image: /wp-content/uploads/2008/10/Bratach_na_Ruise.png
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An Roinn-eòrpa
   - An t-Saoghal

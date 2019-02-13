@@ -5,7 +5,7 @@ type: post
 date: 2008-03-30T10:26:22+00:00
 excerpt: Tha Roinn Stàit nan Stàitean Aonaichte ag ràdh nach urrainn gnìomhaiche AIDS cead-siubhail ùr fhaighinn air sgàth ’s gu bheil an ainm pòsta aige mì-laghail.
 url: /reachd-ameireaganach-ag-radh-gu-bheil-ainm-posta-co-sheorsach-mi-laghail/
-featured_image: /wp-content/uploads/2008/03/Bratach_nan_Staitean_Aonaichte.png
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An t-Saoghal
   - Lagh

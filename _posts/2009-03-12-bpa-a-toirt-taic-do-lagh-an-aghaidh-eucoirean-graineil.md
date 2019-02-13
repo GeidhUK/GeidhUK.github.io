@@ -5,7 +5,7 @@ type: post
 date: 2009-03-12T21:06:32+00:00
 excerpt: "Tha lagh ùr gus brìgh eucoirean gràineil leasachadh a bhith a' toirt a-steach gràin-co-sheòrsachd air gluasad air adhart ann an Alba."
 url: /bpa-a-toirt-taic-do-lagh-an-aghaidh-eucoirean-graineil/
-featured_image: /wp-content/uploads/2009/03/Scottish-Government.png
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - Alba
   - An Rìoghachd Aonaichte

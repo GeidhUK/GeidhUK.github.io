@@ -5,7 +5,7 @@ type: post
 date: 2008-04-23T14:53:03+00:00
 excerpt: "Air sgàth 's gearanan bhon a' Ghearmailt agus eile tha an t-Aonadh Eòrpach air òrdugh a bhiodh a' dìon daoine LCDT bho leth-bhreith a thrèigsinn."
 url: /coimisean-eorpach-air-ordugh-leth-bhreith-a-threigsinn/
-featured_image: /wp-content/uploads/2008/04/Bratach_an_Aonadh_Eorpach.png
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An Roinn-eòrpa
   - Lagh

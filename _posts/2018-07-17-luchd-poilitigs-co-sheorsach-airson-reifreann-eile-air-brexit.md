@@ -5,7 +5,7 @@ type: post
 date: 2018-07-17T20:54:17+00:00
 excerpt: Tha dithis neach-poilitigs co-sheòrsach airson bhòt eile air Brexit.
 url: /luchd-poilitigs-co-sheorsach-airson-reifreann-eile-air-brexit/
-featured_image: /wp-content/uploads/2018/07/Brexit.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An Rìoghachd Aonaichte
   - An Roinn-eòrpa
@@ -42,12 +42,12 @@ tags:
     <dt class='gallery-icon landscape'>
       <img width="600" height="400" src="https://i0.wp.com/geidh.uk/wp-content/uploads/2018/07/JC_MC.jpeg?resize=600%2C400&#038;ssl=1" class="attachment-large size-large" alt="" aria-describedby="gallery-5-2553" srcset="https://i0.wp.com/geidh.uk/wp-content/uploads/2018/07/JC_MC.jpeg?resize=1024%2C683&ssl=1 1024w, https://i0.wp.com/geidh.uk/wp-content/uploads/2018/07/JC_MC.jpeg?resize=300%2C200&ssl=1 300w, https://i0.wp.com/geidh.uk/wp-content/uploads/2018/07/JC_MC.jpeg?resize=768%2C512&ssl=1 768w, https://i0.wp.com/geidh.uk/wp-content/uploads/2018/07/JC_MC.jpeg?w=1600&ssl=1 1600w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1" />
     </dt>
-    
+
     <dd class='wp-caption-text gallery-caption' id='gallery-5-2553'>
       Justine Greening (Clì) agus Michael Cashman (Deas)
     </dd>
   </dl>
-  
+
   <br style="clear: both" />
 </div>
 

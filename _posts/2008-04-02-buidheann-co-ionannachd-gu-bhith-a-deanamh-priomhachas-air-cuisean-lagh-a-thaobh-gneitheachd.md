@@ -5,7 +5,7 @@ type: post
 date: 2008-04-02T10:43:52+00:00
 excerpt: "Chaidh sgeama stèidheachadh le Coimisean nan Còirichean Daonna agus Co-ionannachd (EHRC) a bhios a' dèanamh prìomhachas air cùisean-lagha a-thaobh gnèitheachd."
 url: /buidheann-co-ionannachd-gu-bhith-a-deanamh-priomhachas-air-cuisean-lagh-a-thaobh-gneitheachd/
-featured_image: /wp-content/uploads/2008/04/EHRC.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An Rìoghachd Aonaichte
   - Lagh

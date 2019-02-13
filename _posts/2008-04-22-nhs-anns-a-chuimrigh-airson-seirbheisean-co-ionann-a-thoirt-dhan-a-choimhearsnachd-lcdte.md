@@ -5,7 +5,7 @@ type: post
 date: 2008-04-22T13:51:17+00:00
 excerpt: Tha Edwina Hart, Ministear Slàinte na Cuimrigh air stiùireadh ùr a thoirt ris an NHS anns an dùthaich.
 url: /nhs-anns-a-chuimrigh-airson-seirbheisean-co-ionann-a-thoirt-dhan-a-choimhearsnachd-lcdte/
-featured_image: /wp-content/uploads/2008/04/GIG_Cymru.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An Rìoghachd Aonaichte
   - Slàinte

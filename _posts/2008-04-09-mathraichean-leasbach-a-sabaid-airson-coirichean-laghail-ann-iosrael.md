@@ -5,7 +5,7 @@ type: post
 date: 2008-04-09T13:46:31+00:00
 excerpt: "Tha màthraichean leasbach ann an Iosrael a' sabaid gus am bi iad air ainmeachadh air teisteanas breith an leanabh aca."
 url: /mathraichean-leasbach-a-sabaid-airson-coirichean-laghail-ann-iosrael/
-featured_image: /wp-content/uploads/2008/03/Bratach_na_h_Iosrael.png
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - Lagh
   - Poilitigs

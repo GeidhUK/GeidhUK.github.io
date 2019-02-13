@@ -5,7 +5,7 @@ type: post
 date: 2008-04-15T08:35:40+00:00
 excerpt: "Tha Poileas ann an Istanbul, An Tuirc, air ionnsaigh a thoirt air buidheann LCDT agus tha iad air ràdh gun robh adhbhar aca air sgàth 's cho tric 's a bhios daoine tar-ghnèitheach a' tadhal air na h-oifisean aca."
 url: /ionnsaigh-a-thoirt-air-buidheann-lcdt-ann-an-istanbul-leis-a-phoileas/
-featured_image: /wp-content/uploads/2008/04/Bratach_na_Tuirce.png
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An t-Saoghal
   - Lagh

@@ -5,7 +5,7 @@ type: post
 date: 2008-10-02T22:30:29+00:00
 excerpt: "Chaidh bile ùr a bhios a' toirt co-ionannachd do dhaoine LCDT ann an Astràilia aontachadh leis a' Phàrlamaid."
 url: /bile-lcdt-air-gluasad-air-adhart-ann-an-astrailia/
-featured_image: /wp-content/uploads/2008/04/Bratach_na_h_Astràilia.png
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An t-Saoghal
   - Poilitigs

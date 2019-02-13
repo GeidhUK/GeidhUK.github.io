@@ -5,7 +5,7 @@ type: post
 date: 2018-10-07T08:54:21+00:00
 excerpt: Bhidiothan dhe na h-òraidean aig Fèis-pròise Inbhir Nis 2018.
 url: /oraidean-feis-proise-inbhir-nis-2018/
-featured_image: /wp-content/uploads/2018/07/Proud_Ness.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - Alba
   - Fèisean-pròise

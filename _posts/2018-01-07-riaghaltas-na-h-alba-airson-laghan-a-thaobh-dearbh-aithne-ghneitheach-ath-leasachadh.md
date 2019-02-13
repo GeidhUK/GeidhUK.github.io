@@ -5,7 +5,7 @@ type: post
 date: 2018-01-07T21:30:01+00:00
 excerpt: Tha Riaghaltas na h-Alba air ràdh gum bi iad a’ dol air adhart le planaichean gus laghan a thaobh dearbh-aithne ghnèitheach ath-leasachadh as dèidh gun do chur Riaghaltas Bhreatainn dàil air na planaichean acasan.
 url: /riaghaltas-na-h-alba-airson-laghan-a-thaobh-dearbh-aithne-ghneitheach-ath-leasachadh/
-featured_image: /wp-content/uploads/2018/01/Bratach_na_h_Alba.png
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - Alba
   - An Rìoghachd Aonaichte

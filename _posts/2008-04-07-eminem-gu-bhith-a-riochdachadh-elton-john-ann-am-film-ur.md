@@ -5,7 +5,7 @@ type: post
 date: 2008-04-07T07:14:59+00:00
 excerpt: "Tha Eminem (Marshall Bruce Mathers III) gu bhith a' riochdachadh Sir Elton John ann am film ùr mu dheidhinn beatha an seinneadair co-sheòrsach."
 url: /eminem-gu-bhith-a-riochdachadh-elton-john-ann-am-film-ur/
-featured_image: /wp-content/uploads/2008/04/Eminem_Elton_John.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - Cùltar
 tags:

@@ -5,7 +5,7 @@ type: post
 date: 2008-07-25T17:49:16+00:00
 excerpt: Tha luchd-rannsachaidh ag obair aig Sgoil Slàinte Oilthigh Texas ag ràdh gu bheil iad air laigse aig HIV (Bhioras Dìon-slàinte Daonna) a lorg.
 url: /luchd-saidheans-air-laigse-aig-hiv-lorg/
-featured_image: /wp-content/uploads/2008/06/Deuchainn_HIV.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An t-Saoghal
   - Slàinte

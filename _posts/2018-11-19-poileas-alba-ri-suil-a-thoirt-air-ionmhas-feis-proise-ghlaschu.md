@@ -5,7 +5,7 @@ type: post
 date: 2018-11-19T17:23:34+00:00
 excerpt: Chaidh iarraidh air Poileas Alba sùil a thoirt air ionmhas Fèis-pròise Ghlaschu.
 url: /poileas-alba-ri-suil-a-thoirt-air-ionmhas-feis-proise-ghlaschu/
-featured_image: /wp-content/uploads/2008/04/Pride-Glasgow.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - Alba
   - Fèisean-pròise

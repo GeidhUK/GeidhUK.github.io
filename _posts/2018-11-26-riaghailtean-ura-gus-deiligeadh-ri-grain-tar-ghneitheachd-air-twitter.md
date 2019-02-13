@@ -5,7 +5,7 @@ type: post
 date: 2018-11-26T12:33:21+00:00
 excerpt: Tha Twitter air na riaghailtean aca ùrachadh gus dèiligeadh ri daoine a tha ri gràin-tar-ghnèitheachd.
 url: /riaghailtean-ura-gus-deiligeadh-ri-grain-tar-ghneitheachd-air-twitter/
-featured_image: /wp-content/uploads/2009/03/Twitter.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 apple_news_sections:
   - 'a:1:{i:0;s:72:"https://news-api.apple.com/sections/7324fd0b-0727-4be6-a1aa-9e0a948cf766";}'
 apple_news_pullquote_position:

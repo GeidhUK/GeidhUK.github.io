@@ -5,7 +5,7 @@ type: post
 date: 2008-04-05T18:35:16+00:00
 excerpt: "Tha a' Chrois Dhearg ann an Dùthaich na Tàidh air co-dhùnadh a dhèanamh gum bi iad a' gabhail ri lagh a bhios a' cur casg air daoine co-sheòrsach agus dà-sheòrsach bho bhith a' toirt seachad fala."
 url: /duthaich-nan-taidh-a-gabhail-ris-a-chasg-air-daoine-co-sheorsach-agus-da-sheorsach-bho-bhith-a-toirt-seachad-fala/
-featured_image: /wp-content/uploads/2018/06/BloodDonor.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An t-Saoghal
   - Lagh

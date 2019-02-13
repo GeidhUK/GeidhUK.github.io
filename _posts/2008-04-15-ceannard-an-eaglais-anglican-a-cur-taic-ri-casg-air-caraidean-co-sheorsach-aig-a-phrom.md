@@ -5,7 +5,7 @@ type: post
 date: 2008-04-15T08:22:56+00:00
 excerpt: "Tha ceannard an Eaglais Anglach ann an Astràilia air taic a thoirt ri casg air càraidean co-sheòrsach aig a' Phrom."
 url: /ceannard-an-eaglais-anglican-a-cur-taic-ri-casg-air-caraidean-co-sheorsach-aig-a-phrom/
-featured_image: /wp-content/uploads/2008/04/Phillip-Aspinall.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An t-Saoghal
   - Creideamh

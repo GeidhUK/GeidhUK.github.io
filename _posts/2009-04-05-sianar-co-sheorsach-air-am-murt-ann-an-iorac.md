@@ -5,7 +5,7 @@ type: post
 date: 2009-04-05T19:02:10+00:00
 excerpt: "Tha dithis marbh ann an Sadr City, roinn Shiite dhe Bhaghdad, air sgàth 's clèir ionadail a dhìt co-sheòrsachd."
 url: /sianar-co-sheorsach-air-am-murt-ann-an-iorac/
-featured_image: /wp-content/uploads/2009/04/iraqi-flag-large.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An t-Saoghal
   - Creideamh

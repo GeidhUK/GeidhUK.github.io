@@ -5,7 +5,7 @@ type: post
 date: 2019-01-07T16:12:28+00:00
 excerpt: Tha Taigh-tasgaidh Schwules ann am Berlin air taisbeanadh ùr fhosgladh gus geamaichean-bhidio LCDTQ a chomharrachadh.
 url: /geamaichean-bhidio-lcdtq-air-an-taisbeanadh-ann-an-taigh-tasgaidh-bherlin/
-featured_image: /wp-content/uploads/2019/01/SMU-RAINBOW-ARCADE-KEY-VISUAL.png
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An Roinn-eòrpa
   - Cùltar

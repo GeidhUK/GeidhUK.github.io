@@ -5,7 +5,7 @@ type: post
 date: 2008-04-25T11:22:52+00:00
 excerpt: "Bidh mìltean de dh'oileanaich nan tost anns na Stàitean Aonaichte an-diugh gus gràin-co-sheòrsachd ann an sgoiltean shoillseachadh."
 url: /oileanaich-air-feadh-nan-staitean-aonaichte-nan-tost/
-featured_image: /wp-content/uploads/2008/04/GLSEN_Day_of_Silence.png
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An Rìoghachd Aonaichte
   - An t-Saoghal

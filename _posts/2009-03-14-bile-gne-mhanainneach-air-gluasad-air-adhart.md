@@ -5,7 +5,7 @@ type: post
 date: 2009-03-14T20:33:39+00:00
 excerpt: "Tha bile ùr gus an t-Eilean Mhanainn a thoirt gu ìre an Rìoghachd Aonaichte a-thaobh poileasaidhean gnè air faighinn tron a' chiad ceum dhen Chomhairle Lagha."
 url: /bile-gne-mhanainneach-air-gluasad-air-adhart/
-featured_image: /wp-content/uploads/2009/03/Gender.png
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An Rìoghachd Aonaichte
   - An Roinn-eòrpa

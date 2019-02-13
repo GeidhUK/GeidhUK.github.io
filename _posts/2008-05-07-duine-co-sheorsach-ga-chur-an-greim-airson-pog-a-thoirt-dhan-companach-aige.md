@@ -5,7 +5,7 @@ type: post
 date: 2008-05-07T10:10:52+00:00
 excerpt: "Tha daoine co-sheòrsach air a bhith ga chur an grèim anns na h-Eileanan Caimean airson pòg a thoirt dhan companach aige fhad 's a bha iad air saor-làithean anns a' Mhuir Charaibeach."
 url: /duine-co-sheorsach-ga-chur-an-greim-airson-pog-a-thoirt-dhan-companach-aige/
-featured_image: /wp-content/uploads/2008/05/Bratach_nan_Eileanan_Caimean.png
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An Rìoghachd Aonaichte
   - An t-Saoghal

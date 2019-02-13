@@ -5,7 +5,7 @@ type: post
 date: 2008-10-04T12:27:21+00:00
 excerpt: Tha an Eaglais Mhormonach air bileag fhoillseachadh mu phòsadh aon-sheòrsach.
 url: /mormonaich-mi-shoilleir-a-thaobh-posadh-aon-sheorsach/
-featured_image: /wp-content/uploads/2008/10/Church_of_Jesus_Christ_of_Latter-day_Saints.png
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An t-Saoghal
   - Creideamh

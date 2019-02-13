@@ -5,7 +5,7 @@ type: post
 date: 2018-10-23T12:16:39+00:00
 excerpt: "Tha dithis bhall-phàrlamaid Làbarach air plana a chur an gnìomh a dh'fhaodadh pòsadh aon-sheòrsach a dhèanamh laghail ann an Èirinn a Tuath."
 url: /dochas-ur-airson-posadh-aon-sheorsach-ann-an-eirinn-a-tuath/
-featured_image: /wp-content/uploads/2011/01/image12-760x440.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An Rìoghachd Aonaichte
   - Lagh

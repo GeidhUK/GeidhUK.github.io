@@ -5,7 +5,7 @@ type: post
 date: 2008-12-23T11:57:01+00:00
 excerpt: Chuir Attorney General Edmund G. “Jerry” Brown, Jr., iongnadh air a h-uile duine ann an California nuair thug e bharail laghail do Àrd-chùirt Chalifornia an aghaidh Proposition 8. Bidh dleastanas àbhaisteach aig an Attorney General an lagh a’ dìon. Thuirt Attorney General Brown, a b’ àbhaist a bhith na riaghladair e fhèin (1975-1983), gu nach eil comas aig bhòt an t-sluaigh sam bith a chur às don còraichean bun-reachdail coltach ri co-ionnanachd nan daoine. ‘S e seo argamaid laghail caran nas làidire na h-argamaid a rinn na luchd-dùbhlain eile.
 url: /iongnadh-mor-air-california-as-deidh-baraile-bho-attorney-general/
-featured_image: /wp-content/uploads/2009/05/Prop8.gif
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An t-Saoghal
   - Lagh

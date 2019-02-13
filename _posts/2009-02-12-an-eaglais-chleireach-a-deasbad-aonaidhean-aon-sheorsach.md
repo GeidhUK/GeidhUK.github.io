@@ -5,7 +5,7 @@ type: post
 date: 2009-02-12T13:34:38+00:00
 excerpt: Tha Eaglais Chlèireach nan Stàitean Aonaichte air comataidh ùr stèidheachadh gus sgrùdadh a dhèanamh air dè an t-àite a bu chòir a bhith aig aonaidhean aon-sheòrsach sa Chrìosdachd agus sa choimhearsnachd san fharsaingeachd.
 url: /an-eaglais-chleireach-a-deasbad-aonaidhean-aon-sheorsach/
-featured_image: /wp-content/uploads/2009/02/Presbyterian-Church-USA.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An t-Saoghal
   - Creideamh

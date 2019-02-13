@@ -5,7 +5,7 @@ type: post
 date: 2018-07-18T21:45:04+00:00
 excerpt: "Chaidh BP Libearalach Tim Farron a chàineadh Dimàirt as dèidh dha bhòt cudromach air Brexit a chaill sa Phàrlamaid o chionn 's gun robh e a' frithealadh co-labhairt eaglais gus bruidhinn air an connspaid mu a bheachdan air fèise co-sheòrsach agus Crìosdaidheachd."
 url: /luchd-poilitigs-liberalach-air-a-chaineadh-airson-bhot-cudromach-air-brexit-a-chaill/
-featured_image: /wp-content/uploads/2018/07/Brexit.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An Rìoghachd Aonaichte
   - An Roinn-eòrpa
@@ -63,7 +63,7 @@ Nam measg sgrìobh Stephen Kinnock, BP airson Aberavon:
   <p dir="ltr" lang="en">
     Last night two Brextremist-driven amendments were carried by a whisker &#8211; 3 and 4 votes, respectively. 14 Tories rebelled. Tim Farron and Vince Cable (those doughty, fearless crusaders against a hard Brexit) didn’t vote. This was how Tim spent his evening: <a href="https://t.co/Iz5dHz9RHL">https://t.co/Iz5dHz9RHL</a>
   </p>
-  
+
   <p>
     — Stephen Kinnock (@SKinnock) <a href="https://twitter.com/SKinnock/status/1019099875311542272?ref_src=twsrc%5Etfw">17 July 2018</a>
   </p>
@@ -75,11 +75,11 @@ Agus sgrìobh Richard Burgon BP airson Leeds an Ear:
   <p dir="ltr" lang="en">
     Journalists reporting current Lib Dem Leader Vince Cable and last Lib Dem Leader Tim Farron didn’t vote in one of tonight’s votes in which Tory Government only survived by 3 votes.
   </p>
-  
+
   <p>
     Last week they brought a motion to get in to Government with the Tories.<a href="https://twitter.com/hashtag/NeverTrustTheLibDems?src=hash&ref_src=twsrc%5Etfw">#NeverTrustTheLibDems</a>
   </p>
-  
+
   <p>
     — Richard Burgon MP (@RichardBurgon) <a href="https://twitter.com/RichardBurgon/status/1018980120223199233?ref_src=twsrc%5Etfw">16 July 2018</a>
   </p>
@@ -91,7 +91,7 @@ Agus sgrìobh an cleachdaiche Twitter @gmai_sutton:
   <p dir="ltr" lang="en">
     Why was Vince Cable and Tim Fallon not in Westminster to vote yesterday? Only party claiming to support Remain and they don’t turn up for such an important vote! It’s a genuine Q! Can someone from Lib Dems ( who I was prepared to vote for having been life long LP) explain please?
   </p>
-  
+
   <p>
     — Heather Rufus (@gmai_sutton) <a href="https://twitter.com/gmai_sutton/status/1019118944605671424?ref_src=twsrc%5Etfw">17 July 2018</a>
   </p>

@@ -5,7 +5,7 @@ type: post
 date: 2008-03-14T10:30:13+00:00
 excerpt: 'Chaidh deasbad a chumail ann an Taigh nam Morairean seachdain seo chaidh mu dheidhinn lagh ùr a bhios a’ ciallachadh gum bi gràin-co-sheòrsachd (<em>Homophobia</em>) mì-laghail.'
 url: /lagh-an-aghaidh-grain-co-sheorsachd-a-gluasad-air-adhart/
-featured_image: /wp-content/uploads/2008/03/Lords.png
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An Rìoghachd Aonaichte
   - Poilitigs

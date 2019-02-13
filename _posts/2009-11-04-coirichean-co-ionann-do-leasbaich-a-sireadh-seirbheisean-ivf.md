@@ -5,7 +5,7 @@ type: post
 date: 2009-11-04T18:45:31+00:00
 excerpt: Thathar an dùil gun tèid cead a thoirt do leasbaich Albannach IVF a shireadh bho Seirbheis Nàiseanta na Slàinte.
 url: /coirichean-co-ionann-do-leasbaich-a-sireadh-seirbheisean-ivf/
-featured_image: /wp-content/uploads/2008/06/IVF.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An Rìoghachd Aonaichte
   - Slàinte

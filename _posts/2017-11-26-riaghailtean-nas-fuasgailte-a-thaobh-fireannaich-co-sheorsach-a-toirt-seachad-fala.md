@@ -5,7 +5,7 @@ type: post
 date: 2017-11-26T11:25:13+00:00
 excerpt: Tha Seirbheis Fala na h-Alba (SNBTS) air ràdh gun tèid na riaghailtean a thaobh fala a thoirt seachad atharrachadh a-màireach.
 url: /riaghailtean-nas-fuasgailte-a-thaobh-fireannaich-co-sheorsach-a-toirt-seachad-fala/
-featured_image: /wp-content/uploads/2009/03/giveblood-logo3.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - Alba
   - Slàinte

@@ -5,7 +5,7 @@ type: post
 date: 2018-07-15T20:47:50+00:00
 excerpt: Bha Prìomh Mhinistear na h-Alba, Nicola Sturgeon aig ceann na caismeachd aig Fèis-pròise Ghlaschu an-dè.
 url: /nicola-sturgeon-na-h-ard-mharasgal-na-caismeachd-aig-feis-proise-ghlaschu/
-featured_image: /wp-content/uploads/2018/07/Nicola_Sturgeon_Glasgow_Pride.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - Alba
   - Fèisean-pròise
@@ -49,12 +49,12 @@ Air thoiseach air an tachartas, thuirt Ms Sturgeon:
     <dt class='gallery-icon landscape'>
       <img width="906" height="400" src="https://i2.wp.com/geidh.uk/wp-content/uploads/2018/07/Pride_Glasgow_2018-1.jpeg?resize=906%2C400&#038;ssl=1" class="attachment-large size-large" alt="" aria-describedby="gallery-3-2534" srcset="https://i2.wp.com/geidh.uk/wp-content/uploads/2018/07/Pride_Glasgow_2018-1.jpeg?resize=1024%2C452&ssl=1 1024w, https://i2.wp.com/geidh.uk/wp-content/uploads/2018/07/Pride_Glasgow_2018-1.jpeg?resize=300%2C132&ssl=1 300w, https://i2.wp.com/geidh.uk/wp-content/uploads/2018/07/Pride_Glasgow_2018-1.jpeg?resize=768%2C339&ssl=1 768w, https://i2.wp.com/geidh.uk/wp-content/uploads/2018/07/Pride_Glasgow_2018-1.jpeg?w=1280&ssl=1 1280w" sizes="(max-width: 906px) 100vw, 906px" data-recalc-dims="1" />
     </dt>
-    
+
     <dd class='wp-caption-text gallery-caption' id='gallery-3-2534'>
       Caismeachd Fèis-pròise Ghlaschu. Dealbh le STV News.
     </dd>
   </dl>
-  
+
   <br style="clear: both" />
 </div>
 
@@ -77,12 +77,12 @@ Cuideachd mhol i Blair Wilson, duine à Baile Nèill, Siorrachd Rinn Friù an Ea
     <dt class='gallery-icon landscape'>
       <img width="640" height="345" src="https://i1.wp.com/geidh.uk/wp-content/uploads/2018/07/Blair_Wilson.jpg?resize=640%2C345&#038;ssl=1" class="attachment-large size-large" alt="" aria-describedby="gallery-4-2543" srcset="https://i1.wp.com/geidh.uk/wp-content/uploads/2018/07/Blair_Wilson.jpg?w=640&ssl=1 640w, https://i1.wp.com/geidh.uk/wp-content/uploads/2018/07/Blair_Wilson.jpg?resize=300%2C162&ssl=1 300w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" />
     </dt>
-    
+
     <dd class='wp-caption-text gallery-caption' id='gallery-4-2543'>
       Dealbh de Bhlair Wilson às dèidh dha ionnsaidh a thoirt air.
     </dd>
   </dl>
-  
+
   <br style="clear: both" />
 </div>
 

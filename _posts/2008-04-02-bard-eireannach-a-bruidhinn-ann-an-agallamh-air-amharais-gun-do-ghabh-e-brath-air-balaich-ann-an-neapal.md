@@ -5,7 +5,7 @@ type: post
 date: 2008-04-02T10:49:15+00:00
 excerpt: 'Tha bàrd Èireannach, a tha fo amharas gun do ghabh e brath air balaich ann an Neapàl, air agallamh a dhèanamh air <em>Raidio na Gaeltachta</em>.'
 url: /bard-eireannach-a-bruidhinn-ann-an-agallamh-air-amharais-gun-do-ghabh-e-brath-air-balaich-ann-an-neapal/
-featured_image: /wp-content/uploads/2008/04/Cathal_O_Searcaigh.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An t-Saoghal
   - Cùltar

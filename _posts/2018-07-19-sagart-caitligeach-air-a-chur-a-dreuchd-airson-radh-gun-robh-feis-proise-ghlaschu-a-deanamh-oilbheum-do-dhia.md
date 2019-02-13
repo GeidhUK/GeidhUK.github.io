@@ -5,7 +5,7 @@ type: post
 date: 2018-07-19T21:15:00+00:00
 excerpt: "Chaidh an t-sagart Caitligeach Mark Morris a chur à dreuchd le Oilthigh Cailleannach Ghlaschu as dèidh dha ràdh gu bheil fèis-pròise Ghlaschu a' dèanamh oilbheum do Dhia."
 url: /sagart-caitligeach-air-a-chur-a-dreuchd-airson-radh-gun-robh-feis-proise-ghlaschu-a-deanamh-oilbheum-do-dhia/
-featured_image: /wp-content/uploads/2018/07/Father_Mark_Morris.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - Alba
   - Creideamh

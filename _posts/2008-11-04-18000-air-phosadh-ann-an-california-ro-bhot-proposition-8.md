@@ -5,7 +5,7 @@ type: post
 date: 2008-11-04T18:13:45+00:00
 excerpt: "Tha ionad-rannsachaidh anns na Stàitean Aonaichte air ràdh gu bheil còrr 's 18,000 daoine air phòsadh ann an California o chionn 17mh dhen t-Òg-mhios 2008 nuair a rinn na h-ùghdarrasan pòsadh aon-sheòrsach na lagh."
 url: /18000-air-phosadh-ann-an-california-ro-bhot-proposition-8/
-featured_image: /wp-content/uploads/2009/05/Prop8.gif
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An t-Saoghal
   - Lagh

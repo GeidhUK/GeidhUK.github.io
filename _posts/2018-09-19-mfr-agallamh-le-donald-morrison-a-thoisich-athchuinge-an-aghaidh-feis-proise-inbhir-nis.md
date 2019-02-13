@@ -4,7 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2018-09-19T06:15:53+00:00
 url: /mfr-agallamh-le-donald-morrison-a-thoisich-athchuinge-an-aghaidh-feis-proise-inbhir-nis/
-featured_image: /wp-content/uploads/2018/07/Proud_Ness.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - Alba
   - Fèisean-pròise

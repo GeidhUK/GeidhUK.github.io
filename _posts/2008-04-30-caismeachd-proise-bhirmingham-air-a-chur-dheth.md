@@ -5,7 +5,7 @@ type: post
 date: 2008-04-30T18:52:49+00:00
 excerpt: "Cha tèid caismeachd-pròise Bhirmingham air adhart am-bliadhna air sgàth 's trioblaidean ionmhais."
 url: /caismeachd-proise-bhirmingham-air-a-chur-dheth/
-featured_image: /wp-content/uploads/2008/04/Birmingham_Pride.png
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An Rìoghachd Aonaichte
   - Cùltar

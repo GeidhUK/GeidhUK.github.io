@@ -5,7 +5,7 @@ type: post
 date: 2008-03-14T14:01:28+00:00
 excerpt: "Chaidh riaghailtean ùr fhoillseachadh le Seirbheis Casaid a' Chrùin an-diugh airson stiùireadh a thoirt do luchd-casaid a' dèiligeadh ri cùisean-lagha far a bheil daoine air HIV a sgaoileadh a dh’aona-ghnothach."
 url: /riaghailtean-ura-air-fhoillseachadh-airson-casaidean-hiv/
-featured_image: /wp-content/uploads/2008/03/CPS.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An Rìoghachd Aonaichte
   - Poilitigs

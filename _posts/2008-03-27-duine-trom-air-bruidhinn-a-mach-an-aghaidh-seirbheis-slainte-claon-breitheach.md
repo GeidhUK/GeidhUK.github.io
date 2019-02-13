@@ -5,7 +5,7 @@ type: post
 date: 2008-03-27T08:52:10+00:00
 excerpt: 'Tha duine tar-ghnèitheach à Portland, Oregon air ràdh anns a’ cholbh aige anns an iris co-sheòrsach <em>The Advocate</em> gu bheil e trom.'
 url: /duine-trom-air-bruidhinn-a-mach-an-aghaidh-seirbheis-slainte-claon-breitheach/
-featured_image: /wp-content/uploads/2008/03/Thomas_Beatie.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An t-Saoghal
   - Slàinte

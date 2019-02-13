@@ -5,7 +5,7 @@ type: post
 date: 2009-03-13T22:11:34+00:00
 excerpt: "Thèid ath-sgrùdadh a dhèanamh air an casg a th' air fireannaich co-sheòrsach agus dà-sheòrsach bho bhith a' toirt seachad fala."
 url: /deasbad-mu-dhaoine-co-sheorsach-a-toirt-seachad-fala/
-featured_image: /wp-content/uploads/2009/03/giveblood-logo3.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An Rìoghachd Aonaichte
   - Slàinte

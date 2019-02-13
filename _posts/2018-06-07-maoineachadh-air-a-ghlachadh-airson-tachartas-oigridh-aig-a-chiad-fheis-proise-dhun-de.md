@@ -5,7 +5,7 @@ type: post
 date: 2018-06-07T11:38:37+00:00
 excerpt: "Chaidh maoineachadh de £2500 a ghlacadh leis a' bhuidheann-òigridh Purple Dragons gus tachartas òigridh a chumail mar phàirt dhen chiad Fhèis Pròis Dhùn Dè."
 url: /maoineachadh-air-a-ghlachadh-airson-tachartas-oigridh-aig-a-chiad-fheis-proise-dhun-de/
-featured_image: /wp-content/uploads/2018/06/Purple_Dragon_Group.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - Alba
   - Fèisean-pròise

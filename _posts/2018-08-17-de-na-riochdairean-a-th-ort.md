@@ -5,7 +5,7 @@ type: post
 date: 2018-08-17T08:41:32+00:00
 excerpt: 'Seo agaibh ceangal gu deasbad gu math inntinneach le Anna NicNeacail (@axnicho) agus Michael Bauer (@akerbeltz) mu bhriathrachas LCDTE agus gu h-àraid riochdairean freagarrach do dhaoine neo-bhìnearaidh: https://transponderings.blog/2018/03/09/de-na-riochdairean-a-th-ort/'
 url: /de-na-riochdairean-a-th-ort/
-featured_image: /wp-content/uploads/2018/08/IMG_0026.png
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - Ceanglaichean
   - Gàidhlig

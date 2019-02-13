@@ -5,7 +5,7 @@ type: post
 date: 2008-03-28T08:30:43+00:00
 excerpt: Tha cùirt ann am Braisil air ràdh gum feum duine airgead-sgaraidh a phàigheadh ri seann chompanach co-sheòrsach aige.
 url: /duine-posta-air-ordughachadh-ri-airgead-sgaraidh-a-phaigheadh-ri-seann-chompanach-co-sheorsach/
-featured_image: /wp-content/uploads/2008/03/Bratach_Bhraisil-.png
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An t-Saoghal
   - Lagh

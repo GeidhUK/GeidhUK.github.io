@@ -5,7 +5,7 @@ type: post
 date: 2018-10-10T13:17:32+00:00
 excerpt: "Thèid fèis-pròise a chumail anns an t-Òban an ath-bhliadhna airson a' chiad turas a-riamh."
 url: /an-t-oban-airson-a-chiad-feis-proise-aca-a-chumail-an-ath-bhliadhna/
-featured_image: /wp-content/uploads/2018/10/8835640B-CFAD-498E-8BFF-8B4F9182B41D.jpeg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - Alba
   - Fèisean-pròise

@@ -5,7 +5,7 @@ type: post
 date: 2019-01-06T10:58:38+00:00
 excerpt: "Tha Þórólfur Guðnason, aon dhe na prìomh eòlaichean sgaoileadh-ghalaran ann an Innis Tìle, air iarraidh air an riaghaltas crìoch a chur air a' chasg iomlan a th' air fireannaich co-sheòrsach agus dà-sheòrsach bho bhith a' toirt seachad fala."
 url: /eolaiche-sgaoileadh-ghalaran-air-iarraidh-air-riaghaltas-innis-tile-crioch-a-chur-air-a-chasg-a-tha-toirmeasg-daoine-geidh-bho-bhith-a-toirt-seachad-fala/
-featured_image: /wp-content/uploads/2018/06/BloodDonor.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An Roinn-eòrpa
   - An t-Saoghal

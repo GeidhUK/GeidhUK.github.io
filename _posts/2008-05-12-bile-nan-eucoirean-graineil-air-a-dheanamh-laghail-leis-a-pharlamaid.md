@@ -6,7 +6,7 @@ date: 2008-05-12T16:31:06+00:00
 excerpt: |
   Tha Taigh nam Morairean air <em>the Criminal Justice and Immigration Bill</em> a dhèanamh na lagh a' ciallachadh gum bi eucoirean gràineil an-aghaidh daoine LCDT mì-laghail.
 url: /bile-nan-eucoirean-graineil-air-a-dheanamh-laghail-leis-a-pharlamaid/
-featured_image: /wp-content/uploads/2008/03/Lords.png
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An Rìoghachd Aonaichte
   - Lagh
@@ -34,8 +34,8 @@ tags:
   - Tòraidhean
 
 ---
-> 
-<img class="alignnone size-full wp-image-140" title="Pàrlamaid" src="https://i0.wp.com/s3.media.squarespace.com/production/303409/11165291/naidheachdanpinc/wp-content/uploads/2008/05/parliament.jpg?resize=250%2C300" alt="Pàrlamaid" width="250" height="300" data-recalc-dims="1" /> 
+>
+<img class="alignnone size-full wp-image-140" title="Pàrlamaid" src="https://i0.wp.com/s3.media.squarespace.com/production/303409/11165291/naidheachdanpinc/wp-content/uploads/2008/05/parliament.jpg?resize=250%2C300" alt="Pàrlamaid" width="250" height="300" data-recalc-dims="1" />
 
 Tha Taigh nam Morairean air _the Criminal Justice and Immigration Bill_ a dhèanamh na lagh a&#8217; ciallachadh gum bi eucoirean gràineil an-aghaidh daoine LCDT mì-laghail.
 

@@ -5,7 +5,7 @@ type: post
 date: 2008-06-12T12:57:36+00:00
 excerpt: 'Tha <a href="https://prideinlondon.org/">Fèis-pròise Lunnainn</a> air iris ùr fhoillseachadh an còis an caismeachd fhèin leis an dùil barrachd daoine a tharraing ris an tachartas am-bliadhna.'
 url: /feis-proise-lunnainn-air-iris-ur-fhoillseachadh/
-featured_image: /wp-content/uploads/2008/06/Pride_In_London.png
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An Rìoghachd Aonaichte
   - Cùltar

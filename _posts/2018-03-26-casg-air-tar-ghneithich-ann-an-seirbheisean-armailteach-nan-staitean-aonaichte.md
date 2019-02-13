@@ -5,7 +5,7 @@ type: post
 date: 2018-03-26T20:41:08+00:00
 excerpt: Chaidh a dhearbhadh le Ceann-suidhe nan Stàitean Aonaicte Donald Trump gu bheil casg air a chuid as motha de thar-ghnèithich le mì-rian ghnèitheach bho sheirbheis armailteach.
 url: /casg-air-tar-ghneithich-ann-an-seirbheisean-armailteach-nan-staitean-aonaichte/
-featured_image: /wp-content/uploads/2018/03/DonaldTrump_JamesMattis.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An t-Saoghal
   - Poilitigs

@@ -5,7 +5,7 @@ type: post
 date: 2018-01-05T22:56:37+00:00
 excerpt: Tha feachdan tèarainteachd ann am Mosul, Ioràc air bàsaire ISIS a chur fo chasaid.
 url: /basaire-isis-fo-chasaid-ann-an-iorac/
-featured_image: /wp-content/uploads/2018/01/Abu_Omer.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An t-Saoghal
   - Creideamh

@@ -5,7 +5,7 @@ type: post
 date: 2018-01-01T20:21:45+00:00
 excerpt: Gheibh an carthannas Òigridh LCDT na h-Alba (LGBT Youth Scotland) £75,000 bho Riaghaltas na h-Alba mar phàirt dhen sgeama “Bliadhna na h-Òigridh” a bhios iad a’ ruith fad 2018.
 url: /riaghaltas-a-toirt-maoineachadh-de-75000-dhan-charthannas-oigridh-lcdt-na-h-alba/
-featured_image: /wp-content/uploads/2018/01/LGBT-Youth-Scotland.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - Alba
   - Poilitigs

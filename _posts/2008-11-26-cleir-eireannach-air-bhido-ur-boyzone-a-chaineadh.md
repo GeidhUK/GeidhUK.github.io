@@ -5,7 +5,7 @@ type: post
 date: 2008-11-26T17:13:55+00:00
 excerpt: "Tha clèir Èireannach air am bhidio-ciùil ùr aig Boyzone a chàineadh agus e ag ràdh gu bheil iad a' sgaoileadh teachdaireachd marbhtach."
 url: /cleir-eireannach-air-bhido-ur-boyzone-a-chaineadh/
-featured_image: /wp-content/uploads/2008/11/Boyzone-Better.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - Creideamh
   - Cùltar

@@ -5,7 +5,7 @@ type: post
 date: 2018-06-06T21:02:49+00:00
 excerpt: Tha Pàrlamaid na h-Alba air bhotadh gu h-aon-ghuthach airson lagh ùr a chur an gnìomh a chìthear mathanas oifigeil a thoirt do dhaoine co-sheòrsach agus dà-sheòrsach a chaidh an dìteadh fo laghan lethbhreith eachdraidheil.
 url: /parlamaid-na-h-alba-air-bhotadh-gus-lagh-thuring-a-chur-an-gniomh/
-featured_image: /wp-content/uploads/2018/04/Parlamaid_na_h_Alba.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - Alba
   - Poilitigs

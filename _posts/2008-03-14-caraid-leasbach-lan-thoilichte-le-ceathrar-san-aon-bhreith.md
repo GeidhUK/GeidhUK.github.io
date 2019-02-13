@@ -5,7 +5,7 @@ type: post
 date: 2008-03-14T17:44:38+00:00
 excerpt: Tha càraid leasbach a tha ag obair airson Roinn Poileas Irvine ann an Siorrachd Orains, California làn-thoilichte le ceathrar san aon bhreith, dithis bhalach agus dithis nighean.
 url: /caraid-leasbach-lan-thoilichte-le-ceathrar-san-aon-bhreith/
-featured_image: /wp-content/uploads/2008/03/CG_PL.png
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An t-Saoghal
   - Slàinte

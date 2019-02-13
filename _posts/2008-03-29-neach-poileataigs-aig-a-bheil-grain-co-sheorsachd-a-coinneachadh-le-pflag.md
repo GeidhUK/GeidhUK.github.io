@@ -5,7 +5,7 @@ type: post
 date: 2008-03-29T09:58:46+00:00
 excerpt: 'Tha neach-poileataigs à Oklahoma, a tha ainmeil airson ag ràdh gu bheil daoine co-sheòrsach nan bagairtean nas motha ris na Stàitean Aonaichte na tha ceannaircich, air a bhith a’ coinneachadh le buidheann PFLAG (Parents & Friends of Lesbians & Gays).'
 url: /neach-poileataigs-aig-a-bheil-grain-co-sheorsachd-a-coinneachadh-le-pflag/
-featured_image: /wp-content/uploads/2008/04/Sally_Kern.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An t-Saoghal
   - Creideamh

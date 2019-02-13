@@ -5,7 +5,7 @@ type: post
 date: 2008-04-30T19:34:14+00:00
 excerpt: Tha Colin McAllister agus Justin Ryan air phòsadh ann an seirbheis dìomhair aig an Oifis Chlàraidh Chelsea ann an Glaschu.
 url: /colin-justin-air-phosadh-ann-an-seirbheis-diomhair/
-featured_image: /wp-content/uploads/2008/04/Colin_and_Justin.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - Alba
   - Cùltar

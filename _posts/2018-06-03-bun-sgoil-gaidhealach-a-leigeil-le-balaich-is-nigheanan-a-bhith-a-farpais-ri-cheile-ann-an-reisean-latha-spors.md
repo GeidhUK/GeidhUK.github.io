@@ -5,7 +5,7 @@ type: post
 date: 2018-06-03T19:03:11+00:00
 excerpt: "Tha Bun-sgoil Mharc-Innis ann an Inverness air leigeil le balaich is nigheanan a bhith a' farpais ri chèile ann an rèisean latha spòrs."
 url: /bun-sgoil-gaidhealach-a-leigeil-le-balaich-is-nigheanan-a-bhith-a-farpais-ri-cheile-ann-an-reisean-latha-spors/
-featured_image: /wp-content/uploads/2018/06/Merkinch_Primary_School.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - Alba
   - Foghlam

@@ -5,7 +5,7 @@ type: post
 date: 2008-06-22T18:03:15+00:00
 excerpt: "Thèid bile ùr a bhios a' brosnachadh co-ionannachd do dhaoine LCDT ainmeachadh gu h-oifigeil leis a' Bhanrigh anns an òraid aice san t-Samhain."
 url: /bile-ur-a-brosnachadh-co-ionannachd-do-dhaoine-lcdt/
-featured_image: /wp-content/uploads/2008/06/Banrigh_Ealasaid_II.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An Rìoghachd Aonaichte
   - Lagh

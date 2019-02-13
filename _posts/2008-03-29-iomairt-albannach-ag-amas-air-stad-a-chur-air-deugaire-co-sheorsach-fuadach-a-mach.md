@@ -5,7 +5,7 @@ type: post
 date: 2008-03-29T09:22:09+00:00
 excerpt: Chaidh iomairt a stèideachadh gus deugaire co-sheòrsach, a tha gu bhith a’ fuadach a-mach às an Rìoghachd Aonaichte, a shabhaladh.
 url: /iomairt-albannach-ag-amas-air-stad-a-chur-air-deugaire-co-sheorsach-fuadach-a-mach/
-featured_image: /wp-content/uploads/2008/03/Runaire_na_Duthcha.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - Alba
   - An Rìoghachd Aonaichte

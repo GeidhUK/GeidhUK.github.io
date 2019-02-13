@@ -5,7 +5,7 @@ type: post
 date: 2018-09-26T13:00:10+00:00
 excerpt: Chaidh a dhearbhadh madainn Dimàirt gum faod Fèis-pròise Inbhir Nis dol air adhart 6mh Dàmhair.
 url: /comhairle-air-cead-a-thoirt-seachad-airson-feis-proise-inbhir-nis-a-dhol-air-adhart/
-featured_image: /wp-content/uploads/2018/07/Proud_Ness.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - Alba
   - Fèisean-pròise

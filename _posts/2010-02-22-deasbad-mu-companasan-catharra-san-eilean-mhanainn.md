@@ -5,7 +5,7 @@ type: post
 date: 2010-02-22T21:04:46+00:00
 excerpt: "Thathar gu bhith a' deasbad Bile Companasan-catharra anns an House of Keys a-màireach."
 url: /deasbad-mu-companasan-catharra-san-eilean-mhanainn/
-featured_image: /wp-content/uploads/2011/01/image12-760x440.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An Rìoghachd Aonaichte
   - An Roinn-eòrpa

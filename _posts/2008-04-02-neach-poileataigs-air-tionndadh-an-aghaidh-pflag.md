@@ -5,7 +5,7 @@ type: post
 date: 2008-04-02T10:59:53+00:00
 excerpt: Tha Riochdaire Sally Kern air tionndadh an aghaidh PFLAG an dèidh coinneamh dòchasach còmhla riutha seachdain seo chaidh.
 url: /neach-poileataigs-air-tionndadh-an-aghaidh-pflag/
-featured_image: /wp-content/uploads/2008/04/Sally_Kern.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An t-Saoghal
   - Creideamh

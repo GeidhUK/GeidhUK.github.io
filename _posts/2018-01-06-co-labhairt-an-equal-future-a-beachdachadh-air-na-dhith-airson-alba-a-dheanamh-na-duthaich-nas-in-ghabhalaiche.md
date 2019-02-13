@@ -5,7 +5,7 @@ type: post
 date: 2018-01-06T16:58:46+00:00
 excerpt: Tha Òigridh LGDT na h-Alba agus Clann ann an Alba gu bhith a’ cumail co-labhairt gus beachdachadh air na dhìth airson Alba a dhèanamh na dùthaich nas in-ghabhalaiche.
 url: /co-labhairt-an-equal-future-a-beachdachadh-air-na-dhith-airson-alba-a-dheanamh-na-duthaich-nas-in-ghabhalaiche/
-featured_image: /wp-content/uploads/2018/01/LGBTYS_An_Equal_Future.png
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - Alba
   - Foghlam

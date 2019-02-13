@@ -6,7 +6,7 @@ date: 2008-10-08T19:13:13+00:00
 excerpt: |
   Bidh an iomairt <a href="https://www.nusconnect.org.uk/liberation/lgbt-students" title="NUS LGBT">NUS LGBT</a> agus <em>Gay Rights Uganda</em> a' togail fianais an-aghaidh Riaghaltas Uganda nach eil a' cur stad air geur-leanmhainn agus cràdh an daoine LCDT san dùthaich.
 url: /oileanaich-an-sas-ann-an-iomairt-airson-coirichean-daonna/
-featured_image: /wp-content/uploads/2008/10/Bratach_Uganda.png
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An Rìoghachd Aonaichte
   - An t-Saoghal

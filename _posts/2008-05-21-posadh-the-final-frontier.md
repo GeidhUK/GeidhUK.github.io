@@ -5,7 +5,7 @@ type: post
 date: 2008-05-21T11:19:46+00:00
 excerpt: Tha George Takei air fhoillseachadh air an làrach-lìn aige gu bheil e an dùil a chompanach, Brad Altman, phòsadh.
 url: /posadh-the-final-frontier/
-featured_image: /wp-content/uploads/2008/05/George_Takei_Brad-Altman.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An t-Saoghal
   - Cùltar

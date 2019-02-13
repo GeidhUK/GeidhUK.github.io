@@ -5,7 +5,7 @@ type: post
 date: 2008-03-31T13:25:10+00:00
 excerpt: Fhad ’s a tha gnìomhaichean LCDTE ann an Èirinn a’ feitheamh ri chluinntinn molaidhean an Riaghaltas airson càraidean aon-sheòrsach aithneachadh gu h-oifigeil, tha cunntas-bheachd ùr a’ sealltainn gu bheil a’ mhòr-chuid ann an Èirinn air a shon.
 url: /taic-airson-posaidhean-co-sheorsach-a-fas-nas-laidire-ann-an-eirinn/
-featured_image: /wp-content/uploads/2008/03/Bratach_na_h_Eireann.png
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - Èirinn
   - Lagh

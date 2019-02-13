@@ -5,7 +5,7 @@ type: post
 date: 2009-05-26T19:29:09+00:00
 excerpt: Tha Eaglais na h-Alba air casg a chur air ministearan co-sheòrsach ùra fad dà bhliadhna.
 url: /casg-air-ministearan-co-sheorsach-ura-fad-da-bhliadhna/
-featured_image: /wp-content/uploads/2009/05/Scott-Rennie.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - Alba
   - An Rìoghachd Aonaichte

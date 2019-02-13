@@ -5,7 +5,7 @@ type: post
 date: 2018-11-05T19:50:43+00:00
 excerpt: Chaidh ainmeachadh leis an Riaghaltas Didòmhnaich gun tèid maoineachadh de £1 millean a bharrachd a thoirt dhan strì an aghaidh burraidheachd LCDT+ ann an sgoiltean.
 url: /maoineachadh-de-1-millean-a-bharrachd-dhan-iomairt-an-aghaidh-burraidheachd-lcdt/
-featured_image: /wp-content/uploads/2018/11/LGBT_Advisory_Panel.png
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An Rìoghachd Aonaichte
   - Foghlam

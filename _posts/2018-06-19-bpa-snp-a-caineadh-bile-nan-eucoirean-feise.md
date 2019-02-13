@@ -5,7 +5,7 @@ type: post
 date: 2018-06-19T10:52:16+00:00
 excerpt: Tha John Mason BPA air a bhith a’ càineadh lagh ùr a chitheas mathanas a thoirt do dhaoine co-sheòrsach agus dà-sheòrsach a chaidh an dìteadh fo laghan eachdraidheil.
 url: /bpa-snp-a-caineadh-bile-nan-eucoirean-feise/
-featured_image: /wp-content/uploads/2018/04/Parlamaid_na_h_Alba.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - Alba
   - Poilitigs

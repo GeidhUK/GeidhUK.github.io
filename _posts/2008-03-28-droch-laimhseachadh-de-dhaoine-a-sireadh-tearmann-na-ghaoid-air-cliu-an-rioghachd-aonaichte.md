@@ -5,7 +5,7 @@ type: post
 date: 2008-03-28T09:09:59+00:00
 excerpt: Tha coimisean a chaidh a stèidheachadh gus poileasaidhean tèarmann anns an Rìoghachd Aonaichte sgrùdadh ag ràdh nach eil na poileasaidhean cho àrd ’s a bu chòir dhaibh a bhith airson dùthaich “sìobhaltach”.
 url: /droch-laimhseachadh-de-dhaoine-a-sireadh-tearmann-na-ghaoid-air-cliu-an-rioghachd-aonaichte/
-featured_image: /wp-content/uploads/2008/03/Iran.png
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An Rìoghachd Aonaichte
   - An t-Saoghal

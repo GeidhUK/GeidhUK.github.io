@@ -5,7 +5,7 @@ type: post
 date: 2018-06-21T13:58:34+00:00
 excerpt: Tha Riaghaltas na h-Èireann air leisgeul foirmeil a thoirt do dhaoine co-sheòrsach a chaidh a dhìteadh fo laghan eachdraidheil.
 url: /riaghaltas-na-h-eireann-air-leisgeul-a-thoirt-do-dhaoine-co-sheorsach-a-chaidh-a-dhiteadh-fo-laghan-eachdraidheil/
-featured_image: /wp-content/uploads/2018/06/Government_Buildings_Dublin.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An Roinn-eòrpa
   - Èirinn

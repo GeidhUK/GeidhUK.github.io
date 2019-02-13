@@ -5,7 +5,7 @@ type: post
 date: 2008-03-28T11:48:48+00:00
 excerpt: 'Tha an <em>An Chomhairle Náisiúnta Curaclaim agus Measúnachta</em> (An Comhairle Nàiseanta Curraicealaim agus Measaidh) ann an Èirinn ag ràdh gum bi obraichean Cathal Ó Searcaigh a’ fuireach air curraicealam na h-Èirinn ged a tha am bàrd fo amharas gun do ghabh e brath air balaich ann an Neapàl.'
 url: /bard-connspaideach-a-fuireach-air-curraicealam-na-h-eirinn/
-featured_image: /wp-content/uploads/2008/04/Cathal_O_Searcaigh.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An t-Saoghal
   - Cùltar

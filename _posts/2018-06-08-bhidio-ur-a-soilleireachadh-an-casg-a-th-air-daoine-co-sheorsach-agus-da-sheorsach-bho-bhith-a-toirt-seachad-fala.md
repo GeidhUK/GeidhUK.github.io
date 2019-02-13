@@ -5,7 +5,7 @@ type: post
 date: 2018-06-08T12:27:20+00:00
 excerpt: "Tha an iomairtiche airson còirichean LCDTE+, Peter Tatchell, air bhidio a sgaoileadh air YouTube gus an casg a th' air daoine co-sheòrsach agus dà-sheòrsach bho bhith a' toirt seachad fala a shoillearachadh."
 url: /bhidio-ur-a-soilleireachadh-an-casg-a-th-air-daoine-co-sheorsach-agus-da-sheorsach-bho-bhith-a-toirt-seachad-fala/
-featured_image: /wp-content/uploads/2018/06/Gaydr.png
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - Slàinte
 tags:

@@ -5,7 +5,7 @@ type: post
 date: 2008-03-30T10:11:56+00:00
 excerpt: Tha luchd-lagha anns a’ Chùba a’ beachdachadh air laghan ùra a dhèanamh gus còirichean co-ionann a thoirt ris a’ choimhearsnachd co-sheòrsach.
 url: /parlamaid-chuba-a-beachdachadh-air-coirichean-lcdte/
-featured_image: /wp-content/uploads/2008/03/Bratach_Chuba.png
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An t-Saoghal
   - Lagh

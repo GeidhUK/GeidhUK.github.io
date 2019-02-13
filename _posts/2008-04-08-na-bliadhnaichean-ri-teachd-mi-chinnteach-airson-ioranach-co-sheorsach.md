@@ -5,7 +5,7 @@ type: post
 date: 2008-04-08T17:36:21+00:00
 excerpt: Tha Medhi Kazemi air tilleadh ris an Rìoghachd Aonaichte.
 url: /na-bliadhnaichean-ri-teachd-mi-chinnteach-airson-ioranach-co-sheorsach/
-featured_image: /wp-content/uploads/2008/03/Iran.png
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An Rìoghachd Aonaichte
   - An Roinn-eòrpa

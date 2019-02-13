@@ -5,7 +5,7 @@ type: post
 date: 2008-03-17T11:06:56+00:00
 excerpt: Chaidh reachdas ùr a chur ri chèile ann an Nirribhidh a bhios a’ toirt cead pòsaidh do càraidean aon-sheòrsach a bharrachd air còirichean co-ionann a-thaobh cùram air clann.
 url: /nirribhidh-a-deanamh-posaidhean-aon-sheorsach-laghail/
-featured_image: /wp-content/uploads/2008/03/Norway.png
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An Roinn-eòrpa
   - Creideamh

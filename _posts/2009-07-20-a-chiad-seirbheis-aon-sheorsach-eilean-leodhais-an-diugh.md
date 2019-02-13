@@ -5,7 +5,7 @@ type: post
 date: 2009-07-20T18:55:52+00:00
 excerpt: "Thèid a' chiad seirbheis aon-sheòrsach a chumail ann an Eilean Leòdhais an-diugh nuair a thèid Anndra Robasdan agus Craig Atkins am pòsadh."
 url: /a-chiad-seirbheis-aon-sheorsach-eilean-leodhais-an-diugh/
-featured_image: /wp-content/uploads/2011/01/image12-760x440.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - Alba
   - An Rìoghachd Aonaichte

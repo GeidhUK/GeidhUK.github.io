@@ -5,7 +5,7 @@ type: post
 date: 2008-03-15T11:17:37+00:00
 excerpt: Tha gnìomhaichean LCDTE ag ràdh gum bu chòir do Riaghaltas Bhreatainn ath-sgrùdadh a dhèanamh air cùisean-lagha aig Iorànach co-sheòrsach eile as dèidh do chùis Medhi Kazemi allsachadh.
 url: /ioranach-co-sheorsach-fhathast-ri-bhith-fuadachadh-a-mach-as-an-ra/
-featured_image: /wp-content/uploads/2008/03/Iran.png
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An Rìoghachd Aonaichte
   - An t-Saoghal

@@ -5,7 +5,7 @@ type: post
 date: 2019-01-04T15:57:05+00:00
 excerpt: Chaidh a nochdadh gur ann aig Èirinn a Tuath a tha an an ìre uchd-mhacaichidh as ìsle a-measg càraidean aon-sheòrsach anns an Rìoghachd Aonaichte le dìreach 1 anns gach 15 iarrtasan soirbheachadh, an taca ri 1 anns gach 2 ann an àiteachan eile san Rìoghachd Aonaichte.
 url: /direach-da-charaid-aon-sheorsach-air-leanabh-uchd-mhacachadh-ann-an-eirinn-a-tuath-o-chionn-2013/
-featured_image: /wp-content/uploads/2019/01/Teaghlach.png
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An Rìoghachd Aonaichte
 tags:
@@ -31,7 +31,7 @@ A-rèir na figearan, tha 30 càraid air iarrtas uchd-mhacaichidh a chur a-steach
 
 Chaidh na figearan [fhoillseachadh leis a&#8217; BhBC][1], às deidh iarrtas saorsa fiosrachaidh.
 
-Thuirt E. J. Havlin, stiùiriche Adoption UK ann an Èireann a Tuath, ris a&#8217; BhBC gur e an dòigh anns an do dh’atharraich an lagh a tha as coireach. 
+Thuirt E. J. Havlin, stiùiriche Adoption UK ann an Èireann a Tuath, ris a&#8217; BhBC gur e an dòigh anns an do dh’atharraich an lagh a tha as coireach.
 
 Bha an casg air càraidean aon-sheòrsach bho bhith uchd-mhacachadh a chur às le cùirtean Èirinn a Tuath as dèidh cùis-lagha fada seach leis a&#8217; Phàrlamaid mar a thachair anns an còrr dhen Rìoghachd Aonaichte.
 

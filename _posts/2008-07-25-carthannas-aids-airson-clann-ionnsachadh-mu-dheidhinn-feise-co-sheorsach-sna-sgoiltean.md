@@ -5,7 +5,7 @@ type: post
 date: 2008-07-25T18:31:20+00:00
 excerpt: 'Tha an àireamh de bhalaich HIV+ air dùblachadh san 10 bliadhna mu dheireadh a-rèir figearan air fhoillseachadh le <a href="https://www.gov.uk/government/organisations/health-protection-agency">Buidheann Dìon na Slàinte</a>.'
 url: /carthannas-aids-airson-clann-ionnsachadh-mu-dheidhinn-feise-co-sheorsach-sna-sgoiltean/
-featured_image: /wp-content/uploads/2008/07/NAT.png
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An Rìoghachd Aonaichte
   - Foghlam

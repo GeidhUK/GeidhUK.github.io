@@ -5,7 +5,7 @@ type: post
 date: 2009-03-24T18:53:05+00:00
 excerpt: "Cha tèid Iris Robinson, BP à Èirinn a Tuath, a thoirt gu lagh leis a' phoileas airson moladh gur e tinneas-inntinn a th' ann an co-sheòrsachd agus coimeas a dhèanamh eadar daoine co-sheòrsach agus <em>paedophiles</em>."
 url: /cha-teid-bp-iris-robinson-a-thoirt-gu-lagh/
-featured_image: /wp-content/uploads/2009/03/Iris-Robinson.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An Rìoghachd Aonaichte
   - Poilitigs

@@ -5,7 +5,7 @@ type: post
 date: 2008-04-08T18:01:37+00:00
 excerpt: "Chaidh aithisg fhoillseachadh leis an Ionad airson Smachd a chumail air Tinneasan (an CDC) a tha a' sealltainn gu bheil cùisean HIV air àrdachadh le 48% anns na Stàitean Aonaichte eadar 2005-2006."
 url: /cuisean-hiv-air-ardachadh-le-48-anns-na-staitean-aonaichte/
-featured_image: /wp-content/uploads/2008/03/Bratach_nan_Staitean_Aonaichte.png
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An t-Saoghal
   - Slàinte

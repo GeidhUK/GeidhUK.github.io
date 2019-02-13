@@ -5,7 +5,7 @@ type: post
 date: 2008-03-30T10:54:04+00:00
 excerpt: Tha tidsearan co-sheòrsach ann an Èirinn gu bhith gan cur à dreuchd air sgàth ’s gu bheil an gnèitheachd aca a’ dol an aghaidh poileasaidh creideamh nan sgoiltean.
 url: /tidsearan-co-sheorsach-ann-an-eirinn-gu-bhith-gan-cur-a-dreuchd/
-featured_image: /wp-content/uploads/2008/03/Bratach_na_h_Eireann.png
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - Creideamh
   - Èirinn

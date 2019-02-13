@@ -5,7 +5,7 @@ type: post
 date: 2008-07-20T20:45:25+00:00
 excerpt: "Tha cùirt air Riaghaltas na h-Eadailt òrdachadh gus €100,000 (£80,000) a thoirt gu daoine co-sheòrsach a chiall an cead-dràibhidh aige o chionn 's an gnèitheachd aige."
 url: /eadailteach-air-80000-fhaighinn-air-sgath-s-gun-do-chiall-e-an-cead-draibhidh-aige-o-chionn-s-gu-bheil-e-co-sheorsach/
-featured_image: /wp-content/uploads/2008/07/Bratach_na_h_Eadailte.png
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An Roinn-eòrpa
   - Lagh

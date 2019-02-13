@@ -5,7 +5,7 @@ type: post
 date: 2018-07-18T20:54:00+00:00
 excerpt: Chaidh a dhearbhadh le Fòram LCDTE na Gàidhealtachd an-diugh gun tèid fèis-pròise a chumail ann an Inbhir Nis 8mh An Dàmhair 2018.
 url: /proud-ness-gu-bhith-a-cumail-sreath-de-thachartasan-lcdte-air-feadh-na-ghaidhealtachd/
-featured_image: /wp-content/uploads/2018/07/Proud_Ness.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - Alba
   - Cùltar

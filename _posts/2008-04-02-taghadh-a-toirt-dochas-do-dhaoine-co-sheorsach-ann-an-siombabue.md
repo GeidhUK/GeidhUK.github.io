@@ -5,7 +5,7 @@ type: post
 date: 2008-04-02T10:20:12+00:00
 excerpt: "Tha daoine co-sheòrsach ann an Sìombabue an dòchas gum bi smachd Robert Mugabe a' tighinn gu crìoch an seachdain seo."
 url: /taghadh-a-toirt-dochas-do-dhaoine-co-sheorsach-ann-an-siombabue/
-featured_image: /wp-content/uploads/2008/04/Bratach_Siombabue.png
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - An t-Saoghal
   - Poilitigs
