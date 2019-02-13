@@ -2,29 +2,11 @@
 title: Buidheann LCDT Grèigeach air beàrn a lorg ann an laghan pòsaidh
 author: Crìstean MacMhìcheil
 type: post
-date: 2008-03-14T09:54:55+00:00
-excerpt: 'Tha buidheann LCDT anns a’ Ghrèig (<a href="http://www.olke.org/">OKLE</a>) a’ bagairt ùghdarrasan ionadail a thoirt gu lagh  air sgàth ’s nach eil iad deònach càraidean co-sheòrsach a phòsadh ged a lagan pòsaidh a’ mìneachadh pòsadh mar aonadh eadar daoine an àite duine agus bean.'
-url: /buidheann-lcdt-greigeach-air-bearn-a-lorg-ann-an-laghan-posaidh/
+date: 2008-03-14 09:54:55
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - An Roinn-eòrpa
-  - Poilitigs
-tags:
-  - "A' Ghrèig"
-  - age of consent
-  - aois aontachaidh
-  - co-ionnannachd pòsaidh
-  - Greece
-  - Greek
-  - Grèigeach
-  - marriage
-  - marriage equality
-  - OLKE
-  - pòsadh
-  - pòsadh aon-sheòrsach
-  - same-sex marriage
-  - ΟΛΚΕ
-
+  - an-roinn-eorpa
+  - poilitigs
 ---
 Tha buidheann LCDT anns a’ Ghrèig ([OLKE][1]) a’ bagairt ùghdarrasan ionadail a thoirt gu lagh  air sgàth ’s nach eil iad deònach càraidean co-sheòrsach a phòsadh ged a lagan pòsaidh a’ mìneachadh pòsadh mar aonadh eadar daoine an àite duine agus bean.
 
