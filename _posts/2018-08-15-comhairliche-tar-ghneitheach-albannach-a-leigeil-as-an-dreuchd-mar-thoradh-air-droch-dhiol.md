@@ -16,8 +16,6 @@ Dh'ainmich Comhairliche Gregor Murray air Facebook gum biodh iad (*tha Gregor ne
 
 Ann an litir gu Ceannard na Comhairle, John Alexander, thug Murray iomradh air an droch dhìol a dh'fhuiling iad thairis air na mìosan a dh'fhalbh agus thuirt iad gur e seo an co-dhùnadh as fheàrr airson an slàinte-inntinn a tha air tuiteam fon ìre far am bu chòir dha bhith.
 
-
-
 [![Litir a sgrìobh Comhairliche Murray ri Comhairliche Alexander](http://geidh.uk/wp-content/uploads/2018/08/Screenshot-2018-08-14-at-19.40.28-527x1024.png){: post-image }](https://www.facebook.com/CllrGregorMurray/posts/2121515251420019)
 
 Chaidh Comhairliche Murray a chàineadh airson cànan a chleachd iad ann am brathan air-loidhne le buidhnean boireannaich.
