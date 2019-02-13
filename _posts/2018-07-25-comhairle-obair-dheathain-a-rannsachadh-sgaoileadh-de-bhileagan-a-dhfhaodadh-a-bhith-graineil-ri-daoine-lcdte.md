@@ -1,31 +1,43 @@
 ---
-layout: post
-title: Comhairle Obair Dheathain a' rannsachadh sgaoileadh de bhileagan a dh'fhaodadh a bhith gràineil ri daoine LCDTE
-date: 2018-07-25 19:48:§6
-categories: [alba, creideamh]
+title: Comhairle Obair Dheathain a’ rannsachadh sgaoileadh de bhileagan a dh’fhaodadh a bhith gràineil ri daoine LCDTE
 author: Crìstean MacMhìcheil
-author_url: https://twitter.com/macmhicheil
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-07-25-comhairle-obair-dheathain-a-rannsachadh-sgaoileadh-de-bhileagan-a-dhfhaodadh-a-bhith-graineil-ri-daoine-lcdte.jpg
+type: post
+date: 2018-07-25T19:48:16+00:00
+excerpt: "Chaidh rannsachadh a chur air bhog le Comhairle Obair Dheathain an dèidh sgaoileadh de bhileagan a dh'fhaodadh a bhith gràineil ri daoine LCDTE."
+url: /comhairle-obair-dheathain-a-rannsachadh-sgaoileadh-de-bhileagan-a-dhfhaodadh-a-bhith-graineil-ri-daoine-lcdte/
+featured_image: /wp-content/uploads/2018/07/MSCI_Leaflet.png
+categories:
+  - Alba
+tags:
+  - BBC
+  - Evening Times
+  - fèis-pròise
+  - Fèis-pròise a’ Mhonaidh
+  - Garthdee
+  - gràin-co-sheòrsachd
+  - Grampian Pride
+  - John Wheeler
+  - Kaimhill
+  - Mustard Seed Chapel International
+  - Obar Dheathain
+
 ---
+Chaidh rannsachadh a chur air bhog le Comhairle Obair Dheathain an dèidh sgaoileadh de bhileagan a dh&#8217;fhaodadh a bhith gràineil ri daoine LCDTE.
 
-Chaidh rannsachadh a chur air bhog le Comhairle Obair Dheathain an dèidh sgaoileadh de bhileagan a dh'fhaodadh a bhith gràineil ri daoine LCDTE.
+Tha bratach a&#8217; bhogha-frois a&#8217; nochdadh air beulaibh na bileig leis an tiotal &#8220;What come comes after pride&#8221; sgrìobhte air agus a-rèir an _Evening Times_ tha abairtean a leithid &#8220;_pride is something evil that comes from a person’s heart_&#8221; agus &#8220;_God sees pride the same way he sees so many other behaviours – as sinful_” a&#8217; nochdadh na broinn.
 
-<!--more-->
+Tha coltach gun deach na bileagan a sgaoileadh leis a&#8217; bhuidhinn _Mustard Seed Chapel International_.
 
-Tha bratach a' bhogha-frois a' nochdadh air beulaibh na bileig leis an tiotal *"What come comes after pride"* sgrìobhte air agus a-rèir an *Evening Times* tha abairtean a leithid *"pride is something evil that comes from a person’s heart"* agus *"God sees pride the same way he sees so many other behaviours – as sinful”* a' nochdadh na broinn.
+Thuirt neach-labhairt an seipeil ris an _Evening Times_ nach eil gràin-co-sheòrsachd sam bith anns na bileagan.
 
-Tha coltach gun deach na bileagan a sgaoileadh leis a' bhuidhinn *Mustard Seed Chapel International*.
+Bidh a&#8217; bhuidheann a&#8217; coinneachadh ann an Sgoil Kaimhill ann an Garthdee, a tha leis an ùghdarras ionadail.
 
-Thuirt neach-labhairt an seipeil ris an *Evening Times* nach eil gràin-co-sheòrsachd sam bith anns na bileagan.
+Dh&#8217;iarr luchd-fuirich Garthdee air a&#8217; Chomhairle Ionadail iarraidh air Comhairle Obar Dheathain gus casg a chur air a&#8217; bhuidhinn bhon togalach.
 
-Bidh a' bhuidheann a' coinneachadh ann an Sgoil Kaimhill ann an Garthdee, a tha leis an ùghdarras ionadail.
+Thuirt neach-gairm an Fhoghlaim, John Wheeler ris a&#8217; BhBC:
 
-Dh'iarr luchd-fuirich Garthdee air a' Chomhairle Ionadail iarraidh air Comhairle Obar Dheathain gus casg a chur air a' bhuidhinn bhon togalach.
+&#8220;Chan eil àite airson gràin-co-sheòrsachd ann an Obar Dheathain.&#8221;
 
-Thuirt neach-gairm an Fhoghlaim, John Wheeler ris a' BhBC:
+&#8220;Mar ùghdarras, bha sinn air leth toilichte taic a thoirt ri Fèis-pròise a’ Mhonaidh ann an Obar Dheathain na bu tràithe am-bliadhna. Tha tachartasan a leithid am fèis-pròise a&#8217; soillearachadh an iomadachd làidir a th&#8217; aig na coimhearsnachdan ann an Obar Dheathain.&#8221;
 
-"Chan eil àite airson gràin-co-sheòrsachd ann an Obar Dheathain."
-
-"Mar ùghdarras, bha sinn air leth toilichte taic a thoirt ri Fèis-pròise a’ Mhonaidh ann an Obar Dheathain na bu tràithe am-bliadhna. Tha tachartasan a leithid am fèis-pròise a' soillearachadh an iomadachd làidir a th' aig na coimhearsnachdan ann an Obar Dheathain."
-
-"Tha a' chomhairle a' rannsachadh an tachartais aig Kaimhill. Aon uair 's gu bheil an rannsachadh sin air co-dhùnadh a ruighinn thèid gnìomh iomchaidh sam bith a thoirt gu buil."
+&#8220;Tha a&#8217; chomhairle a&#8217; rannsachadh an tachartais aig Kaimhill. Aon uair &#8217;s gu bheil an rannsachadh sin air co-dhùnadh a ruighinn thèid gnìomh iomchaidh sam bith a thoirt gu buil.&#8221;

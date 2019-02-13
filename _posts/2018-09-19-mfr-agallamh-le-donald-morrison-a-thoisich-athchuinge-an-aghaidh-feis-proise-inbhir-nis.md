@@ -1,25 +1,37 @@
 ---
-layout: post
-title: MFR: Agallamh le Donald Morrison a thòisich athchuinge an-aghaidh Fèis-pròise Inbhir Nis
-date: 2018-09-19 06:15:53
-categories: [alba, feisean-proise]
+title: 'MFR: Agallamh le Donald Morrison a thòisich athchuinge an-aghaidh Fèis-pròise Inbhir Nis'
 author: Crìstean MacMhìcheil
-author_url: https://twitter.com/macmhicheil
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-09-19-mfr-agallamh-le-donald-morrison-a-thoisich-athchuinge-an-aghaidh-feis-proise-inbhir-nis.jpg
+type: post
+date: 2018-09-19T06:15:53+00:00
+url: /mfr-agallamh-le-donald-morrison-a-thoisich-athchuinge-an-aghaidh-feis-proise-inbhir-nis/
+featured_image: /wp-content/uploads/2018/07/Proud_Ness.jpg
+categories:
+  - Alba
+  - Fèisean-pròise
+tags:
+  - Bauer Radio Scotland
+  - Bryan Rutherford
+  - Donald Morrison
+  - fèis-pròise
+  - Fèis-pròise Inbhir Nis
+  - Fòram LCDT na Gàidhealtachd
+  - Highland LGBT Forum
+  - Inbhir Nis
+  - Inverness
+  - MFR
+  - Moray Firth Radio
+  - Proud Ness
+
 ---
+Seo agaibh agallamh a rinn _MFR_ / _Bauer Radio Scotland_ le Donald Morrison, fear a thòisich athchuinge an-aghaidh Fèis-pròise Inbhir Nis air sgàth, mar a chanas e, &#8220;adhbharan bìoballach, diadhaidh agus moralta&#8221;.
 
-Seo agaibh agallamh a rinn <em>MFR</em> / <em>Bauer Radio Scotland</em> le Donald Morrison, fear a thòisich athchuinge an-aghaidh Fèis-pròise Inbhir Nis air sgàth, mar a chanas e, "adhbharan bìoballach, diadhaidh agus moralta".
+Anns a&#8217; bhidio tha Mgr Morrison ag ràdh nach eil e moralta airson daoine LCDT a bhith a&#8217; taisbeanadh no a&#8217; brosnachadh an taobhadh-fèise agus &#8220;an dòigh-beatha&#8221; aca ann an àiteachan poblach.
 
-<!--more-->
+Thuirt Mgr Morrison: &#8220;they thrust lewdness in the faces of men, women and children alike by frolicking unashamedly on rainbow-coloured floats making obscene sexual gestures.&#8221;
 
-Anns a' bhidio tha Mgr Morrison ag ràdh nach eil e moralta airson daoine LCDT a bhith a' taisbeanadh no a' brosnachadh an taobhadh-fèise agus "an dòigh-beatha" aca ann an àiteachan poblach.
+&#8220;If this unsavoury event is given planning permission then these desperately sad scenes are now likely to be witnessed very tragically in Inverness on October 6.&#8221;
 
-Thuirt Mgr Morrison: "they thrust lewdness in the faces of men, women and children alike by frolicking unashamedly on rainbow-coloured floats making obscene sexual gestures."
+Tha còrr &#8217;s 700 duine air na h-ainmean aca a chur ri athchuinge Mgr Morrison &#8217;s tha iad ag iarraidh air a&#8217; Chomhairle cead a dhiùltadh airson an tachartas a dhol air adhart.
 
-"If this unsavoury event is given planning permission then these desperately sad scenes are now likely to be witnessed very tragically in Inverness on October 6."
-
-Tha còrr 's 700 duine air na h-ainmean aca a chur ri athchuinge Mgr Morrison 's tha iad ag iarraidh air a' Chomhairle cead a dhiùltadh airson an tachartas a dhol air adhart.
-
-<div class="embed-responsive embed-responsive-16by9">
-<iframe src="https://player.vimeo.com/video/289713477" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"><span style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" data-mce-type="bookmark" class="mce_SELRES_start">﻿</iframe>
-</div>
+<p style="text-align: center;">
+</p>

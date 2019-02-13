@@ -1,16 +1,32 @@
 ---
-layout: post
 title: Buidheann LCDT Grèigeach air beàrn a lorg ann an laghan pòsaidh
-date: 2018-03-14 09:54:55
-categories: [an-roinn-eorpa, poilitigs]
 author: Crìstean MacMhìcheil
-author_url: https://twitter.com/macmhicheil
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-03-14-buidheann-lcdt-greigeach-air-bearn-a-lorg-ann-an-laghan-posaidh.jpg
+type: post
+date: 2008-03-14T09:54:55+00:00
+excerpt: 'Tha buidheann LCDT anns a’ Ghrèig (<a href="http://www.olke.org/">OKLE</a>) a’ bagairt ùghdarrasan ionadail a thoirt gu lagh  air sgàth ’s nach eil iad deònach càraidean co-sheòrsach a phòsadh ged a lagan pòsaidh a’ mìneachadh pòsadh mar aonadh eadar daoine an àite duine agus bean.'
+url: /buidheann-lcdt-greigeach-air-bearn-a-lorg-ann-an-laghan-posaidh/
+featured_image: /wp-content/uploads/2008/03/OLKE.jpg
+categories:
+  - An Roinn-eòrpa
+  - Poilitigs
+tags:
+  - "A' Ghrèig"
+  - age of consent
+  - aois aontachaidh
+  - co-ionnannachd pòsaidh
+  - Greece
+  - Greek
+  - Grèigeach
+  - marriage
+  - marriage equality
+  - OLKE
+  - pòsadh
+  - pòsadh aon-sheòrsach
+  - same-sex marriage
+  - ΟΛΚΕ
+
 ---
-
-Tha buidheann LCDT anns a’ Ghrèig ([OLKE][http://www.olke.org/]) a’ bagairt ùghdarrasan ionadail a thoirt gu lagh  air sgàth ’s nach eil iad deònach càraidean co-sheòrsach a phòsadh ged a lagan pòsaidh a’ mìneachadh pòsadh mar aonadh eadar daoine an àite duine agus bean.
-
-<!--more-->
+Tha buidheann LCDT anns a’ Ghrèig ([OLKE][1]) a’ bagairt ùghdarrasan ionadail a thoirt gu lagh  air sgàth ’s nach eil iad deònach càraidean co-sheòrsach a phòsadh ged a lagan pòsaidh a’ mìneachadh pòsadh mar aonadh eadar daoine an àite duine agus bean.
 
 Tha OLKE airson am beàrn seo a chur gu feum gus pòsaidhean aon-sheòrsach a chumail.
 
@@ -22,6 +38,8 @@ Thuirt neach-labhairt airson OLKE:
 
 “Cha bu chòir bacadh a bhith oirnn.”
 
-"Tha an lagh a’ toirt iomradh air “daoine” an àite “duine agus bean”. ‘S mar sin bidh sinn a’ dol air adhart mar nach eil bacadh oirnn."
+&#8220;Tha an lagh a’ toirt iomradh air “daoine” an àite “duine agus bean”. ‘S mar sin bidh sinn a’ dol air adhart mar nach eil bacadh oirnn.&#8221;
 
 Ged a tha a’ Ghrèig na ball anns a t-Aonadh Eòrpach, chan eil a’ choimhearsnachd LCDT a’ faighinn a’ mhòr-chuid dhe na còirichean ’s a bhios iad anns na stàitean Eòrpach eile, mar eisimpleir aois aontaidh co-ionannachd.
+
+ [1]: http://www.olke.org/

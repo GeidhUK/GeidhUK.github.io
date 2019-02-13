@@ -1,20 +1,34 @@
 ---
-layout: post
 title: Poileas Alba ri sùil a thoirt air ionmhas Fèis-pròise Ghlaschu
-date: 2018-11-19 17:23:34
-categories: [alba, feisean-proise, lagh]
 author: Crìstean MacMhìcheil
-author_url: https://twitter.com/macmhicheil
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-11-19-poileas-alba-ri-suil-a-thoirt-air-ionmhas-feis-proise-ghlaschu.jpg
----
+type: post
+date: 2018-11-19T17:23:34+00:00
+excerpt: Chaidh iarraidh air Poileas Alba sùil a thoirt air ionmhas Fèis-pròise Ghlaschu.
+url: /poileas-alba-ri-suil-a-thoirt-air-ionmhas-feis-proise-ghlaschu/
+featured_image: /wp-content/uploads/2008/04/Pride-Glasgow.jpg
+categories:
+  - Alba
+  - Fèisean-pròise
+  - Lagh
+tags:
+  - Alba
+  - Chris Laing
+  - Fèis-pròise Ghlaschu
+  - Funding
+  - Glasgow Pride
+  - Greater Manchester Police
+  - Ionmhas
+  - Poileas Alba
+  - Police Scotland
+  - Pride Glasgow
+  - Scotland
 
+---
 Chaidh iarraidh air Poileas Alba sùil a thoirt air ionmhas Fèis-pròise Ghlaschu.
 
-<!--more-->
+Thathar a&#8217; tuigsinn gun deach fios a chur ris am poileas mu airgead a chaidh air chall as dèidh tachartas na bliadhna seo.
 
-Thathar a' tuigsinn gun deach fios a chur ris am poileas mu airgead a chaidh air chall as dèidh tachartas na bliadhna seo.
-
-'S e seo an dàrna rannsachadh air ionmhas an fhèis leis am Poileas ann am Manchester a' sgrùdadh pàighidhean air loidhne.
+&#8216;S e seo an dàrna rannsachadh air ionmhas an fhèis leis am Poileas ann am Manchester a&#8217; sgrùdadh pàighidhean air loidhne.
 
 Thuirt Chris Laing, Stiùiriche an fhèis, gun robh e fhèin agus na h-oifigearan ùra eile draghail mu ionmhas na buidhne as dèidh dhaibh gabhail smachd air an fhèis as dèidh tachartas na bliadhna seo agus gun do chuir iad fios ris am poileas sa bhad.
 

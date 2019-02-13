@@ -1,13 +1,26 @@
 ---
-layout: post
 title: Easbaig a’ càineadh a’ choimhearsnachd LCDTE
-date: 2008-03-14 10:19:44
-categories: [alba, an-rioghachd-aonaichte, creideamh]
 author: Crìstean MacMhìcheil
-author_url: https://twitter.com/macmhicheil
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-03-14-easbaig-a-caineadh-a-choimhearsnachd-lcdte.jpg
----
+type: post
+date: 2008-03-14T10:19:44+00:00
+excerpt: Tha Easbaig Caitligeach a’ tagradh gu bheil daoine co-sheòrsach a’ dèanamh co-fheall an aghaidh dualchas Crìosdaidheachd.
+url: /easbaig-a-caineadh-a-choimhearsnachd-lcdte/
+featured_image: /wp-content/uploads/2008/03/Easbaig_Joseph_Devine.png
+categories:
+  - Alba
+  - An Rìoghachd Aonaichte
+  - Creideamh
+tags:
+  - Caitligeach
+  - Calum Irving
+  - Crìosdaidheachd
+  - easbaig
+  - Holocaust
+  - Joseph Devine
+  - Oilthigh Ghlaschu
+  - Stonewall Scotland
 
+---
 Tha Easbaig Caitligeach a’ tagradh gu bheil daoine co-sheòrsach a’ dèanamh co-fheall an aghaidh dualchas Crìosdaidheachd.
 
 Ann an òraid aig Oilthigh Ghlaschu thuirt Easbaig Joseph Devine gun do ghabh a’ choimhearsnachd LCDTE ris na mion-bhuidhnean, a leithid daoine a thàrr às an Holocaust, airson co-fhaireachdainn a chruthachadh.
@@ -21,5 +34,3 @@ Thuirt Calum Irving, àrd-oifigear Stonewall Scotland, buidheann a tha a’ bros
 Thuirt e: “Is e aon rud a bhith a’ toirt ionnsaigh air, mar gum biodh, an _gay lobby_ ach ’s e rud eile a th&#8217; ann a bhios ag ràdh nach eil àite ann airson daoine co-sheòrsach a-measg nan daoine a thàrr às an Holocaust.”
 
 “Gu fortanach, tha a’ mhòr-chuid ann an Alba agus tòrr Crìosdaidhean airson co-ionannachd, urram agus spèis a bhrosnachadh agus tha iad an aghaidh an sealladh dorch sgaiteachail a tha aig Devine.”
-
-<!--more-->

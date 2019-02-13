@@ -1,31 +1,59 @@
 ---
-layout: post
 title: Dòchas ùr airson pòsadh aon-sheòrsach ann an Èirinn a Tuath
-date: 2018-10-23 12:16:39
-categories: [an-rioghachd-aonaichte, lagh, poilitigs]
 author: Crìstean MacMhìcheil
-author_url: https://twitter.com/macmhicheil
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-10-23-dochas-ur-airson-posadh-aon-sheorsach-ann-an-eirinn-a-tuath.jpg
+type: post
+date: 2018-10-23T12:16:39+00:00
+excerpt: "Tha dithis bhall-phàrlamaid Làbarach air plana a chur an gnìomh a dh'fhaodadh pòsadh aon-sheòrsach a dhèanamh laghail ann an Èirinn a Tuath."
+url: /dochas-ur-airson-posadh-aon-sheorsach-ann-an-eirinn-a-tuath/
+featured_image: /wp-content/uploads/2011/01/image12-760x440.jpg
+categories:
+  - An Rìoghachd Aonaichte
+  - Lagh
+  - Poilitigs
+tags:
+  - abortion
+  - Am Pàrtaidh Làbarach
+  - Brithish Government
+  - British Parliament
+  - casg-breith
+  - co-ionnannachd pòsaidh
+  - Còirichean Co-ionann do Mhuinntir Èirinn a Tuath
+  - Conor McGinn
+  - Èirinn a Tuath
+  - Equal Rights for People of Northern Ireland
+  - Labour Party
+  - marriage
+  - marriage equality
+  - Northern Ireland
+  - Northern Irish Assembly
+  - Pàrlamaid an Rìoghachd Aonaichte
+  - Pàrlamaid Bhreatainn
+  - pòsadh
+  - pòsadh aon-sheòrsach
+  - Riaghaltas an Rìoghachd Aonaichte
+  - Riaghaltas Bhreatainn
+  - same-sex marriage
+  - Seanadh Éireann a Tuath
+  - Stella Creasy
+  - UK Parliament
+
 ---
+Tha dithis bhall-phàrlamaid Làbarach air plana a chur an gnìomh a dh&#8217;fhaodadh pòsadh aon-sheòrsach a dhèanamh laghail ann an Èirinn a Tuath.
 
-Tha dithis bhall-phàrlamaid Làbarach air plana a chur an gnìomh a dh'fhaodadh pòsadh aon-sheòrsach a dhèanamh laghail ann an Èirinn a Tuath.
+Tha Conor McGinn air a bhith a&#8217; dèanamh iomairt airson co-ionannachd pòsaidh aig an aon àm &#8217;s a tha Stella Creasy air a bhith a&#8217; dèanamh iomairt airson còirichean casg-breith.
 
-<!--more-->
+Tha an dithis a-nis air atharrachadh a thagradh do bhile a bhios a&#8217; dol dhan Phàrlamaid Diciadain gus cumhachdan nan seirbheisich catharra ann an Èirinn a Tuath a leudachadh  às aonais riaghaltas tiomnaichte san roinn.
 
-Tha Conor McGinn air a bhith a' dèanamh iomairt airson co-ionannachd pòsaidh aig an aon àm 's a tha Stella Creasy air a bhith a' dèanamh iomairt airson còirichean casg-breith.
+Ma tha iad soirbheachail bhiodh an atharrachadh &#8220;Còirichean Co-ionann do Mhuinntir Èirinn a Tuath&#8221; a chur às dhan chasgan a th&#8217; air pòsadh aon-sheòrsach agus casgan-breith.
 
-Tha an dithis a-nis air atharrachadh a thagradh do bhile a bhios a' dol dhan Phàrlamaid Diciadain gus cumhachdan nan seirbheisich catharra ann an Èirinn a Tuath a leudachadh  às aonais riaghaltas tiomnaichte san roinn.
+Thuirt Mgr McGinn ris _The Guardian_:
 
-Ma tha iad soirbheachail bhiodh an atharrachadh "Còirichean Co-ionann do Mhuinntir Èirinn a Tuath" a chur às dhan chasgan a th' air pòsadh aon-sheòrsach agus casgan-breith.
+&#8220;Tha a h-uile cunntas-bheachd a&#8217; sealltainn gu bheil a&#8217; mhòr-shluagh ann an Èirinn a Tuath, a&#8217; mhòr-chuid dhe na pàrtaidhean poilitigeach agus an t-uamhas de BhP ann an Taigh nan Cumantan a&#8217; toirt taic ri co-ionannachd pòsaidh.&#8221;
 
-Thuirt Mgr McGinn ris <em>The Guardian</em>:
+&#8220;Tha co-ionannachd do dhaoine LCDT ann an Èirinn a Tuath fada ro fhada agus tha an t-atharrachadh seo a&#8217; toirt cothrom dhan Riaghaltas a bhith a&#8217; maidseadh na thuirt iad ris na gnìomhan aca gus Èirinn a Tuath a thoirt gun aon ìre leis a&#8217; chòrr dhen Rìoghachd Aonaichte.&#8221;
 
-"Tha a h-uile cunntas-bheachd a' sealltainn gu bheil a' mhòr-shluagh ann an Èirinn a Tuath, a' mhòr-chuid dhe na pàrtaidhean poilitigeach agus an t-uamhas de BhP ann an Taigh nan Cumantan a' toirt taic ri co-ionannachd pòsaidh."
+Chur am buidheann _Love Equality,_ a bhios a&#8217; dèanamh iomairt airson co-ionannachd pòsaidh, fàilte air an naidheachd:
 
-"Tha co-ionannachd do dhaoine LCDT ann an Èirinn a Tuath fada ro fhada agus tha an t-atharrachadh seo a' toirt cothrom dhan Riaghaltas a bhith a' maidseadh na thuirt iad ris na gnìomhan aca gus Èirinn a Tuath a thoirt gun aon ìre leis a' chòrr dhen Rìoghachd Aonaichte."
+&#8220;Tha sinn a&#8217; cur taic dhan ghluasad ùr seo leis na BP Conor McGinn agus Stella Creasy gus pòsadh aon-sheòrsach a dhèanamh laghail ann an Èirinn a Tuath.&#8221;
 
-Chur am buidheann <em>Love Equality,</em> a bhios a' dèanamh iomairt airson co-ionannachd pòsaidh, fàilte air an naidheachd:
-
-"Tha sinn a' cur taic dhan ghluasad ùr seo leis na BP Conor McGinn agus Stella Creasy gus pòsadh aon-sheòrsach a dhèanamh laghail ann an Èirinn a Tuath."
-
-"Leis nach eil dùil sam bith gum bi fèin-riaghladh a' tilleadh tha sinn feumach air Buill-Phàrlamaid a chur stad air an leth-bhreith an-aghaidh càraidean LCDT ann an Èirinn a Tuath. Faighnichibh dhan BP agaibh taic a chur ris."
+&#8220;Leis nach eil dùil sam bith gum bi fèin-riaghladh a&#8217; tilleadh tha sinn feumach air Buill-Phàrlamaid a chur stad air an leth-bhreith an-aghaidh càraidean LCDT ann an Èirinn a Tuath. Faighnichibh dhan BP agaibh taic a chur ris.&#8221;

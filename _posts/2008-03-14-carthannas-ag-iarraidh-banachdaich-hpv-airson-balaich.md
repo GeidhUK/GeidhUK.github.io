@@ -1,16 +1,28 @@
 ---
-layout: post
 title: Carthannas ag iarraidh banachdaich HPV airson balaich
-date: 2008-03-14 09:33:41
-categories: [an-rioghachd-aonaichte, slainte]
 author: Crìstean MacMhìcheil
-author_url: https://twitter.com/macmhicheil
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-03-14-carthannas-ag-iarraidh-banachdaich-hpv-airson-balaich.jpg
+type: post
+date: 2008-03-14T09:33:41+00:00
+excerpt: Tha an carthannas fiaclach as motha anns an Rìoghachd Aonaichte airson balaich a thoirt a-steach dhan phrògram a bhios a’ toirt a-mach banachdaich an-aghaidh an tinneas feise HPV (Human papillomavirus) gus bacadh a chur air aillse beòil.
+url: /carthannas-ag-iarraidh-banachdaich-hpv-airson-balaich/
+featured_image: /wp-content/uploads/2008/03/Vaccination.jpg
+categories:
+  - An Rìoghachd Aonaichte
+  - Slàinte
+tags:
+  - aillse
+  - BDHF
+  - British Dental Health Foundation
+  - cancer
+  - cervical
+  - HPV
+  - Human Papillomavirus
+  - oral
+  - slàinte
+  - testicular
+
 ---
-
 Tha an carthannas fiaclach as motha anns an Rìoghachd Aonaichte airson balaich a thoirt a-steach dhan phrògram a bhios a’ toirt a-mach banachdaich an-aghaidh an tinneas feise HPV (_Human papillomavirus_) gus bacadh a chur air aillse beòil.
-
-<!--more-->
 
 Tha a’ BhDHF (_British Dental Health Foundation_) ag ràdh gu bheil iad airson a’ phrògram seo mheudachadh air sgàth ’s aithisg a thàinig a-mach às na Stàitean Aonaichte a’ sealltainn gu bheil 46,000 cùisean ùra air nochdadh.
 
