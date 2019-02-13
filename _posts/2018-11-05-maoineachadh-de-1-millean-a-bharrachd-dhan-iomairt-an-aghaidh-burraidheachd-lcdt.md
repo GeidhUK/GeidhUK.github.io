@@ -5,7 +5,7 @@ date: 2018-11-05 19:50:43
 categories: [an-rioghachd-aonaichte, foghlam, poilitigs]
 author: Crìstean MacMhìcheil
 author_url: https://twitter.com/macmhicheil
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-11-05-maoineachadh-de-1-millean-a-bharrachd-dhan-iomairt-an-aghaidh-burraidheachd-lcdt.png
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-11-05-maoineachadh-de-1-millean-a-bharrachd-dhan-iomairt-an-aghaidh-burraidheachd-lcdt.jpg
 ---
 
 Chaidh ainmeachadh leis an Riaghaltas Didòmhnaich gun tèid maoineachadh de £1 millean a bharrachd a thoirt dhan iomairt an aghaidh burraidheachd LCDT+ ann an sgoiltean.

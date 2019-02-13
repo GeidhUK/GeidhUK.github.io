@@ -5,7 +5,7 @@ date: 2018-11-09 14:36:50
 categories: [alba, an-rioghachd-aonaichte, foghlam, poilitigs]
 author: Crìstean MacMhìcheil
 author_url: https://twitter.com/macmhicheil
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-11-09-cuisean-lcdte-ri-theagaisg-ann-an-sgoiltean-albannach-airson-a-chiad-turas.png 
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-11-09-cuisean-lcdte-ri-theagaisg-ann-an-sgoiltean-albannach-airson-a-chiad-turas.jpg
 ---
 
 Chaidh ainmeachadh le Riaghaltas na h-Alba Diardaoin gun tèid cùisean LCDTE a theagaisg ann an leasanan sgoile airson a' chiad turas.

@@ -5,7 +5,7 @@ date: 2018-09-26 13:00:10
 categories: [alba, feisean-proise]
 author: Crìstean MacMhìcheil
 author_url: https://twitter.com/macmhicheil
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-09-26-comhairle-air-cead-a-thoirt-seachad-airson-feis-proise-inbhir-nis-a-dhol-air-adhart.png
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-09-26-comhairle-air-cead-a-thoirt-seachad-airson-feis-proise-inbhir-nis-a-dhol-air-adhart.jpg
 ---
 
 Chaidh a dhearbhadh madainn Dimàirt gum faod Fèis-pròise Inbhir Nis dol air adhart 6mh Dàmhair.

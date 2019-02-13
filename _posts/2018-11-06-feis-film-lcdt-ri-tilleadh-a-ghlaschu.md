@@ -5,7 +5,7 @@ date: 2018-11-06 17:06:00
 categories: [alba, cultar]
 author: Crìstean MacMhìcheil
 author_url: https://twitter.com/macmhicheil
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-11-06-feis-film-lcdt-ri-tilleadh-a-ghlaschu.png
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-11-06-feis-film-lcdt-ri-tilleadh-a-ghlaschu.jpg
 ---
 
 Thèid an ceathramh [Scottish Queer International Film Festival (SQIFF)](http://www.sqiff.org/) a thilleadh a Ghlaschu 5mh - 9mh An Dùbhlachd.

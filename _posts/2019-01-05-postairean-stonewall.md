@@ -5,7 +5,7 @@ date: 2019-01-05 21:50:34
 categories: [blog, gaidhlig]
 author: Crìstean MacMhìcheil
 author_url: https://twitter.com/macmhicheil
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2019-01-05-postairean-stonewall-geidh.png
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2019-01-05-postairean-stonewall-geidh.jpg
 ---
 
 Postairean Gàidhlig ann an stoidhle an iomairt "Get Over It" le Stonewall.

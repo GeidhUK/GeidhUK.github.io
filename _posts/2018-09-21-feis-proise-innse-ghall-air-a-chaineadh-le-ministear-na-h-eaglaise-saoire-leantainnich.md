@@ -5,7 +5,7 @@ date: 2019-01-05 07:19:21
 categories: [alba, creideamh, feisean-proise]
 author: Crìstean MacMhìcheil
 author_url: https://twitter.com/macmhicheil
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-09-21-feis-proise-innse-ghall-air-a-chaineadh-le-ministear-na-h-eaglaise-saoire-leantainnich.png
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-09-21-feis-proise-innse-ghall-air-a-chaineadh-le-ministear-na-h-eaglaise-saoire-leantainnich.jpg
 ---
 
 Tha Ministear na h-Eaglaise Saoire Leantainnich air iomradh a thoirt air a' chiad fèis-pròise anns na h-Eileanan an Iar mar "duilich agus nàireach".

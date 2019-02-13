@@ -5,7 +5,7 @@ date: 2018-11-02 20:58:33
 categories: [an-t-saoghal, cultar, foghlam, lagh]
 author: Crìstean MacMhìcheil
 author_url: https://twitter.com/macmhicheil
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-11-02-corr-is-3000-air-a-thogail-airson-leabhraichean-cloinne-lcdt-a-thoirt-ri-leabharlann-ameireaganach.png
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-11-02-corr-is-3000-air-a-thogail-airson-leabhraichean-cloinne-lcdt-a-thoirt-ri-leabharlann-ameireaganach.jpg
 ---
 
 Tha an t-eadar-lìon air còrr is $3000 a thogail gus leabhraichean cloinne LCDT+ ùra a cheannach dhan leabharlann ann am Baile Orainds, Iowa.

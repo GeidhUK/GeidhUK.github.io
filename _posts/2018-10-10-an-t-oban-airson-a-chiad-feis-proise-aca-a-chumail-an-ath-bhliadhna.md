@@ -5,7 +5,7 @@ date: 2018-10-10 13:17:32
 categories: [alba, feisean-proise]
 author: Crìstean MacMhìcheil
 author_url: https://twitter.com/macmhicheil
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-10-10-an-t-oban-airson-a-chiad-feis-proise-aca-a-chumail-an-ath-bhliadhna.png
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-10-10-an-t-oban-airson-a-chiad-feis-proise-aca-a-chumail-an-ath-bhliadhna.jpg
 ---
 
 Thèid fèis-pròise a chumail anns an t-Òban an ath-bhliadhna airson a' chiad turas a-riamh.

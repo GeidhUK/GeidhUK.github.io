@@ -5,7 +5,7 @@ date: 2018-10-23 12:16:39
 categories: [an-rioghachd-aonaichte, lagh, poilitigs]
 author: Crìstean MacMhìcheil
 author_url: https://twitter.com/macmhicheil
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-10-23-dochas-ur-airson-posadh-aon-sheorsach-ann-an-eirinn-a-tuath.png
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-10-23-dochas-ur-airson-posadh-aon-sheorsach-ann-an-eirinn-a-tuath.jpg
 ---
 
 Tha dithis bhall-phàrlamaid Làbarach air plana a chur an gnìomh a dh'fhaodadh pòsadh aon-sheòrsach a dhèanamh laghail ann an Èirinn a Tuath.

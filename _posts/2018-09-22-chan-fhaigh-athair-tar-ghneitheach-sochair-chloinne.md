@@ -5,7 +5,7 @@ date: 2018-09-22 07:59:45
 categories: [an-rioghachd-aonaichte]
 author: Crìstean MacMhìcheil
 author_url: https://twitter.com/macmhicheil
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-09-22-chan-fhaigh-athair-tar-ghneitheach-sochair-chloinne.png
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-09-22-chan-fhaigh-athair-tar-ghneitheach-sochair-chloinne.jpg
 ---
 
 Chan fhaigh athair tar-ghnèitheach sochair-chloinne air sgàth 's nach eil e airson a bhith clàraichte mar mhàthair air teisteanas breith an leanaibh.
