@@ -2,15 +2,10 @@
 title: Fèisean-pròise
 author: Crìstean MacMhìcheil
 type: post
-date: 2008-03-13T15:20:22+00:00
+date: 2008-03-13 15:20:22
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - Fèisean-pròise
-tags:
-  - caismeachd pròise
-  - fèis-pròise
-  - Pride
-
+  - feisean-proise
 ---
 Thèid an duilleag seo ag ùrachadh mar a thèid tachartasan ùr ainmeachadh. [Cuiribh fios thugainn][1] ma tha sibh eòlach air tachartasan a tha a dhìth.
 
