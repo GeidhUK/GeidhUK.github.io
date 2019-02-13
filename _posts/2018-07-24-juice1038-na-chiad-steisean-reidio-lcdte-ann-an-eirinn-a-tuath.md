@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Juice1038 na chiad stèisean rèidio LCDTE ann an Èirinn a Tuath
-date: 2017-07-24 12:46:59
+date: 2018-07-24 12:46:59
 categories: [an-rioghachd-aonaichte, cultar]
 author: Crìstean MacMhìcheil
 author_url: https://twitter.com/macmhicheil
