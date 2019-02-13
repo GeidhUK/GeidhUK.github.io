@@ -3,8 +3,6 @@ title: Fèisean-pròise
 author: Crìstean MacMhìcheil
 type: post
 date: 2008-03-13T15:20:22+00:00
-excerpt: Liosta dhen fhèisean-pròise a tha ri thighinn.
-url: /feisean-proise/
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - Fèisean-pròise
