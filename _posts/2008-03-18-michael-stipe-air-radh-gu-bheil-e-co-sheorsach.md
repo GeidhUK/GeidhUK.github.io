@@ -2,21 +2,14 @@
 title: Michael Stipe air ràdh gu bheil e co-sheòrsach
 author: Crìstean MacMhìcheil
 type: post
-date: 2008-03-18T16:55:18+00:00
-excerpt: Tha Michael Stipe, seinneadair anns a’ chòmhlan-ciùil R.E.M. air a ràdh gu bheil e co-sheòrsach.
-url: /michael-stipe-air-radh-gu-bheil-e-co-sheorsach/
+date: 2008-03-18 16:55:18
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - Cùltar
-tags:
-  - co-sheòrsach
-  - gay
-  - gèidh
-  - Michael Stipe
-  - R.E.M.
-
+  - cultar
 ---
 Tha Michael Stipe, seinneadair anns a’ chòmhlan-ciùil R.E.M. air ràdh gu bheil e co-sheòrsach.
+
+<!--more-->
 
 Bha Stipe, 48, a tha ainmeil airson ceistean mu dheidhinn an gnèitheachd aige a sheachnadh, a’ bruidhinn anns an iris ciùil Spin.
 

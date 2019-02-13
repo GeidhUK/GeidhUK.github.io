@@ -2,28 +2,16 @@
 title: Co-dhùnadh uchd-mhacachaidh mar eisimpleir ann an Iosrael
 author: Crìstean MacMhìcheil
 type: post
-date: 2008-03-18T16:20:59+00:00
-excerpt: Tha cùirt ann an Iosrael air co-dhùnadh a dhèanamh gun urrainn do càraid co-sheòrsach a chlàradh mar athraichean an uchd-mhac.
-url: /co-dhunadh-uchd-mhacachaidh-mar-eisimpleir-ann-an-iosrael/
+date: 2008-03-18 16:20:59
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - An t-Saoghal
-  - Lagh
-  - Poilitigs
-tags:
-  - An Ear Mheadhanach
-  - Avi Shadiv
-  - clann
-  - Giora Shavit
-  - Iosrael
-  - Ira Hadar
-  - pàrantachd
-  - pàrantan
-  - teaghlach
-  - uchd-mhacachadh
-
+  - an-t-saoghal
+  - lagh
+  - poilitigs
 ---
 Tha cùirt ann an Iosrael air co-dhùnadh a dhèanamh gun urrainn do càraid co-sheòrsach a chlàradh mar athraichean an uchd-mhac.
+
+<!--more-->
 
 Thathar an dòchas gum bi a’ cho-dhùnadh seo mar eisimpleir anns an dùthaich.
 

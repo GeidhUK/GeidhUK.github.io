@@ -2,34 +2,17 @@
 title: Riaghailtean ùra air fhoillseachadh airson casaidean HIV
 author: Crìstean MacMhìcheil
 type: post
-date: 2008-03-14T14:01:28+00:00
-excerpt: "Chaidh riaghailtean ùr fhoillseachadh le Seirbheis Casaid a' Chrùin an-diugh airson stiùireadh a thoirt do luchd-casaid a' dèiligeadh ri cùisean-lagha far a bheil daoine air HIV a sgaoileadh a dh’aona-ghnothach."
-url: /riaghailtean-ura-air-fhoillseachadh-airson-casaidean-hiv/
+date: 2008-03-14 14:01:28
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - An Rìoghachd Aonaichte
-  - Poilitigs
-  - Slàinte
-tags:
-  - Acquired Immunodeficiency Syndrome
-  - AIDS
-  - an t-Urr
-  - Annlachd Inneamh Dìon-slàinte
-  - Bhìoras Dìon-slàinte Daonna
-  - casaidean HIV
-  - CPS
-  - Crown Prosecution Service
-  - HIV
-  - HIV convictions
-  - HIV prosecutions
-  - Human Immunodeficiency Virus
-  - "Seirbheis Casaid a' Chrùin"
-  - Sir Ken MacDhòmhnaill QC
-  - Terrence Higgins Trust
-  - THT
+  - an-rioghachd-aonaichte
+  - poilitigs
+  - slainte
 
 ---
 Chaidh riaghailtean ùra fhoillseachadh le Seirbheis Casaid a&#8217; Chrùin an-diugh airson stiùireadh a thoirt do luchd-casaid a&#8217; dèiligeadh ri cùisean-lagha far a bheil daoine air HIV a sgaoileadh a dh’aona-ghnothach.
+
+<!--more-->
 
 An dèidh co-chomhairle farsaing le buidhnean diofraichte, tha Seirbheis Casaid a&#8217; Chrùin air poileasaidh poblach agus teisteanas stiùiridh fhoillseachadh a tha a’ toirt stiùireadh seachad air dè seòrsa fianais a tha riatanach airson casaidean HIV a dhol air adhart.
 

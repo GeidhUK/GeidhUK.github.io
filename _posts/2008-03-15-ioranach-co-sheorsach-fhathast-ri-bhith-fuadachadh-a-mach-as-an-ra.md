@@ -2,35 +2,16 @@
 title: Iorànach co-sheòrsach fhathast ri bhith fuadachadh a-mach às an RA
 author: Crìstean MacMhìcheil
 type: post
-date: 2008-03-15T11:17:37+00:00
-excerpt: Tha gnìomhaichean LCDTE ag ràdh gum bu chòir do Riaghaltas Bhreatainn ath-sgrùdadh a dhèanamh air cùisean-lagha aig Iorànach co-sheòrsach eile as dèidh do chùis Medhi Kazemi allsachadh.
-url: /ioranach-co-sheorsach-fhathast-ri-bhith-fuadachadh-a-mach-as-an-ra/
+date: 2008-03-15 11:17:37
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - An Rìoghachd Aonaichte
-  - An t-Saoghal
-  - Poilitigs
-tags:
-  - An Ear Mheadhanach
-  - Ball Pàrlamaid na h-Eòrpa
-  - 'Border &amp; Immigration Agency'
-  - 'Buidheann nan Crìochan &amp; In-imrich'
-  - comraich
-  - Ioràn
-  - Iorànach
-  - Jacqui Smith
-  - Medhi Kazemi
-  - Na Tìrean Ìsle
-  - Omar Kuddus
-  - Riaghaltas an Rìoghachd Aonaichte
-  - Riaghaltas Bhreatainn
-  - Rùnaire na Dùthcha
-  - Sarah Ludford
-  - The Netherlands
-  - Tìr Ìosal
-
+  - an-rioghachd-aonaichte
+  - an-t-saoghal
+  - poilitigs
 ---
 Tha gnìomhaichean LCDTE ag ràdh gum bu chòir do Riaghaltas Bhreatainn ath-sgrùdadh a dhèanamh air cùisean-lagha aig Iorànach co-sheòrsach eile as dèidh do chùis Medhi Kazemi allsachadh.
+
+<!--more-->
 
 Thuirt Rùnaire na Dùthcha Jacqui Smith gum bu chòir do ath-shùil a bhith a’ toirt air chùis Medhi Kazemi air sgàth ’s an suidheachadh ùr aige.
 

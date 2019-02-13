@@ -2,26 +2,16 @@
 title: Easbaig a’ càineadh a’ choimhearsnachd LCDTE
 author: Crìstean MacMhìcheil
 type: post
-date: 2008-03-14T10:19:44+00:00
-excerpt: Tha Easbaig Caitligeach a’ tagradh gu bheil daoine co-sheòrsach a’ dèanamh co-fheall an aghaidh dualchas Crìosdaidheachd.
-url: /easbaig-a-caineadh-a-choimhearsnachd-lcdte/
+date: 2008-03-14 10:19:44
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - Alba
-  - An Rìoghachd Aonaichte
-  - Creideamh
-tags:
-  - Caitligeach
-  - Calum Irving
-  - Crìosdaidheachd
-  - easbaig
-  - Holocaust
-  - Joseph Devine
-  - Oilthigh Ghlaschu
-  - Stonewall Scotland
-
+  - alba
+  - an-rioghachd-aonaichte
+  - creideamh
 ---
 Tha Easbaig Caitligeach a’ tagradh gu bheil daoine co-sheòrsach a’ dèanamh co-fheall an aghaidh dualchas Crìosdaidheachd.
+
+<!--more-->
 
 Ann an òraid aig Oilthigh Ghlaschu thuirt Easbaig Joseph Devine gun do ghabh a’ choimhearsnachd LCDTE ris na mion-bhuidhnean, a leithid daoine a thàrr às an Holocaust, airson co-fhaireachdainn a chruthachadh.
 

@@ -10,6 +10,8 @@ categories:
 ---
 Tha buidheann LCDT anns a’ Ghrèig ([OLKE][1]) a’ bagairt ùghdarrasan ionadail a thoirt gu lagh  air sgàth ’s nach eil iad deònach càraidean co-sheòrsach a phòsadh ged a lagan pòsaidh a’ mìneachadh pòsadh mar aonadh eadar daoine an àite duine agus bean.
 
+<!--more-->
+
 Tha OLKE airson am beàrn seo a chur gu feum gus pòsaidhean aon-sheòrsach a chumail.
 
 Bidh Riaghaltas na Grèige a’ toirt còirichean ùra gu càraidean nach eil pòsta a dh’aithghearr ach chan eil e cinnteach ma bhios na coirichean seo a’ toirt a-steach càraidean co-sheòrsach.

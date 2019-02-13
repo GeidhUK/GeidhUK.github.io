@@ -2,30 +2,17 @@
 title: Easbaig a tha ri gràin-co-sheòrsachd neo-criosdaidheachd a rèir BPA
 author: Crìstean MacMhìcheil
 type: post
-date: 2008-03-14T16:58:48+00:00
-excerpt: Tha George Foulkes, Ball Pàrlamaid na h-Alba, air ràdh gu bheil e ag aontachadh le aithris a’ bhuidheann co-ionannachd Stonewall anns an tuirt iad gu bheil Easbaig Joseph Devine neo-criosdaidheachd.
-url: /easbaig-a-tha-ri-grain-co-sheorsachd-neo-criosdaidheachd-a-reir-bpa/
+date: 2008-03-14 16:58:48
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - Alba
-  - An Rìoghachd Aonaichte
-  - Creideamh
-  - Poilitigs
-tags:
-  - Ball Pàrlamaid na h-Alba
-  - Ben Summerskill
-  - Crìosdaidheachd
-  - George Foulkes
-  - gràin-chinnidh
-  - gràin-co-sheòrsachd
-  - gràin-treubhail
-  - Holocaust
-  - Joseph Devine
-  - neo-criosdaidheachd
-  - Stonewall
-
+  - alba
+  - an-rioghachd-aonaichte
+  - creideamh
+  - poilitigs
 ---
 Tha George Foulkes, Ball Pàrlamaid na h-Alba, air ràdh gu bheil e ag aontachadh le aithris a’ bhuidheann co-ionannachd Stonewall anns an tuirt iad gu bheil Easbaig Joseph Devine neo-criosdaidheachd.
+
+<!--more-->
 
 Thuirt Mgr Foulkes, a tha na bhall anns a’ Phartaidh Làbaralach, gu bheil na beachdan aig Easbaig Devine “mì-fhortanach, seann-fhasanta agus neo-criosdaidheachd.”
 

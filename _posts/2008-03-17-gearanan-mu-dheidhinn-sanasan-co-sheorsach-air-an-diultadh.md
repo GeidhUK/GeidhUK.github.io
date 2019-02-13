@@ -2,29 +2,16 @@
 title: Gearanan mu dheidhinn sanasan co-sheòrsach air an diùltadh
 author: Crìstean MacMhìcheil
 type: post
-date: 2008-03-17T11:56:45+00:00
-excerpt: Tha an ASA (Advertising Standards Authority) ag ràdh nach eil iomairt sanasachaidh a’ bhuidheann Stonewall a’ dol an-aghaidh an còd aca.
-url: /gearanan-mu-dheidhinn-sanasan-co-sheorsach-air-an-diultadh/
+date: 2008-03-17 11:56:45
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - An Rìoghachd Aonaichte
-  - Creideamh
-  - Foghlam
-tags:
-  - Advertising Standards Authority
-  - co-sheòrsach
-  - Crìosdaidheachd
-  - Education For All
-  - gay
-  - gèidh
-  - sanasachd
-  - Some people are gay. Get over it!
-  - Stonewall
-  - Stonewall Scotland
-  - Tha cuid de dhaoine gay. Gabh ris!
-
+  - an-rioghachd-aonaichte
+  - creideamh
+  - foghlam
 ---
 Tha an ASA (Advertising Standards Authority) ag ràdh nach eil iomairt sanasachaidh a’ bhuidheann Stonewall a’ dol an-aghaidh an còd aca.
+
+<!--more-->
 
 Chaidh sanasan a thaisbeanadh air 600 bùird-shanais air feadh Breatainn seachdain seo chaidh leis an abairt “_Some people are gay. Get over it!_”
 

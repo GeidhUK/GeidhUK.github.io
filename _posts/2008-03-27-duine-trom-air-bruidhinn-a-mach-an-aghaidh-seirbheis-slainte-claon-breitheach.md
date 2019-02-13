@@ -2,37 +2,15 @@
 title: Duine trom air bruidhinn a-mach an aghaidh Seirbheis Slàinte claon-breitheach
 author: Crìstean MacMhìcheil
 type: post
-date: 2008-03-27T08:52:10+00:00
-excerpt: 'Tha duine tar-ghnèitheach à Portland, Oregon air ràdh anns a’ cholbh aige anns an iris co-sheòrsach <em>The Advocate</em> gu bheil e trom.'
-url: /duine-trom-air-bruidhinn-a-mach-an-aghaidh-seirbheis-slainte-claon-breitheach/
+date: 2008-03-27 08:52:10
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - An t-Saoghal
-  - Slàinte
-tags:
-  - Aimearaga
-  - clann
-  - discrimination
-  - duine trom
-  - In Vitro Fertilisation
-  - IVF
-  - leth-bhreith
-  - Na Stàitean Aonaichte
-  - Nancy Beatie
-  - Oregon
-  - pàrantachd
-  - pàrantan
-  - Portland
-  - pregnant man
-  - slàinte
-  - tar-ghnèitheach
-  - teaghlach
-  - Thomas Beatie
-  - trans
-  - transgender
-
+  - an-t-saoghal
+  - slainte
 ---
 Tha duine tar-ghnèitheach à Portland, Oregon air ràdh anns a’ cholbh aige anns an iris co-sheòrsach _The Advocate_ gu bheil e trom.
+
+<!--more-->
 
 A bharrachd air seo tha Thomas Beatie ag ràdh gu bheil doctairean agus ionadan slàinte air a bhith a’ dèanamh lethbhreith na aghaidh air sgàth ’s an leatrom.
 
