@@ -3,7 +3,7 @@ title: Postairean Stonewall
 author: Crìstean MacMhìcheil
 type: post
 date: 2019-01-05 21:50:34
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2019-01-05-postairean-stonewall.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2019-01-05-postairean-stonewall.png
 categories:
   - blog
   - gaidhlig
@@ -55,59 +55,38 @@ Postairean Gàidhlig ann an stoidhle an iomairt "Some People are Gay" le Stonewa
 
 <!--more-->
 
-<ul class="wp-block-gallery columns-1">
-  <li class="blocks-gallery-item">
-    <figure><a href="https://i0.wp.com/geidh.uk/wp-content/uploads/2019/01/C-copy.png?fit=750%2C400&ssl=1"><img src="https://i0.wp.com/geidh.uk/wp-content/uploads/2019/01/C-copy.png?fit=750%2C400&ssl=1" alt="" data-id="4749" data-link="https://geidh.uk/?attachment_id=4749" class="wp-image-4749" srcset="https://i0.wp.com/geidh.uk/wp-content/uploads/2019/01/C-copy.png?w=1800&ssl=1 1800w, https://i0.wp.com/geidh.uk/wp-content/uploads/2019/01/C-copy.png?resize=300%2C300&ssl=1 300w, https://i0.wp.com/geidh.uk/wp-content/uploads/2019/01/C-copy.png?resize=768%2C768&ssl=1 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></a></figure>
-  </li>
-  <li class="blocks-gallery-item">
-    <figure><a href="https://i0.wp.com/geidh.uk/wp-content/uploads/2019/01/D-copy.png?fit=750%2C400&ssl=1"><img src="https://i0.wp.com/geidh.uk/wp-content/uploads/2019/01/D-copy.png?fit=750%2C400&ssl=1" alt="" data-id="4750" data-link="https://geidh.uk/?attachment_id=4750" class="wp-image-4750" srcset="https://i0.wp.com/geidh.uk/wp-content/uploads/2019/01/D-copy.png?w=1800&ssl=1 1800w, https://i0.wp.com/geidh.uk/wp-content/uploads/2019/01/D-copy.png?resize=300%2C300&ssl=1 300w, https://i0.wp.com/geidh.uk/wp-content/uploads/2019/01/D-copy.png?resize=768%2C768&ssl=1 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></a></figure>
-  </li>
-  <li class="blocks-gallery-item">
-    <figure><a href="https://i2.wp.com/geidh.uk/wp-content/uploads/2019/01/FG-copy.png?fit=750%2C400&ssl=1"><img src="https://i2.wp.com/geidh.uk/wp-content/uploads/2019/01/FG-copy.png?fit=750%2C400&ssl=1" alt="" data-id="4751" data-link="https://geidh.uk/?attachment_id=4751" class="wp-image-4751" srcset="https://i2.wp.com/geidh.uk/wp-content/uploads/2019/01/FG-copy.png?w=1800&ssl=1 1800w, https://i2.wp.com/geidh.uk/wp-content/uploads/2019/01/FG-copy.png?resize=300%2C300&ssl=1 300w, https://i2.wp.com/geidh.uk/wp-content/uploads/2019/01/FG-copy.png?resize=768%2C768&ssl=1 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></a></figure>
-  </li>
-  <li class="blocks-gallery-item">
-    <figure><a href="https://i1.wp.com/geidh.uk/wp-content/uploads/2019/01/G-copy.png?fit=750%2C400&ssl=1"><img src="https://i1.wp.com/geidh.uk/wp-content/uploads/2019/01/G-copy.png?fit=750%2C400&ssl=1" alt="" data-id="4752" data-link="https://geidh.uk/?attachment_id=4752" class="wp-image-4752" srcset="https://i1.wp.com/geidh.uk/wp-content/uploads/2019/01/G-copy.png?w=1800&ssl=1 1800w, https://i1.wp.com/geidh.uk/wp-content/uploads/2019/01/G-copy.png?resize=300%2C300&ssl=1 300w, https://i1.wp.com/geidh.uk/wp-content/uploads/2019/01/G-copy.png?resize=768%2C768&ssl=1 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></a></figure>
-  </li>
-  <li class="blocks-gallery-item">
-    <figure><a href="https://i1.wp.com/geidh.uk/wp-content/uploads/2019/01/IG-copy.png?fit=750%2C400&ssl=1"><img src="https://i1.wp.com/geidh.uk/wp-content/uploads/2019/01/IG-copy.png?fit=750%2C400&ssl=1" alt="" data-id="4754" data-link="https://geidh.uk/?attachment_id=4754" class="wp-image-4754" srcset="https://i1.wp.com/geidh.uk/wp-content/uploads/2019/01/IG-copy.png?w=1800&ssl=1 1800w, https://i1.wp.com/geidh.uk/wp-content/uploads/2019/01/IG-copy.png?resize=300%2C300&ssl=1 300w, https://i1.wp.com/geidh.uk/wp-content/uploads/2019/01/IG-copy.png?resize=768%2C768&ssl=1 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></a></figure>
-  </li>
-  <li class="blocks-gallery-item">
-    <figure><a href="https://i1.wp.com/geidh.uk/wp-content/uploads/2019/01/IS-copy.png?fit=750%2C400&ssl=1"><img src="https://i1.wp.com/geidh.uk/wp-content/uploads/2019/01/IS-copy.png?fit=750%2C400&ssl=1" alt="" data-id="4755" data-link="https://geidh.uk/?attachment_id=4755" class="wp-image-4755" srcset="https://i1.wp.com/geidh.uk/wp-content/uploads/2019/01/IS-copy.png?w=1800&ssl=1 1800w, https://i1.wp.com/geidh.uk/wp-content/uploads/2019/01/IS-copy.png?resize=300%2C300&ssl=1 300w, https://i1.wp.com/geidh.uk/wp-content/uploads/2019/01/IS-copy.png?resize=768%2C768&ssl=1 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></a></figure>
-  </li>
-  <li class="blocks-gallery-item">
-    <figure><a href="https://i0.wp.com/geidh.uk/wp-content/uploads/2019/01/L-copy.png?fit=750%2C400&ssl=1"><img src="https://i0.wp.com/geidh.uk/wp-content/uploads/2019/01/L-copy.png?fit=750%2C400&ssl=1" alt="" data-id="4756" data-link="https://geidh.uk/?attachment_id=4756" class="wp-image-4756" srcset="https://i0.wp.com/geidh.uk/wp-content/uploads/2019/01/L-copy.png?w=1800&ssl=1 1800w, https://i0.wp.com/geidh.uk/wp-content/uploads/2019/01/L-copy.png?resize=300%2C300&ssl=1 300w, https://i0.wp.com/geidh.uk/wp-content/uploads/2019/01/L-copy.png?resize=768%2C768&ssl=1 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></a></figure>
-  </li>
-  <li class="blocks-gallery-item">
-    <figure><a href="https://i2.wp.com/geidh.uk/wp-content/uploads/2019/01/LG-copy.png?fit=750%2C400&ssl=1"><img src="https://i2.wp.com/geidh.uk/wp-content/uploads/2019/01/LG-copy.png?fit=750%2C400&ssl=1" alt="" data-id="4757" data-link="https://geidh.uk/?attachment_id=4757" class="wp-image-4757" srcset="https://i2.wp.com/geidh.uk/wp-content/uploads/2019/01/LG-copy.png?w=1800&ssl=1 1800w, https://i2.wp.com/geidh.uk/wp-content/uploads/2019/01/LG-copy.png?resize=300%2C300&ssl=1 300w, https://i2.wp.com/geidh.uk/wp-content/uploads/2019/01/LG-copy.png?resize=768%2C768&ssl=1 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></a></figure>
-  </li>
-  <li class="blocks-gallery-item">
-    <figure><a href="https://i0.wp.com/geidh.uk/wp-content/uploads/2019/01/LS-copy.png?fit=750%2C400&ssl=1"><img src="https://i0.wp.com/geidh.uk/wp-content/uploads/2019/01/LS-copy.png?fit=750%2C400&ssl=1" alt="" data-id="4758" data-link="https://geidh.uk/?attachment_id=4758" class="wp-image-4758" srcset="https://i0.wp.com/geidh.uk/wp-content/uploads/2019/01/LS-copy.png?w=1800&ssl=1 1800w, https://i0.wp.com/geidh.uk/wp-content/uploads/2019/01/LS-copy.png?resize=300%2C300&ssl=1 300w, https://i0.wp.com/geidh.uk/wp-content/uploads/2019/01/LS-copy.png?resize=768%2C768&ssl=1 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></a></figure>
-  </li>
-  <li class="blocks-gallery-item">
-    <figure><a href="https://i1.wp.com/geidh.uk/wp-content/uploads/2019/01/NB-copy.png?fit=750%2C400&ssl=1"><img src="https://i1.wp.com/geidh.uk/wp-content/uploads/2019/01/NB-copy.png?fit=750%2C400&ssl=1" alt="" data-id="4759" data-link="https://geidh.uk/?attachment_id=4759" class="wp-image-4759" srcset="https://i1.wp.com/geidh.uk/wp-content/uploads/2019/01/NB-copy.png?w=1800&ssl=1 1800w, https://i1.wp.com/geidh.uk/wp-content/uploads/2019/01/NB-copy.png?resize=300%2C300&ssl=1 300w, https://i1.wp.com/geidh.uk/wp-content/uploads/2019/01/NB-copy.png?resize=768%2C768&ssl=1 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></a></figure>
-  </li>
-  <li class="blocks-gallery-item">
-    <figure><a href="https://i0.wp.com/geidh.uk/wp-content/uploads/2019/01/NG-copy.png?fit=750%2C400&ssl=1"><img src="https://i0.wp.com/geidh.uk/wp-content/uploads/2019/01/NG-copy.png?fit=750%2C400&ssl=1" alt="" data-id="4760" data-link="https://geidh.uk/?attachment_id=4760" class="wp-image-4760" srcset="https://i0.wp.com/geidh.uk/wp-content/uploads/2019/01/NG-copy.png?w=1800&ssl=1 1800w, https://i0.wp.com/geidh.uk/wp-content/uploads/2019/01/NG-copy.png?resize=300%2C300&ssl=1 300w, https://i0.wp.com/geidh.uk/wp-content/uploads/2019/01/NG-copy.png?resize=768%2C768&ssl=1 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></a></figure>
-  </li>
-  <li class="blocks-gallery-item">
-    <figure><a href="https://i2.wp.com/geidh.uk/wp-content/uploads/2019/01/NR-copy.png?fit=750%2C400&ssl=1"><img src="https://i2.wp.com/geidh.uk/wp-content/uploads/2019/01/NR-copy.png?fit=750%2C400&ssl=1" alt="" data-id="4761" data-link="https://geidh.uk/?attachment_id=4761" class="wp-image-4761" srcset="https://i2.wp.com/geidh.uk/wp-content/uploads/2019/01/NR-copy.png?w=1800&ssl=1 1800w, https://i2.wp.com/geidh.uk/wp-content/uploads/2019/01/NR-copy.png?resize=300%2C300&ssl=1 300w, https://i2.wp.com/geidh.uk/wp-content/uploads/2019/01/NR-copy.png?resize=768%2C768&ssl=1 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></a></figure>
-  </li>
-  <li class="blocks-gallery-item">
-    <figure><a href="https://i0.wp.com/geidh.uk/wp-content/uploads/2019/01/NS-copy.png?fit=750%2C400&ssl=1"><img src="https://i0.wp.com/geidh.uk/wp-content/uploads/2019/01/NS-copy.png?fit=750%2C400&ssl=1" alt="" data-id="4762" data-link="https://geidh.uk/?attachment_id=4762" class="wp-image-4762" srcset="https://i0.wp.com/geidh.uk/wp-content/uploads/2019/01/NS-copy.png?w=1800&ssl=1 1800w, https://i0.wp.com/geidh.uk/wp-content/uploads/2019/01/NS-copy.png?resize=300%2C300&ssl=1 300w, https://i0.wp.com/geidh.uk/wp-content/uploads/2019/01/NS-copy.png?resize=768%2C768&ssl=1 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></a></figure>
-  </li>
-  <li class="blocks-gallery-item">
-    <figure><a href="https://i1.wp.com/geidh.uk/wp-content/uploads/2019/01/PG-copy.png?fit=750%2C400&ssl=1"><img src="https://i1.wp.com/geidh.uk/wp-content/uploads/2019/01/PG-copy.png?fit=750%2C400&ssl=1" alt="" data-id="4763" data-link="https://geidh.uk/?attachment_id=4763" class="wp-image-4763" srcset="https://i1.wp.com/geidh.uk/wp-content/uploads/2019/01/PG-copy.png?w=1800&ssl=1 1800w, https://i1.wp.com/geidh.uk/wp-content/uploads/2019/01/PG-copy.png?resize=300%2C300&ssl=1 300w, https://i1.wp.com/geidh.uk/wp-content/uploads/2019/01/PG-copy.png?resize=768%2C768&ssl=1 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></a></figure>
-  </li>
-  <li class="blocks-gallery-item">
-    <figure><a href="https://i2.wp.com/geidh.uk/wp-content/uploads/2019/01/PS-copy.png?fit=750%2C400&ssl=1"><img src="https://i2.wp.com/geidh.uk/wp-content/uploads/2019/01/PS-copy.png?fit=750%2C400&ssl=1" alt="" data-id="4764" data-link="https://geidh.uk/?attachment_id=4764" class="wp-image-4764" srcset="https://i2.wp.com/geidh.uk/wp-content/uploads/2019/01/PS-copy.png?w=1800&ssl=1 1800w, https://i2.wp.com/geidh.uk/wp-content/uploads/2019/01/PS-copy.png?resize=300%2C300&ssl=1 300w, https://i2.wp.com/geidh.uk/wp-content/uploads/2019/01/PS-copy.png?resize=768%2C768&ssl=1 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></a></figure>
-  </li>
-  <li class="blocks-gallery-item">
-    <figure><a href="https://i2.wp.com/geidh.uk/wp-content/uploads/2019/01/Q-copy.png?fit=750%2C400&ssl=1"><img src="https://i2.wp.com/geidh.uk/wp-content/uploads/2019/01/Q-copy.png?fit=750%2C400&ssl=1" alt="" data-id="4765" data-link="https://geidh.uk/?attachment_id=4765" class="wp-image-4765" srcset="https://i2.wp.com/geidh.uk/wp-content/uploads/2019/01/Q-copy.png?w=1800&ssl=1 1800w, https://i2.wp.com/geidh.uk/wp-content/uploads/2019/01/Q-copy.png?resize=300%2C300&ssl=1 300w, https://i2.wp.com/geidh.uk/wp-content/uploads/2019/01/Q-copy.png?resize=768%2C768&ssl=1 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></a></figure>
-  </li>
-  <li class="blocks-gallery-item">
-    <figure><a href="https://i2.wp.com/geidh.uk/wp-content/uploads/2019/01/T-copy.png?fit=750%2C400&ssl=1"><img src="https://i2.wp.com/geidh.uk/wp-content/uploads/2019/01/T-copy.png?fit=750%2C400&ssl=1" alt="" data-id="4766" data-link="https://geidh.uk/?attachment_id=4766" class="wp-image-4766" srcset="https://i2.wp.com/geidh.uk/wp-content/uploads/2019/01/T-copy.png?w=1800&ssl=1 1800w, https://i2.wp.com/geidh.uk/wp-content/uploads/2019/01/T-copy.png?resize=300%2C300&ssl=1 300w, https://i2.wp.com/geidh.uk/wp-content/uploads/2019/01/T-copy.png?resize=768%2C768&ssl=1 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></a></figure>
-  </li>
-  <li class="blocks-gallery-item">
-    <figure><a href="https://i2.wp.com/geidh.uk/wp-content/uploads/2019/01/TS-copy.png?fit=750%2C400&ssl=1"><img src="https://i2.wp.com/geidh.uk/wp-content/uploads/2019/01/TS-copy.png?fit=750%2C400&ssl=1" alt="" data-id="4767" data-link="https://geidh.uk/?attachment_id=4767" class="wp-image-4767" srcset="https://i2.wp.com/geidh.uk/wp-content/uploads/2019/01/TS-copy.png?w=1800&ssl=1 1800w, https://i2.wp.com/geidh.uk/wp-content/uploads/2019/01/TS-copy.png?resize=300%2C300&ssl=1 300w, https://i2.wp.com/geidh.uk/wp-content/uploads/2019/01/TS-copy.png?resize=768%2C768&ssl=1 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></a></figure>
-  </li>
-</ul>
+![Tha cuid de dhaoine co-sheòrsach. Gabh ris!](https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2019-01-05-postairean-stonewall-co-sheorsach.png)
+
+![Tha cuid de dhaoine dà-sheòrsach. Gabh ris!](https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2019-01-05-postairean-stonewall-da-sheorsach.png)
+
+![Tha cuid de dhaoine far-ghnèitheach. Gabh ris!](https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2019-01-05-postairean-stonewall-far-ghneitheach.png)
+
+![Tha cuid de dhaoine gèidh. Gabh ris!](https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2019-01-05-postairean-stonewall-geidh.png)
+
+![Tha cuid de dhaoine ioma-ghnèitheach. Gabh ris!](https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2019-01-05-postairean-stonewall-ioma-ghneitheach.png)
+
+![Tha cuid de dhaoine ioma-sheòrsach. Gabh ris!](https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2019-01-05-postairean-stonewall-ioma-sheorsach.png)
+
+![Tha cuid de dhaoine leasbach. Gabh ris!](https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2019-01-05-postairean-stonewall-leasbach.png)
+
+![Tha cuid de dhaoine leth-ghnèitheach. Gabh ris!](https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2019-01-05-postairean-stonewall-leth-ghneitheach.png)
+
+![Tha cuid de dhaoine leth-sheòrsach. Gabh ris!](https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2019-01-05-postairean-stonewall-leth-sheorsach.png)
+
+![Tha cuid de dhaoine neo-bhìnearaidh. Gabh ris!](https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2019-01-05-postairean-stonewall-neo-bhinearaidh.png)
+
+![Tha cuid de dhaoine neo-ghnèitheach. Gabh ris!](https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2019-01-05-postairean-stonewall-neo-ghneitheach.png)
+
+![Tha cuid de dhaoine neo-romansach. Gabh ris!](https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2019-01-05-postairean-stonewall-neo-romansach.png)
+
+![Tha cuid de dhaoine neo-sheòrsach. Gabh ris!](https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2019-01-05-postairean-stonewall-neo-sheorsach.png)
+
+![Tha cuid de dhaoine pan-ghnèitheach. Gabh ris!](https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2019-01-05-postairean-stonewall-pan-ghneitheach.png)
+
+![Tha cuid de dhaoine pan-sheòrsach. Gabh ris!](https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2019-01-05-postairean-stonewall-pan-sheorsach.png)
+
+![Tha cuid de dhaoine queer. Gabh ris!](https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2019-01-05-postairean-stonewall-queer.png)
+
+![Tha cuid de dhaoine tar-ghnèitheach. Gabh ris!](https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2019-01-05-postairean-stonewall-tar-ghneitheach.png)
+
+![Tha cuid de dhaoine tar-sheòrsach. Gabh ris!](https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2019-01-05-postairean-stonewall-tar-sheorsach.png)
