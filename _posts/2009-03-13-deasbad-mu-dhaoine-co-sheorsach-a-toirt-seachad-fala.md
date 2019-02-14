@@ -2,13 +2,11 @@
 title: Deasbad mu dhaoine co-sheòrsach a’ toirt seachad fala
 author: Crìstean MacMhìcheil
 type: post
-date: 2009-03-13T22:11:34+00:00
-excerpt: "Thèid ath-sgrùdadh a dhèanamh air an casg a th' air fireannaich co-sheòrsach agus dà-sheòrsach bho bhith a' toirt seachad fala."
-url: /deasbad-mu-dhaoine-co-sheorsach-a-toirt-seachad-fala/
+date: 2009-03-13 22:11:34
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - An Rìoghachd Aonaichte
-  - Slàinte
+  - an-rioghachd-aonaichte
+  - slainte
 tags:
   - Acquired Immunodeficiency Syndrome
   - AIDS
@@ -39,6 +37,8 @@ tags:
 
 ---
 Thèid ath-sgrùdadh a dhèanamh air an casg a th&#8217; air fireannaich co-sheòrsach agus dà-sheòrsach bho bhith a&#8217; toirt seachad fala.
+
+<!--more-->
 
 Chaidh an casg a chur an sàs anns na 1980an air sgàth eagail mun ghalair HIV.
 

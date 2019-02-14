@@ -2,13 +2,11 @@
 title: A’ Chiad Fèis-pròise airson na h-Eileanan an Iar
 author: Crìstean MacMhìcheil
 type: post
-date: 2018-09-15T09:44:15+00:00
-excerpt: "Chaidh ainmeachadh Diardaoin gun tèid a' chiad fèis-pròise a-riamh a chumail anns na h-Eileanan an Iar 6mh Dàmhair."
-url: /a-chiad-feis-proise-airson-na-h-eileanan-an-iar/
+date: 2018-09-15 09:44:15
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - Alba
-  - Fèisean-pròise
+  - alba
+  - feisean-proise
 tags:
   - Era Stornoway
   - fèis-pròise
@@ -26,6 +24,8 @@ tags:
 
 ---
 Chaidh ainmeachadh Diardaoin gun tèid a&#8217; chiad fèis-pròise a-riamh a chumail anns na h-Eileanan an Iar 6mh Dàmhair.
+
+<!--more-->
 
 Mar phàirt dhen fhèis bidh caismeachd ann an Steòrnabhagh agus thèid crìoch a chur air an fhèis le pàrtaidh anns a&#8217; chlub-oidhche Era sa bhaile.
 

@@ -2,15 +2,13 @@
 title: Deasbad mu companasan-catharra san Eilean Mhanainn
 author: Crìstean MacMhìcheil
 type: post
-date: 2010-02-22T21:04:46+00:00
-excerpt: "Thathar gu bhith a' deasbad Bile Companasan-catharra anns an House of Keys a-màireach."
-url: /deasbad-mu-companasan-catharra-san-eilean-mhanainn/
+date: 2010-02-22 21:04:46
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - An Rìoghachd Aonaichte
-  - An Roinn-eòrpa
-  - An t-Saoghal
-  - Poilitigs
+  - an-rioghachd-aonaichte
+  - an-roinn-eorpa
+  - an-t-saoghal
+  - poilitigs
 tags:
   - Allan Bell
   - Bile Companasan-catharra
@@ -33,6 +31,8 @@ tags:
 
 ---
 Thathar gu bhith a&#8217; deasbad Bile Companasan-catharra anns an House of Keys a-màireach.
+
+<!--more-->
 
 Ma bhios e soirbheachail thèid còirichean co-ionann a thoirt do chàraidean co-sheòrsach agus leasbach &#8217;s a th&#8217; aig càraidean phòsta.
 

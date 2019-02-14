@@ -2,12 +2,10 @@
 title: Càineadh mu phostair oilbheumach ann an taigh-seinnse Lìteach
 author: Crìstean MacMhìcheil
 type: post
-date: 2018-03-20T20:53:48+00:00
-excerpt: 'Chaidh càineadh a dhèanamh air an taigh-seinnse The Office ann an Lìte mu phostair oilbheumach a th&#x27; anns na taighean-beaga aca.'
-url: /caineadh-mu-phostair-oilbheumach-ann-an-taigh-seinnse-liteach/
+date: 2018-03-20 20:53:48
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - Alba
+  - alba
 tags:
   - Dùn Èideann
   - gnèithealachd
@@ -18,6 +16,8 @@ tags:
 
 ---
 Chaidh càineadh a dhèanamh air an taigh-seinnse The Office ann an Lìte mu phostair oilbheumach a th&#8217; anns na taighean-beaga aca.
+
+<!--more-->
 
 Tha am postair air ainmeachadh Office Banter agus e a&#8217; liostadh diofar abhcaidean a tha gràin-chinnidheach, gnèithealach agus gràineil ri luchd-LGBT.<figure>
 

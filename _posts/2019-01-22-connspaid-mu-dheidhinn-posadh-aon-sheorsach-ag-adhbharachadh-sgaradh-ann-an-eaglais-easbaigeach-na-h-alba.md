@@ -2,13 +2,11 @@
 title: Connspaid mu dheidhinn pòsadh aon-sheòrsach ag adhbharachadh sgaradh ann an Eaglais Easbaigeach na h-Alba
 author: Crìstean MacMhìcheil
 type: post
-date: 2019-01-22T12:03:43+00:00
-excerpt: 'Tha 87% de bhuill Eaglais Choimhearsnachd Westhill ann an Siorrachd Obair Dheathain air bhòtadh gus briseadh air falbh bho Eaglais Easbaigeach na h-Alba air sgàth ‘s suidheachadh a’ bhuidheann nàiseanta a-thaobh pòsadh aon-sheòrsach.'
-url: /connspaid-mu-dheidhinn-posadh-aon-sheorsach-ag-adhbharachadh-sgaradh-ann-an-eaglais-easbaigeach-na-h-alba/
+date: 2019-01-22 12:03:43
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - Alba
-  - Creideamh
+  - alba
+  - creideamh
 tags:
   - Alba
   - an t-Urr
@@ -32,6 +30,8 @@ tags:
 
 ---
 Tha 87% de bhuill Eaglais Choimhearsnachd Westhill ann an Siorrachd Obair Dheathain air bhòtadh gus briseadh air falbh bho Eaglais Easbaigeach na h-Alba air sgàth ‘s suidheachadh a’ bhuidheann nàiseanta a-thaobh pòsadh aon-sheòrsach.
+
+<!--more-->
 
 Thuirt an t-Urr. Fearghasdan ri _The Press & Journal_:
 

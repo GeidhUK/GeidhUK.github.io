@@ -2,14 +2,12 @@
 title: Poileas Alba ri sùil a thoirt air ionmhas Fèis-pròise Ghlaschu
 author: Crìstean MacMhìcheil
 type: post
-date: 2018-11-19T17:23:34+00:00
-excerpt: Chaidh iarraidh air Poileas Alba sùil a thoirt air ionmhas Fèis-pròise Ghlaschu.
-url: /poileas-alba-ri-suil-a-thoirt-air-ionmhas-feis-proise-ghlaschu/
+date: 2018-11-19 17:23:34
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - Alba
-  - Fèisean-pròise
-  - Lagh
+  - alba
+  - feisean-proise
+  - lagh
 tags:
   - Alba
   - Chris Laing
@@ -25,6 +23,8 @@ tags:
 
 ---
 Chaidh iarraidh air Poileas Alba sùil a thoirt air ionmhas Fèis-pròise Ghlaschu.
+
+<!--more-->
 
 Thathar a&#8217; tuigsinn gun deach fios a chur ris am poileas mu airgead a chaidh air chall as dèidh tachartas na bliadhna seo.
 

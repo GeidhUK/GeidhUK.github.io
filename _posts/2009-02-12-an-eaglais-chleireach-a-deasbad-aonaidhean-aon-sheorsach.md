@@ -2,13 +2,11 @@
 title: An Eaglais Chlèireach a’ deasbad aonaidhean aon-sheòrsach
 author: Crìstean MacMhìcheil
 type: post
-date: 2009-02-12T13:34:38+00:00
-excerpt: Tha Eaglais Chlèireach nan Stàitean Aonaichte air comataidh ùr stèidheachadh gus sgrùdadh a dhèanamh air dè an t-àite a bu chòir a bhith aig aonaidhean aon-sheòrsach sa Chrìosdachd agus sa choimhearsnachd san fharsaingeachd.
-url: /an-eaglais-chleireach-a-deasbad-aonaidhean-aon-sheorsach/
+date: 2009-02-12 13:34:38
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - An t-Saoghal
-  - Creideamh
+  - an-t-saoghal
+  - vreideamh
 tags:
   - Aimearaga
   - America
@@ -35,6 +33,8 @@ tags:
 
 ---
 Tha Eaglais Chlèireach nan Stàitean Aonaichte air comataidh ùr stèidheachadh gus sgrùdadh a dhèanamh air dè an t-àite a bu chòir a bhith aig aonaidhean aon-sheòrsach sa Chrìosdachd agus sa choimhearsnachd san fharsaingeachd.
+
+<!--more-->
 
 Thuirt an t-Urr. Bruce Reyes-Chow, Moderàtor an Eaglais, gu bheil an comataidh air a dhèanamh suas le iadhairean, luchd-lagha, aoghairean agus proifeiseantaich an-sàs ann an diofar obraichean diadhaidh.
 

@@ -2,14 +2,12 @@
 title: Geamaichean-bhidio LCDTQ air an taisbeanadh ann an taigh-tasgaidh Bherlin
 author: Crìstean MacMhìcheil
 type: post
-date: 2019-01-07T16:12:28+00:00
-excerpt: Tha Taigh-tasgaidh Schwules ann am Berlin air taisbeanadh ùr fhosgladh gus geamaichean-bhidio LCDTQ a chomharrachadh.
-url: /geamaichean-bhidio-lcdtq-air-an-taisbeanadh-ann-an-taigh-tasgaidh-bherlin/
+date: 2019-01-07 16:12:28
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - An Roinn-eòrpa
-  - Cùltar
-  - Teicneòlas
+  - an-roinn-eorpa
+  - cultar
+  - teicneolas
 tags:
   - Adrienne Shaw
   - Berlin
@@ -30,6 +28,8 @@ tags:
 
 ---
 Tha [Taigh-tasgaidh Schwules][1] ann am Berlin air taisbeanadh ùr fhosgladh gus geamaichean-bhidio LCDTQ a chomharrachadh.
+
+<!--more-->
 
 Bidh luchd-tadhail a&#8217; leantainn an taisbeanadh timcheall bogha-froise, le dath eadar-dhealaichte aig gach roinn, a&#8217; comharrachadh nan 33 bliadhna mu dheireadh de shusbaint LCDTQ ann an geamaichean tro ealain spèisearan, cuimhneachain agus agallamhan bhidio le luchd-dealbhaidh &#8211; a bharrachd air tiotalan mar _[Caper in the Castro][2]_, aon dhen a&#8217; chiad gheamaichean LCDTQ, a tha ri cluich leis an luchd-tadhail.
 

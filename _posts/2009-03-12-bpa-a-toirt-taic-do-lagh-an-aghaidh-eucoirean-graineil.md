@@ -2,14 +2,12 @@
 title: BPA a’ toirt taic do lagh an-aghaidh eucoirean gràineil
 author: Crìstean MacMhìcheil
 type: post
-date: 2009-03-12T21:06:32+00:00
-excerpt: "Tha lagh ùr gus brìgh eucoirean gràineil leasachadh a bhith a' toirt a-steach gràin-co-sheòrsachd air gluasad air adhart ann an Alba."
-url: /bpa-a-toirt-taic-do-lagh-an-aghaidh-eucoirean-graineil/
+date: 2009-03-12 21:06:32
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - Alba
-  - An Rìoghachd Aonaichte
-  - Poilitigs
+  - alba
+  - an-rioghachd-aonaichte
+  - poilitigs
 tags:
   - Ball Pàrlamaid na h-Alba
   - BPA
@@ -29,6 +27,8 @@ tags:
 
 ---
 Tha lagh ùr gus brìgh eucoirean gràineil leasachadh a bhith a&#8217; toirt a-steach gràin-co-sheòrsachd air gluasad air adhart ann an Alba.
+
+<!--more-->
 
 Tha Comataidh Ceartas Holyrood air taic a thoirt dhan bhile ùr a chaidh a chur air adhart le BPA Uaine Patrick Harvie.
 

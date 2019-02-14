@@ -2,13 +2,11 @@
 title: Pàrlamaid na h-Alba air bhòtadh gus Lagh Thuring a chur an gnìomh
 author: Crìstean MacMhìcheil
 type: post
-date: 2018-06-06T21:02:49+00:00
-excerpt: Tha Pàrlamaid na h-Alba air bhotadh gu h-aon-ghuthach airson lagh ùr a chur an gnìomh a chìthear mathanas oifigeil a thoirt do dhaoine co-sheòrsach agus dà-sheòrsach a chaidh an dìteadh fo laghan lethbhreith eachdraidheil.
-url: /parlamaid-na-h-alba-air-bhotadh-gus-lagh-thuring-a-chur-an-gniomh/
+date: 2018-06-06 21:02:49
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - Alba
-  - Poilitigs
+  - alba
+  - poilitigs
 tags:
   - Alan Turing
   - BPA
@@ -23,6 +21,8 @@ tags:
 
 ---
 Tha Pàrlamaid na h-Alba air bhotadh gu h-aon-ghuthach airson lagh ùr a chur an gnìomh a chìthear mathanas oifigeil a thoirt do dhaoine co-sheòrsach agus dà-sheòrsach a chaidh an dìteadh fo laghan lethbhreith eachdraidheil.
+
+<!--more-->
 
 Thèid mathanas a thoirt gu fèin-ghluasadach dhan a h-uile daoine a chaidh a dhìteadh fo na seann laghan co-dhiubh ma tha iad beò no marbh.
 

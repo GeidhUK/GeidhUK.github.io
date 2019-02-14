@@ -2,14 +2,12 @@
 title: Eòlaiche Sgaoileadh-ghalaran air iarraidh air Riaghaltas Innis Tìle crìoch a chur air a’ chasg a tha toirmeasg daoine gèidh bho bhith a’ toirt seachad fala
 author: Crìstean MacMhìcheil
 type: post
-date: 2019-01-06T10:58:38+00:00
-excerpt: "Tha Þórólfur Guðnason, aon dhe na prìomh eòlaichean sgaoileadh-ghalaran ann an Innis Tìle, air iarraidh air an riaghaltas crìoch a chur air a' chasg iomlan a th' air fireannaich co-sheòrsach agus dà-sheòrsach bho bhith a' toirt seachad fala."
-url: /eolaiche-sgaoileadh-ghalaran-air-iarraidh-air-riaghaltas-innis-tile-crioch-a-chur-air-a-chasg-a-tha-toirmeasg-daoine-geidh-bho-bhith-a-toirt-seachad-fala/
+date: 2019-01-06 10:58:38
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - An Roinn-eòrpa
-  - An t-Saoghal
-  - Slàinte
+  - an-roinn-eorpa
+  - an-t-saoghal
+  - slainte
 tags:
   - AIDS
   - An Danmhairg
@@ -33,6 +31,8 @@ tags:
 
 ---
 Tha Þórólfur Guðnason, aon dhe na prìomh Eòlaichean Sgaoileadh-ghalaran (_Epidemiologist_) ann an Innis Tìle, air iarraidh air an riaghaltas crìoch a chur air a&#8217; chasg iomlan a th&#8217; air fireannaich co-sheòrsach agus dà-sheòrsach bho bhith a&#8217; toirt seachad fala.
+
+<!--more-->
 
 A-rèir [The Reykjavik Grapevine][1], thuirt Guðnason:
 

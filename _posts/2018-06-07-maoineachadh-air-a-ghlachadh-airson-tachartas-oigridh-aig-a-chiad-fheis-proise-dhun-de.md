@@ -2,13 +2,11 @@
 title: Maoineachadh air a ghlachadh airson tachartas òigridh aig a’ chiad Fhèis Pròis Dhùn Dè
 author: Crìstean MacMhìcheil
 type: post
-date: 2018-06-07T11:38:37+00:00
-excerpt: "Chaidh maoineachadh de £2500 a ghlacadh leis a' bhuidheann-òigridh Purple Dragons gus tachartas òigridh a chumail mar phàirt dhen chiad Fhèis Pròis Dhùn Dè."
-url: /maoineachadh-air-a-ghlachadh-airson-tachartas-oigridh-aig-a-chiad-fheis-proise-dhun-de/
+date: 2018-06-07 11:38:37
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - Alba
-  - Fèisean-pròise
+  - alba
+  - feisean-proise
 tags:
   - Barry Jordan
   - Dùn Dè
@@ -27,6 +25,8 @@ tags:
 
 ---
 Chaidh maoineachadh de £2500 a ghlacadh leis a&#8217; bhuidheann-òigridh Purple Dragons gus tachartas òigridh a chumail mar phàirt dhen chiad Fhèis Pròis Dhùn Dè.
+
+<!--more-->
 
 Chaidh maoineachadh de £1500 a thoirt dhaibh le Dundee Youth Fund agus chaidh £1000 a bharrachd a thoirt dhaibh le LGBT Youth Scotland.
 

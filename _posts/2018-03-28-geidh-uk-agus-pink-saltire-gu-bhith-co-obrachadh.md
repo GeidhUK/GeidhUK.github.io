@@ -2,13 +2,11 @@
 title: Gèidh.uk agus Pink Saltire gu bhith co-obrachadh air sèirbheis-naidheachd LGBT do Ghàidheil
 author: Crìstean MacMhìcheil
 type: post
-date: 2018-03-28T21:36:21+00:00
-excerpt: Tha mi air leth toilichte a bhith ag obair comhla ri Pink Saltire gus barrachd den t-susbaint aca a thabhann tro mheadhan na Gàidhlig!
-url: /geidh-uk-agus-pink-saltire-gu-bhith-co-obrachadh/
+date: 2018-03-28 21:36:21
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - Alba
-  - Blog
+  - alba
+  - blog
 tags:
   - blog
   - Pink Saltire
@@ -16,6 +14,8 @@ tags:
 
 ---
  Tha mi air leth toilichte a bhith ag obair comhla ri Pink Saltire gus barrachd den t-susbaint aca a thabhann tro mheadhan na Gàidhlig!
+
+ <!--more-->
 
 ## Leanaibh Pink Saltire Làrach-lìn: 
 

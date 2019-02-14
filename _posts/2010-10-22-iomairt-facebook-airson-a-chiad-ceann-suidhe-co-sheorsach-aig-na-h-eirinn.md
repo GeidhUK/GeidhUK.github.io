@@ -2,14 +2,12 @@
 title: Iomairt Facebook airson a’ chiad ceann-suidhe co-sheòrsach aig na h-Èirinn
 author: Crìstean MacMhìcheil
 type: post
-date: 2010-10-22T10:35:55+00:00
-excerpt: "Chaidh iomairt a chur an sàs air Facebook gus a' chiad ceann-suidhe co-sheòrsach a thaghadh ann an Èirinn."
-url: /iomairt-facebook-airson-a-chiad-ceann-suidhe-co-sheorsach-aig-na-h-eirinn/
+date: 2010-10-22 10:35:55
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - An Roinn-eòrpa
-  - Èirinn
-  - Poilitigs
+  - an-roinn-eorpa
+  - eirinn
+  - poilitigs
 tags:
   - Ceann-suidhe na h-Èirinn
   - David Norris
@@ -22,6 +20,8 @@ tags:
 
 ---
 Chaidh iomairt a chur an sàs air Facebook gus a&#8217; chiad ceann-suidhe co-sheòrsach a thaghadh ann an Èirinn.
+
+<!--more-->
 
 Thathar an dùil gun tèid David Norris a thaghadh na Ceann-suidhe na h-Èirinn anns an Taghadh 2011.
 

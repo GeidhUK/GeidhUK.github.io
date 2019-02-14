@@ -2,15 +2,13 @@
 title: A’ chiad cead-siubhail neo-ghèitheach air a thoirt a-mach anns na Tìrean Ìsle
 author: Crìstean MacMhìcheil
 type: post
-date: 2018-10-23T21:00:24+00:00
-excerpt: "Chaidh cead-siubhail neo-ghnèitheach (<em>gender neutral</em>) a thoirt a-mach anns Na Tìrean Ìsle airson a' chiad turas."
-url: /a-chiad-cead-siubhail-neo-gheitheach-air-a-thoirt-a-mach-anns-na-tirean-isle/
+date: 2018-10-23 21:00:24
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - An Roinn-eòrpa
-  - An t-Saoghal
-  - Lagh
-  - Poilitigs
+  - an-roinn-eorpa
+  - an-t-saoghal
+  - lagh
+  - poilitigs
 tags:
   - An Òlaind
   - cead-siubhail
@@ -33,6 +31,8 @@ tags:
 
 ---
 Chaidh cead-siubhail neo-ghnèitheach (_gender neutral_) a thoirt a-mach anns Na Tìrean Ìsle airson a&#8217; chiad turas.
+
+<!--more-->
 
 Chaidh a thoirt gu Leonne Zeegers agus tha ga comharrachadh mar gnè X an àite boireann no fireann.
 

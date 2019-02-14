@@ -2,13 +2,11 @@
 title: Sgoilearan Sussex a’ dèanamh sabaid air gràin-co-sheòrsachd le iomairt GRIN
 author: Crìstean MacMhìcheil
 type: post
-date: 2011-01-01T15:45:17+00:00
-excerpt: "Tha sgoilearan aig Sgoil Bhedales, faisg air Petersfield air iomairt a chur air bhonn gus sabaid a' dèanamh air gràin air deugairean co-sheòrsach."
-url: /sgoilearan-sussex-a-deanamh-sabaid-air-grain-co-sheorsachd-le-iomairt-grin/
+date: 2011-01-01 15:45:17
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - An Rìoghachd Aonaichte
-  - Foghlam
+  - an-rioghachd-aonaichte
+  - foghlam
 tags:
   - Bedales School
   - children
@@ -29,6 +27,8 @@ tags:
 
 ---
 Tha sgoilearan aig Sgoil Bhedales, faisg air Petersfield air iomairt a chur air bhonn gus sabaid a&#8217; dèanamh air gràin air deugairean co-sheòrsach.
+
+<!--more-->
 
 Chaidh an iomairt [GRIN (Global Respect in Education)][1] a stèidheachadh le Claudia White, 17, as dèidh dhi leughadh mu dheidhinn deugairean co-sheòrsach a chur às dhaibh fhèin.
 

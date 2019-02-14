@@ -2,12 +2,10 @@
 title: Dìreach dà chàraid aon-sheòrsach air leanabh uchd-mhacachadh ann an Èirinn a Tuath o chionn 2013
 author: Crìstean MacMhìcheil
 type: post
-date: 2019-01-04T15:57:05+00:00
-excerpt: Chaidh a nochdadh gur ann aig Èirinn a Tuath a tha an an ìre uchd-mhacaichidh as ìsle a-measg càraidean aon-sheòrsach anns an Rìoghachd Aonaichte le dìreach 1 anns gach 15 iarrtasan soirbheachadh, an taca ri 1 anns gach 2 ann an àiteachan eile san Rìoghachd Aonaichte.
-url: /direach-da-charaid-aon-sheorsach-air-leanabh-uchd-mhacachadh-ann-an-eirinn-a-tuath-o-chionn-2013/
+date: 2019-01-04 15:57:05
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - An Rìoghachd Aonaichte
+  - an-rioghachd-aonaichte
 tags:
   - adoption
   - An Rìoghachd Aonaichte
@@ -26,6 +24,8 @@ tags:
 
 ---
 Chaidh a nochdadh gur ann aig Èirinn a Tuath a tha an an ìre uchd-mhacaichidh as ìsle a-measg càraidean aon-sheòrsach anns an Rìoghachd Aonaichte le dìreach 1 anns gach 15 iarrtasan soirbheachadh, an taca ri 1 anns gach 2 ann an àiteachan eile san Rìoghachd Aonaichte.
+
+<!--more-->
 
 A-rèir na figearan, tha 30 càraid air iarrtas uchd-mhacaichidh a chur a-steach o chionn 2013, nuair a chaidh còirichean uchd-mhacaichidh a thoirt do chàraidean aon-sheòrsach, ach cha robh ach dà iarrtas soirbheachail nam measg.
 

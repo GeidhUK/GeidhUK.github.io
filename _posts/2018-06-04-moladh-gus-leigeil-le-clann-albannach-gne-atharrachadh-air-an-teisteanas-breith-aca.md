@@ -2,13 +2,11 @@
 title: Moladh gus leigeil le clann Albannach gnè atharrachadh air an teisteanas breith aca
 author: Crìstean MacMhìcheil
 type: post
-date: 2018-06-04T10:48:30+00:00
-excerpt: Bu chòir clann cho òg ri 12 a bhith comasach air gnè atharrachadh air an teisteanas breith aca gun taic phàrant, a-rèir Coimiseanair Cloinne is Òigridh na h-Alba.
-url: /moladh-gus-leigeil-le-clann-albannach-gne-atharrachadh-air-an-teisteanas-breith-aca/
+date: 2018-06-04 10:48:30
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - Alba
-  - Poilitigs
+  - alba
+  - poilitigs
 tags:
   - Bruce Adamson
   - children
@@ -30,6 +28,8 @@ tags:
 
 ---
 Bu chòir do chlann cho òg ri 12 a bhith comasach air gnè atharrachadh air an teisteanas breith aca gun taic phàrant, a-rèir Coimiseanair Cloinne is Òigridh na h-Alba.
+
+<!--more-->
 
 Ann am freagairt do cho-chomhairle Riaghaltas na h-Alba a thaobh ùrachadh laghan aithne gnè, thuirt Bruce Adamson gum bu choir do dh&#8217;òigridh a bhith comasach air gnè atharrachadh air an teisteanas breith aca gun taic phàrant mura h-eil iad ag aithneachadh leis an gnè bith-eòlasach aca.
 

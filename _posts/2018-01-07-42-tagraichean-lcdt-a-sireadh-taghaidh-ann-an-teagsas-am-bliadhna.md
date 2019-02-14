@@ -2,13 +2,11 @@
 title: 42 tagraichean LCDT+ a’ sireadh taghaidh ann an Teagsas am bliadhna
 author: Crìstean MacMhìcheil
 type: post
-date: 2018-01-07T18:02:27+00:00
-excerpt: "A-rèir an iris OutSmart tha co-dhiù 42 tagraichean LCDT+ a' sireadh taghaidh ann an Teagsas am bliadhna."
-url: /42-tagraichean-lcdt-a-sireadh-taghaidh-ann-an-teagsas-am-bliadhna/
+date: 2018-01-07 18:02:27
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - An t-Saoghal
-  - Poilitigs
+  - an-t-saoghal
+  - poilitigs
 tags:
   - Aimearaga
   - America
@@ -27,6 +25,8 @@ tags:
 
 ---
 A-rèir an iris [OutSmart][1] tha co-dhiù 42 tagraichean LCDT+ a&#8217; sireadh taghaidh ann an Teagsas am bliadhna.
+
+<!--more-->
 
 Tha dithis dhe na tagraichean a&#8217; sireadh taghaidh mar Riaghladair, aonar mar bhall Àrd-chuirt Theagsais, triùir mar bhuill Seanadh Theagsais, deichnear mar bhuill Taigh Theagsais, ochdnar mar bhuill a&#8217; Mhór-dhàil agus dusan eile a&#8217; sireadh oifisean laghail eile.
 

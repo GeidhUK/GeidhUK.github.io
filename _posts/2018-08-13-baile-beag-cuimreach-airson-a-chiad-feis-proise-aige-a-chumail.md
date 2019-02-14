@@ -2,13 +2,11 @@
 title: Baile beag Cuimreach airson a’ chiad fèis-pròise aige a chumail
 author: Crìstean MacMhìcheil
 type: post
-date: 2018-08-13T20:45:18+00:00
-excerpt: "Tha coimhearsnachd beag anns a' Chuimrigh air tighinn còmhla gus fèis-pròise a phlanadh air 1mh t-Sultain 2018."
-url: /baile-beag-cuimreach-airson-a-chiad-feis-proise-aige-a-chumail/
+date: 2018-08-13 20:45:18
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - An Rìoghachd Aonaichte
-  - Fèisean-pròise
+  - an-rioghachd-aonaichte
+  - feisean-proise
 tags:
   - "A' Chuimrigh"
   - An Rìoghachd Aonaichte
@@ -28,6 +26,8 @@ tags:
 
 ---
 Tha coimhearsnachd beag anns a&#8217; Chuimrigh air tighinn còmhla gus fèis-pròise a phlanadh airson 1mh t-Sultain 2018.
+
+<!--more-->
 
 Cha do chum Llantwit Major fèis-pròise a-riamh ach tha iad an dùil gum bi e na deagh eisimpleir do choimhearsnachdan beaga eile a tha airson pride a chomharrachadh.
 

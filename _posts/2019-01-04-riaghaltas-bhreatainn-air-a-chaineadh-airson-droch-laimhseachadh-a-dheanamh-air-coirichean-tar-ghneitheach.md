@@ -2,14 +2,12 @@
 title: Riaghaltas Bhreatainn air a chàineadh airson droch-làimhseachadh a dhèanamh air còirichean tar-ghnèitheach
 author: Crìstean MacMhìcheil
 type: post
-date: 2019-01-04T20:55:27+00:00
-excerpt: Tha Maria Miller, cathraiche Comataidh nam Ban agus Co-ionannachd, air an riaghaltas a chàineadh airson droch-làimhseachadh a dhèanamh air còirichean tar-ghnèitheach.
-url: /riaghaltas-bhreatainn-air-a-chaineadh-airson-droch-laimhseachadh-a-dheanamh-air-coirichean-tar-ghneitheach/
+date: 2019-01-04 20:55:27
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - An Rìoghachd Aonaichte
-  - Lagh
-  - Poilitigs
+  - -an-rioghachd-aonaichte
+  - lagh
+  - poilitigs
 tags:
   - Achd Aithneachadh Gnè
   - ath-leasachadh
@@ -29,6 +27,8 @@ tags:
 
 ---
 Tha Maria Miller, cathraiche Comataidh nam Ban agus Co-ionannachd, air an riaghaltas a chàineadh airson droch-làimhseachadh a dhèanamh air còirichean tar-ghnèitheach.
+
+<!--more-->
 
 Ann an 2016 bha a’ Bh-Uas Miller na cathraiche rannsachadh air cùisean tar-ghnèitheach a mhol grunn atharrachaidhean laghail gus dèanamh cinnteach gu bi seirbheisean poblach a’ solarachadh airson feuman dhaoine tar-ghnèitheach.
 

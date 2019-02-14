@@ -2,14 +2,12 @@
 title: Nicola Sturgeon na h-Àrd-Mharasgal na Caismeachd aig Fèis-pròise Ghlaschu
 author: Crìstean MacMhìcheil
 type: post
-date: 2018-07-15T20:47:50+00:00
-excerpt: Bha Prìomh Mhinistear na h-Alba, Nicola Sturgeon aig ceann na caismeachd aig Fèis-pròise Ghlaschu an-dè.
-url: /nicola-sturgeon-na-h-ard-mharasgal-na-caismeachd-aig-feis-proise-ghlaschu/
+date: 2018-07-15 20:47:50
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - Alba
-  - Fèisean-pròise
-  - Poilitigs
+  - alba
+  - feisean-proise
+  - poilitigs
 tags:
   - Alba
   - Blair Wilson
@@ -35,6 +33,8 @@ tags:
 
 ---
 Bha Prìomh Mhinistear na h-Alba, Nicola Sturgeon aig ceann na caismeachd aig Fèis-pròise Ghlaschu an-dè.
+
+<!--more-->
 
 Air thoiseach air an tachartas, thuirt Ms Sturgeon:
 

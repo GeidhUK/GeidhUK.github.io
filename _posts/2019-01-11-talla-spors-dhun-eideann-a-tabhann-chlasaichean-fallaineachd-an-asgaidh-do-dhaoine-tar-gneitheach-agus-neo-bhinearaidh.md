@@ -2,13 +2,11 @@
 title: Talla-spors Dhùn Èideann a’ tabhann chlasaichean fallaineachd an-asgaidh do dhaoine tar-gnèitheach agus neo-bhìnearaidh
 author: Crìstean MacMhìcheil
 type: post
-date: 2019-01-11T14:56:18+00:00
-excerpt: 'Tha an talla-spòrs neo-phrothaideach <a href="https://www.projekt42.co.uk/">Projekt 42</a> ann an Lìte air ainmeachadh gum bi iad a’ tabhann chlasaichean fallaineachd seachdaineil an-asgaidh do dhaoine tar-ghnèitheach agus neo-bhìnearaidh.'
-url: /talla-spors-dhun-eideann-a-tabhann-chlasaichean-fallaineachd-an-asgaidh-do-dhaoine-tar-gneitheach-agus-neo-bhinearaidh/
+date: 2019-01-11 14:56:18
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - Alba
-  - Slàinte
+  - alba
+  - slainte
 tags:
   - Dùn Èideann
   - Edinburgh
@@ -33,6 +31,8 @@ tags:
 
 ---
 Tha an talla-spòrs neo-phrothaideach [Projekt 42][1] ann an Lìte air ainmeachadh gum bi iad a’ tabhann chlasaichean fallaineachd seachdaineil an-asgaidh do dhaoine tar-ghnèitheach agus neo-bhìnearaidh.
+
+<!--more-->
 
 ‘S e amas an talla-spòrs slàinte-inntinn nan com-pàirtichean neartachadh le eacarsaich chorporra agus thuirt iad gu bheil iad airson àite eacarsaich sàbhailte a chruthachadh do dhaoine tar-ghnèitheach agus neo-bhìnearaidh.
 

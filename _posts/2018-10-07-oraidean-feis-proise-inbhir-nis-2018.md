@@ -2,13 +2,11 @@
 title: Òraidean Fèis-pròise Inbhir Nis 2018
 author: Crìstean MacMhìcheil
 type: post
-date: 2018-10-07T08:54:21+00:00
-excerpt: Bhidiothan dhe na h-òraidean aig Fèis-pròise Inbhir Nis 2018.
-url: /oraidean-feis-proise-inbhir-nis-2018/
+date: 2018-10-07 08:54:21
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - Alba
-  - Fèisean-pròise
+  - alba
+  - feisean-proise
 tags:
   - Church of Scotland
   - Cùirt an Easbaig
@@ -33,6 +31,11 @@ tags:
   - Sandra Owsnett
 
 ---
+
+Bhidiothan dhe na h-òraidean aig Fèis-pròise Inbhir Nis 2018.
+
+<!--more-->
+
 <p style="text-align: center;">
 </p>
 

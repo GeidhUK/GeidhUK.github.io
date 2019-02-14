@@ -2,14 +2,12 @@
 title: Leigheas sìolachadh in-bhiotro air a thabhann do chàraid fhireannach ann an Alba
 author: Crìstean MacMhìcheil
 type: post
-date: 2019-01-28T19:51:39+00:00
-excerpt: Thàinig e am follais Didòmhnaich gun deach leigheas sìolachadh in-bhiotro a thabhann do chàraid co-sheòrsach fireannach ann an Alba airson a’ chiad turas a-riamh san Rìoghachd Aonaichte.
-url: /leigheas-siolachadh-in-bhiotro-air-a-thabhann-do-charaid-fhireannach-ann-an-alba/
+date: 2019-01-28 19:51:39
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - Alba
-  - An Rìoghachd Aonaichte
-  - Slàinte
+  - alba
+  - an-rioghachd-aonaichte
+  - slainte
 tags:
   - Alba
   - Baby
@@ -39,6 +37,8 @@ tags:
 
 ---
 Thàinig e am follais Didòmhnaich gun deach leigheas sìolachadh in-bhiotro a thabhann do chàraid fhireannach co-sheòrsach ann an Alba airson a’ chiad turas a-riamh san Rìoghachd Aonaichte.
+
+<!--more-->
 
 A-rèir [The Mail on Sunday][1], bidh SNS a’ toirt maoineachadh dhan chàraid gus ugh a thorrachadh le sìol-ghinidh aon dhiubh mus tèid an suth a ion-phlanntadh ann an neach-ionaid gus a thoirt gu breith.
 

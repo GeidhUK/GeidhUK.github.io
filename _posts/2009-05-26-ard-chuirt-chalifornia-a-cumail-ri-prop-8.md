@@ -2,14 +2,12 @@
 title: Àrd-chùirt Chalifornia a’ cumail ri Prop 8
 author: Crìstean MacMhìcheil
 type: post
-date: 2009-05-26T19:11:45+00:00
-excerpt: Tha Àrd-chùirt Chalifornia air bhòtadh gus cumail ri Proposition 8, an iomairt a chur casg air pòsadh aon-sheòrsach anns an stàit.
-url: /ard-chuirt-chalifornia-a-cumail-ri-prop-8/
+date: 2009-05-26 19:11:45
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - An t-Saoghal
-  - Lagh
-  - Poilitigs
+  - an-t-saoghal
+  - lagh
+  - poilitigs
 tags:
   - Aimearaga
   - America
@@ -36,6 +34,8 @@ tags:
 
 ---
 Tha Àrd-chùirt Chalifornia air bhòtadh gus cumail ri Proposition 8, an iomairt a chur casg air pòsadh aon-sheòrsach anns an stàit.
+
+<!--more-->
 
 Bhòt na britheamhan 6-1 an-aghaidh luchd-taice pòsaidhean aon-sheòrsach a bha a&#8217; gearan air sgàth &#8217;s gu bheil Proposition 8 a&#8217; dol an-aghaidh Bun-reachd nan Stàitean Aonaichte. A dh&#8217;aindeoin an co-dhùnadh seo, bhòt iad uile gu lèir airson na 18,000 pòsaidhean a chaidh a chumail mar thà a chumail laghail.
 

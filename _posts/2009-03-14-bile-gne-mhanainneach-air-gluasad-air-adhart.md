@@ -2,15 +2,13 @@
 title: Bile Gnè Mhanainneach air gluasad air adhart
 author: Crìstean MacMhìcheil
 type: post
-date: 2009-03-14T20:33:39+00:00
-excerpt: "Tha bile ùr gus an t-Eilean Mhanainn a thoirt gu ìre an Rìoghachd Aonaichte a-thaobh poileasaidhean gnè air faighinn tron a' chiad ceum dhen Chomhairle Lagha."
-url: /bile-gne-mhanainneach-air-gluasad-air-adhart/
+date: 2009-03-14 20:33:39
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - An Rìoghachd Aonaichte
-  - An Roinn-eòrpa
-  - An t-Saoghal
-  - Poilitigs
+  - an-rioghachd-aonaichte
+  - an-roinn-eorpa
+  - an-t-saoghal
+  - poilitigs
 tags:
   - co-ionannachd
   - co-ionnannachd pòsaidh
@@ -26,6 +24,8 @@ tags:
 
 ---
 Tha bile ùr gus an t-Eilean Mhanainn a thoirt gu ìre an Rìoghachd Aonaichte a-thaobh poileasaidhean gnè air faighinn tron a&#8217; chiad ceum dhen Chomhairle Lagha.
+
+<!--more-->
 
 Thèid an _Gender Recognition Bill_, a chaidh a chur air adhart le Eddie Lowey, a chur an gnìomh gus riaghailtean Cùirt Eòrpach nan Còirichean Daonna a&#8217; co-fhreagairt.
 

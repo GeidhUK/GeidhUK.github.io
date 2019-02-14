@@ -2,12 +2,10 @@
 title: Chan fhaigh athair tar-ghnèitheach sochair-chloinne
 author: Crìstean MacMhìcheil
 type: post
-date: 2018-09-22T07:59:45+00:00
-excerpt: "Chan fhaigh athair tar-ghnèitheach sochair-chloinne air sgàth 's nach eil e airson a bhith clàraichte mar màthair air teisteanas breith an leanaibh."
-url: /chan-fhaigh-athair-tar-ghneitheach-sochair-chloinne/
+date: 2018-09-22 07:59:45
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - An Rìoghachd Aonaichte
+  - an-rioghachd-aonaichte
 tags:
   - athair
   - birth certificate
@@ -22,6 +20,8 @@ tags:
 
 ---
 Chan fhaigh athair tar-ghnèitheach sochair-chloinne air sgàth &#8217;s nach eil e airson a bhith clàraichte mar mhàthair air teisteanas breith an leanaibh.
+
+<!--more-->
 
 Tha an duine, nach gabh ainmeachadh airson adhbharan laghail, ag àramaid seach gun robh e aithnichte gu làghail mar fhireannach aig àm a bhreith gum bu chòir dha bhith clàraichte mar athair.
 

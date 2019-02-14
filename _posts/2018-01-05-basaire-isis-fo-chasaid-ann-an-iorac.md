@@ -2,13 +2,11 @@
 title: Bàsaire ISIS fo chasaid ann an Ioràc
 author: Crìstean MacMhìcheil
 type: post
-date: 2018-01-05T22:56:37+00:00
-excerpt: Tha feachdan tèarainteachd ann am Mosul, Ioràc air bàsaire ISIS a chur fo chasaid.
-url: /basaire-isis-fo-chasaid-ann-an-iorac/
+date: 2018-01-05 22:56:37
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - An t-Saoghal
-  - Creideamh
+  - an-t-saoghal
+  - creideamh
 tags:
   - Abu Omer
   - An Ear Mheadhanach
@@ -30,6 +28,8 @@ tags:
 
 ---
 Tha feachdan tèarainteachd ann am Mosul, Ioràc air bàsaire ISIS a chur fo chasaid.
+
+<!--more-->
 
 Tha am bàsaire, Abu Omer no ‘White Beard’ ainmeil airson fìr ghèidh a mhurt.
 

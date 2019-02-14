@@ -2,13 +2,11 @@
 title: Ceannard Fèis-pròise Ghlaschu air a dhreuchd a leigeil dheth
 author: Crìstean MacMhìcheil
 type: post
-date: 2018-10-09T13:34:57+00:00
-excerpt: "Tha Alasdair Mac a' Ghobhainn, Ceannard Fèis-pròise Ghlaschu air a dhreuchd a leigeil as dèidh 10 bliadhna mar thoradh air duilgheadasan an tachartais am-bliadhna."
-url: /ceannard-feis-proise-ghlaschu-air-a-dhreuchd-a-leigeil-dheth/
+date: 2018-10-09 13:34:57
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - Alba
-  - Fèisean-pròise
+  - alba
+  - feisean-proise
 tags:
   - "Alasdair Mac a' Ghobhainn"
   - Alastair Smith
@@ -19,6 +17,8 @@ tags:
 
 ---
 Tha Alasdair Mac a&#8217; Ghobhainn, Ceannard Fèis-pròise Ghlaschu air a dhreuchd a leigeil dheth as dèidh 10 bliadhna mar thoradh air duilgheadasan an tachartais am-bliadhna.
+
+<!--more-->
 
 Chuir còrr &#8217;s 1500 daoine na h-ainmean aca ri athchuinge ag iarraidh air a dhreuchd a leigeil dheth air sgàth duilgheadasan a bha a&#8217; ciallachadh nach b&#8217; urrainn do dhaoine faighinn a-steach dhan tachartas.
 

@@ -2,14 +2,12 @@
 title: A’ chiad seirbheis aon-sheòrsach Eilean Leòdhais an-diugh
 author: Crìstean MacMhìcheil
 type: post
-date: 2009-07-20T18:55:52+00:00
-excerpt: "Thèid a' chiad seirbheis aon-sheòrsach a chumail ann an Eilean Leòdhais an-diugh nuair a thèid Anndra Robasdan agus Craig Atkins am pòsadh."
-url: /a-chiad-seirbheis-aon-sheorsach-eilean-leodhais-an-diugh/
+date: 2009-07-20 18:55:52
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - Alba
-  - An Rìoghachd Aonaichte
-  - Creideamh
+  - alba
+  - an Rìoghachd Aonaichte
+  - creideamh
 tags:
   - Anndra Robasdan
   - aon-sheòrsach
@@ -33,6 +31,8 @@ tags:
 
 ---
 Thèid a&#8217; chiad seirbheis aon-sheòrsach a chumail ann an Eilean Leòdhais an-diugh nuair a thèid Anndra Robasdan agus Craig Atkins am pòsadh.
+
+<!--more-->
 
 &#8216;S e seo a&#8217; chiad seirbheis aon-sheòrsach ann an Eilean Leòdhais on a chaidh companasan-catharra a chur an gnìomh ann an 2005.
 

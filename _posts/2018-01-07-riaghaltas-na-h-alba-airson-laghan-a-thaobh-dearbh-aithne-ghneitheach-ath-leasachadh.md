@@ -2,14 +2,12 @@
 title: Riaghaltas na h-Alba airson laghan a thaobh dearbh-aithne ghnèitheach ath-leasachadh
 author: Crìstean MacMhìcheil
 type: post
-date: 2018-01-07T21:30:01+00:00
-excerpt: Tha Riaghaltas na h-Alba air ràdh gum bi iad a’ dol air adhart le planaichean gus laghan a thaobh dearbh-aithne ghnèitheach ath-leasachadh as dèidh gun do chur Riaghaltas Bhreatainn dàil air na planaichean acasan.
-url: /riaghaltas-na-h-alba-airson-laghan-a-thaobh-dearbh-aithne-ghneitheach-ath-leasachadh/
+date: 2018-01-07 21:30:01
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - Alba
-  - An Rìoghachd Aonaichte
-  - Poilitigs
+  - alba
+  - an-rioghachd-aonaichte
+  - poilitigs
 tags:
   - Alba
   - Angela Crawley
@@ -34,6 +32,8 @@ tags:
 
 ---
 Tha Riaghaltas na h-Alba air ràdh gum bi iad a’ dol air adhart le planaichean gus laghan a thaobh dearbh-aithne ghnèitheach ath-leasachadh as dèidh gun do chur Riaghaltas Bhreatainn dàil air na planaichean acasan.
+
+<!--more-->
 
 Dh’ainmich Justine Greening, Rùnaire an Fhoghlaim agus Ministear nam Ban, anns an t-Iuchar 2017 gum bidh Riaghaltas Bhreatainn ath-leasachadh an lagh a thaobh dearbh-aithne ghnèitheach.
 

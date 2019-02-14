@@ -2,13 +2,11 @@
 title: Fèis film LCDT+ ri tilleadh a Ghlaschu
 author: Crìstean MacMhìcheil
 type: post
-date: 2018-11-06T17:06:00+00:00
-excerpt: 'Thèid an ceathramh <em><a href="http://www.sqiff.org/">Scottish Queer International Film Festival (SQIFF)</a></em> a thilleadh a Ghlaschu 5mh - 9mh An Dùbhlachd.'
-url: /feis-film-lcdt-ri-tilleadh-a-ghlaschu/
+date: 2018-11-06 17:06:00
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - Alba
-  - Cùltar
+  - alba
+  - cultar
 tags:
   - Alba Chruthachail
   - Creative Scotland
@@ -23,6 +21,8 @@ tags:
 
 ---
 Thèid an ceathramh _[Scottish Queer International Film Festival (SQIFF)][1]_ a thilleadh a Ghlaschu 5mh &#8211; 9mh An Dùbhlachd.
+
+<!--more-->
 
 Thèid a chumail thairis an còig latha aig ionadan a leithid CCA, GFT, an Sgoil Ealain agus Pàirc Kinning. Cuideachd bidh prògram ro-sheallaidh aig sgrìonan air feadh na dùthcha, [An Lanntair, Steòrnabhagh][2] nam measg, anns an t-Samhain.
 

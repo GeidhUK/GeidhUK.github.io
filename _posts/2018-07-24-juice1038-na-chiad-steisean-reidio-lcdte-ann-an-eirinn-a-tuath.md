@@ -2,13 +2,11 @@
 title: Juice1038 na chiad stèisean rèidio LCDTE ann an Èirinn a Tuath
 author: Crìstean MacMhìcheil
 type: post
-date: 2018-07-24T12:46:59+00:00
-excerpt: "Tòisichidh Juice1038 a' craoladh bho phrìomh-bhaile Èirinn a Tuath air 4mh An Lùnastal, an aon latha ri Fèis-pròise Bheul Feirste."
-url: /juice1038-na-chiad-steisean-reidio-lcdte-ann-an-eirinn-a-tuath/
+date: 2018-07-24 12:46:59
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - An Rìoghachd Aonaichte
-  - Cùltar
+  - an-rioghachd-aonaichte
+  - cultar
 tags:
   - Belfast
   - Beul Feirste
@@ -22,6 +20,8 @@ tags:
 
 ---
 Tòisichidh [Juice1038][1] a&#8217; craoladh bho phrìomh-bhaile Èirinn a Tuath air 4mh An Lùnastal, an aon latha ri Fèis-pròise Bheul Feirste.
+
+<!--more-->
 
 Bidh an sianal a&#8217; cluich measgachadh de fuinn dannsa clasaigeach, ath-mheasgachaidhean agus òrain ùra bho na charts.
 

@@ -2,13 +2,11 @@
 title: BPA SNP a’ càineadh Bile nan Eucoirean Feise
 author: Crìstean MacMhìcheil
 type: post
-date: 2018-06-19T10:52:16+00:00
-excerpt: Tha John Mason BPA air a bhith a’ càineadh lagh ùr a chitheas mathanas a thoirt do dhaoine co-sheòrsach agus dà-sheòrsach a chaidh an dìteadh fo laghan eachdraidheil.
-url: /bpa-snp-a-caineadh-bile-nan-eucoirean-feise/
+date: 2018-06-19 10:52:16
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - Alba
-  - Poilitigs
+  - alba
+  - poilitigs
 tags:
   - Ball Pàrlamaid na h-Alba
   - Bile nan Eucoirean Feise
@@ -23,6 +21,8 @@ tags:
 
 ---
 Tha John Mason BPA air a bhith a’ càineadh lagh ùr a chitheas mathanas a thoirt do dhaoine co-sheòrsach agus dà-sheòrsach a chaidh an dìteadh fo laghan eachdraidheil.
+
+<!--more-->
 
 Thèid mathanas a thoirt gu fèin-ghluasadach dhan a h-uile daoine a chaidh a dhìteadh fo na seann laghan co-dhiubh ma tha iad beò no marbh.
 

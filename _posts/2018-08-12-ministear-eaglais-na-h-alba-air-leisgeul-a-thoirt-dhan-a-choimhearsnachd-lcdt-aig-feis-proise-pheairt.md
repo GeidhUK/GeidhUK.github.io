@@ -2,14 +2,12 @@
 title: Ministear Eaglais na h-Alba air leisgeul a thoirt dhan a’ choimhearsnachd LCDT aig Fèis-pròise Pheairt
 author: Crìstean MacMhìcheil
 type: post
-date: 2018-08-12T16:06:54+00:00
-excerpt: "Tha ministear Eaglais na h-Alba air leisgeul a thoirt seachad aig Fèis-pròise Pheairt airson cron sam bith a tha an eaglais air a dhèanamh dhan a' choimhearsnachd LCDT."
-url: /ministear-eaglais-na-h-alba-air-leisgeul-a-thoirt-dhan-a-choimhearsnachd-lcdt-aig-feis-proise-pheairt/
+date: 2018-08-12 16:06:54
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - Alba
-  - Creideamh
-  - Fèisean-pròise
+  - alba
+  - creideamh
+  - feisean-proise
 tags:
   - "2018"
   - an t-Urr
@@ -22,6 +20,8 @@ tags:
 
 ---
 Tha ministear Eaglais na h-Alba air leisgeul a thoirt seachad aig Fèis-pròise Pheairt airson cron sam bith a tha an eaglais air a dhèanamh dhan a&#8217; choimhearsnachd LCDT.
+
+<!--more-->
 
 &#8216;S e an t-Urr Scott Burton na chiad mhinistear aig Eaglais na h-Alba a-riamh gus fèis-pròise fhosgladh gu h-oifigeil.
 

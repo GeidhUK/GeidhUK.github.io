@@ -2,14 +2,12 @@
 title: Lìonra ùr stèideachadh gus taic a thoirt ri thidsearan LCDT+
 author: Crìstean MacMhìcheil
 type: post
-date: 2018-06-07T21:30:35+00:00
-excerpt: Chaidh lìonra air loidhne ùr stèideachadh an seachdain seo gus taic a thoirt ri thidsearan LCDT san Rìoghachd Aonaichte.
-url: /lionra-ur-steideachadh-gus-taic-a-thoirt-ri-thidsearan-lcdt/
+date: 2018-06-07 21:30:35
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - An Rìoghachd Aonaichte
-  - Foghlam
-  - Teicneòlas
+  - an-rioghachd-aonaichte
+  - foghlam
+  - teicneolas
 tags:
   - Ambition School Leadership
   - Daniel Gray
@@ -28,6 +26,8 @@ tags:
 
 ---
 Chaidh lìonra air loidhne ùr stèidheachadh an seachdain seo gus taic a thoirt ri thidsearan LCDT+ san Rìoghachd Aonaichte.
+
+<!--more-->
 
 Bidh [LGBTed][1] ag obair còmhla ri Ionad Charnegie aig Oilthigh Leeds Beckett agus oilthighean eile gus rannsachadh a cho-roinn mu dheidhinn tighinn a-mach nuair a thathar ag obair ann an sgoiltean agus oilthighean.
 

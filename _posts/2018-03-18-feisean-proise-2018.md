@@ -2,14 +2,12 @@
 title: Fèisean Pròise 2018
 author: Crìstean MacMhìcheil
 type: post
-date: 2018-03-18T16:27:45+00:00
-excerpt: "Seo agaibh liosta de dh'fhèisean Pròise am-bliadhna. Fàgaibh beachd gu h-ìosal ma tha sibh eòlach air fear a tha a dhìth."
-url: /feisean-proise-2018/
+date: 2018-03-18 16:27:45
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - Alba
-  - An Rìoghachd Aonaichte
-  - Fèisean-pròise
+  - alba
+  - an-rioghachd-aonaichte
+  - feisean-proise
 tags:
   - caismeachd
   - fèis
@@ -21,6 +19,8 @@ tags:
 
 ---
  Seo agaibh liosta de dh&#8217;fhèisean Pròise am-bliadhna. Fàgaibh beachd gu h-ìosal ma tha sibh eòlach air fear a tha a dhìth.
+
+ <!--more-->
 
 ## **Am Màrt** •
 

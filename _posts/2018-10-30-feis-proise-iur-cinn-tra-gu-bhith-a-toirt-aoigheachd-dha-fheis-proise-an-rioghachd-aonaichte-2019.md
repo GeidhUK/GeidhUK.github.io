@@ -2,13 +2,11 @@
 title: Fèis-pròise Iúr Cinn Trá gu bhith a’ toirt aoigheachd dha Fhèis-pròise an Rìoghachd Aonaichte 2019
 author: Crìstean MacMhìcheil
 type: post
-date: 2018-10-30T16:10:43+00:00
-excerpt: "Chaidh ainmeachadh gum bi Fèis-pròise Iúr Cinn Trá (<em>Newry</em>) a' toirt aoigheachd dha Fhèis-pròise an Rìoghachd Aonaichte 2019."
-url: /feis-proise-iur-cinn-tra-gu-bhith-a-toirt-aoigheachd-dha-fheis-proise-an-rioghachd-aonaichte-2019/
+date: 2018-10-30 16:10:43
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - An Rìoghachd Aonaichte
-  - Fèisean-pròise
+  - an-rioghachd-aonaichte
+  - feisean-proise
 tags:
   - An Rìoghachd Aonaichte
   - Caisteal Nuadh
@@ -28,6 +26,8 @@ tags:
 
 ---
 Chaidh ainmeachadh gum bi Fèis-pròise Iúr Cinn Trá (_Newry_) a&#8217; toirt aoigheachd dha Fhèis-pròise an Rìoghachd Aonaichte 2019.
+
+<!--more-->
 
 Chaidh ainmeachadh nuair a thàinig faisg air 100 buidhnean pròise còmhla ann an Glaschu aig an deireadh sheachdain airson a&#8217; cho-labhairt bhliadhnail aca.
 

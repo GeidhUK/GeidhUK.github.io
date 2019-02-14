@@ -2,13 +2,11 @@
 title: A’ Chiad Fèis-pròise Pheairt
 author: Crìstean MacMhìcheil
 type: post
-date: 2018-03-24T21:24:35+00:00
-excerpt: "Thèid a' chiad Fèis-pròise a chumail ann an Siorrachd Pheairt Disathairne 12 Lùnastal 2018."
-url: /a-chiad-feis-proise-pheairt/
+date: 2018-03-24 21:24:35
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - Alba
-  - Fèisean-pròise
+  - alba
+  - feisean-proise
 tags:
   - Alba
   - fèis-pròise

@@ -2,13 +2,11 @@
 title: A’ Chiad Fèis-pròise na h-Antartaig
 author: Crìstean MacMhìcheil
 type: post
-date: 2018-06-03T15:23:59+00:00
-excerpt: "Thathar an dùil gun tèid a' chiad fèis pròis na h-Antartaig a chumail an t-seachdain-sa."
-url: /a-chiad-feis-proise-na-h-antartaig/
+date: 2018-06-03 15:23:59
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - An t-Saoghal
-  - Fèisean-pròise
+  - an-t-saoghal
+  - feisean-proise
 tags:
   - An Antartaig
   - Evan Townsend
@@ -18,6 +16,8 @@ tags:
 
 ---
 Thathar an dùil gun tèid a&#8217; chiad fèis pròis na h-Antartaig a chumail an t-seachdain-sa.
+
+<!--more-->
 
 Tha buidheann de 10 daoine LGDT+ air tòiseachadh ag ullachadh airson a&#8217; chiad fèis pròise riamh aca, le bhith a&#8217; togail dealbh dhen bhuidheann taobh a-muigh an stèisean aca aig Stèisean MacMhurchaidh &#8211; timcheall air 850 mìle air falbh bhon Phòla a Deas.
 

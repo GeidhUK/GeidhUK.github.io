@@ -2,13 +2,11 @@
 title: Bun-sgoil Gàidhealach a’ leigeil le balaich is nigheanan a bhith a’ farpais ri chèile ann an rèisean latha-spòrs
 author: Crìstean MacMhìcheil
 type: post
-date: 2018-06-03T19:03:11+00:00
-excerpt: "Tha Bun-sgoil Mharc-Innis ann an Inverness air leigeil le balaich is nigheanan a bhith a' farpais ri chèile ann an rèisean latha spòrs."
-url: /bun-sgoil-gaidhealach-a-leigeil-le-balaich-is-nigheanan-a-bhith-a-farpais-ri-cheile-ann-an-reisean-latha-spors/
+date: 2018-06-03 19:03:11
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - Alba
-  - Foghlam
+  - alba
+  - foghlam
 tags:
   - Bun-sgoil Mharc-Innis
   - Comhairle na Gàidhealtachd
@@ -24,6 +22,8 @@ tags:
 
 ---
 Tha Bun-sgoil Mharc-Innis ann an Inverness air leigeil le balaich is nigheanan a bhith a&#8217; farpais ri chèile ann an rèisean latha-spòrs.
+
+<!--more-->
 
 Rinn an sgoil an gluasad grunn sheachdainean às deidh stiùireadh bho Comhairle na Gàidhealtachd gus taic a thoirt do sgoilearan leasbach, co-sheòrsach, dà-sheòrsach, tar-ghnèitheach agus eadar-sheòrsach.
 

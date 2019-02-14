@@ -2,12 +2,10 @@
 title: Bhidio ùr a’ soilleireachadh an casg a th’ air daoine co-sheòrsach agus dà-sheòrsach bho bhith a’ toirt seachad fala
 author: Crìstean MacMhìcheil
 type: post
-date: 2018-06-08T12:27:20+00:00
-excerpt: "Tha an iomairtiche airson còirichean LCDTE+, Peter Tatchell, air bhidio a sgaoileadh air YouTube gus an casg a th' air daoine co-sheòrsach agus dà-sheòrsach bho bhith a' toirt seachad fala a shoillearachadh."
-url: /bhidio-ur-a-soilleireachadh-an-casg-a-th-air-daoine-co-sheorsach-agus-da-sheorsach-bho-bhith-a-toirt-seachad-fala/
+date: 2018-06-08 12:27:20
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - Slàinte
+  - slainte
 tags:
   - blood ban
   - Blood Transfusion Service
@@ -19,6 +17,8 @@ tags:
 
 ---
 Tha an iomairtiche airson còirichean LCDTE+, Peter Tatchell, air bhidio a sgaoileadh air YouTube gus an casg a th&#8217; air daoine co-sheòrsach agus dà-sheòrsach bho bhith a&#8217; toirt seachad fala a shoillearachadh.
+
+<!--more-->
 
 Anns a&#8217; bhidio, a ghabhas a choimhead gu h-ìosal, tha neach-tèarainteachd taobh a-muigh ionad tabhartais fala a&#8217; cleachdadh inneal &#8220;gaydar&#8221; gus stad a chur air daoine a&#8217; dol a-steach air sgàth &#8217;s gu bheil an inneal gan aithneachadh mar co-sheòrsach. Tha na tabhairtichean an uairsin a&#8217; faighneachd dhan neach-tèarainteachd carson nach eil daoine co-sheòrsach comasach air fuil a thoirt seachad.
 

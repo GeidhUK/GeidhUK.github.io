@@ -2,13 +2,11 @@
 title: Apple a’ beachdachadh air oifis ùr fhosgladh ann an Carolina a Tuath a dh’aindeoin laghan san stàit a leigeas lethbhreith an aghaidh luchd-LGDTE
 author: Crìstean MacMhìcheil
 type: post
-date: 2018-05-20T16:15:17+00:00
-excerpt: "Tha dithis oifigearan riaghaltais à Carolina a Tuath air a ràdh gu bheil Apple a' beachdachadh air oifis corporra mòr fhosgladh anns an stàit - a dh'aindeoin laghan san stàit a leigeas lethbhreith an aghaidh coimhearsnachd LGDTE na stàite."
-url: /apple-a-beachdachadh-air-oifis-ur-fhosgladh-ann-an-carolina-a-tuath-a-dhaindeoin-laghan-san-stait-a-leigeas-lethbhreith-an-aghaidh-luchd-lgdte/
+date: 2018-05-20 16:15:17
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - An t-Saoghal
-  - Teicneòlas
+  - an-t-saoghal
+  - teicneolas
 tags:
   - Aimearaga
   - Apple
@@ -27,6 +25,8 @@ tags:
 
 ---
 Tha dithis oifigearan riaghaltais à Carolina a Tuath air a ràdh gu bheil Apple a&#8217; beachdachadh air oifis corporra mòr fhosgladh anns an stàit &#8211; a dh&#8217;aindeoin laghan san stàit a leigeas lethbhreith an aghaidh coimhearsnachd LGDTE na stàite.
+
+<!--more-->
 
 [Dh&#8217;innis iad dhan Associated Press][1] gu bheil an companaidh teicneòlais faisg air co-dhùnadh am bu chòir dha ionad corporra mòr fhosgladh ann an sgìre Raleigh-Durham ann an Carolina a Tuath.
 

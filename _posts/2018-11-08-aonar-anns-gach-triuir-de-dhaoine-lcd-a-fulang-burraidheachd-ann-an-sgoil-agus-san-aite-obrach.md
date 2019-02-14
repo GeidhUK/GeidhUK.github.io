@@ -2,15 +2,12 @@
 title: Aonar anns gach triùir de dhaoine LCD a’ fulang burraidheachd ann an sgoil agus san àite-obrach
 author: Crìstean MacMhìcheil
 type: post
-date: 2018-11-08T10:26:17+00:00
-excerpt: |
-  Tha aonar anns gach triùir de dhaoine leasbach, co-sheòrsach agus dà-sheòrsach a dh'fhulaing burraidheachd nuair a bha iad ann an sgoil cuideachd a' fulaing burraidheachd san àite-obrach a-rèir sgrùdadh ùr bho <a href="https://www.anglia.ac.uk/">Oilthigh Anglia Ruskin</a>.
-url: /aonar-anns-gach-triuir-de-dhaoine-lcd-a-fulang-burraidheachd-ann-an-sgoil-agus-san-aite-obrach/
+date: 2018-11-08 10:26:17
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - An Rìoghachd Aonaichte
-  - Foghlam
-  - Gnìomhachas
+  - an-rioghachd-aonaichte
+  - foghlam
+  - gniomhachas
 tags:
   - àite-obrach
   - An Rìoghachd Aonaichte
@@ -46,6 +43,8 @@ tags:
 
 ---
 Tha aonar anns gach triùir de dhaoine leasbach, co-sheòrsach agus dà-sheòrsach a dh&#8217;fhulaing burraidheachd nuair a bha iad ann an sgoil cuideachd a&#8217; fulaing burraidheachd san àite-obrach a-rèir sgrùdadh ùr bho [Oilthigh Anglia Ruskin][1].
+
+<!--more-->
 
 Chruthaich an sgrùdadh beachdan bho 400 duine anns an Rìoghachd Aonaichte ann an 2016.
 

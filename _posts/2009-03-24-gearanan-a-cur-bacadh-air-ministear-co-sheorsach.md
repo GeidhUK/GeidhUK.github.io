@@ -2,14 +2,12 @@
 title: Gearanan a’ cur bacadh air ministear co-sheòrsach
 author: Crìstean MacMhìcheil
 type: post
-date: 2009-03-24T18:32:33+00:00
-excerpt: Thèid coinneamh a chumail gus deasbad ma bhios ministear co-sheòrsach ann an Obair Dheathain comasach air obair airson an eaglais.
-url: /gearanan-a-cur-bacadh-air-ministear-co-sheorsach/
+date: 2009-03-24 18:32:33
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - Alba
-  - An Rìoghachd Aonaichte
-  - Creideamh
+  - alba
+  - an-rioghachd-aonaichte
+  - creideamh
 tags:
   - Aberdeen
   - an t-Urr
@@ -27,6 +25,8 @@ tags:
 
 ---
 Thèid coinneamh a chumail gus deasbad ma bhios ministear co-sheòrsach ann an Obair Dheathain comasach air obair airson an eaglais.
+
+<!--more-->
 
 Tha am _Press & Journal_ ag ràdh gun deach an t-Urr. Scott Rennie a chur an dreuchd aig Eaglais Chrois na Banrighinn san Fhaoilleach le bhòt 60 gu 24 ach gu bheil 13 buill dhen eaglais air gearanan a dhèanamh mun dhòigh-bheatha aige.
 

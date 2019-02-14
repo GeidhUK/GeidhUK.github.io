@@ -2,14 +2,11 @@
 title: Comhairliche tar-ghnèitheach Albannach a’ leigeil às an dreuchd mar thoradh air droch dhìol
 author: Crìstean MacMhìcheil
 type: post
-date: 2018-08-15T09:11:01+00:00
-excerpt: |
-  Tha an aon comhairliche tar-ghnèitheach ann an Alba air ainmeachadh gum bidh iad a' leigeil às chuid dhe na dreuchdan aca mar thoradh air "sreath de dhroch dhìol guineach agus seasmhach" a' toirt a-steach bagairtean bàis.
-url: /comhairliche-tar-ghneitheach-albannach-a-leigeil-as-an-dreuchd-mar-thoradh-air-droch-dhiol/
+date: 2018-08-15 09:11:01
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - Alba
-  - Poilitigs
+  - alba
+  - poilitigs
 tags:
   - Convener of Children and Family Services
   - council
@@ -25,6 +22,8 @@ tags:
 
 ---
 Tha an aon comhairliche tar-ghnèitheach ann an Alba air ainmeachadh gum bidh iad a&#8217; leigeil às chuid dhe na dreuchdan aca mar thoradh air &#8220;sreath de dhroch dhìol guineach agus seasmhach&#8221; a&#8217; toirt a-steach bagairtean bàis.
+
+<!--more-->
 
 Dh&#8217;ainmich Comhairliche Gregor Murray air Facebook gum biodh iad* a&#8217; leigeil às na dreuchdan aca mar Neach-gairm Comataidh Seirbheis Clann agus Teaghlaichean agus mar Neach-labhairt airson Cothroman Co-ionannachd ach gum biodh iad fhathast nan Comhairliche airson Dùn Dè.
 
