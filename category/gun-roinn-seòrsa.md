@@ -1,6 +1,6 @@
 ---
 layout: redirected
 sitemap: false
-permalink: { site.baseurl }/gun-roinn-seòrsa
-redirect_to: { site.baseurl }/gun-roinn-seorsa
+permalink: /roinn-seorsa/gun-roinn-seòrsa/
+redirect_to: /roinn-seorsa/gun-roinn-seorsa/
 ---
