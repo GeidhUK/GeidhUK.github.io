@@ -1,5 +1,6 @@
 ---
-layout: category
+layout: redirected
+sitemap: false
+permalink: { site.baseurl }/gun-roinn-seòrsa
+redirect_to: { site.baseurl }/gun-roinn-seorsa
 ---
-
-<meta http-equiv="Refresh" content="0; url={ site.baseurl }/gun-roinn-seorsa" />
