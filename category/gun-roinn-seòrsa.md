@@ -1,6 +1,3 @@
 ---
-layout: category
-title: Gun Roinn-seòrsa
-category: gun-roinn-seòrsa
-permalink: /roinn-seorsa/gun-roinn-seòrsa/
+redirect_to: { site.baseurl}/gun-roinn-seorsa
 ---
