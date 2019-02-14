@@ -7,6 +7,27 @@ image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - an-t-saoghal
   - slainte
+tags:
+  - Aimearaga
+  - clann
+  - discrimination
+  - duine trom
+  - In Vitro Fertilisation
+  - IVF
+  - leth-bhreith
+  - Na Stàitean Aonaichte
+  - Nancy Beatie
+  - Oregon
+  - pàrantachd
+  - pàrantan
+  - Portland
+  - pregnant man
+  - slàinte
+  - tar-ghnèitheach
+  - teaghlach
+  - Thomas Beatie
+  - trans
+  - transgender
 ---
 Tha duine tar-ghnèitheach à Portland, Oregon air ràdh anns a’ cholbh aige anns an iris co-sheòrsach _The Advocate_ gu bheil e trom.
 

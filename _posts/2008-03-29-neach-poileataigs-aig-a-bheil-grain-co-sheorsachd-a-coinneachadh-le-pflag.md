@@ -8,6 +8,21 @@ categories:
   - an-t-saoghal
   - creideamh
   - poilitigs
+tags:
+  - Aimearaga
+  - ceannairceachd
+  - ceannaircich
+  - 'Gay &amp; Lesbian Victory Fund'
+  - gay agenda
+  - Loyce Newton-Edwards
+  - Na Stàitean Aonaichte
+  - neach-poileataigs
+  - Oklahoma
+  - 'Parents &amp; Friends of Lesbians &amp; Gays'
+  - PFLAG
+  - riochdaire
+  - Sally Kern
+  - terrorists
 ---
 Tha neach-poileataigs à Oklahoma, a tha ainmeil airson ag ràdh gu bheil daoine co-sheòrsach nan bagairtean nas motha ris na Stàitean Aonaichte na tha ceannaircich, air a bhith a’ coinneachadh le buidheann PFLAG (_Parents & Friends of Lesbians & Gays_).
 

@@ -7,6 +7,17 @@ image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - an-rioghachd-aonaichte
   - slainte
+tags:
+  - aillse
+  - BDHF
+  - British Dental Health Foundation
+  - cancer
+  - cervical
+  - HPV
+  - Human Papillomavirus
+  - oral
+  - slàinte
+  - testicular
 ---
 Tha an carthannas fiaclach as motha anns an Rìoghachd Aonaichte airson balaich a thoirt a-steach dhan phrògram a bhios a’ toirt a-mach banachdaich an-aghaidh an tinneas feise HPV (_Human papillomavirus_) gus bacadh a chur air aillse beòil.
 

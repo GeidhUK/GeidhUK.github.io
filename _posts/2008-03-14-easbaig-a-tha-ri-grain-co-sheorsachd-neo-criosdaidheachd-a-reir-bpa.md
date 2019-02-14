@@ -9,6 +9,18 @@ categories:
   - an-rioghachd-aonaichte
   - creideamh
   - poilitigs
+tags:
+  - Ball Pàrlamaid na h-Alba
+  - Ben Summerskill
+  - Crìosdaidheachd
+  - George Foulkes
+  - gràin-chinnidh
+  - gràin-co-sheòrsachd
+  - gràin-treubhail
+  - Holocaust
+  - Joseph Devine
+  - neo-criosdaidheachd
+  - Stonewall
 ---
 Tha George Foulkes, Ball Pàrlamaid na h-Alba, air ràdh gu bheil e ag aontachadh le aithris a’ bhuidheann co-ionannachd Stonewall anns an tuirt iad gu bheil Easbaig Joseph Devine neo-criosdaidheachd.
 

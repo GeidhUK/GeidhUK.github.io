@@ -7,6 +7,15 @@ image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - an-t-saoghal
   - creideamh
+tags:
+  - Aimearaga
+  - creideamh
+  - Crìosdaidheachd
+  - Irish Queers
+  - Latha Naomh Pàdraig
+  - Na Stàitean Aonaichte
+  - Nuadh Eabhrac
+  - Tierney Gleason
 ---
 Bha am buidheann _Irish Queers_ a&#8217; togail fianais an aghaidh caismeachd Naomh Pàdraig ann an Nuadh Eabhrac an-diugh.
 

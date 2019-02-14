@@ -6,6 +6,12 @@ date: 2008-03-18 16:55:18
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - cultar
+tags:
+  - co-sheòrsach
+  - gay
+  - gèidh
+  - Michael Stipe
+  - R.E.M.
 ---
 Tha Michael Stipe, seinneadair anns a’ chòmhlan-ciùil R.E.M. air ràdh gu bheil e co-sheòrsach.
 

@@ -9,6 +9,25 @@ categories:
   - lagh
   - poilitigs
   - slainte
+tags:
+  - Acquired Immunodeficiency Syndrome
+  - Afraga
+  - Africa
+  - AIDS
+  - Amnesty International
+  - An Ear Mheadhanach
+  - An Èipheit
+  - Annlachd Inneamh Dìon-slàinte
+  - Bhìoras Dìon-slàinte Daonna
+  - Covenant on Civil and Political Rights
+  - Egypt
+  - habitual debauchery
+  - HIV
+  - Human Immunodeficiency Virus
+  - Human Rights Watch
+  - ICCPR
+  - Lagh
+  - Middle East
 ---
 Tha _Amnesty International_ agus _Human Rights Watch_ ag ràdh gu bheil Riaghaltas an Èipheit &#8220;aineolach mu dheidhinn HIV agus gu bheil iad a’ coimhead air le claon-bharail&#8221; an dèidh barrachd casaidean airson “habitual debauchery.”
 

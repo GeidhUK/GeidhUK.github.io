@@ -8,6 +8,15 @@ categories:
   - alba
   - an-rioghachd-aonaichte
   - creideamh
+tags:
+  - Caitligeach
+  - Calum Irving
+  - Crìosdaidheachd
+  - easbaig
+  - Holocaust
+  - Joseph Devine
+  - Oilthigh Ghlaschu
+  - Stonewall Scotland
 ---
 Tha Easbaig Caitligeach a’ tagradh gu bheil daoine co-sheòrsach a’ dèanamh co-fheall an aghaidh dualchas Crìosdaidheachd.
 

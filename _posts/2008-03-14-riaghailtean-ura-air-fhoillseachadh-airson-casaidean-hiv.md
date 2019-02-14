@@ -8,6 +8,23 @@ categories:
   - an-rioghachd-aonaichte
   - poilitigs
   - slainte
+tags:
+  - Acquired Immunodeficiency Syndrome
+  - AIDS
+  - an t-Urr
+  - Annlachd Inneamh Dìon-slàinte
+  - Bhìoras Dìon-slàinte Daonna
+  - casaidean HIV
+  - CPS
+  - Crown Prosecution Service
+  - HIV
+  - HIV convictions
+  - HIV prosecutions
+  - Human Immunodeficiency Virus
+  - "Seirbheis Casaid a' Chrùin"
+  - Sir Ken MacDhòmhnaill QC
+  - Terrence Higgins Trust
+  - THT
 
 ---
 Chaidh riaghailtean ùra fhoillseachadh le Seirbheis Casaid a&#8217; Chrùin an-diugh airson stiùireadh a thoirt do luchd-casaid a&#8217; dèiligeadh ri cùisean-lagha far a bheil daoine air HIV a sgaoileadh a dh’aona-ghnothach.

@@ -8,6 +8,20 @@ categories:
   - an-rioghachd-aonaichte
   - an-t-saoghal
   - poilitigs
+tags:
+  - An Ear Mheadhanach
+  - 'Border &amp; Immigration Agency'
+  - 'Buidheann nan Crìochan &amp; In-imrich'
+  - Ioràn
+  - Iorànach
+  - Medhi Kazemi
+  - Na Tìrean Ìsle
+  - political asylum
+  - Riaghaltas an Rìoghachd Aonaichte
+  - Riaghaltas Bhreatainn
+  - Rùnaire na Dùthcha
+  - tèarmann poileataigeach
+  - The Netherlands
 ---
 Tha coimisean a chaidh a stèidheachadh gus poileasaidhean tèarmann anns an Rìoghachd Aonaichte sgrùdadh ag ràdh nach eil na poileasaidhean cho àrd ’s a bu chòir dhaibh a bhith airson dùthaich “sìobhaltach”.
 

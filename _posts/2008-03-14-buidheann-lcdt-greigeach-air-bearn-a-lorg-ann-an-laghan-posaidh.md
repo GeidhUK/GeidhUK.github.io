@@ -7,6 +7,21 @@ image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - an-roinn-eorpa
   - poilitigs
+tags:
+  - "A' Ghrèig"
+  - age of consent
+  - aois aontachaidh
+  - co-ionnannachd pòsaidh
+  - Greece
+  - Greek
+  - Grèigeach
+  - marriage
+  - marriage equality
+  - OLKE
+  - pòsadh
+  - pòsadh aon-sheòrsach
+  - same-sex marriage
+  - ΟΛΚΕ
 ---
 Tha buidheann LCDT anns a’ Ghrèig ([OLKE][1]) a’ bagairt ùghdarrasan ionadail a thoirt gu lagh  air sgàth ’s nach eil iad deònach càraidean co-sheòrsach a phòsadh ged a lagan pòsaidh a’ mìneachadh pòsadh mar aonadh eadar daoine an àite duine agus bean.
 

@@ -8,6 +8,25 @@ categories:
   - an-roinn-eorpa
   - lagh
   - poilitigs
+tags:
+  - 1951 UN Refugee Convention
+  - Afraga
+  - Africa
+  - Amnesty International
+  - An Eilbheis
+  - Anatole Zali
+  - Camarun
+  - Cameroon
+  - co-sheòrsach
+  - gay
+  - gèidh
+  - gràin-co-sheòrsachd
+  - homophobia
+  - Poileas
+  - Police
+  - political asylum
+  - Sweden
+  - tèarmann poileataigeach
 ---
 Tha deugaire co-sheòrsach gu bhith a’ fuadachadh a-mach às an Eilbheis air ais gu Camarun far am b’ urrainn dha a bhith ga chur an greim agus ga dhìteadh gu peanas corparra.
 

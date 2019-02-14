@@ -8,6 +8,17 @@ categories:
   - an-t-saoghal
   - lagh
   - poilitigs
+tags:
+  - An Ear Mheadhanach
+  - Avi Shadiv
+  - clann
+  - Giora Shavit
+  - Iosrael
+  - Ira Hadar
+  - pàrantachd
+  - pàrantan
+  - teaghlach
+  - uchd-mhacachadh
 ---
 Tha cùirt ann an Iosrael air co-dhùnadh a dhèanamh gun urrainn do càraid co-sheòrsach a chlàradh mar athraichean an uchd-mhac.
 

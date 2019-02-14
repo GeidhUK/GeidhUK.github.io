@@ -7,6 +7,18 @@ image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - an-t-saoghal
   - slainte
+tags:
+  - Aimearaga
+  - California
+  - ceathrar san aon bhreith
+  - clann
+  - Cristine Gaiennie
+  - leanabh
+  - Patsy Lovell
+  - quadruplets
+  - Roinn Poileas Irvine
+  - Siorrachd Orains
+  - teaghlach
 ---
 Tha càraid leasbach a tha ag obair airson Roinn Poileas Irvine ann an Siorrachd Orains, California làn-thoilichte le ceathrar san aon bhreith, dithis bhalach agus dithis nighean.
 

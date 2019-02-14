@@ -7,6 +7,13 @@ image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
   - an-rioghachd-aonaichte
   - poilitigs
+tags:
+  - gràin-co-sheòrsachd
+  - homophobe
+  - homophobia
+  - homophobic
+  - House of Lords
+  - Taigh nam Morairean
 ---
 Chaidh deasbad a chumail ann an Taigh nam Morairean seachdain seo chaidh mu dheidhinn lagh ùr a bhios a’ ciallachadh gum bi gràin-co-sheòrsachd (_Homophobia_) mì-laghail.
 

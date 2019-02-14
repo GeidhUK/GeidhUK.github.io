@@ -8,6 +8,18 @@ categories:
   - an-roinn-eorpa
   - creideamh
   - poilitigs
+tags:
+  - Anniken Huitfeldt
+  - co-ionnannachd pòsaidh
+  - marriage
+  - marriage equality
+  - Nirribhidh
+  - Norway
+  - Norwegian National Association for Lesbian and Gay Liberation
+  - pòsadh
+  - pòsadh aon-sheòrsach
+  - same-sex marriage
+  - Stortinget
 ---
 Chaidh reachdas ùr a chur ri chèile ann an Nirribhidh a bhios a’ toirt cead pòsaidh do càraidean aon-sheòrsach a bharrachd air còirichean co-ionann a-thaobh cùram air clann.
 

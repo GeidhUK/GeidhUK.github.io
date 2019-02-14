@@ -9,6 +9,16 @@ categories:
   - cultar
   - eirinn
   - foghlam
+tags:
+  - Àisia
+  - An Chomhairle Náisiúnta Curaclaim agus Measúnachta
+  - bàrd
+  - Cathal Ó Searcaigh
+  - Èirinn
+  - Fairytale of Kathmandu
+  - Mary Hanafin
+  - Ministear an Fhoghlaim
+  - Neapàl
 ---
 Tha an _An Chomhairle Náisiúnta Curaclaim agus Measúnachta_ (An Comhairle Nàiseanta Curraicealaim agus Measaidh) ann an Èirinn ag ràdh gum bi obraichean Cathal Ó Searcaigh a’ fuireach air curraicealam na h-Èirinn ged a tha am bàrd fo amharas gun do ghabh e brath air balaich ann an Neapàl.
 

@@ -8,6 +8,24 @@ categories:
   - an-rioghachd-aonaichte
   - an-t-saoghal
   - poilitigs
+tags:
+  - An Ear Mheadhanach
+  - Ball Pàrlamaid na h-Eòrpa
+  - 'Border &amp; Immigration Agency'
+  - 'Buidheann nan Crìochan &amp; In-imrich'
+  - comraich
+  - Ioràn
+  - Iorànach
+  - Jacqui Smith
+  - Medhi Kazemi
+  - Na Tìrean Ìsle
+  - Omar Kuddus
+  - Riaghaltas an Rìoghachd Aonaichte
+  - Riaghaltas Bhreatainn
+  - Rùnaire na Dùthcha
+  - Sarah Ludford
+  - The Netherlands
+  - Tìr Ìosal
 ---
 Tha gnìomhaichean LCDTE ag ràdh gum bu chòir do Riaghaltas Bhreatainn ath-sgrùdadh a dhèanamh air cùisean-lagha aig Iorànach co-sheòrsach eile as dèidh do chùis Medhi Kazemi allsachadh.
 

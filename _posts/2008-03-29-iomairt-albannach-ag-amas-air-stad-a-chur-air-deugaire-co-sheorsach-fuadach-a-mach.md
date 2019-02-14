@@ -10,6 +10,28 @@ categories:
   - an-t-saoghal
   - lagh
   - poilitigs
+tags:
+  - Alba
+  - An Eaglais Bhreac
+  - An Ear Mheadhanach
+  - An Rìoghachd Aonaichte
+  - Breatainn
+  - 'Equal Rights are Human Rights - Not'
+  - Equal Rights Now
+  - Glaschu
+  - Jacqul Smith
+  - JoJo Jako Yakob
+  - Lagh
+  - Poileas
+  - political asylum
+  - Polmont Young Offenders
+  - Riaghaltas an Rìoghachd Aonaichte
+  - Riaghaltas Bhreatainn
+  - Rob McDowall
+  - Rùnaire na Dùthcha
+  - Save JoJo Campaign
+  - Special Rights
+  - tèarmann poileataigeach
 ---
 Chaidh iomairt a stèidheachadh gus deugaire co-sheòrsach, a tha gu bhith a’ fuadach a-mach às an Rìoghachd Aonaichte, a shàbhaladh.
 

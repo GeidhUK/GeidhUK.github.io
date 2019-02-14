@@ -8,6 +8,18 @@ categories:
   - an-rioghachd-aonaichte
   - creideamh
   - foghlam
+tags:
+  - Advertising Standards Authority
+  - co-sheòrsach
+  - Crìosdaidheachd
+  - Education For All
+  - gay
+  - gèidh
+  - sanasachd
+  - Some people are gay. Get over it!
+  - Stonewall
+  - Stonewall Scotland
+  - Tha cuid de dhaoine gay. Gabh ris!
 ---
 Tha an ASA (Advertising Standards Authority) ag ràdh nach eil iomairt sanasachaidh a’ bhuidheann Stonewall a’ dol an-aghaidh an còd aca.
 

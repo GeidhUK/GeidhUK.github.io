@@ -10,6 +10,20 @@ categories:
   - an-t-saoghal
   - lagh
   - poilitigs
+tags:
+  - Alba
+  - An Ear Mheadhanach
+  - An Rìoghachd Aonaichte
+  - Breatainn
+  - Glaschu
+  - JoJo Jako Yakob
+  - Lagh
+  - Poileas
+  - political asylum
+  - Riaghaltas an Rìoghachd Aonaichte
+  - Riaghaltas Bhreatainn
+  - Rùnaire na Dùthcha
+  - tèarmann poileataigeach
 ---
 Tha deugaire Siridheach gu bhith a’ fuadach a-mach às an Rìoghachd Aonaichte air sgàth ’s gun do dhiùlt Rùnaire na Dùthcha an iarrtas aige airson tèarmann poileataigeach.
 

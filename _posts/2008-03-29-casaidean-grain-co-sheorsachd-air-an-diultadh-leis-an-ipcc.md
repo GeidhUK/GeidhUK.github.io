@@ -8,6 +8,12 @@ categories:
   - an-rioghachd-aonaichte
   - lagh
   - poilitigs
+tags:
+  - Iain Bynoe
+  - Independent Police Complaints Commission
+  - IPCC
+  - Malcolm Lidbury
+  - Poileas
 ---
 Tha an IPCC (Independent Police Complaints Commission) a’ diùltadh casaidean gràin-co-sheòrsachd an aghaidh ochd oifigearan ann an Duibhe agus a’ Chòrn.
 

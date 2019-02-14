@@ -8,6 +8,19 @@ categories:
   - an-t-saoghal
   - lagh
   - poilitigs
+tags:
+  - Aimearaga
+  - Aimearaga a Deas
+  - airgead-sgaraidh
+  - aliment
+  - alimony
+  - America
+  - Braisil
+  - Brazil
+  - Lagh
+  - maintenance
+  - Na Stàitean Aonaichte
+  - South America
 ---
 Tha cùirt ann am Braisil air ràdh gum feum duine airgead-sgaraidh a phàigheadh ri seann chompanach co-sheòrsach aige.
 
