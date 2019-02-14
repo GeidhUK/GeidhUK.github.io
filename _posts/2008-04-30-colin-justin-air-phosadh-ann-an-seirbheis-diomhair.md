@@ -2,13 +2,11 @@
 title: 'Colin & Justin air phòsadh ann an seirbheis dìomhair'
 author: Crìstean MacMhìcheil
 type: post
-date: 2008-04-30T19:34:14+00:00
-excerpt: Tha Colin McAllister agus Justin Ryan air phòsadh ann an seirbheis dìomhair aig an Oifis Chlàraidh Chelsea ann an Glaschu.
-url: /colin-justin-air-phosadh-ann-an-seirbheis-diomhair/
+date: 2008-04-30 19:34:14
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - Alba
-  - Cùltar
+  - alba
+  - cultar
 tags:
   - Canada
   - co-ionnannachd pòsaidh
@@ -24,6 +22,8 @@ tags:
 
 ---
 Tha Colin McAllister agus Justin Ryan air phòsadh ann an seirbheis dìomhair aig an Oifis Chlàraidh Chelsea ann an Glaschu.
+
+<!--more-->
 
 Thachair an seirbheis dìomhair anns a&#8217; Ghearran agus cha robh ach dithis eile an làthair, Elaine agus Georga Ponte.
 

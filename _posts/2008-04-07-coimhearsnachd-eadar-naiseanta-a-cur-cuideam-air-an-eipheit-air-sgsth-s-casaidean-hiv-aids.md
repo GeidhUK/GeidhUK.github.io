@@ -2,14 +2,12 @@
 title: Coimhearsnachd eadar-nàiseanta a’ cur cuideam air an Èipheit air sgàth casaidean HIV/AIDS
 author: Crìstean MacMhìcheil
 type: post
-date: 2008-04-07T19:55:23+00:00
-excerpt: "Tha còrr 's 115 buidhnean còirichean daonna air cuideam a chur air an Èipheit air sgàth 's casaidean HIV."
-url: /coimhearsnachd-eadar-naiseanta-a-cur-cuideam-air-an-eipheit-air-sgsth-s-casaidean-hiv-aids/
+date: 2008-04-07 19:55:23
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - An t-Saoghal
-  - Poilitigs
-  - Slàinte
+  - an-t-saoghal
+  - poilitigs
+  - slainte
 tags:
   - Acquired Immunodeficiency Syndrome
   - Afraga
@@ -37,6 +35,8 @@ tags:
 
 ---
 Tha còrr &#8217;s 115 buidhnean còirichean daonna air cuideam a chur air an Èipheit air sgàth casaidean HIV.
+
+<!--more-->
 
 Tha na buidhnean seo a&#8217; toirt a-steach [Human Rights Watch][1] agus [Amnesty International][2] agus tha iad sgapte air feadh 41 dùthchannan.
 

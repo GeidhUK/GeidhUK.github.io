@@ -2,14 +2,11 @@
 title: Daoine co-sheòrsach air an cur gu deuchainnean HIV le buidhnean àrachais
 author: Crìstean MacMhìcheil
 type: post
-date: 2008-04-23T18:33:50+00:00
-excerpt: |
-  Chaidh sgrùdadh a dhèanamh le <a title="Làrach-lìn aig Compass IFA" href="http://www.compassifa.co.uk/">Compass IFA</a>, buidheann a tha a' toirt comhairle do dhaoine co-sheòrsach a thaobh ionmhais, a tha a' sealltainn gu bheil na buidhnean àrachais <a title="Làrach-lìn aig Legal &amp; General" href="http://www.legalandgeneral.com/">Legal &amp; General</a> agus <a title="Làrach-lìn aig AEGON" href="http://www.aegon.com/">AEGON</a> fhathast a' cur daoine co-sheòrsach gu deuchainnean HIV mus faigh iad àrachas slàinte.
-url: /daoine-co-sheorsach-air-an-cur-gu-deuchainnean-hiv-le-buidhnean-arachais/
+date: 2008-04-23 18:33:50
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - An Rìoghachd Aonaichte
-  - Slàinte
+  - an-rioghachd-aonaichte
+  - slainte
 tags:
   - Acquired Immunodeficiency Syndrome
   - AEGON
@@ -33,6 +30,8 @@ tags:
 
 ---
 Chaidh sgrùdadh a dhèanamh le [Compass IFA][1], buidheann a tha a&#8217; toirt comhairle do dhaoine co-sheòrsach a thaobh ionmhais, a tha a&#8217; sealltainn gu bheil na buidhnean àrachais [Legal & General][2] agus [AEGON][3] fhathast a&#8217; cur daoine co-sheòrsach gu deuchainnean HIV mus faigh iad àrachas slàinte.
+
+<!--more-->
 
 Ach thuirt Lesley MacPherson, Ceannard nam Meadhannan Corporra aig AEGON:
 

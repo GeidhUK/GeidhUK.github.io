@@ -2,14 +2,12 @@
 title: Ionnsaigh a thoirt air buidheann LCDT ann an Istanbul leis a’ Phoileas
 author: Crìstean MacMhìcheil
 type: post
-date: 2008-04-15T08:35:40+00:00
-excerpt: "Tha Poileas ann an Istanbul, An Tuirc, air ionnsaigh a thoirt air buidheann LCDT agus tha iad air ràdh gun robh adhbhar aca air sgàth 's cho tric 's a bhios daoine tar-ghnèitheach a' tadhal air na h-oifisean aca."
-url: /ionnsaigh-a-thoirt-air-buidheann-lcdt-ann-an-istanbul-leis-a-phoileas/
+date: 2008-04-15 08:35:40
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - An t-Saoghal
-  - Lagh
-  - Poilitigs
+  - an-t-saoghal
+  - lagh
+  - poilitigs
 tags:
   - An Ear Mheadhanach
   - An Tuirc
@@ -41,6 +39,8 @@ tags:
 
 ---
 Tha Poileas ann an Istanbul, An Tuirc, air ionnsaigh a thoirt air buidheann LCDT agus tha iad air ràdh gun robh adhbhar aca air sgàth &#8217;s cho tric &#8217;s a bhios daoine tar-ghnèitheach a&#8217; tadhal air na h-oifisean aca.
+
+<!--more-->
 
 A bharrachd air seo tha an Ionad Cultarach Lambda ann an Istanbul air ionnsachadh gun tuirt cuideigin gun ainm ris a&#8217; Phoileas gun robh am buidheann an sàs ann an siùrsachd, a&#8217; fastadh siùrsaich tar-ghnèitheach agus a&#8217; sgaoileadh an tuarastal aca eadar iad fèin.
 

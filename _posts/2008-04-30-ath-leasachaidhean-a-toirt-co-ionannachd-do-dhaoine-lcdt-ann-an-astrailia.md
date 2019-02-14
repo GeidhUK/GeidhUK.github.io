@@ -2,13 +2,11 @@
 title: Ath-leasachaidhean a’ toirt co-ionannachd do dhaoine LCDT ann an Astràilia
 author: Crìstean MacMhìcheil
 type: post
-date: 2008-04-30T18:15:28+00:00
-excerpt: "Tha Riaghaltas na h-Astràilia air còrr 's 100 ath-leasachaidhean a dhèanamh gus còirichean co-ionann a thoirt do dhaoine LCDT."
-url: /ath-leasachaidhean-a-toirt-co-ionannachd-do-dhaoine-lcdt-ann-an-astrailia/
+date: 2008-04-30 18:15:28
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - An t-Saoghal
-  - Poilitigs
+  - an-t-saoghal
+  - poilitigs
 tags:
   - Astràilia
   - Australia
@@ -36,6 +34,8 @@ tags:
 
 ---
 Tha Riaghaltas na h-Astràilia air còrr &#8217;s 100 ath-leasachaidhean a dhèanamh gus còirichean co-ionann a thoirt do dhaoine LCDT.
+
+<!--more-->
 
 Tha buidheann LCDT air fàilte a chur air na leasachaidhean seo ach tha iad cuideachd gan càineadh air sgàth &#8217;s nach eil iad a&#8217; dèanamh pòsaidhean aon-sheòrsach laghail.
 

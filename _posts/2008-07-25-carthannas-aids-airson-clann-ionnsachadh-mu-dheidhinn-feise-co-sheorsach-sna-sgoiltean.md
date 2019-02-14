@@ -2,14 +2,12 @@
 title: Carthannas AIDS airson clann ionnsachadh mu dheidhinn feise co-sheòrsach sna sgoiltean
 author: Crìstean MacMhìcheil
 type: post
-date: 2008-07-25T18:31:20+00:00
-excerpt: 'Tha an àireamh de bhalaich HIV+ air dùblachadh san 10 bliadhna mu dheireadh a-rèir figearan air fhoillseachadh le <a href="https://www.gov.uk/government/organisations/health-protection-agency">Buidheann Dìon na Slàinte</a>.'
-url: /carthannas-aids-airson-clann-ionnsachadh-mu-dheidhinn-feise-co-sheorsach-sna-sgoiltean/
+date: 2008-07-25 18:31:20
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - An Rìoghachd Aonaichte
-  - Foghlam
-  - Slàinte
+  - an-rioghachd-aonaichte
+  - foghlam
+  - slainte
 tags:
   - Acquired Immunodeficiency Syndrome
   - AIDS
@@ -37,6 +35,8 @@ tags:
 
 ---
 Tha an àireamh de bhalaich HIV+ air dùblachadh san 10 bliadhna mu dheireadh a-rèir figearan air fhoillseachadh le [Buidheann Dìon na Slàinte][1].
+
+<!--more-->
 
 An-uiridh dh&#8217;ionnsaich 251 balaich gun robh HIV orra an taca ri 128 ann an 1998.
 

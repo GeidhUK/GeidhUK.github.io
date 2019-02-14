@@ -2,14 +2,12 @@
 title: Oileanaich air feadh nan Stàitean Aonaichte nan tost
 author: Crìstean MacMhìcheil
 type: post
-date: 2008-04-25T11:22:52+00:00
-excerpt: "Bidh mìltean de dh'oileanaich nan tost anns na Stàitean Aonaichte an-diugh gus gràin-co-sheòrsachd ann an sgoiltean shoillseachadh."
-url: /oileanaich-air-feadh-nan-staitean-aonaichte-nan-tost/
+date: 2008-04-25 11:22:52
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - An Rìoghachd Aonaichte
-  - An t-Saoghal
-  - Foghlam
+  - an-rioghachd-aonaichte
+  - an-t-saoghal
+  - foghlam
 tags:
   - Aimearaga
   - America
@@ -35,6 +33,8 @@ tags:
 
 ---
 Bidh mìltean de dh&#8217;oileanaich nan tost anns na Stàitean Aonaichte an-diugh gus gràin-co-sheòrsachd ann an sgoiltean shoillseachadh.
+
+<!--more-->
 
 Thathar an dùil gum bi 500,000 oileanaich agus còrr &#8217;s 6,000 sgoiltean a&#8217; gabhail pàirt anns an tachartas a chaidh a chur an gnìomh le GLSEN (Gay, Lesbian and Straight Education Network).
 

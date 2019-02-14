@@ -2,13 +2,11 @@
 title: NHS anns a’ Chuimrigh airson seirbheisean co-ionann a thoirt ris a’ choimhearsnachd LCDTE
 author: Crìstean MacMhìcheil
 type: post
-date: 2008-04-22T13:51:17+00:00
-excerpt: Tha Edwina Hart, Ministear Slàinte na Cuimrigh air stiùireadh ùr a thoirt ris an NHS anns an dùthaich.
-url: /nhs-anns-a-chuimrigh-airson-seirbheisean-co-ionann-a-thoirt-dhan-a-choimhearsnachd-lcdte/
+date: 2008-04-22 13:51:17
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - An Rìoghachd Aonaichte
-  - Slàinte
+  - an-rioghachd-aonaichte
+  - slainte
 tags:
   - "A' Chuimrigh"
   - Cymru
@@ -32,6 +30,8 @@ tags:
 
 ---
 Tha Edwina Hart, Ministear Slàinte na Cuimrigh air stiùireadh ùr a thoirt ris an NHS anns an dùthaich.
+
+<!--more-->
 
 Thuirt i gun deach an stiùireadh a chur ri chèile le _Cynulliad Cenedleathol Cymru_ (Seanadh Nàiseanta na Cuimrigh) ann an co-obrachadh le [Stonewall Cymru][1] air sgàth &#8217;s gun robh ceisteachan aig Stonewall a&#8217; sealltainn gu bheil daoine LCDTE anns a&#8217; Chuimrigh an còmhnaidh an dùil ri leth-bhreith nuair a tha iad a&#8217; cleachdadh na seirbheisean slàinte.
 

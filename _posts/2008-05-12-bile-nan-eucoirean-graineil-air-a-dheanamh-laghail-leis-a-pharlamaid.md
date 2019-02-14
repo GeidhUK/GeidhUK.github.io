@@ -2,15 +2,12 @@
 title: Bile nan Eucoirean Gràineil air a dhèanamh laghail leis a’ Phàrlamaid
 author: Crìstean MacMhìcheil
 type: post
-date: 2008-05-12T16:31:06+00:00
-excerpt: |
-  Tha Taigh nam Morairean air <em>the Criminal Justice and Immigration Bill</em> a dhèanamh na lagh a' ciallachadh gum bi eucoirean gràineil an-aghaidh daoine LCDT mì-laghail.
-url: /bile-nan-eucoirean-graineil-air-a-dheanamh-laghail-leis-a-pharlamaid/
+date: 2008-05-12 16:31:06
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - An Rìoghachd Aonaichte
-  - Lagh
-  - Poilitigs
+  - an-rioghachd-aonaichte
+  - lagh
+  - poilitigs
 tags:
   - Ben Summerskill
   - Bile nan Eucoirean Gràineil
@@ -34,10 +31,10 @@ tags:
   - Tòraidhean
 
 ---
->
-<img class="alignnone size-full wp-image-140" title="Pàrlamaid" src="https://i0.wp.com/s3.media.squarespace.com/production/303409/11165291/naidheachdanpinc/wp-content/uploads/2008/05/parliament.jpg?resize=250%2C300" alt="Pàrlamaid" width="250" height="300" data-recalc-dims="1" />
 
 Tha Taigh nam Morairean air _the Criminal Justice and Immigration Bill_ a dhèanamh na lagh a&#8217; ciallachadh gum bi eucoirean gràineil an-aghaidh daoine LCDT mì-laghail.
+
+<!--more-->
 
 A dh&#8217;aindeoin seo tha fhathast atharrachaidhean anns a&#8217; bhile a tha a&#8217; dìon eucoraich air sgàth &#8217;s saorsa labhairt neo an creideamh aca.
 

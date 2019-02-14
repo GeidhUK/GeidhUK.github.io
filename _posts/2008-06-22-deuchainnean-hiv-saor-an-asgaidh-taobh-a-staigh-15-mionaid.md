@@ -2,13 +2,11 @@
 title: Deuchainnean HIV saor an-asgaidh taobh a-staigh 15 mionaid
 author: Crìstean MacMhìcheil
 type: post
-date: 2008-06-22T19:12:44+00:00
-excerpt: "Tha clionaig ann an meadhan a' choimhearsnachd LCDT Lunnainn a' toirt seachad deuchainnean airson HIV do dhaoine co-sheòrsach saor an-asgaidh agus tha toraidhean ri fhaotainn taobh a-staigh 15 mionaid."
-url: /deuchainnean-hiv-saor-an-asgaidh-taobh-a-staigh-15-mionaid/
+date: 2008-06-22 19:12:44
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - An Rìoghachd Aonaichte
-  - Slàinte
+  - an-rioghachd-aonaichte
+  - slainte
 tags:
   - AIDS
   - Annlachd Inneamh Dìon-slàinte
@@ -27,6 +25,8 @@ tags:
 
 ---
 Tha clionaig ann am meadhan a&#8217; choimhearsnachd LCDT ann an Lunnainn a&#8217; toirt seachad deuchainnean airson HIV do dhaoine co-sheòrsach saor an-asgaidh agus tha toraidhean ri fhaotainn taobh a-staigh 15 mionaid.
+
+<!--more-->
 
 A bharrachd air seo tha Sorted Soho a&#8217; toirt seachad banachdaich an-aghaidh Hepatitis B.
 

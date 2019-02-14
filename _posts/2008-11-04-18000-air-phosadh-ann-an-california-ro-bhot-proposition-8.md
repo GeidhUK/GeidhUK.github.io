@@ -2,14 +2,12 @@
 title: 8,000 air phòsadh ann an California ro bhòt Proposition 8
 author: Crìstean MacMhìcheil
 type: post
-date: 2008-11-04T18:13:45+00:00
-excerpt: "Tha ionad-rannsachaidh anns na Stàitean Aonaichte air ràdh gu bheil còrr 's 18,000 daoine air phòsadh ann an California o chionn 17mh dhen t-Òg-mhios 2008 nuair a rinn na h-ùghdarrasan pòsadh aon-sheòrsach na lagh."
-url: /18000-air-phosadh-ann-an-california-ro-bhot-proposition-8/
+date: 2008-11-04 18:13:45
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - An t-Saoghal
-  - Lagh
-  - Poilitigs
+  - an-t-saoghal
+  - lagh
+  - poilitigs
 tags:
   - Aimearaga
   - America
@@ -39,6 +37,8 @@ tags:
 
 ---
 Tha ionad-rannsachaidh anns na Stàitean Aonaichte air ràdh gu bheil còrr &#8217;s 18,000 daoine air phòsadh ann an California o chionn 17mh dhen t-Òg-mhios 2008 nuair a rinn na h-ùghdarrasan pòsadh aon-sheòrsach na lagh.
+
+<!--more-->
 
 An-diugh bidh luchd-bhòtaidh san stàit a&#8217; bhòtadh air Proposition 8 a tha a&#8217; feuchainn ri casg a chur air pòsadh aon-sheòrsach. Bidh luchd-bhòtaidh ann an Florida agus Arizona a&#8217; bhòtadh air cuideachd.
 

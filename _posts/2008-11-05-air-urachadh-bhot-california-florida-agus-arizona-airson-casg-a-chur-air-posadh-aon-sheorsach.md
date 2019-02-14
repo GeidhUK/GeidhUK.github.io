@@ -2,14 +2,12 @@
 title: 'AIR ÙRACHADH: Bhòt California, Florida agus Arizona airson casg a chur air pòsadh aon-sheòrsach'
 author: Crìstean MacMhìcheil
 type: post
-date: 2008-11-05T09:11:09+00:00
-excerpt: Tha Associated Press ag ràdh gu bheil luchd-bhòtaidh ann an Arizona air bhòtadh airson casg a chur air pòsadh aon-sheòrsach.
-url: /air-urachadh-bhot-california-florida-agus-arizona-airson-casg-a-chur-air-posadh-aon-sheorsach/
+date: 2008-11-05 09:11:09
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - An t-Saoghal
-  - Lagh
-  - Poilitigs
+  - an-t-saoghal
+  - lagh
+  - poilitigs
 tags:
   - Aimearaga
   - America
@@ -35,6 +33,8 @@ tags:
 
 ---
 Tha [Associated Press][1] ag ràdh gu bheil luchd-bhòtaidh ann an Arizona air bhòtadh airson casg a chur air pòsadh aon-sheòrsach.
+
+<!--more-->
 
 Ged a bha pòsadh aon-sheòrsach mì-laghail ann an Arizona mar thà bha luchd-bhòtaidh airson bun-reachd na stàit atharrachadh gus nach biodh cùirt comasach air seo atharrachadh.
 

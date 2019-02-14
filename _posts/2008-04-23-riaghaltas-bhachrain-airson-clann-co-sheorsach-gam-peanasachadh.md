@@ -2,15 +2,13 @@
 title: Riaghaltas Bhachrain airson clann co-sheòrsach gam peanasachadh
 author: Crìstean MacMhìcheil
 type: post
-date: 2008-04-23T16:59:00+00:00
-excerpt: "Tha Riaghaltas Bhachrain a' dèanamh iomairt gus co-sheòrsachd a chur às dhan dhùthaich."
-url: /riaghaltas-bhachrain-airson-clann-co-sheorsach-gam-peanasachadh/
+date: 2008-04-23 16:59:00
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - An t-Saoghal
-  - Creideamh
-  - Foghlam
-  - Poilitigs
+  - an-t-saoghal
+  - creideamh
+  - foghlam
+  - poilitigs
 tags:
   - An Ear Mheadhanach
   - Bachrain
@@ -49,6 +47,8 @@ tags:
 
 ---
 Tha Riaghaltas Bhachrain a&#8217; dèanamh iomairt gus co-sheòrsachd a chur às dhan dhùthaich.
+
+<!--more-->
 
 Tha Buill Pàrlamaid air sreath de mholaidhean a chur an gnìomh gus co-sheòrsachd a chur às agus gu connspaideach tha na molaidhean seo ag òrdachadh luchd-teagaisg a chumail sùil air clann airson aomaidh co-sheòrsach agus a bhith gam peanasachadh mar sin.
 

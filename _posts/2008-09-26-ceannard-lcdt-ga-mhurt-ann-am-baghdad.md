@@ -2,14 +2,12 @@
 title: Ceannard LCDT ga mhurt ann am Baghdad
 author: Crìstean MacMhìcheil
 type: post
-date: 2008-09-26T16:25:42+00:00
-excerpt: Chaidh ceannard LCDT a mhurt ann am Baghdad, Ioràc an-dè.
-url: /ceannard-lcdt-ga-mhurt-ann-am-baghdad/
+date: 2008-09-26 16:25:42
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - An t-Saoghal
-  - Creideamh
-  - Poilitigs
+  - an-t-saoghal
+  - creideamh
+  - poilitigs
 tags:
   - An Ear Mheadhanach
   - asylum
@@ -30,6 +28,8 @@ tags:
 
 ---
 Chaidh ceannard LCDT a mhurt ann am Baghdad, Ioràc an-dè.
+
+<!--more-->
 
 Tha an gnìomhaiche LCDT, Peter Tatchell, ag aithris gun deach Bashar, 27, a spreidheadh le peilearan nuair a bhrìs milisi a-steach dhan bhùth-borbair far an robh e.
 

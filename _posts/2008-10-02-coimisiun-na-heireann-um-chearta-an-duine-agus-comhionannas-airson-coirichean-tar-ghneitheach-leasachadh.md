@@ -2,14 +2,12 @@
 title: Coimisiún na hÉireann um Chearta an Duine agus Comhionannas airson còirichean tar-ghnèitheach leasachadh
 author: Crìstean MacMhìcheil
 type: post
-date: 2008-10-02T20:06:43+00:00
-excerpt: Tha Coimisiún na hÉireann um Chearta an Duine agus Comhionannas (Coimisean Èireannach airson Còirichean Daonna agus Co-ionannachd) air ràdh gum bu chòir do laghan a thaobh daoine tar-ghnèitheach agus teisteanasan-breith a bhith air an ath-leasachadh.
-url: /coimisiun-na-heireann-um-chearta-an-duine-agus-comhionannas-airson-coirichean-tar-ghneitheach-leasachadh/
+date: 2008-10-02 20:06:43
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - Èirinn
-  - Lagh
-  - Poilitigs
+  - eirinn
+  - lagh
+  - poilitigs
 tags:
   - birth certificate
   - co-ionannachd
@@ -37,6 +35,8 @@ tags:
 
 ---
 Tha Coimisiún na hÉireann um Chearta an Duine agus Comhionannas (Coimisean Èireannach airson Còirichean Daonna agus Co-ionannachd) air ràdh gum bu chòir do laghan a thaobh daoine tar-ghnèitheach agus teisteanasan-breith a bhith air an ath-leasachadh.
+
+<!--more-->
 
 Ann an 2008, thug an tOireachtas (Pàrlamaid na h-Éirinn) cead ri daoine tar-ghnèitheach gus an gnè aca atharrachadh air an ceadan-siubhail aca. Ach fo laghan an latha chan fhaod iad an gnè aca atharrachadh air an teisteanasan-breith aca.
 

@@ -2,14 +2,12 @@
 title: Taic airson pòsaidhean aon-sheòrsach a’ fàs nas làidire ann an Èirinn
 author: Crìstean MacMhìcheil
 type: post
-date: 2008-03-31T13:25:10+00:00
-excerpt: Fhad ’s a tha gnìomhaichean LCDTE ann an Èirinn a’ feitheamh ri chluinntinn molaidhean an Riaghaltas airson càraidean aon-sheòrsach aithneachadh gu h-oifigeil, tha cunntas-bheachd ùr a’ sealltainn gu bheil a’ mhòr-chuid ann an Èirinn air a shon.
-url: /taic-airson-posaidhean-co-sheorsach-a-fas-nas-laidire-ann-an-eirinn/
+date: 2008-03-31 13:25:10
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - Èirinn
-  - Lagh
-  - Poilitigs
+  - eirinn
+  - lagh
+  - poilitigs
 tags:
   - aonadh-catharra
   - aonaidhean-catharra
@@ -32,6 +30,8 @@ tags:
 
 ---
 Fhad ’s a tha gnìomhaichean LCDTE ann an Èirinn a’ feitheamh ri chluinntinn molaidhean an Riaghaltas airson càraidean aon-sheòrsach aithneachadh gu h-oifigeil, tha cunntas-bheachd ùr a’ sealltainn gu bheil a’ mhòr-chuid ann an Èirinn air a shon.
+
+<!--more-->
 
 Chaidh an cunntas-bheachd fhoillseachadh leis a’ bhuidhinn co-ionannachd MarraigEquality agus tha na toraidhean a’ sealltainn gu bheil 84% airson pòsaidhean aon-sheòrsach neo companasan-catharra.
 

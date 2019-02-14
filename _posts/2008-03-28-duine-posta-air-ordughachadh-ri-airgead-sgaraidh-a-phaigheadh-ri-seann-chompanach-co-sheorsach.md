@@ -2,30 +2,16 @@
 title: Duine pòsta air òrdachadh ri airgead-sgaraidh a phàigheadh ri seann chompanach co-sheòrsach
 author: Crìstean MacMhìcheil
 type: post
-date: 2008-03-28T08:30:43+00:00
-excerpt: Tha cùirt ann am Braisil air ràdh gum feum duine airgead-sgaraidh a phàigheadh ri seann chompanach co-sheòrsach aige.
-url: /duine-posta-air-ordughachadh-ri-airgead-sgaraidh-a-phaigheadh-ri-seann-chompanach-co-sheorsach/
+date: 2008-03-28 08:30:43
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - An t-Saoghal
-  - Lagh
-  - Poilitigs
-tags:
-  - Aimearaga
-  - Aimearaga a Deas
-  - airgead-sgaraidh
-  - aliment
-  - alimony
-  - America
-  - Braisil
-  - Brazil
-  - Lagh
-  - maintenance
-  - Na Stàitean Aonaichte
-  - South America
-
+  - an-t-saoghal
+  - lagh
+  - poilitigs
 ---
 Tha cùirt ann am Braisil air ràdh gum feum duine airgead-sgaraidh a phàigheadh ri seann chompanach co-sheòrsach aige.
+
+<!--more-->
 
 Tha luach còrr ’s $450m (£225m) aig an Ameireaganach, a tha an duine a-nis a&#8217; fuireach leis a bhean anns na Stàitean Aonaichte, agus a-rèir an cùirt feumaidh e còrr ’s $120m (£60m) a phàigheadh ris a’ Bhraisileach.
 

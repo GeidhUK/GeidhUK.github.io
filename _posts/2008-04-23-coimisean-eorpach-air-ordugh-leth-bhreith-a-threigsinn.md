@@ -2,14 +2,12 @@
 title: Coimisean Eòrpach air òrdugh leth-bhreith a thrèigsinn
 author: Crìstean MacMhìcheil
 type: post
-date: 2008-04-23T14:53:03+00:00
-excerpt: "Air sgàth 's gearanan bhon a' Ghearmailt agus eile tha an t-Aonadh Eòrpach air òrdugh a bhiodh a' dìon daoine LCDT bho leth-bhreith a thrèigsinn."
-url: /coimisean-eorpach-air-ordugh-leth-bhreith-a-threigsinn/
+date: 2008-04-23 14:53:03
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - An Roinn-eòrpa
-  - Lagh
-  - Poilitigs
+  - an-roinn-eorpa
+  - lagh
+  - poilitigs
 tags:
   - "a' Ghearmailt"
   - Aonadh Eòrpach
@@ -25,6 +23,8 @@ tags:
 
 ---
 Air sgàth &#8217;s gearanan bhon a&#8217; Ghearmailt agus eile tha an t-Aonadh Eòrpach air òrdugh a bhiodh a&#8217; dìon daoine LCDT bho leth-bhreith a thrèigsinn.
+
+<!--more-->
 
 A dh&#8217;aindeoin seo bidh iad fhathast a&#8217; dol air adhart le òrdugh a bhios a&#8217; dìon daoine le ciorraim.
 

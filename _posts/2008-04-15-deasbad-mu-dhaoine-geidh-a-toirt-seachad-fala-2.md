@@ -2,13 +2,11 @@
 title: 'BBC Alba: Deasbad mu dhaoine gèidh a’ toirt seachad fala'
 author: Crìstean MacMhìcheil
 type: post
-date: 2008-04-15T09:45:02+00:00
-excerpt: "Thèid ath-chuinge airson cead a thoirt do dhaoine gèidh ann an Alba fuil a thoirt seachad a dheasbad anns a' Phàrlamaid Dimàirt."
-url: /deasbad-mu-dhaoine-geidh-a-toirt-seachad-fala-2/
+date: 2008-04-15 09:45:02
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - Alba
-  - Slàinte
+  - alba
+  - slainte
 tags:
   - Acquired Immunodeficiency Syndrome
   - AIDS
@@ -37,13 +35,13 @@ tags:
   - SNBTS
 
 ---
-Nochd an sgeulachd seo air [làrach-lìn a&#8217; BhBC][1]
-
-na bu tràithe:-
+Nochd an sgeulachd seo air [làrach-lìn a&#8217; BhBC][1] na bu tràithe:-
 
 **Thèid ath-chuinge airson cead a thoirt do dhaoine gèidh ann an Alba fuil a thoirt seachad a dheasbad anns a&#8217; Phàrlamaid Dimàirt.**
 
 Tha a&#8217; bhuidheann an LGBT Network, a bhios a&#8217; strì airson chòirichean do dhaoine gèidh, den bheachd gur e leth-bhreith a th&#8217; anns a&#8217; chasg a th&#8217; air fireannaich ghèidh bho bhith a&#8217; toirt seachad fala.
+
+<!--more-->
 
 Tha iad cuideachd ag ràdh gu bheil feise le dìon a&#8217; fàgail gu bheil e sàbhailte do dh&#8217;fhireannaich ghèidh fuil a thoirt seachad.
 

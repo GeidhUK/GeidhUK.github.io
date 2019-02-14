@@ -2,13 +2,11 @@
 title: Lìon-sòisealta ùr do phàrantan LCDT
 author: Crìstean MacMhìcheil
 type: post
-date: 2008-04-08T19:29:20+00:00
-excerpt: Chaidh lìon-sòisealta ùr do phàrantan LCDT a chruthachadh le càraid co-sheòrsach gus taic a thoirt ri càraidean LCDT eile a tha airson leanabh uchd-mhacachadh.
-url: /lion-soisealta-ur-do-pharantan-lcdt/
+date: 2008-04-08 19:29:20
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - An Rìoghachd Aonaichte
-  - Teicneòlas
+  - an-rioghachd-aonaichte
+  - teicneolas
 tags:
   - Adoption UK
   - Andy May
@@ -34,6 +32,8 @@ tags:
 
 ---
 Chaidh lìon-sòisealta ùr do phàrantan LCDT a chruthachadh le càraid co-sheòrsach gus taic a thoirt ri càraidean LCDT eile a tha airson leanabh uchd-mhacachadh.
+
+<!--more-->
 
 &#8216;S e an [New Social Family][1] an t-ainm a th&#8217; air agus chaidh ga chruthachadh le Andy May gus cothrom a thoirt ri pàrantan LCDT air feadh Bhreatainn a bhith a&#8217; conaltradh le chèile.
 

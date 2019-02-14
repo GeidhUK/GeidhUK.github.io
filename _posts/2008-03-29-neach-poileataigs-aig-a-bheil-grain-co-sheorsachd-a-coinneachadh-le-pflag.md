@@ -2,32 +2,16 @@
 title: Neach-poileataigs aig a bheil gràin-co-sheòrsachd a’ coinneachadh le PFLAG
 author: Crìstean MacMhìcheil
 type: post
-date: 2008-03-29T09:58:46+00:00
-excerpt: 'Tha neach-poileataigs à Oklahoma, a tha ainmeil airson ag ràdh gu bheil daoine co-sheòrsach nan bagairtean nas motha ris na Stàitean Aonaichte na tha ceannaircich, air a bhith a’ coinneachadh le buidheann PFLAG (Parents & Friends of Lesbians & Gays).'
-url: /neach-poileataigs-aig-a-bheil-grain-co-sheorsachd-a-coinneachadh-le-pflag/
+date: 2008-03-29 09:58:46
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - An t-Saoghal
-  - Creideamh
-  - Poilitigs
-tags:
-  - Aimearaga
-  - ceannairceachd
-  - ceannaircich
-  - 'Gay &amp; Lesbian Victory Fund'
-  - gay agenda
-  - Loyce Newton-Edwards
-  - Na Stàitean Aonaichte
-  - neach-poileataigs
-  - Oklahoma
-  - 'Parents &amp; Friends of Lesbians &amp; Gays'
-  - PFLAG
-  - riochdaire
-  - Sally Kern
-  - terrorists
-
+  - an-t-saoghal
+  - creideamh
+  - poilitigs
 ---
 Tha neach-poileataigs à Oklahoma, a tha ainmeil airson ag ràdh gu bheil daoine co-sheòrsach nan bagairtean nas motha ris na Stàitean Aonaichte na tha ceannaircich, air a bhith a’ coinneachadh le buidheann PFLAG (_Parents & Friends of Lesbians & Gays_).
+
+<!--more-->
 
 Thug a’ choimhearsnachd eadar-nàiseanta an àire do Riochdaire Sally Kern na bu tràithe a’ mhìos seo chaidh nuair a dh’fhoillsich am buidheann _Gay & Lesbian Victory Fund_ bhidio air YouTube a’ sealltainn Riochdaire Kern a’ toirt seachad òraid a bha ri gràin-co-sheòrsachd.
 

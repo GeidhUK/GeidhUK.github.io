@@ -2,14 +2,11 @@
 title: Buidheann Ameireaganach a’ toirt dòchas ùr do fhireannaich le HIV
 author: Crìstean MacMhìcheil
 type: post
-date: 2008-06-12T14:46:11+00:00
-excerpt: |
-  Tha fireannaich HIV+ anns na Stàitean Aonaichte a' cur dòchas anns a' bhuidheann <a title="Làrach-lìn aig Growing Generations" href="http://www.growinggenerations.com/">Growing Generations</a> a tha ag ràdh gum faod iad a bhith nam pàrantan.
-url: /buidheann-ameireaganach-a-toirt-dochas-ur-do-fireannaich-le-hiv/
+date: 2008-06-12 14:46:11
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - An t-Saoghal
-  - Slàinte
+  - an-t-saoghal
+  - slainte
 tags:
   - Acquired Immunodeficiency Syndrome
   - AIDS
@@ -38,6 +35,8 @@ tags:
 
 ---
 Tha fireannaich HIV+ anns na Stàitean Aonaichte a&#8217; cur dòchas anns a&#8217; bhuidheann [Growing Generations][1] a tha ag ràdh gum faod iad a bhith nam pàrantan.
+
+<!--more-->
 
 Tha am buidheann ag ràdh gu bheil an teicneòlas againn a-nis airson sìol-ghinidh a chur gu deuchainn airson HIV agus gum faod iad _surrogates_ agus _donor eggs_ a chleachdadh gus teaghlaichean bith-eòlasach a thoirt do dh&#8217;fhireannaich HIV+.
 

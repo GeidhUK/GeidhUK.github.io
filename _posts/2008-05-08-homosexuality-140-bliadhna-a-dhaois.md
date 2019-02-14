@@ -2,14 +2,11 @@
 title: “Homosexuality” 140 bliadhna a dh’aois
 author: Crìstean MacMhìcheil
 type: post
-date: 2008-05-08T16:56:56+00:00
-excerpt: |
-  B' ann air an 6mh den Chèitean 1868 a thàinig am facal "homosexuality" gu bith.
-url: /homosexuality-140-bliadhna-a-dhaois/
+date: 2008-05-08 16:56:56
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - An t-Saoghal
-  - Foghlam
+  - an-t-saoghal
+  - foghlam
 tags:
   - bisexual
   - briathrachas
@@ -41,6 +38,8 @@ tags:
 
 ---
 B&#8217; ann air an 6mh den Chèitean 1868 a thàinig am facal &#8220;homosexuality&#8221; gu bith.
+
+<!--more-->
 
 Ro seo cha robh ach beagan faclan neo-phàirteach ann airson tuairisgeul a thoirt air tarraing co-sheòrsach. Bha faclan a leithid _bugger_, _molly_, _sodomite_ neo _pederast_ cumanta ach aig àm nuair a bha luchd-tagraidh a&#8217; bruidhinn a-mach airson còirichean LCDT bha feum aca air faclan ùr a chruthachadh.
 

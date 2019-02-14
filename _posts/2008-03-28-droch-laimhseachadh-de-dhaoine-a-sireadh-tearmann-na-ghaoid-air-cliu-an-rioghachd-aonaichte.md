@@ -2,31 +2,16 @@
 title: Droch-làimhseachadh de dhaoine a’ sireadh tèarmann na ghaoid air cliù an Rìoghachd Aonaichte
 author: Crìstean MacMhìcheil
 type: post
-date: 2008-03-28T09:09:59+00:00
-excerpt: Tha coimisean a chaidh a stèidheachadh gus poileasaidhean tèarmann anns an Rìoghachd Aonaichte sgrùdadh ag ràdh nach eil na poileasaidhean cho àrd ’s a bu chòir dhaibh a bhith airson dùthaich “sìobhaltach”.
-url: /droch-laimhseachadh-de-dhaoine-a-sireadh-tearmann-na-ghaoid-air-cliu-an-rioghachd-aonaichte/
+date: 2008-03-28 09:09:59
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - An Rìoghachd Aonaichte
-  - An t-Saoghal
-  - Poilitigs
-tags:
-  - An Ear Mheadhanach
-  - 'Border &amp; Immigration Agency'
-  - 'Buidheann nan Crìochan &amp; In-imrich'
-  - Ioràn
-  - Iorànach
-  - Medhi Kazemi
-  - Na Tìrean Ìsle
-  - political asylum
-  - Riaghaltas an Rìoghachd Aonaichte
-  - Riaghaltas Bhreatainn
-  - Rùnaire na Dùthcha
-  - tèarmann poileataigeach
-  - The Netherlands
-
+  - an-rioghachd-aonaichte
+  - an-t-saoghal
+  - poilitigs
 ---
 Tha coimisean a chaidh a stèidheachadh gus poileasaidhean tèarmann anns an Rìoghachd Aonaichte sgrùdadh ag ràdh nach eil na poileasaidhean cho àrd ’s a bu chòir dhaibh a bhith airson dùthaich “sìobhaltach”.
+
+<!--more-->
 
 Ach tha <span id="result_box" class="short_text" lang="gd" tabindex="-1"><span class="">Buidheann nan Crìochan & In-imrich</span></span> (_Border & Immigration Agency_) ag ràdh gu bheil iad a’ làimhseachadh daoine a’ sireadh tèarmann le “cùram agus truas”.
 

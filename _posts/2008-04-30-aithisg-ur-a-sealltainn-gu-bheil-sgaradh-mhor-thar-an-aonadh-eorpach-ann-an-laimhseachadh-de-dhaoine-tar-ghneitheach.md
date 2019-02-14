@@ -2,14 +2,11 @@
 title: Aithisg ùr a’ sealltainn gu bheil sgaradh mhòr thar an Aonadh Eòrpach ann an làimhseachadh de dhaoine tar-ghnèitheach
 author: Crìstean MacMhìcheil
 type: post
-date: 2008-04-30T08:48:49+00:00
-excerpt: |
-  Tha <a title="An làrach-lìn aig Comann Eadar-nàiseanta nan Leasbaich is Daoine Co-sheòrsach" href="http://www.ilga.org/">Comann Eadar-nàiseanta Leasbach agus Co-sheòrsach</a> (ILGA) air aithisg ùr fhoillseachadh a tha a' sealltainn gu bheil sgaradh mhòr thar an Aonadh Eòrpach ann an làimhseachadh de dhaoine tar-ghnèitheach.
-url: /aithisg-ur-a-sealltainn-gu-bheil-sgaradh-mhor-thar-an-aonadh-eorpach-ann-an-laimhseachadh-de-dhaoine-tar-ghneitheach/
+date: 2008-04-30 08:48:49
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - An Roinn-eòrpa
-  - Poilitigs
+  - an-roinn-eorpa
+  - poilitigs
 tags:
   - bias
   - claon-bhreith
@@ -33,6 +30,8 @@ tags:
 
 ---
 Tha [Comann Eadar-nàiseanta Leasbach agus Co-sheòrsach][1] (ILGA) air aithisg ùr fhoillseachadh a tha a&#8217; sealltainn gu bheil sgaradh mhòr thar an Aonadh Eòrpach ann an làimhseachadh de dhaoine tar-ghnèitheach.
+
+<!--more-->
 
 Chaidh an aithisg a dhèanamh gus fhaighinn a-mach ciamar a tha seirbheisean slàinte a&#8217; làimhseachadh daoine tar-ghnèitheach agus barrachd fhaighinn a-mach mu dheidhinn leth-bhreith anns an ionad-obrach.
 

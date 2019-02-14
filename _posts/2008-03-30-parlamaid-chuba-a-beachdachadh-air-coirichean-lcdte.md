@@ -2,14 +2,12 @@
 title: Pàrlamaid Chùba a’ beachdachadh air còirichean LCDTE
 author: Crìstean MacMhìcheil
 type: post
-date: 2008-03-30T10:11:56+00:00
-excerpt: Tha luchd-lagha anns a’ Chùba a’ beachdachadh air laghan ùra a dhèanamh gus còirichean co-ionann a thoirt ris a’ choimhearsnachd co-sheòrsach.
-url: /parlamaid-chuba-a-beachdachadh-air-coirichean-lcdte/
+date: 2008-03-30 10:11:56
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - An t-Saoghal
-  - Lagh
-  - Poilitigs
+  - an-t-saoghal
+  - lagh
+  - poilitigs
 tags:
   - Am Muir Caraibeach
   - Ceann-suidhe Chùba
@@ -28,6 +26,8 @@ tags:
 
 ---
 Tha luchd-lagha anns a’ Chùba a’ beachdachadh air laghan ùra a dhèanamh gus còirichean co-ionann a thoirt ris a’ choimhearsnachd LCDTE.
+
+<!--more-->
 
 Thathar an dòchas gum biodh na laghan seo nan ceuman mòr ri companasan-catharra fhaighinn agus ri cothroman air obraichean lannsa gus ur gnè atharrachadh.
 

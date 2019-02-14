@@ -2,13 +2,11 @@
 title: Luchd-saidheans air laigse aig HIV lorg
 author: Crìstean MacMhìcheil
 type: post
-date: 2008-07-25T17:49:16+00:00
-excerpt: Tha luchd-rannsachaidh ag obair aig Sgoil Slàinte Oilthigh Texas ag ràdh gu bheil iad air laigse aig HIV (Bhioras Dìon-slàinte Daonna) a lorg.
-url: /luchd-saidheans-air-laigse-aig-hiv-lorg/
+date: 2008-07-25 17:49:16
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - An t-Saoghal
-  - Slàinte
+  - an-t-saoghal
+  - slainte
 tags:
   - Abzymes
   - AIDS
@@ -36,6 +34,8 @@ tags:
 
 ---
 Tha luchd-rannsachaidh ag obair aig Sgoil Slàinte Oilthigh Texas ag ràdh gu bheil iad air laigse aig HIV (Bhioras Dìon-slàinte Daonna) a lorg.
+
+<!--more-->
 
 Tha an laigse seo na pàirt de phròtain a tha riatanach do HIV airson grèim fhaighinn air ceallan.
 

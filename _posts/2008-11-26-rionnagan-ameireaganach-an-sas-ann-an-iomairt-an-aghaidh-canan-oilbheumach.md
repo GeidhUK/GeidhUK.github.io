@@ -2,14 +2,12 @@
 title: Rionnagan Ameireaganach an-sàs ann an iomairt an-aghaidh cànan oilbheumach
 author: Crìstean MacMhìcheil
 type: post
-date: 2008-11-26T16:15:39+00:00
-excerpt: Chaidh iomairt ùr a chur air bhog anns na Stàitean Aonaichte gus sgoilearan a theagasg mu dheidhinn am buaidh a tha aig cànan oilbheumach air daoine LCDTE.
-url: /rionnagan-ameireaganach-an-sas-ann-an-iomairt-an-aghaidh-canan-oilbheumach/
+date: 2008-11-26 16:15:39
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - An t-Saoghal
-  - Cùltar
-  - Foghlam
+  - an-t-saoghal
+  - cultar
+  - foghlam
 tags:
   - Aimearaga
   - America
@@ -37,6 +35,8 @@ tags:
 
 ---
 Chaidh iomairt ùr a chur air bhog anns na Stàitean Aonaichte gus sgoilearan a theagasg mu dheidhinn am buaidh a tha aig cànan oilbheumach air daoine LCDTE.
+
+<!--more-->
 
 Mar phàirt dhen iomairt thèid sanasan ùra fhoillseachadh air 33,000 stèiseanan air feadh na Stàitean a&#8217; toirt a-steach t.bh., radio, pàipearan-naidheachd, irisean agus an t-eadar-lìon.
 

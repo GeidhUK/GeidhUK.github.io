@@ -2,13 +2,11 @@
 title: Cha tèid planaichean airson àrd-sgoil LCDT ann an Chicago air adhart
 author: Crìstean MacMhìcheil
 type: post
-date: 2008-11-26T16:37:18+00:00
-excerpt: Tha luchd-foghlaim ann an Chicago air a ràdh nach tèid planaichean airson sgoil LCDT fhosgladh sa bhaile air adhart.
-url: /cha-teid-planaichean-airson-ard-sgoil-lcdt-ann-an-chicago-air-adhart/
+date: 2008-11-26 16:37:18
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - An t-Saoghal
-  - Foghlam
+  - an-t-saoghal
+  - foghlam
 tags:
   - Aimearaga
   - America
@@ -31,6 +29,8 @@ tags:
 
 ---
 Tha luchd-foghlaim ann an Chicago air a ràdh nach tèid planaichean airson sgoil LCDT fhosgladh sa bhaile air adhart.
+
+<!--more-->
 
 Thathar ag ràdh gu bheil luchd-dùbhlain a-nis airson an sgoil fhosgladh gu mion-chodaichean eile seach a bhith airson daoine LCDT a-mhàin.
 

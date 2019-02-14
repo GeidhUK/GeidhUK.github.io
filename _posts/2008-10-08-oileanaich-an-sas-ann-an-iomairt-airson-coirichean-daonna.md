@@ -2,16 +2,13 @@
 title: Oileanaich an sas ann an iomairt airson còirichean daonna
 author: Crìstean MacMhìcheil
 type: post
-date: 2008-10-08T19:13:13+00:00
-excerpt: |
-  Bidh an iomairt <a href="https://www.nusconnect.org.uk/liberation/lgbt-students" title="NUS LGBT">NUS LGBT</a> agus <em>Gay Rights Uganda</em> a' togail fianais an-aghaidh Riaghaltas Uganda nach eil a' cur stad air geur-leanmhainn agus cràdh an daoine LCDT san dùthaich.
-url: /oileanaich-an-sas-ann-an-iomairt-airson-coirichean-daonna/
+date: 2008-10-08 19:13:13
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - An Rìoghachd Aonaichte
-  - An t-Saoghal
-  - Foghlam
-  - Poilitigs
+  - an-rioghachd-aonaichte
+  - an-t-saoghal
+  - foghlam
+  - poilitigs
 tags:
   - Afraga
   - Africa
@@ -37,6 +34,8 @@ tags:
 
 ---
 Bidh an iomairt [NUS LGBT][1] agus _Gay Rights Uganda_ a&#8217; togail fianais an-aghaidh Riaghaltas Uganda nach eil a&#8217; cur stad air geur-leanmhainn agus cràdh an daoine LCDT san dùthaich.
+
+<!--more-->
 
 Anns na seachdainean mu dheireadh tha Riaghaltas Uganda air gealladh gus laghan nas cruaidhe a chur air chois an-aghaidh daoine LCDT air sgàth &#8217;s gu bheil an tinneas &#8220;co-sheòrsachd&#8221; air sgaoileadh air feadh Afraga.
 

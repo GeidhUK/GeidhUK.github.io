@@ -2,14 +2,12 @@
 title: Prìosanach tar-ghnèitheach na fulangaiche burraidheachaidh
 author: Crìstean MacMhìcheil
 type: post
-date: 2008-04-08T15:23:08+00:00
-excerpt: "Tha fianais ùr air nochdadh gun do rinn boireannach tar-ghnèitheach gearan mus do chur à dhì fèin gun robh prìosanaich eile ga burraidheachd air sgàth 's an gnè aice."
-url: /priosanach-tar-ghneitheach-na-fulangaiche-burraidheachaidh/
+date: 2008-04-08 15:23:08
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - An Rìoghachd Aonaichte
-  - Lagh
-  - Poilitigs
+  - an-rioghachd-aonaichte
+  - lagh
+  - poilitigs
 tags:
   - discrimination
   - gràin-tar-ghnèitheachd
@@ -27,6 +25,8 @@ tags:
 
 ---
 Tha fianais ùr air nochdadh gun do rinn boireannach tar-ghnèitheach gearan mus do chur à dhì fèin gun robh prìosanaich eile ga burraidheachd air sgàth &#8217;s an gnè aice.
+
+<!--more-->
 
 Bha Lisa Woodhall air a dìteadh gu 4 bliadhna ann am prìosan air sgàth &#8217;s gun tug i ionnsaigh air seann chompanach a&#8217; charbhaidh aice.
 

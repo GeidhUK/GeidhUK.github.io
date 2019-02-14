@@ -2,14 +2,12 @@
 title: Bile ùr a’ brosnachadh co-ionannachd do dhaoine LCDT
 author: Crìstean MacMhìcheil
 type: post
-date: 2008-06-22T18:03:15+00:00
-excerpt: "Thèid bile ùr a bhios a' brosnachadh co-ionannachd do dhaoine LCDT ainmeachadh gu h-oifigeil leis a' Bhanrigh anns an òraid aice san t-Samhain."
-url: /bile-ur-a-brosnachadh-co-ionannachd-do-dhaoine-lcdt/
+date: 2008-06-22 18:03:15
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - An Rìoghachd Aonaichte
-  - Lagh
-  - Poilitigs
+  - an-rioghachd-aonaichte
+  - lagh
+  - poilitigs
 tags:
   - British Parliament
   - co-ionannachd
@@ -25,6 +23,8 @@ tags:
 
 ---
 Thèid bile ùr a bhios a&#8217; brosnachadh co-ionannachd do dhaoine LCDT ainmeachadh gu h-oifigeil leis a&#8217; Bhanrigh anns an òraid aice san t-Samhain.
+
+<!--more-->
 
 Thathar an dùil gun tèid am bile tron a&#8217; Phàrlamaid tràth ann an 2009 agus gun tèid a dhèanamh na lagh ron t-samhradh.
 

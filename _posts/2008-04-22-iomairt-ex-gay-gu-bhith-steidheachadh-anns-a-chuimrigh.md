@@ -2,13 +2,11 @@
 title: Iomairt “ex-gay” gu bhith stèidheachadh anns a’ Chuimrigh
 author: Crìstean MacMhìcheil
 type: post
-date: 2008-04-22T16:50:10+00:00
-excerpt: "Tha an Crìosdaidh Bun-chreidmheach (Fundamentalist Christian) chonnspaideach Stephen Green air ràdh gum faodadh iomairt <em>ex-gay</em> a bhith a stèidheachadh anns a' Chuimrigh."
-url: /iomairt-ex-gay-gu-bhith-steidheachadh-anns-a-chuimrigh/
+date: 2008-04-22 16:50:10
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - An Rìoghachd Aonaichte
-  - Creideamh
+  - an-rioghachd-aonaichte
+  - creideamh
 tags:
   - "A' Chuimrigh"
   - BBC Cymru
@@ -32,6 +30,8 @@ tags:
 
 ---
 Tha an Crìosdaidh Bun-chreidmheach (Fundamentalist Christian) chonnspaideach Stephen Green air ràdh gum faodadh iomairt _ex-gay_ a bhith a stèidheachadh anns a&#8217; Chuimrigh.
+
+<!--more-->
 
 Tha an iomairt ainmeil airson daoine a bhrosnachadh gus &#8220;ùrnaigh air falbh nan gèidh&#8221; gus am biodh iad eile-sheòrsach.
 

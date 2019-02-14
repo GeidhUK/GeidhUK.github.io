@@ -2,13 +2,11 @@
 title: Del Martin air bàsachadh
 author: Crìstean MacMhìcheil
 type: post
-date: 2008-09-28T11:45:00+00:00
-excerpt: Chaochail Del Martin, gnìomhaiche leasbach air leth cudromach, aois 87, ann an San Francisco aig dheireadh an Lùnastal.
-url: /del-martin-air-basachadh/
+date: 2008-09-28 11:45:00
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - An t-Saoghal
-  - Poilitigs
+  - an-t-saoghal
+  - poilitigs
 tags:
   - Aimearaga
   - America
@@ -34,6 +32,8 @@ tags:
 
 ---
 Chaochail Del Martin, gnìomhaiche leasbach air leth cudromach, aois 87, ann an San Francisco aig dheireadh an Lùnastal.
+
+<!--more-->
 
 ‘S ann anns na 1950an a thoisich i ag obair airson co-ionannachd LCDT.
 

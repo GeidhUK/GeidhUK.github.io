@@ -2,14 +2,12 @@
 title: Buidheann co-ionannachd gu bhith a’ dèanamh prìomhachas air cùisean-lagh a-thaobh gnèitheachd
 author: Crìstean MacMhìcheil
 type: post
-date: 2008-04-02T10:43:52+00:00
-excerpt: "Chaidh sgeama stèidheachadh le Coimisean nan Còirichean Daonna agus Co-ionannachd (EHRC) a bhios a' dèanamh prìomhachas air cùisean-lagha a-thaobh gnèitheachd."
-url: /buidheann-co-ionannachd-gu-bhith-a-deanamh-priomhachas-air-cuisean-lagh-a-thaobh-gneitheachd/
+date: 2008-04-02 10:43:52
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - An Rìoghachd Aonaichte
-  - Lagh
-  - Poilitigs
+  - an-rioghachd-aonaichte
+  - lagh
+  - poilitigs
 tags:
   - co-ionannachd
   - Coimisean nan Còirichean Daonna agus Co-ionannachd
@@ -23,6 +21,8 @@ tags:
 
 ---
 Chaidh sgeama stèidheachadh le Coimisean nan Còirichean Daonna agus Co-ionannachd (EHRC) a bhios a&#8217; dèanamh prìomhachas air cùisean-lagha a-thaobh gnèitheachd.
+
+<!--more-->
 
 Mar buidheann poblach, tha dleastanas aig an EHRC a bhith a&#8217; freagairt cùisean gnè, cinnidh agus ciorraim. Thèid an sgeama seo a leasachadh eadar 2008 agus 2009 a bhith a&#8217; toirt a-steach cùisean aois, gnèitheachd, creideamh agus còirichean daonna.
 

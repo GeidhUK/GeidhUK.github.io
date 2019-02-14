@@ -2,13 +2,11 @@
 title: Iosrael air bhìosa a thorit ri Palastaineach co-sheòrsach
 author: Crìstean MacMhìcheil
 type: post
-date: 2008-03-30T11:24:35+00:00
-excerpt: Tha Iosrael air bhìosa a thoirt ri Palastaineach co-sheòrsach air sgàth ’s gun robh e ann an cunnart anns a’ Bhruach an Iar.
-url: /iosrael-air-bhiosa-a-thoirt-ri-palastaineach-co-sheorsach/
+date: 2008-03-30 11:24:35
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - An t-Saoghal
-  - Poilitigs
+  - an-t-saoghal
+  - poilitigs
 tags:
   - An Ear Mheadhanach
   - Bruach an Iar
@@ -29,6 +27,8 @@ tags:
 
 ---
 Tha Iosrael air bhìosa a thoirt ri Palastaineach co-sheòrsach air sgàth ’s gun robh e ann an cunnart anns a’ Bhruach an Iar.
+
+<!--more-->
 
 Tha an duine gun ainm an dùil ris a’ chompanach aige fhaicinn a-rithist ann an Tel Aviv.
 

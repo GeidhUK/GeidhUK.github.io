@@ -2,15 +2,13 @@
 title: Google an aghaidh a’ chaisg air pòsadh aon-sheòrsach
 author: Crìstean MacMhìcheil
 type: post
-date: 2008-10-02T21:10:55+00:00
-excerpt: "Tha Google air ràdh gu bheil iad an aghaidh a' chaisg air pòsadh aon-sheòrsach ann an California."
-url: /google-an-aghaidh-a-chaisg-air-posadh-aon-sheorsach/
+date: 2008-10-02 21:10:55
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - An t-Saoghal
-  - Lagh
-  - Poilitigs
-  - Teicneòlas
+  - an-t-saoghal
+  - lagh
+  - poilitigs
+  - teicneolas
 tags:
   - Aimearaga
   - America
@@ -38,6 +36,8 @@ tags:
 
 ---
 Tha Google air ràdh gu bheil iad an aghaidh a&#8217; chaisg air pòsadh aon-sheòrsach ann an California.
+
+<!--more-->
 
 Thuirt Sergey Brin, Co-stéidheadair Google, ann am blog gu bheil an companaidh dhen bheachd gur e cùis co-ionannachd a th&#8217; ann.
 

@@ -2,41 +2,18 @@
 title: Iomairt Albannach ag amas air stad a chur air deugaire co-sheòrsach fuadach a-mach
 author: Crìstean MacMhìcheil
 type: post
-date: 2008-03-29T09:22:09+00:00
-excerpt: Chaidh iomairt a stèideachadh gus deugaire co-sheòrsach, a tha gu bhith a’ fuadach a-mach às an Rìoghachd Aonaichte, a shabhaladh.
-url: /iomairt-albannach-ag-amas-air-stad-a-chur-air-deugaire-co-sheorsach-fuadach-a-mach/
+date: 2008-03-29 09:22:09
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - Alba
-  - An Rìoghachd Aonaichte
-  - An t-Saoghal
-  - Lagh
-  - Poilitigs
-tags:
-  - Alba
-  - An Eaglais Bhreac
-  - An Ear Mheadhanach
-  - An Rìoghachd Aonaichte
-  - Breatainn
-  - 'Equal Rights are Human Rights - Not'
-  - Equal Rights Now
-  - Glaschu
-  - Jacqul Smith
-  - JoJo Jako Yakob
-  - Lagh
-  - Poileas
-  - political asylum
-  - Polmont Young Offenders
-  - Riaghaltas an Rìoghachd Aonaichte
-  - Riaghaltas Bhreatainn
-  - Rob McDowall
-  - Rùnaire na Dùthcha
-  - Save JoJo Campaign
-  - Special Rights
-  - tèarmann poileataigeach
-
+  - alba
+  - an-rioghachd-aonaichte
+  - an-t-saoghal
+  - lagh
+  - poilitigs
 ---
 Chaidh iomairt a stèidheachadh gus deugaire co-sheòrsach, a tha gu bhith a’ fuadach a-mach às an Rìoghachd Aonaichte, a shàbhaladh.
+
+<!--more-->
 
 Tha JoJo Jako Yakob, 19, gu bhith a’ fuadach a-mach às an Rìoghachd Aonaichte air ais gu Siria, ach tha e ag ràdh gun tèid a chur gu bàs ma thilleas e air ais dhan dùthaich.
 

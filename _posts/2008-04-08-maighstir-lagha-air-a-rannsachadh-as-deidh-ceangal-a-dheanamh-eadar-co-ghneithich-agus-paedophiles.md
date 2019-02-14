@@ -2,15 +2,13 @@
 title: Maighstir lagha air a rannsachadh as dèidh ceangal a dhèanamh eadar daoine co-sheòrsach agus paedophiles
 author: Crìstean MacMhìcheil
 type: post
-date: 2008-04-08T17:21:20+00:00
-excerpt: "Chaidh rannsachadh a thòiseachadh air sgàth 's gun do rinn maighstir lagha ceangal eadar daoine co-sheòrsach agus <em>paedophiles</em> air prògram aithriseach anns a' Chuimrigh."
-url: /maighstir-lagha-air-a-rannsachadh-as-deidh-ceangal-a-dheanamh-eadar-co-ghneithich-agus-paedophiles/
+date: 2008-04-08 17:21:20
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - An Rìoghachd Aonaichte
-  - Cùltar
-  - Lagh
-  - Poilitigs
+  - an-rioghachd-aonaichte
+  - cultar
+  - lagh
+  - poilitigs
 tags:
   - "A' Chuimrigh"
   - BBC Cymru
@@ -26,6 +24,8 @@ tags:
 
 ---
 Chaidh rannsachadh a thòiseachadh air sgàth &#8217;s gun do rinn maighstir lagha ceangal eadar daoine co-sheòrsach agus _paedophiles_ air prògram aithriseach anns a&#8217; Chuimrigh.
+
+<!--more-->
 
 Bha Mgr Byron Butler a&#8217; bruidhinn air am prògram aithriseach _Week In Week Out_ air BBC Wales nuair a thuirt e:
 

@@ -2,14 +2,12 @@
 title: An Roinn Eòrpa a’ ceasnachadh an Rìoghachd Aonaichte mu dheidhinn còirichean LCDT ann an Diobraltar
 author: Crìstean MacMhìcheil
 type: post
-date: 2008-05-07T08:03:21+00:00
-excerpt: "Tha Riaghaltas na Bhreatainn air innse do Chomhairle na h-Eòrpa gu bheil iad a' coimhead air còirichean LCDT leasachadh ann an Diobraltar."
-url: /an-roinn-eorpa-a-ceasnachadh-an-rioghachd-aonaichte-mu-dheidhinn-coraichean-lcdt-ann-an-diobraltar/
+date: 2008-05-07 08:03:21
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - An Rìoghachd Aonaichte
-  - An Roinn-eòrpa
-  - Poilitigs
+  - an-rioghachd-aonaichte
+  - an-roinn-eorpa
+  - poilitigs
 tags:
   - An Aonadh Eòrpach
   - An Rìoghachd Aonaichte
@@ -39,6 +37,8 @@ tags:
 
 ---
 Tha Riaghaltas na Bhreatainn air innse do Chomhairle na h-Eòrpa gu bheil iad a&#8217; coimhead air còirichean LCDT leasachadh ann an Diobraltar.
+
+<!--more-->
 
 Tha fhathast aois aontachaidh neo-ionann aig a&#8217; cholonaidh Bhreatannach agus tha seo a&#8217; dol an-aghaidh Cùmhnant Eòrpach nan Còraichean Daonna.
 

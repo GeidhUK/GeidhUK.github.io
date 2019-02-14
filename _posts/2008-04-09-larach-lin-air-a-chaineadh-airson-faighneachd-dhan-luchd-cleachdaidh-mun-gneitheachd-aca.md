@@ -2,15 +2,13 @@
 title: Làrach-lìn air a chàineadh airson faighneachd dhan luchd-cleachdaidh mun gnèitheachd aca
 author: Crìstean MacMhìcheil
 type: post
-date: 2008-04-09T08:30:36+00:00
-excerpt: "Chaidh bacadh a chur air làrach-lìn, a tha a' toirt seachad seirbheis gus companaich-flat a lorg, le cùirt anns na Stàitean Aonaichte air sgàth 's gun robh an làrach-lìn a' cur ceistean air na buill mu dheidhinn an gnèitheachd aca."
-url: /larach-lin-air-a-chaineadh-airson-faighneachd-dhan-luchd-cleachdaidh-mun-gneitheachd-aca/
+date: 2008-04-09 08:30:36
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - An t-Saoghal
-  - Lagh
-  - Poilitigs
-  - Teicneòlas
+  - an-t-saoghal
+  - lagh
+  - poilitigs
+  - teicneolas
 tags:
   - Aimearaga
   - Alex Kozinski
@@ -31,6 +29,8 @@ tags:
 
 ---
 Chaidh bacadh a chur air làrach-lìn, a tha a&#8217; toirt seachad seirbheis gus companaich flat a lorg, le cùirt anns na Stàitean Aonaichte air sgàth &#8217;s gun robh an làrach-lìn a&#8217; cur ceistean air na buill mu dheidhinn an gnèitheachd aca.
+
+<!--more-->
 
 Chaidh _Roommates.com_ a chàineadh le Comhairle an Taigheadas Cothromach (_Fair Housing Council_) ann an Gleann San Fernando agus ann an San Francisco air sgàth &#8217;s gun robh e riantanach airson buill a bhith ag ràdh nan robh iad co-sheòrsach.
 

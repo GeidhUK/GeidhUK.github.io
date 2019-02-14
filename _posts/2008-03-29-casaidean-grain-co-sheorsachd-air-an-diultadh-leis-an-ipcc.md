@@ -2,23 +2,16 @@
 title: Casaidean gràin-co-sheòrsachd air an diùltadh leis an IPCC
 author: Crìstean MacMhìcheil
 type: post
-date: 2008-03-29T10:30:36+00:00
-excerpt: Tha an IPCC (Independent Police Complaints Commission) a’ diùltadh casaidean gràin-co-sheòrsachd an aghaidh ochd oifigearan ann an Duibhe agus a’ Chòrn.
-url: /casaidean-grain-co-sheorsachd-air-an-diultadh-leis-an-ipcc/
+date: 2008-03-29 10:30:36
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - An Rìoghachd Aonaichte
-  - Lagh
-  - Poilitigs
-tags:
-  - Iain Bynoe
-  - Independent Police Complaints Commission
-  - IPCC
-  - Malcolm Lidbury
-  - Poileas
-
+  - an-rioghachd-aonaichte
+  - lagh
+  - poilitigs
 ---
 Tha an IPCC (Independent Police Complaints Commission) a’ diùltadh casaidean gràin-co-sheòrsachd an aghaidh ochd oifigearan ann an Duibhe agus a’ Chòrn.
+
+<!--more-->
 
 Chaidh na casaidean a thogail ann an 2004 agus 2005 le gnìomhaiche LCDTE Malcolm Lidbury.
 

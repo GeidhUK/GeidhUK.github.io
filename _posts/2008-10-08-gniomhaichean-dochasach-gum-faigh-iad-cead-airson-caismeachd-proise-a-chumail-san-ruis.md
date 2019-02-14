@@ -2,16 +2,14 @@
 title: Gnìomhaichean dòchasach gum faigh iad cead airson caismeachd pròise a chumail san Ruis
 author: Crìstean MacMhìcheil
 type: post
-date: 2008-10-08T18:42:49+00:00
-excerpt: Tha gnìomhaichean Nicolas Alexeyev agus Anna Komarova ann an Tambov, an Ruis, an dùil tagradh a chur a-steach gus caismeachd pròise a chumail sa bhaile.
-url: /gniomhaichean-dochasach-gum-faigh-iad-cead-airson-caismeachd-proise-a-chumail-san-ruis/
+date: 2008-10-08 18:42:49
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - An Roinn-eòrpa
-  - An t-Saoghal
-  - Fèisean-pròise
-  - Lagh
-  - Poilitigs
+  - an-roinn-eorpa
+  - an-t-saoghal
+  - feisean-proise
+  - lagh
+  - poilitigs
 tags:
   - An Ruis
   - Anna Komarova
@@ -27,6 +25,8 @@ tags:
 
 ---
 Tha gnìomhaichean Nicolas Alexeyev agus Anna Komarova ann an Tambov, an Ruis, an dùil tagradh a chur a-steach gus caismeachd pròise a chumail sa bhaile.
+
+<!--more-->
 
 Tha gnìomhaichean LCDT sa bhaile air cead fhaighinn mar thà gus fianais a thogail an-aghaidh Riaghladair Oleg Betin an dèidh dha ràdh ann an agallamh, “_Tolerance?! To hell! Faggots should be torn apart. And their pieces should be thrown in the wind._”
 

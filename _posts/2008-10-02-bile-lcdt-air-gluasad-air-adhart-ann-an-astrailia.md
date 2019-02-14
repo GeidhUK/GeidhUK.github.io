@@ -2,13 +2,11 @@
 title: Bile LCDT air gluasad air adhart ann an Astràilia
 author: Crìstean MacMhìcheil
 type: post
-date: 2008-10-02T22:30:29+00:00
-excerpt: "Chaidh bile ùr a bhios a' toirt co-ionannachd do dhaoine LCDT ann an Astràilia aontachadh leis a' Phàrlamaid."
-url: /bile-lcdt-air-gluasad-air-adhart-ann-an-astrailia/
+date: 2008-10-02 22:30:29
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - An t-Saoghal
-  - Poilitigs
+  - an-t-saoghal
+  - poilitigs
 tags:
   - Astràilia
   - Austrailia
@@ -24,6 +22,8 @@ tags:
 
 ---
 Chaidh bile ùr a bhios a&#8217; toirt co-ionannachd do dhaoine LCDT ann an Astràilia aontachadh leis a&#8217; Phàrlamaid.
+
+<!--more-->
 
 A-nis feumaidh an _**Same-Sex Entitlements Bill**_ dol air beulaibh an t-Seanadh.
 

@@ -2,15 +2,13 @@
 title: Duine co-sheòrsach ga chur an grèim airson pòg a thoirt dhan companach aige
 author: Crìstean MacMhìcheil
 type: post
-date: 2008-05-07T10:10:52+00:00
-excerpt: "Tha daoine co-sheòrsach air a bhith ga chur an grèim anns na h-Eileanan Caimean airson pòg a thoirt dhan companach aige fhad 's a bha iad air saor-làithean anns a' Mhuir Charaibeach."
-url: /duine-co-sheorsach-ga-chur-an-greim-airson-pog-a-thoirt-dhan-companach-aige/
+date: 2008-05-07 10:10:52
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - An Rìoghachd Aonaichte
-  - An t-Saoghal
-  - Lagh
-  - Poilitigs
+  - an-rioghachd-aonaichte
+  - an-t-saoghal
+  - lagh
+  - poilitigs
 tags:
   - Aaron Chandler
   - Am Muir Caraibeach
@@ -27,6 +25,8 @@ tags:
 
 ---
 Tha duine co-sheòrsach air a bhith ga chur an grèim anns na h-Eileanan Caimean airson pòg a thoirt dhan companach aige fhad &#8217;s a bha iad air saor-làithean anns a&#8217; Mhuir Charaibeach.
+
+<!--more-->
 
 Chaidh casaidean a dhèanamh an aghaidh Aaron Chandler agus an companach aige le daoine eile a bha a&#8217; fuireach aig _Royal Palms Resort_. Thug am Poileas rabhadh dhaibh nach bu chòir dhaibh pòg gu poblach agus nuair a phòg iad ann an club an oidhche sin chaidh Mgr Chandler ga chur an grèim.
 

@@ -2,14 +2,12 @@
 title: Tha bhidio ùr air nochdadh an aghaidh Proposition 8
 author: Crìstean MacMhìcheil
 type: post
-date: 2008-12-06T23:11:27+00:00
-excerpt: 'Chaidh bhidio ùr a chur air làrach-lìn FunnyOrDie.com, a tha a’ togail fianais an aghaidh Proposition 8 California, a rèir an AP. B’ e cruthachadh Marc Shaiman a bh’ ann, a sgrìobh ceòl fiolm ‘South Park: Bigger, Longer & Uncut’ agus dhealbh-chluich cheòlmhor ‘Hairspray’.'
-url: /tha-bhidio-ur-air-nochdadh-an-aghaidh-proposition-8/
+date: 2008-12-06 23:11:27
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 categories:
-  - An t-Saoghal
-  - Lagh
-  - Poilitigs
+  - an-t-saoghal
+  - lagh
+  - poilitigs
 tags:
   - Aimearaga
   - America
@@ -43,6 +41,8 @@ tags:
 
 ---
 Chaidh bhidio ùr a chur air an làrach-lìn FunnyOrDie.com, a tha a’ togail fianais an aghaidh Proposition 8.
+
+<!--more-->
 
 B’ e cruthachadh Marc Shaiman a bh’ ann, a sgrìobh ceòl film ‘South Park: Bigger, Longer & Uncut’ agus dhealbh-chluich cheòlmhor ‘Hairspray’.
 
