@@ -3,7 +3,7 @@ title: Riaghaltas Bhreatainn air a chàineadh airson droch-làimhseachadh a dhè
 author: Crìstean MacMhìcheil
 type: post
 date: 2019-01-04 20:55:27
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2019-01-04-riaghaltas-bhreatainn-air-a-chaineadh-airson-droch-laimhseachadh-a-dheanamh-air-coirichean-tar-ghneitheach.jpg
 categories:
   - -an-rioghachd-aonaichte
   - lagh

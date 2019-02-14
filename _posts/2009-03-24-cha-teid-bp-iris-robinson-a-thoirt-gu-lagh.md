@@ -3,7 +3,7 @@ title: Cha tèid BP Iris Robinson a thoirt gu lagh
 author: Crìstean MacMhìcheil
 type: post
 date: 2009-03-24 18:53:05
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2009-03-24-cha-teid-bp-iris-robinson-a-thoirt-gu-lagh.jpg
 categories:
   - an-rioghachd-aonaichte
   - poilitigs

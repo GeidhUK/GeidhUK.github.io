@@ -3,7 +3,7 @@ title: Fèis film LCDT+ ri tilleadh a Ghlaschu
 author: Crìstean MacMhìcheil
 type: post
 date: 2018-11-06 17:06:00
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-11-06-feis-film-lcdt-ri-tilleadh-a-ghlaschu.jpg
 categories:
   - alba
   - cultar

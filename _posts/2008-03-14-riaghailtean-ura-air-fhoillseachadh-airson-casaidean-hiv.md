@@ -3,7 +3,7 @@ title: Riaghailtean ùra air fhoillseachadh airson casaidean HIV
 author: Crìstean MacMhìcheil
 type: post
 date: 2008-03-14 14:01:28
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-03-14-riaghailtean-ura-air-fhoillseachadh-airson-casaidean-hiv.jpg
 categories:
   - an-rioghachd-aonaichte
   - poilitigs

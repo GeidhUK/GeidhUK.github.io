@@ -3,7 +3,7 @@ title: Co-dhùnadh uchd-mhacachaidh mar eisimpleir ann an Iosrael
 author: Crìstean MacMhìcheil
 type: post
 date: 2008-03-18 16:20:59
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-03-18-co-dhunadh-uchd-mhacachaidh-mar-eisimpleir-ann-an-iosrael.jpg
 categories:
   - an-t-saoghal
   - lagh

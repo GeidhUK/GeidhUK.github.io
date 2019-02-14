@@ -3,7 +3,7 @@ title: Maoineachadh de chòrr is £8000 a thoirt gu Fòram LCDT na Gàidhealtach
 author: Crìstean MacMhìcheil
 type: post
 date: 2018-05-05 11:31:54
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-05-05-maoineachadh-de-chorr-is-8000-a-thoirt-gu-foram-lgdt-na-gaidhealtachd.jpg
 categories:
   - alba
   - feisean-proise

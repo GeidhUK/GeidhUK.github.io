@@ -3,7 +3,7 @@ title: Na bliadhnaichean ri teachd mì-chinnteach airson Iorànach co-sheòrsach
 author: Crìstean MacMhìcheil
 type: post
 date: 2008-04-08 17:36:21
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-04-08-na-bliadhnaichean-ri-teachd-mi-chinnteach-airson-ioranach-co-sheorsach.jpg
 categories:
   - an-rioghachd-aonaichte
   - an-roinn-eorpa

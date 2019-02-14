@@ -3,7 +3,7 @@ title: Luchd-saidheans air laigse aig HIV lorg
 author: Crìstean MacMhìcheil
 type: post
 date: 2008-07-25 17:49:16
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-07-25-luchd-saidheans-air-laigse-aig-hiv-lorg.jpg
 categories:
   - an-t-saoghal
   - slainte

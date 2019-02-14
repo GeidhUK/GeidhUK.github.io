@@ -3,7 +3,7 @@ title: 8,000 air phòsadh ann an California ro bhòt Proposition 8
 author: Crìstean MacMhìcheil
 type: post
 date: 2008-11-04 18:13:45
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-11-04-18000-air-phosadh-ann-an-california-ro-bhot-proposition-8.jpg
 categories:
   - an-t-saoghal
   - lagh

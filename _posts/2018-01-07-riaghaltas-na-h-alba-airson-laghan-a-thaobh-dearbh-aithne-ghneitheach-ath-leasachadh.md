@@ -3,7 +3,7 @@ title: Riaghaltas na h-Alba airson laghan a thaobh dearbh-aithne ghnèitheach at
 author: Crìstean MacMhìcheil
 type: post
 date: 2018-01-07 21:30:01
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-01-07-riaghaltas-na-h-alba-airson-laghan-a-thaobh-dearbh-aithne-ghneitheach-ath-leasachadh.jpg
 categories:
   - alba
   - an-rioghachd-aonaichte

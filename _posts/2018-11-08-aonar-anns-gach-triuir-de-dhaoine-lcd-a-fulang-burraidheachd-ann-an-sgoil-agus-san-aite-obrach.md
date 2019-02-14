@@ -3,7 +3,7 @@ title: Aonar anns gach triùir de dhaoine LCD a’ fulang burraidheachd ann an s
 author: Crìstean MacMhìcheil
 type: post
 date: 2018-11-08 10:26:17
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-11-08-aonar-anns-gach-triuir-de-dhaoine-lcd-a-fulang-burraidheachd-ann-an-sgoil-agus-san-aite-obrach.jpg
 categories:
   - an-rioghachd-aonaichte
   - foghlam

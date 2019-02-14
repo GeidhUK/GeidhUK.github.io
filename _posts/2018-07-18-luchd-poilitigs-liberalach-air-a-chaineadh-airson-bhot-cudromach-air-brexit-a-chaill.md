@@ -3,7 +3,7 @@ title: Luchd-poilitigs Liberalach air a chàineadh airson bhòt cudromach air Br
 author: Crìstean MacMhìcheil
 type: post
 date: 2018-07-18 21:45:04
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-07-18-luchd-poilitigs-liberalach-air-a-chaineadh-airson-bhot-cudromach-air-brexit-a-chaill.jpg
 categories:
   - an-rioghachd-aonaichte
   - an-roinn-eorpa

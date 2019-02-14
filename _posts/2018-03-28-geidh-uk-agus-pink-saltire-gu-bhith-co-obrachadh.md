@@ -3,7 +3,7 @@ title: Gèidh.uk agus Pink Saltire gu bhith co-obrachadh air sèirbheis-naidheac
 author: Crìstean MacMhìcheil
 type: post
 date: 2018-03-28 21:36:21
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-03-28-geidh-uk-agus-pink-saltire-gu-bhith-co-obrachadh.jpg
 categories:
   - alba
   - blog

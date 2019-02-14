@@ -3,7 +3,7 @@ title: Riaghaltas na h-Èireann air leisgeul a thoirt do dhaoine co-sheòrsach a
 author: Crìstean MacMhìcheil
 type: post
 date: 2018-06-21 13:58:34
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-06-21-riaghaltas-na-h-eireann-air-leisgeul-a-thoirt-do-dhaoine-co-sheorsach-a-chaidh-a-dhiteadh-fo-laghan-eachdraidheil.jpg
 categories:
   - an-roinn-eorpa
   - eirinn

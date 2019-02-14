@@ -3,7 +3,7 @@ title: Proud Ness gu bhith a’ cumail sreath de thachartasan LCDTE air feadh na
 author: Crìstean MacMhìcheil
 type: post
 date: 2018-07-18 20:54:00
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-07-18-proud-ness-gu-bhith-a-cumail-sreath-de-thachartasan-lcdte-air-feadh-na-ghaidhealtachd.jpg
 categories:
   - alba
   - cultar

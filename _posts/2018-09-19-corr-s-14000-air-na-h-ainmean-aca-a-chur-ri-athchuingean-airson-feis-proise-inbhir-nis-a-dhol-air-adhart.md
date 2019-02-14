@@ -3,7 +3,7 @@ title: Corr ’s 14,000 air na h-ainmean aca a chur ri athchuingean airson Fèis
 author: Crìstean MacMhìcheil
 type: post
 date: 2018-09-19 10:32:24
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-09-19-corr-s-14000-air-na-h-ainmean-aca-a-chur-ri-athchuingean-airson-feis-proise-inbhir-nis-a-dhol-air-adhart.jpg
 categories:
   - alba
   - feisean-proise

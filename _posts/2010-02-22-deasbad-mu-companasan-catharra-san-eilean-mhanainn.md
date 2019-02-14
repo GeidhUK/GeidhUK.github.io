@@ -3,7 +3,7 @@ title: Deasbad mu companasan-catharra san Eilean Mhanainn
 author: Crìstean MacMhìcheil
 type: post
 date: 2010-02-22 21:04:46
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2010-02-22-deasbad-mu-companasan-catharra-san-eilean-mhanainn.jpg
 categories:
   - an-rioghachd-aonaichte
   - an-roinn-eorpa

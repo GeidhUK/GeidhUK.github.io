@@ -3,7 +3,7 @@ title: Aithisg ùr a’ sealltainn gu bheil sgaradh mhòr thar an Aonadh Eòrpac
 author: Crìstean MacMhìcheil
 type: post
 date: 2008-04-30 08:48:49
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-04-30-aithisg-ur-a-sealltainn-gu-bheil-sgaradh-mhor-thar-an-aonadh-eorpach-ann-an-laimhseachadh-de-dhaoine-tar-ghneitheach.jpg
 categories:
   - an-roinn-eorpa
   - poilitigs

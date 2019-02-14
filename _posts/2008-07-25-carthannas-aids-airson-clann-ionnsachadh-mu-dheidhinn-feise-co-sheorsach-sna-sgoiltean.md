@@ -3,7 +3,7 @@ title: Carthannas AIDS airson clann ionnsachadh mu dheidhinn feise co-sheòrsach
 author: Crìstean MacMhìcheil
 type: post
 date: 2008-07-25 18:31:20
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-07-25-carthannas-aids-airson-clann-ionnsachadh-mu-dheidhinn-feise-co-sheorsach-sna-sgoiltean.jpg
 categories:
   - an-rioghachd-aonaichte
   - foghlam

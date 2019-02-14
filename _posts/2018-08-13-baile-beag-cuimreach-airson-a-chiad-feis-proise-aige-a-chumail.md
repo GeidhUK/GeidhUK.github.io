@@ -3,7 +3,7 @@ title: Baile beag Cuimreach airson a’ chiad fèis-pròise aige a chumail
 author: Crìstean MacMhìcheil
 type: post
 date: 2018-08-13 20:45:18
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-08-13-baile-beag-cuimreach-airson-a-chiad-feis-proise-aige-a-chumail.jpg
 categories:
   - an-rioghachd-aonaichte
   - feisean-proise

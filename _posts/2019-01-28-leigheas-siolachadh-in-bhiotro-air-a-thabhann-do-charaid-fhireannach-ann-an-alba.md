@@ -3,7 +3,7 @@ title: Leigheas sìolachadh in-bhiotro air a thabhann do chàraid fhireannach an
 author: Crìstean MacMhìcheil
 type: post
 date: 2019-01-28 19:51:39
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2019-01-28-leigheas-siolachadh-in-bhiotro-air-a-thabhann-do-charaid-fhireannach-ann-an-alba.jpg
 categories:
   - alba
   - an-rioghachd-aonaichte

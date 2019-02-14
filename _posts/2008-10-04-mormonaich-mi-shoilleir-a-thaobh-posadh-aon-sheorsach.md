@@ -3,7 +3,7 @@ title: Mormonaich mì-shoilleir a-thaobh pòsadh aon-sheòrsach
 author: Crìstean MacMhìcheil
 type: post
 date: 2008-10-04 12:27:21
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-10-04-mormonaich-mi-shoilleir-a-thaobh-posadh-aon-sheorsach.jpg
 categories:
   - an-t-saoghal
   - creideamh

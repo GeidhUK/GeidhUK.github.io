@@ -4,7 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date:
 draft: true
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/muinntir-na-h-alba-a-toirt-taic-dhan-ath-leasachadh-air-lagh-aithneachadh-gne.jpg
 categories:
   - alba
   - an-rioghachd-aonaichte

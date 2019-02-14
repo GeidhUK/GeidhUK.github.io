@@ -3,7 +3,7 @@ title: Nirribhidh a’ dèanamh pòsaidhean aon-sheòrsach laghail
 author: Crìstean MacMhìcheil
 type: post
 date: 2008-03-17 11:06:56
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-03-17-nirribhidh-a-deanamh-posaidhean-aon-sheorsach-laghail.jpg
 categories:
   - an-roinn-eorpa
   - creideamh

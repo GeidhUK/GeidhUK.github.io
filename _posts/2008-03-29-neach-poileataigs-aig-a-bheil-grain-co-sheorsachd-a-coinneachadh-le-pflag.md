@@ -3,7 +3,7 @@ title: Neach-poileataigs aig a bheil gràin-co-sheòrsachd a’ coinneachadh le 
 author: Crìstean MacMhìcheil
 type: post
 date: 2008-03-29 09:58:46
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-03-29-neach-poileataigs-aig-a-bheil-grain-co-sheorsachd-a-coinneachadh-le-pflag.jpg
 categories:
   - an-t-saoghal
   - creideamh

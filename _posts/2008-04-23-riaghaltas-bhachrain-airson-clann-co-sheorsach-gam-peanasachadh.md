@@ -3,7 +3,7 @@ title: Riaghaltas Bhachrain airson clann co-sheòrsach gam peanasachadh
 author: Crìstean MacMhìcheil
 type: post
 date: 2008-04-23 16:59:00
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-04-23-riaghaltas-bhachrain-airson-clann-co-sheorsach-gam-peanasachadh.jpg
 categories:
   - an-t-saoghal
   - creideamh

@@ -3,7 +3,7 @@ title: Cardiff an dùil ri fèis-pròise a chumail am bliadhna
 author: Crìstean MacMhìcheil
 type: post
 date: 2008-04-08 18:10:07
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-04-08-cardiffan-duil-ri-feis-proise-a-chumail-am-bliadhna.jpg
 categories:
   - an-rioghachd-aonaichte
   - cultar

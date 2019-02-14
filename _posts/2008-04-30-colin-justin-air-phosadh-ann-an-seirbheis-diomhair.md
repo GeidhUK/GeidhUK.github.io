@@ -3,7 +3,7 @@ title: 'Colin & Justin air phòsadh ann an seirbheis dìomhair'
 author: Crìstean MacMhìcheil
 type: post
 date: 2008-04-30 19:34:14
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-04-30-colin-justin-air-phosadh-ann-an-seirbheis-diomhair.jpg
 categories:
   - alba
   - cultar

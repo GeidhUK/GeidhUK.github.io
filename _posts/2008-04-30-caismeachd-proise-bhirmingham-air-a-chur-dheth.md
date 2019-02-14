@@ -3,7 +3,7 @@ title: Caismeachd-pròise Bhirmingham air a chur dheth
 author: Crìstean MacMhìcheil
 type: post
 date: 2008-04-30 18:52:49
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-04-30-caismeachd-proise-bhirmingham-air-a-chur-dheth.jpg
 categories:
   - an-rioghachd-aonaichte
   - cultar

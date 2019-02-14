@@ -3,7 +3,7 @@ title: Bile ùr a’ brosnachadh co-ionannachd do dhaoine LCDT
 author: Crìstean MacMhìcheil
 type: post
 date: 2008-06-22 18:03:15
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-06-22-bile-ur-a-brosnachadh-co-ionannachd-do-dhaoine-lcdt.jpg
 categories:
   - an-rioghachd-aonaichte
   - lagh

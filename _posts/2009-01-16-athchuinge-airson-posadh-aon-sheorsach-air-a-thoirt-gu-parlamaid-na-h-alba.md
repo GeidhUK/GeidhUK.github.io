@@ -3,7 +3,7 @@ title: Athchuinge airson pòsadh aon-sheòrsach air a thoirt gu Pàrlamaid na h-
 author: Crìstean MacMhìcheil
 type: post
 date: 2009-01-16 10:40:10
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2009-01-16-athchuinge-airson-posadh-aon-sheorsach-air-a-thoirt-gu-parlamaid-na-h-alba.jpg
 categories:
   - alba
   - an-rioghachd-aonaichte

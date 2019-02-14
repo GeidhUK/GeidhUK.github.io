@@ -3,7 +3,7 @@ title: Còirichean co-ionann do leasbaich a’ sireadh seirbheisean IVF
 author: Crìstean MacMhìcheil
 type: post
 date: 2009-11-04 18:45:31
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2009-11-04-coirichean-co-ionann-do-leasbaich-a-sireadh-seirbheisean-ivf.jpg
 categories:
   - an-rioghachd-aonaichte
   - slainte

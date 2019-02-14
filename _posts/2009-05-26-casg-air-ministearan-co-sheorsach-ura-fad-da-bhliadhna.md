@@ -3,7 +3,7 @@ title: Casg air ministearan co-sheòrsach ùra fad dà bhliadhna
 author: Crìstean MacMhìcheil
 type: post
 date: 2009-05-26 19:29:09
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2009-05-26-casg-air-ministearan-co-sheorsach-ura-fad-da-bhliadhna.jpg
 categories:
   - alba
   - an-rioghachd-aonaichte

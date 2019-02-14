@@ -3,7 +3,7 @@ title: Riaghaltas a’ toirt maoineachadh de £75,000 dhan charthannas Òigridh 
 author: Crìstean MacMhìcheil
 type: post
 date: 2018-01-01 20:21:45
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-01-01-riaghaltas-a-toirt-maoineachadh-de-75000-dhan-charthannas-oigridh-lcdt-na-h-alba.jpg
 categories:
   - alba
   - poilitigs

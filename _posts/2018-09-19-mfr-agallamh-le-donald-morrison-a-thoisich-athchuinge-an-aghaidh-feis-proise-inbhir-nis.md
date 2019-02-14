@@ -3,7 +3,7 @@ title: 'MFR: Agallamh le Donald Morrison a thòisich athchuinge an-aghaidh Fèis
 author: Crìstean MacMhìcheil
 type: post
 date: 2018-09-19 06:15:53
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-09-19-mfr-agallamh-le-donald-morrison-a-thoisich-athchuinge-an-aghaidh-feis-proise-inbhir-nis.jpg
 categories:
   - alba
   - feisean-proise

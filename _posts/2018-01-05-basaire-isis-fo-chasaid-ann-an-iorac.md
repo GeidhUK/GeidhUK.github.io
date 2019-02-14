@@ -3,7 +3,7 @@ title: Bàsaire ISIS fo chasaid ann an Ioràc
 author: Crìstean MacMhìcheil
 type: post
 date: 2018-01-05 22:56:37
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-01-05-basaire-isis-fo-chasaid-ann-an-iorac.jpg
 categories:
   - an-t-saoghal
   - creideamh

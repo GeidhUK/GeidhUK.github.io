@@ -3,7 +3,7 @@ title: Bu chòir cùisean LCDT+ a bhith na phàirt “bunaiteach” de dh’fhog
 author: Crìstean MacMhìcheil
 type: post
 date: 2018-11-22 17:37:27
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-11-22-bu-choir-cuisean-lcdt-a-bhith-na-phairt-bunaiteach-de-dhfhoghlam-chloinne.jpg
 categories:
   - an-rioghachd-aonaichte
   - foghlam

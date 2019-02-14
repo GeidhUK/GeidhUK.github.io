@@ -3,7 +3,7 @@ title: Bile Gnè Mhanainneach air gluasad air adhart
 author: Crìstean MacMhìcheil
 type: post
 date: 2009-03-14 20:33:39
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2009-03-14-bile-gne-mhanainneach-air-gluasad-air-adhart.jpg
 categories:
   - an-rioghachd-aonaichte
   - an-roinn-eorpa

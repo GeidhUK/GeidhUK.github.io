@@ -3,7 +3,7 @@ title: Eilean Mhanainn air dreachd bhile a dhèanamh gus còirichean co-ionann a
 author: Crìstean MacMhìcheil
 type: post
 date: 2008-04-21 14:39:07
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-04-21-eilean-mhanainn-air-dreachd-bhile-a-dheanamh-gus-coirichean-co-ionann-a-thoirt-ri-tar-ghneithich.jpg
 categories:
   - an-rioghachd-aonaichte
   - an-roinn-eorpa

@@ -3,7 +3,7 @@ title: Easbaig a’ càineadh a’ choimhearsnachd LCDTE
 author: Crìstean MacMhìcheil
 type: post
 date: 2008-03-14 10:19:44
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-03-14-easbaig-a-caineadh-a-choimhearsnachd-lcdte.jpg
 categories:
   - alba
   - an-rioghachd-aonaichte

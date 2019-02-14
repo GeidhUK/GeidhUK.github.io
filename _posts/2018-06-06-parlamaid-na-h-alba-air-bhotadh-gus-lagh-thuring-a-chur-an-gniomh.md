@@ -3,7 +3,7 @@ title: Pàrlamaid na h-Alba air bhòtadh gus Lagh Thuring a chur an gnìomh
 author: Crìstean MacMhìcheil
 type: post
 date: 2018-06-06 21:02:49
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-06-06-parlamaid-na-h-alba-air-bhotadh-gus-lagh-thuring-a-chur-an-gniomh.jpg
 categories:
   - alba
   - poilitigs

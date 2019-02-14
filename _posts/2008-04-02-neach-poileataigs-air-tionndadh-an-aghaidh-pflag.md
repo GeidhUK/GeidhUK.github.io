@@ -3,7 +3,7 @@ title: Neach-poileataigs air tionndadh an aghaidh PFLAG
 author: Crìstean MacMhìcheil
 type: post
 date: 2008-04-02 10:59:53
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-04-02-neach-poileataigs-air-tionndadh-an-aghaidh-pflag.jpg
 categories:
   - an-t-saoghal
   - creideamh

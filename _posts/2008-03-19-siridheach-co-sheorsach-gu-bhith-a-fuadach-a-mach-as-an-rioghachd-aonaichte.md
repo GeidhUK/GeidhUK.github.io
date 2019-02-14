@@ -3,7 +3,7 @@ title: Siridheach co-sheòrsach gu bhith a’ fuadach a-mach às an Rìoghachd A
 author: Crìstean MacMhìcheil
 type: post
 date: 2008-03-19 07:47:57
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-03-19-siridheach-co-sheorsach-gu-bhith-a-fuadach-a-mach-as-an-rioghachd-aonaichte.jpg
 categories:
   - alba
   - an-rioghachd-aonaichte

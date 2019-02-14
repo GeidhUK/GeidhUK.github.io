@@ -3,7 +3,7 @@ title: Iorànach co-sheòrsach gu bhith a’ fuireach anns a’ Ghrèig
 author: Crìstean MacMhìcheil
 type: post
 date: 2008-03-31 13:09:59
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-03-31-ioranach-co-sheorsach-gu-bhith-a-fuireach-anns-a-ghreig.jpg
 categories:
   - an-roinn-eorpa
   - an-t-saoghal

@@ -3,7 +3,7 @@ title: Iomairt Albannach ag amas air stad a chur air deugaire co-sheòrsach fuad
 author: Crìstean MacMhìcheil
 type: post
 date: 2008-03-29 09:22:09
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-03-29-iomairt-albannach-ag-amas-air-stad-a-chur-air-deugaire-co-sheorsach-fuadach-a-mach.jpg
 categories:
   - alba
   - an-rioghachd-aonaichte

@@ -3,7 +3,7 @@ title: Eaglais na h-Alba a’ gluasad nas fhaisge air pòsaidhean aon-sheòrsach
 author: Crìstean MacMhìcheil
 type: post
 date: 2018-05-21 18:22:52
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-05-21-eaglais-na-h-alba-a-gluasad-nas-fhaisge-air-posaidhean-aon-sheorsach.jpg
 categories:
   - alba
   - creideamh

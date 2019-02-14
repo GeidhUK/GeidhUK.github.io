@@ -3,7 +3,7 @@ title: Bun-sgoil Gàidhealach a’ leigeil le balaich is nigheanan a bhith a’ 
 author: Crìstean MacMhìcheil
 type: post
 date: 2018-06-03 19:03:11
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-06-03-bun-sgoil-gaidhealach-a-leigeil-le-balaich-is-nigheanan-a-bhith-a-farpais-ri-cheile-ann-an-reisean-latha-spors.jpg
 categories:
   - alba
   - foghlam

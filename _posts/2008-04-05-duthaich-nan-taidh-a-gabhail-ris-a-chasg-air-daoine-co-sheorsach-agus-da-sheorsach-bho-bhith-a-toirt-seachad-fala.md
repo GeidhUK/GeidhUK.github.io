@@ -3,7 +3,7 @@ title: Dùthaich nan Tàidh a’ gabhail ris a’ chasg air daoine co-sheòrsach
 author: Crìstean MacMhìcheil
 type: post
 date: 2008-04-05 18:35:16
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-04-05-duthaich-nan-taidh-a-gabhail-ris-a-chasg-air-daoine-co-sheorsach-agus-da-sheorsach-bho-bhith-a-toirt-seachad-fala.jpg
 categories:
   - an-t-saoghal
   - lagh

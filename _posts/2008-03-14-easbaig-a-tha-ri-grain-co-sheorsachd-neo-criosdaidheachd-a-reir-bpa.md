@@ -3,7 +3,7 @@ title: Easbaig a tha ri gràin-co-sheòrsachd neo-criosdaidheachd a rèir BPA
 author: Crìstean MacMhìcheil
 type: post
 date: 2008-03-14 16:58:48
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-03-14-easbaig-a-tha-ri-grain-co-sheorsachd-neo-criosdaidheachd-a-reir-bpa.jpg
 categories:
   - alba
   - an-rioghachd-aonaichte

@@ -3,7 +3,7 @@ title: An Roinn Eòrpa a’ ceasnachadh an Rìoghachd Aonaichte mu dheidhinn cò
 author: Crìstean MacMhìcheil
 type: post
 date: 2008-05-07 08:03:21
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-05-07-an-roinn-eorpa-a-ceasnachadh-an-rioghachd-aonaichte-mu-dheidhinn-coraichean-lcdt-ann-an-diobraltar.jpg
 categories:
   - an-rioghachd-aonaichte
   - an-roinn-eorpa

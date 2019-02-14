@@ -3,7 +3,7 @@ title: Maighstir lagha air a rannsachadh as dèidh ceangal a dhèanamh eadar dao
 author: Crìstean MacMhìcheil
 type: post
 date: 2008-04-08 17:21:20
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-04-08-maighstir-lagha-air-a-rannsachadh-as-deidh-ceangal-a-dheanamh-eadar-co-ghneithich-agus-paedophiles.jpg
 categories:
   - an-rioghachd-aonaichte
   - cultar

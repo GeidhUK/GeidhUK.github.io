@@ -3,7 +3,7 @@ title: Comhairliche tar-ghnèitheach Albannach a’ leigeil às an dreuchd mar t
 author: Crìstean MacMhìcheil
 type: post
 date: 2018-08-15 09:11:01
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-08-15-comhairliche-tar-ghneitheach-albannach-a-leigeil-as-an-dreuchd-mar-thoradh-air-droch-dhiol.jpg
 categories:
   - alba
   - poilitigs

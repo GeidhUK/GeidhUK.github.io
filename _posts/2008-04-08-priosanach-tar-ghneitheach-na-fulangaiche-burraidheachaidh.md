@@ -3,7 +3,7 @@ title: Prìosanach tar-ghnèitheach na fulangaiche burraidheachaidh
 author: Crìstean MacMhìcheil
 type: post
 date: 2008-04-08 15:23:08
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-04-08-priosanach-tar-ghneitheach-na-fulangaiche-burraidheachaidh.jpg
 categories:
   - an-rioghachd-aonaichte
   - lagh

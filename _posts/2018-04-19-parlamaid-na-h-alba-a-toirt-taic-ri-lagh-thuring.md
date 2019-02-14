@@ -3,7 +3,7 @@ title: Pàrlamaid na h-Alba a’ toirt taic ri Lagh Thuring
 author: Crìstean MacMhìcheil
 type: post
 date: 2018-04-19 13:39:27
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-04-19-parlamaid-na-h-alba-a-toirt-taic-ri-lagh-thuring.jpg
 categories:
   - alba
   - poilitigs

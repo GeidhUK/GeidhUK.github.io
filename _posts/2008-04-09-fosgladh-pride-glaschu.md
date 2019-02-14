@@ -3,7 +3,7 @@ title: Fosgladh Fèis-pròise Ghlaschu
 author: Crìstean MacMhìcheil
 type: post
 date: 2008-04-09 19:02:13
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-04-09-fosgladh-pride-glaschu.jpg
 categories:
   - alba
   - an-rioghachd-aonaichte

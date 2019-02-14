@@ -3,7 +3,7 @@ title: 'BBC Alba: Deasbad mu dhaoine gèidh a’ toirt seachad fala'
 author: Crìstean MacMhìcheil
 type: post
 date: 2008-04-15 09:45:02
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-04-15-deasbad-mu-dhaoine-geidh-a-toirt-seachad-fala-2.jpg
 categories:
   - alba
   - slainte

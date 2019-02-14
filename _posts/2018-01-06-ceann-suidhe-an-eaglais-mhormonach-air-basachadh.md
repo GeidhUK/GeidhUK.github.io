@@ -3,7 +3,7 @@ title: Ceann-suidhe an Eaglais Mhormonach air bàsachadh
 author: Crìstean MacMhìcheil
 type: post
 date: 2018-01-06 14:20:16
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-01-06-ceann-suidhe-an-eaglais-mhormonach-air-basachadh.jpg
 categories:
   - an-t-saoghal
   - creideamh

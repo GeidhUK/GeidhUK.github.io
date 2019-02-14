@@ -3,7 +3,7 @@ title: Casg air tar-ghnèithich ann an seirbheisean armailteach nan Stàitean Ao
 author: Crìstean MacMhìcheil
 type: post
 date: 2018-03-26 20:41:08
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-03-26-casg-air-tar-ghneithich-ann-an-seirbheisean-armailteach-nan-staitean-aonaichte.jpg
 categories:
   - an-t-saoghal
   - poilitigs

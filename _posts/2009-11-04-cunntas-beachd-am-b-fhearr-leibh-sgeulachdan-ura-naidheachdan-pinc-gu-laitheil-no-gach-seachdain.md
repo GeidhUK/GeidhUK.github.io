@@ -3,7 +3,7 @@ title: 'CUNNTAS-BEACHD: Am b’ fheàrr leibh sgeulachdan ùra Naidheachdan Pinc
 author: Crìstean MacMhìcheil
 type: post
 date: 2009-11-04 17:05:17
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2009-11-04-cunntas-beachd-am-b-fhearr-leibh-sgeulachdan-ura-naidheachdan-pinc-gu-laitheil-no-gach-seachdain.jpg
 categories:
   - blog
 tags:

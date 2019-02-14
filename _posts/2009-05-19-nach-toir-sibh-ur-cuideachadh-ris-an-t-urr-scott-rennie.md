@@ -3,7 +3,7 @@ title: Nach toir sibh ur cuideachadh ris an t-Urr. Scott Rennie
 author: Crìstean MacMhìcheil
 type: post
 date: 2009-05-19 16:34:27
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2009-05-19-nach-toir-sibh-ur-cuideachadh-ris-an-t-urr-scott-rennie.jpg
 categories:
   - alba
   - an-rioghachd-aonaichte

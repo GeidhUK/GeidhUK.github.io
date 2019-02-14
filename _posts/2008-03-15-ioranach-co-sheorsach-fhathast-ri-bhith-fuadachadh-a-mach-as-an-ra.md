@@ -3,7 +3,7 @@ title: Iorànach co-sheòrsach fhathast ri bhith fuadachadh a-mach às an RA
 author: Crìstean MacMhìcheil
 type: post
 date: 2008-03-15 11:17:37
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-03-15-ioranach-co-sheorsach-fhathast-ri-bhith-fuadachadh-a-mach-as-an-ra.jpg
 categories:
   - an-rioghachd-aonaichte
   - an-t-saoghal

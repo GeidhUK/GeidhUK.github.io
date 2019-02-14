@@ -3,7 +3,7 @@ title: Iomairt Facebook airson a’ chiad ceann-suidhe co-sheòrsach aig na h-È
 author: Crìstean MacMhìcheil
 type: post
 date: 2010-10-22 10:35:55
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2010-10-22-iomairt-facebook-airson-a-chiad-ceann-suidhe-co-sheorsach-aig-na-h-eirinn.jpg
 categories:
   - an-roinn-eorpa
   - eirinn

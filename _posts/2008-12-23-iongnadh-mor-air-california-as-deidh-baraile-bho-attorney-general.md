@@ -3,7 +3,7 @@ title: ◦ Iongnadh mòr air California às deidh baraile bho Attorney General
 author: Crìstean MacMhìcheil
 type: post
 date: 2008-12-23 11:57:01
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-12-23-iongnadh-mor-air-california-as-deidh-baraile-bho-attorney-general.jpg
 categories:
   - an-t-saoghal
   - lagh

@@ -3,7 +3,7 @@ title: Companasan-catharra air a dhèanamh laghail ann an Èirinn
 author: Crìstean MacMhìcheil
 type: post
 date: 2011-01-03 13:09:22
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2011-01-03-companasan-catharra-air-a-dheanamh-laghail-ann-an-eirinn.jpg
 categories:
   - an-roinn-eorpa
   - eirinn

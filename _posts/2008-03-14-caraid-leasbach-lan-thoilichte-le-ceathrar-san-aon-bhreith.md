@@ -3,7 +3,7 @@ title: Càraid leasbach làn-thoilichte le ceathrar san aon bhreith
 author: Crìstean MacMhìcheil
 type: post
 date: 2008-03-14 17:44:38
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-03-14-caraid-leasbach-lan-thoilichte-le-ceathrar-san-aon-bhreith.jpg
 categories:
   - an-t-saoghal
   - slainte

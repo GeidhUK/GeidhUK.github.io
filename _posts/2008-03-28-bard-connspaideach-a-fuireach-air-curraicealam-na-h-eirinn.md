@@ -3,7 +3,7 @@ title: Bàrd connspaideach a’ fuireach air curraicealam na h-Èirinn
 author: Crìstean MacMhìcheil
 type: post
 date: 2008-03-28 11:48:48
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-03-28-bard-connspaideach-a-fuireach-air-curraicealam-na-h-eirinn.jpg
 categories:
   - an-t-saoghal
   - cultar

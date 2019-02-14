@@ -3,7 +3,7 @@ title: Buidheann Ameireaganach a’ toirt dòchas ùr do fhireannaich le HIV
 author: Crìstean MacMhìcheil
 type: post
 date: 2008-06-12 14:46:11
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-06-12-buidheann-ameireaganach-a-toirt-dochas-ur-do-fireannaich-le-hiv.jpg
 categories:
   - an-t-saoghal
   - slainte

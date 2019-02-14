@@ -3,7 +3,7 @@ title: A’ chiad seirbheis aon-sheòrsach Eilean Leòdhais an-diugh
 author: Crìstean MacMhìcheil
 type: post
 date: 2009-07-20 18:55:52
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2009-07-20-a-chiad-seirbheis-aon-sheorsach-eilean-leodhais-an-diugh.jpg
 categories:
   - alba
   - an Rìoghachd Aonaichte

@@ -3,7 +3,7 @@ title: Eminem gu bhith a’ riochdachadh Elton John ann am film ùr
 author: Crìstean MacMhìcheil
 type: post
 date: 2008-04-07 07:14:59
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-04-07-eminem-gu-bhith-a-riochdachadh-elton-john-ann-am-film-ur.jpg
 categories:
   - cultar
 tags:

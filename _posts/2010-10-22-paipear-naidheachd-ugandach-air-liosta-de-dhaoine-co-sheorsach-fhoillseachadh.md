@@ -3,7 +3,7 @@ title: Pàipear-naidheachd Ugandach air liosta de dhaoine co-sheòrsach fhoillse
 author: Crìstean MacMhìcheil
 type: post
 date: 2010-10-22 09:59:38
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2010-10-22-paipear-naidheachd-ugandach-air-liosta-de-dhaoine-co-sheorsach-fhoillseachadh.jpg
 categories:
   - an-t-saoghal
 tags:

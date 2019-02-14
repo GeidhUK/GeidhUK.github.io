@@ -3,7 +3,7 @@ title: Ceannard LCDT ga mhurt ann am Baghdad
 author: Crìstean MacMhìcheil
 type: post
 date: 2008-09-26 16:25:42
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-09-26-ceannard-lcdt-ga-mhurt-ann-am-baghdad.jpg
 categories:
   - an-t-saoghal
   - creideamh

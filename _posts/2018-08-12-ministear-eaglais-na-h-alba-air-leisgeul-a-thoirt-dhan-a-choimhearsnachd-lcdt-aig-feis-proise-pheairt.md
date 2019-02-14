@@ -3,7 +3,7 @@ title: Ministear Eaglais na h-Alba air leisgeul a thoirt dhan a’ choimhearsnac
 author: Crìstean MacMhìcheil
 type: post
 date: 2018-08-12 16:06:54
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-08-12-ministear-eaglais-na-h-alba-air-leisgeul-a-thoirt-dhan-a-choimhearsnachd-lcdt-aig-feis-proise-pheairt.jpg
 categories:
   - alba
   - creideamh

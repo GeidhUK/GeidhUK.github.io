@@ -3,7 +3,7 @@ title: Comhairle Obair Dheathain a’ rannsachadh sgaoileadh de bhileagan a dh�
 author: Crìstean MacMhìcheil
 type: post
 date: 2018-07-25 19:48:16
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-07-25-comhairle-obair-dheathain-a-rannsachadh-sgaoileadh-de-bhileagan-a-dhfhaodadh-a-bhith-graineil-ri-daoine-lcdte.jpg
 categories:
   - alba
 tags:

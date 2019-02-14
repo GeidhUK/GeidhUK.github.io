@@ -3,7 +3,7 @@ title: Maoineachadh air a ghlachadh airson tachartas òigridh aig a’ chiad Fh�
 author: Crìstean MacMhìcheil
 type: post
 date: 2018-06-07 11:38:37
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-06-07-maoineachadh-air-a-ghlachadh-airson-tachartas-oigridh-aig-a-chiad-fheis-proise-dhun-de.jpg
 categories:
   - alba
   - feisean-proise

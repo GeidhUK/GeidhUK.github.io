@@ -3,7 +3,7 @@ title: 'BBC: Oidhirp gus beag-fhaclair LGBTI Gàidhlig a chruthachadh'
 author: Crìstean MacMhìcheil
 type: post
 date: 2017-05-10 16:00:13
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2017-05-10-bbc-oidhirp-gus-beag-fhaclair-lgbti-gaidhlig-a-chruthachadh.jpg
 categories:
   - foghlam
   - gaidhlig

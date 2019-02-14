@@ -3,7 +3,7 @@ title: Dè na riochdairean a th’ ort?
 author: Crìstean MacMhìcheil
 type: post
 date: 2018-08-17 08:41:32
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-08-17-de-na-riochdairean-a-th-ort.jpg
 categories:
   - ceanglaichean
   - gaidhlig

@@ -3,7 +3,7 @@ title: Gearanan a’ cur bacadh air ministear co-sheòrsach
 author: Crìstean MacMhìcheil
 type: post
 date: 2009-03-24 18:32:33
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2009-03-24-gearanan-a-cur-bacadh-air-ministear-co-sheorsach.jpg
 categories:
   - alba
   - an-rioghachd-aonaichte

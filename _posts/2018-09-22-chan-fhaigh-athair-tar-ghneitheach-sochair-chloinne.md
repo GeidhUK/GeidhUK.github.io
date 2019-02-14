@@ -3,7 +3,7 @@ title: Chan fhaigh athair tar-ghnèitheach sochair-chloinne
 author: Crìstean MacMhìcheil
 type: post
 date: 2018-09-22 07:59:45
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-09-22-chan-fhaigh-athair-tar-ghneitheach-sochair-chloinne.jpg
 categories:
   - an-rioghachd-aonaichte
 tags:

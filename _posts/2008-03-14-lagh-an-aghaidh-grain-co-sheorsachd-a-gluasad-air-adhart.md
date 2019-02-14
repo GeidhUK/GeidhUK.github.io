@@ -3,7 +3,7 @@ title: Lagh an-aghaidh gràin-co-sheòrsachd a’ gluasad air adhart
 author: Crìstean MacMhìcheil
 type: post
 date: 2008-03-14 10:30:13
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-03-14-lagh-an-aghaidh-grain-co-sheorsachd-a-gluasad-air-adhart.jpg
 categories:
   - an-rioghachd-aonaichte
   - poilitigs

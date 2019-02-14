@@ -3,7 +3,7 @@ title: Lìon-sòisealta ùr do phàrantan LCDT
 author: Crìstean MacMhìcheil
 type: post
 date: 2008-04-08 19:29:20
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-04-08-lion-soisealta-ur-do-pharantan-lcdt.jpg
 categories:
   - an-rioghachd-aonaichte
   - teicneolas

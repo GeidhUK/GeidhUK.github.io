@@ -3,7 +3,7 @@ title: Òraidean Fèis-pròise Inbhir Nis 2018
 author: Crìstean MacMhìcheil
 type: post
 date: 2018-10-07 08:54:21
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-10-07-oraidean-feis-proise-inbhir-nis-2018.jpg
 categories:
   - alba
   - feisean-proise

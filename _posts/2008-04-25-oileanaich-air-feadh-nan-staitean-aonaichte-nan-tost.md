@@ -3,7 +3,7 @@ title: Oileanaich air feadh nan Stàitean Aonaichte nan tost
 author: Crìstean MacMhìcheil
 type: post
 date: 2008-04-25 11:22:52
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-04-25-oileanaich-air-feadh-nan-staitean-aonaichte-nan-tost.jpg
 categories:
   - an-rioghachd-aonaichte
   - an-t-saoghal

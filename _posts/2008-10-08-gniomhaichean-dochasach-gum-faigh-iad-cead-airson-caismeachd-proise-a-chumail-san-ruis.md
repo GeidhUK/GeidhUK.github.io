@@ -3,7 +3,7 @@ title: Gnìomhaichean dòchasach gum faigh iad cead airson caismeachd pròise a 
 author: Crìstean MacMhìcheil
 type: post
 date: 2008-10-08 18:42:49
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-10-08-gniomhaichean-dochasach-gum-faigh-iad-cead-airson-caismeachd-proise-a-chumail-san-ruis.jpg
 categories:
   - an-roinn-eorpa
   - an-t-saoghal

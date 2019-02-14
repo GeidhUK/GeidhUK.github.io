@@ -3,7 +3,7 @@ title: An t-Òban airson a’ chiad fèis-pròise aca a chumail an ath-bhliadhna
 author: Crìstean MacMhìcheil
 type: post
 date: 2018-10-10 13:17:32
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-10-10-an-t-oban-airson-a-chiad-feis-proise-aca-a-chumail-an-ath-bhliadhna.jpg
 categories:
   - alba
   - feisean-proise

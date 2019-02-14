@@ -3,7 +3,7 @@ title: Barailean ri gràin-co-sheòrsachd a’ tathaich air gu BP Canadanach
 author: Crìstean MacMhìcheil
 type: post
 date: 2008-04-09 12:51:01
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-04-09-barailean-ri-grain-co-sheorsachd-a-tathaich-air-gu-bp-canadanach.jpg
 categories:
   - an-t-saoghal
   - poilitigs

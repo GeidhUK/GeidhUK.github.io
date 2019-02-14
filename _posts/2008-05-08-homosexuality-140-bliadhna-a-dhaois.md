@@ -3,7 +3,7 @@ title: “Homosexuality” 140 bliadhna a dh’aois
 author: Crìstean MacMhìcheil
 type: post
 date: 2008-05-08 16:56:56
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-05-08-homosexuality-140-bliadhna-a-dhaois.jpg
 categories:
   - an-t-saoghal
   - foghlam

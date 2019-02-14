@@ -3,7 +3,7 @@ title: Poileas Alba ri sùil a thoirt air ionmhas Fèis-pròise Ghlaschu
 author: Crìstean MacMhìcheil
 type: post
 date: 2018-11-19 17:23:34
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-11-19-poileas-alba-ri-suil-a-thoirt-air-ionmhas-feis-proise-ghlaschu.jpg
 categories:
   - alba
   - feisean-proise

@@ -3,7 +3,7 @@ title: Eòlaiche Sgaoileadh-ghalaran air iarraidh air Riaghaltas Innis Tìle cr�
 author: Crìstean MacMhìcheil
 type: post
 date: 2019-01-06 10:58:38
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2019-01-06-eolaiche-sgaoileadh-ghalaran-air-iarraidh-air-riaghaltas-innis-tile-crioch-a-chur-air-a-chasg-a-tha-toirmeasg-daoine-geidh-bho-bhith-a-toirt-seachad-fala.jpg
 categories:
   - an-roinn-eorpa
   - an-t-saoghal

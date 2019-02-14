@@ -3,7 +3,7 @@ title: Riaghailtean ùra gus dèiligeadh ri gràin-tar-ghnèitheachd air Twitter
 author: Crìstean MacMhìcheil
 type: post
 date: 2018-11-26 12:33:21
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-11-26-riaghailtean-ura-gus-deiligeadh-ri-grain-tar-ghneitheachd-air-twitter.jpg
 categories:
   - teicneolas
 tags:

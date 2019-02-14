@@ -3,7 +3,7 @@ title: Droch-làimhseachadh de dhaoine a’ sireadh tèarmann na ghaoid air cli�
 author: Crìstean MacMhìcheil
 type: post
 date: 2008-03-28 09:09:59
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-03-28-droch-laimhseachadh-de-dhaoine-a-sireadh-tearmann-na-ghaoid-air-cliu-an-rioghachd-aonaichte.jpg
 categories:
   - an-rioghachd-aonaichte
   - an-t-saoghal

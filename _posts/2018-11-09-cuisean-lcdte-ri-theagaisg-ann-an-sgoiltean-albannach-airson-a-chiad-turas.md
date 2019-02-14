@@ -3,7 +3,7 @@ title: Cùisean LCDTE ri theagaisg ann an sgoiltean Albannach airson a’ chiad 
 author: Crìstean MacMhìcheil
 type: post
 date: 2018-11-09 14:36:50
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-11-09-cuisean-lcdte-ri-theagaisg-ann-an-sgoiltean-albannach-airson-a-chiad-turas.jpg
 categories:
   - alba
   - an-rioghachd-aonaichte

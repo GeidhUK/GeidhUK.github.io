@@ -3,7 +3,7 @@ title: “The Gaelic for Gay”
 author: Crìstean MacMhìcheil
 type: post
 date: 2017-02-16 19:48:31
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2017-02-16-the-gaelic-for-gay.jpg
 categories:
   - foghlam
   - gaidhlig

@@ -3,7 +3,7 @@ title: Apple a’ beachdachadh air oifis ùr fhosgladh ann an Carolina a Tuath a
 author: Crìstean MacMhìcheil
 type: post
 date: 2018-05-20 16:15:17
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-05-20-apple-a-beachdachadh-air-oifis-ur-fhosgladh-ann-an-carolina-a-tuath-a-dhaindeoin-laghan-san-stait-a-leigeas-lethbhreith-an-aghaidh-luchd-lgdte.jpg
 categories:
   - an-t-saoghal
   - teicneolas

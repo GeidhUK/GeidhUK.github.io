@@ -3,7 +3,7 @@ title: Jeff Bezos air tabhartas de $10,800 a thoirt gu Seanadair Poblachdach a b
 author: Crìstean MacMhìcheil
 type: post
 date: 2018-11-01 19:25:30
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-11-01-jeff-bezos-air-tabhartas-de-10800-a-thoirt-gu-seanadair-poblachdach-a-bhotas-gu-cunbhalach-an-aghaidh-coirichean-lcdte.jpg
 categories:
   - an-t-saoghal
   - gniomhachas

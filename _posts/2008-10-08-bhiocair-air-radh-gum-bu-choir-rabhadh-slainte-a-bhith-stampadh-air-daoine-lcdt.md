@@ -3,7 +3,7 @@ title: Bhiocair air ràdh gum bu chòir rabhadh slàinte a bhith stampadh air da
 author: Crìstean MacMhìcheil
 type: post
 date: 2008-10-08 19:37:30
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-10-08-bhiocair-air-radh-gum-bu-choir-rabhadh-slainte-a-bhith-stampadh-air-daoine-lcdt.jpg
 categories:
   - an-rioghachd-aonaichte
   - creideamh

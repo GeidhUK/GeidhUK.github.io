@@ -3,7 +3,7 @@ title: Duine pòsta air òrdachadh ri airgead-sgaraidh a phàigheadh ri seann ch
 author: Crìstean MacMhìcheil
 type: post
 date: 2008-03-28 08:30:43
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-03-28-duine-posta-air-ordughachadh-ri-airgead-sgaraidh-a-phaigheadh-ri-seann-chompanach-co-sheorsach.jpg
 categories:
   - an-t-saoghal
   - lagh

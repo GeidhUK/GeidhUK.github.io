@@ -3,7 +3,7 @@ title: Daoine co-sheòrsach air an cur gu deuchainnean HIV le buidhnean àrachai
 author: Crìstean MacMhìcheil
 type: post
 date: 2008-04-23 18:33:50
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-04-23-daoine-co-sheorsach-air-an-cur-gu-deuchainnean-hiv-le-buidhnean-arachais.jpg
 categories:
   - an-rioghachd-aonaichte
   - slainte

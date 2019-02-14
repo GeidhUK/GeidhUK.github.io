@@ -3,7 +3,7 @@ title: Còrr is $3000 air a thogail airson leabhraichean cloinne LCDT+ a thoirt 
 author: Crìstean MacMhìcheil
 type: post
 date: 2018-11-02 20:58:33
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-11-02-corr-is-3000-air-a-thogail-airson-leabhraichean-cloinne-lcdt-a-thoirt-ri-leabharlann-ameireaganach.jpg
 categories:
   - an-t-saoghal
   - cultar

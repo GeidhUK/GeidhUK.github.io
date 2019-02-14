@@ -3,7 +3,7 @@ title: Co-labhairt “An Equal Future?” a’ beachdachadh air na dhìth airson
 author: Crìstean MacMhìcheil
 type: post
 date: 2018-01-06 16:58:46
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-01-06-co-labhairt-an-equal-future-a-beachdachadh-air-na-dhith-airson-alba-a-dheanamh-na-duthaich-nas-in-ghabhalaiche.jpg
 categories:
   - alba
   - foghlam

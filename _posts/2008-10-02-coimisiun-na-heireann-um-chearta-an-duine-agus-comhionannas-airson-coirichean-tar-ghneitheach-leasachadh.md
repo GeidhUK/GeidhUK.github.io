@@ -3,7 +3,7 @@ title: Coimisiún na hÉireann um Chearta an Duine agus Comhionannas airson còi
 author: Crìstean MacMhìcheil
 type: post
 date: 2008-10-02 20:06:43
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-10-02-coimisiun-na-heireann-um-chearta-an-duine-agus-comhionannas-airson-coirichean-tar-ghneitheach-leasachadh.jpg
 categories:
   - eirinn
   - lagh

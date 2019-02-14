@@ -3,7 +3,7 @@ title: A’ Chiad Fèis-pròise airson na h-Eileanan an Iar
 author: Crìstean MacMhìcheil
 type: post
 date: 2018-09-15 09:44:15
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-09-15-a-chiad-feis-proise-airson-na-h-eileanan-an-iar.jpg
 categories:
   - alba
   - feisean-proise

@@ -3,7 +3,7 @@ title: Aonadh Èireannach air ràdh gu bheil leth-bhreith ceadaichte ann an sgoi
 author: Crìstean MacMhìcheil
 type: post
 date: 2010-04-08 13:18:35
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2010-04-08-aonadh-eireannach-air-radh-gu-bheil-leth-bhreith-ceadaichte-ann-an-sgoiltean.jpg
 categories:
   - an-roinn-eorpa
   - eirinn

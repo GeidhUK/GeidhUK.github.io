@@ -3,7 +3,7 @@ title: Leo Varadkar na chiad Phrìomhaire co-sheòrsach aig Èirinn
 author: Crìstean MacMhìcheil
 type: post
 date: 2017-06-02 20:27:46
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2017-06-02-leo-varadkar-na-chiad-priomhaire-co-sheorsach-aig-eirinn.jpg
 categories:
   - an-roinn-eorpa
   - eirinn

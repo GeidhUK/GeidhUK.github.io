@@ -3,7 +3,7 @@ title: Gearanan mu dheidhinn sanasan co-sheòrsach air an diùltadh
 author: Crìstean MacMhìcheil
 type: post
 date: 2008-03-17 11:56:45
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
+image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-03-17-gearanan-mu-dheidhinn-sanasan-co-sheorsach-air-an-diultadh.jpg
 categories:
   - an-rioghachd-aonaichte
   - creideamh
