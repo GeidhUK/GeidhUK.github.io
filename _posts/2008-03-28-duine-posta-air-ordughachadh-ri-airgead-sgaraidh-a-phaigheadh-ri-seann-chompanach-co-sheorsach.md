@@ -26,7 +26,7 @@ Tha cùirt ann am Braisil air ràdh gum feum duine airgead-sgaraidh a phàighead
 
 <!--more-->
 
-Tha luach còrr ’s $450m (£225m) aig an Ameireaganach, a tha an duine a-nis a&#8217; fuireach leis a bhean anns na Stàitean Aonaichte, agus a-rèir an cùirt feumaidh e còrr ’s $120m (£60m) a phàigheadh ris a’ Bhraisileach.
+Tha luach còrr ’s $450m (£225m) aig an Ameireaganach, a tha an duine a-nis a’ fuireach leis a bhean anns na Stàitean Aonaichte, agus a-rèir an cùirt feumaidh e còrr ’s $120m (£60m) a phàigheadh ris a’ Bhraisileach.
 
 Tha companasan-catharra air a bhith laghail ann an Rio Grande do Sul o chionn 2004, agus thuirt an cùirt air sgàth ’s gun robh an càraid còmhla fad ceithir bliadhna, tha iad dhen bheachd gur e càirdeas seasmhach a bh’ ann.
 

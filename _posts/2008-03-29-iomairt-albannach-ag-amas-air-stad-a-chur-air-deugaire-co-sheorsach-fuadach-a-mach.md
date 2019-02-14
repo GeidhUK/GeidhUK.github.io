@@ -45,7 +45,7 @@ A-nis tha an [Save JoJo Campaign][1] air a bhith a’ stèidheachadh le buidhnea
 
 Thuirt Rob McDowall, neach labhairt dhen bhuidheann [Equal Rights Now][2]:
 
-“Tha an siostam in-imrich againn a’ fàilligeadh na daoine ann an èis agus a&#8217; seachnadh na daoine a tha ann an droch chunnart.”
+“Tha an siostam in-imrich againn a’ fàilligeadh na daoine ann an èis agus a’ seachnadh na daoine a tha ann an droch chunnart.”
 
 “Tha dleastanas againn a bhith a’ toirt cùram ris na daoine a’ tighinn dhan Rìoghachd Aonaichte , tha dleastanas againn a bhith a’ sgrùdadh na tha dhìth orra agus a bhith gan làimhseachadh le spèis agus urram agus an rud as cudromaiche a bhith a’ dèanamh cinnteach nach bi sinn gan fuadach a-mach ri dùthchannan far am biodh iad a’ cur ann an cràdh neo a’ cur gu bàs.
 

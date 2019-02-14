@@ -26,10 +26,10 @@ Ann an òraid aig Oilthigh Ghlaschu thuirt Easbaig Joseph Devine gun do ghabh a�
 
 Chaidh an òraid a chàineadh le buidhnean LCDTE agus buidhnean airson daoine a thàrr às an Holocaust.
 
-Thuirt Devine gur e co-fheall ana-mhòr agus eagraichte a th&#8217; ann, nach d’thug a’ choimhearsnachd Caitligeach àire air.
+Thuirt Devine gur e co-fheall ana-mhòr agus eagraichte a th’ ann, nach d’thug a’ choimhearsnachd Caitligeach àire air.
 
 Thuirt Calum Irving, àrd-oifigear Stonewall Scotland, buidheann a tha a’ brosnachadh co-ionannachd agus ceartas airson daoine LCDTE, gu bheil na barailean aig Devine mealltach agus tàmailteach.
 
-Thuirt e: “Is e aon rud a bhith a’ toirt ionnsaigh air, mar gum biodh, an _gay lobby_ ach ’s e rud eile a th&#8217; ann a bhios ag ràdh nach eil àite ann airson daoine co-sheòrsach a-measg nan daoine a thàrr às an Holocaust.”
+Thuirt e: “Is e aon rud a bhith a’ toirt ionnsaigh air, mar gum biodh, an _gay lobby_ ach ’s e rud eile a th’ ann a bhios ag ràdh nach eil àite ann airson daoine co-sheòrsach a-measg nan daoine a thàrr às an Holocaust.”
 
 “Gu fortanach, tha a’ mhòr-chuid ann an Alba agus tòrr Crìosdaidhean airson co-ionannachd, urram agus spèis a bhrosnachadh agus tha iad an aghaidh an sealladh dorch sgaiteachail a tha aig Devine.”

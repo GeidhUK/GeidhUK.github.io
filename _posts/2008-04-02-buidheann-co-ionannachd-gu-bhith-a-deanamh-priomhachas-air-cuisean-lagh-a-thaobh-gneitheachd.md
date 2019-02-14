@@ -20,10 +20,10 @@ tags:
   - Stonewall
 
 ---
-Chaidh sgeama stèidheachadh le Coimisean nan Còirichean Daonna agus Co-ionannachd (EHRC) a bhios a&#8217; dèanamh prìomhachas air cùisean-lagha a-thaobh gnèitheachd.
+Chaidh sgeama stèidheachadh le Coimisean nan Còirichean Daonna agus Co-ionannachd (EHRC) a bhios a’ dèanamh prìomhachas air cùisean-lagha a-thaobh gnèitheachd.
 
 <!--more-->
 
-Mar buidheann poblach, tha dleastanas aig an EHRC a bhith a&#8217; freagairt cùisean gnè, cinnidh agus ciorraim. Thèid an sgeama seo a leasachadh eadar 2008 agus 2009 a bhith a&#8217; toirt a-steach cùisean aois, gnèitheachd, creideamh agus còirichean daonna.
+Mar buidheann poblach, tha dleastanas aig an EHRC a bhith a’ freagairt cùisean gnè, cinnidh agus ciorraim. Thèid an sgeama seo a leasachadh eadar 2008 agus 2009 a bhith a’ toirt a-steach cùisean aois, gnèitheachd, creideamh agus còirichean daonna.
 
 Tha dleastanas aig a h-uile buidheann poblach air sgeama co-ionannachd a dhèanamh ach tha am buidheann _Stonewall_ ag ràdh gum bu chòir do dleastanas a bhith aca air co-ionannachd LCDT a bhrosnachadh cuideachd.

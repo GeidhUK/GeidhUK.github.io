@@ -24,8 +24,8 @@ Tha bàrd Èireannach, a tha fo amharas gun do ghabh e brath air balaich ann an 
 
 Dhearbh Cathal Ó Searcaigh gu robh e ri fèise le balaich ann an Neapàl ach cha robh iad nas òige na 16 (an aois aontachaidh ann an Neapàl) agus nach do ghabh e brath orra agus thuirt e gu bheil e na fhulangaiche de fhilm aithriseach taobhach.
 
-&#8220;Tha mi a&#8217; nochdadh mar dhaoine dhiabhlaidh ach chan eil mi a&#8217; smaointinn gu bheil mi mar seo idir.&#8221;
+“Tha mi a’ nochdadh mar dhaoine dhiabhlaidh ach chan eil mi a’ smaointinn gu bheil mi mar seo idir.”
 
-&#8220;Tha an taigh-òsta agam ann an Neapàl coltach ris an taigh agam. Tha an doras agam fosgailte.&#8221;
+“Tha an taigh-òsta agam ann an Neapàl coltach ris an taigh agam. Tha an doras agam fosgailte.”
 
-&#8220;Bha iad a&#8217; tighinn mar càirdean. Cha robh iad a&#8217; tighinn airson feise. Cha do ghabh mi brath orra.&#8221;
+“Bha iad a’ tighinn mar càirdean. Cha robh iad a’ tighinn airson feise. Cha do ghabh mi brath orra.”

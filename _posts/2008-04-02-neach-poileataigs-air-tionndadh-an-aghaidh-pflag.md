@@ -32,12 +32,12 @@ Tha Riochdaire Sally Kern air tionndadh an aghaidh PFLAG an dèidh coinneamh dò
 
 <!--more-->
 
-Thuirt PFLAG gun robh iad gu math toilichte leis a&#8217; choinneamh eadar iad fhèin agus Riochdaire Kern agus gun robh iad dòchasach air còmhradh seasmhach stèidheachadh leatha.
+Thuirt PFLAG gun robh iad gu math toilichte leis a’ choinneamh eadar iad fhèin agus Riochdaire Kern agus gun robh iad dòchasach air còmhradh seasmhach stèidheachadh leatha.
 
 Ach tha Riochdaire Kern a-nis ag ràdh nach eil PFLAG ag innse na fìrinne. Thuirt i:
 
-&#8220;Tha PFLAG air na thuirt mi a thionndadh mun cuairt gus a bheil e a&#8217; coimhead gun do dh&#8217;atharraich mi mo bheachdan a-thaobh co-sheòrsachd.&#8221;
+“Tha PFLAG air na thuirt mi a thionndadh mun cuairt gus a bheil e a’ coimhead gun do dh’atharraich mi mo bheachdan a-thaobh co-sheòrsachd.”
 
-&#8220;Tha mi nam Chrìosdaidh, tha mi a&#8217; creidsinn ann an faclan Dhè agus mar sin chan urrainn dhomh ràdh nach e peacadh a th&#8217; ann an co-sheòrsachd.&#8221;
+“Tha mi nam Chrìosdaidh, tha mi a’ creidsinn ann an faclan Dhè agus mar sin chan urrainn dhomh ràdh nach e peacadh a th’ ann an co-sheòrsachd.”
 
-&#8220;Tha daoine co-sheòrsach mar-thà nan saoranaich aig a bheil còirichean co-ionnan. Tha iad ag iarraidh &#8220;còirichean sònraichte&#8221; airson an dòigh-beatha fhulangach aca.&#8221;
+“Tha daoine co-sheòrsach mar-thà nan saoranaich aig a bheil còirichean co-ionnan. Tha iad ag iarraidh ‘còirichean sònraichte’ airson an dòigh-beatha fhulangach aca.”

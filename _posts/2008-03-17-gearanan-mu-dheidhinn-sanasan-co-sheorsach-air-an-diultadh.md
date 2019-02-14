@@ -27,7 +27,7 @@ Tha an ASA (Advertising Standards Authority) ag ràdh nach eil iomairt sanasacha
 
 Chaidh sanasan a thaisbeanadh air 600 bùird-shanais air feadh Breatainn seachdain seo chaidh leis an abairt “_Some people are gay. Get over it!_”
 
-Fhuair an ASA 54 gearanan mu dheidhinn na sanasan air sgàth &#8217;s gu bheil iad tàmailteach ri buidhnean Crìosdaidheachd agus cha bu chòir dhaibh a bhith ann an àiteachan far a bheil clann.
+Fhuair an ASA 54 gearanan mu dheidhinn na sanasan air sgàth ’s gu bheil iad tàmailteach ri buidhnean Crìosdaidheachd agus cha bu chòir dhaibh a bhith ann an àiteachan far a bheil clann.
 
 A bharrachd air seo fhuair iad dà ghearan ag ràdh gu bheil na sanasan tàmailteach ri daoine eile-sheòrsach agus gu bheil iad a’ ciallachadh gu bheil a h-uile daoine eile-sheòrsach ciontach air gràin-co-sheòrsachd.
 

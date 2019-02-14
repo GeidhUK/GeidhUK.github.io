@@ -19,7 +19,7 @@ Chaidh deasbad a chumail ann an Taigh nam Morairean seachdain seo chaidh mu dhei
 
 <!--more-->
 
-A bharrachd air seo tha an Riaghaltas airson an lagh seo a bhith a&#8217; dèanamh sgaradh eadar co-sheòrsachd (_Homosexuality_) agus _paedophilia_.
+A bharrachd air seo tha an Riaghaltas airson an lagh seo a bhith a’ dèanamh sgaradh eadar co-sheòrsachd (_Homosexuality_) agus _paedophilia_.
 
 Thuirt Morair Thomas à Gresford:
 

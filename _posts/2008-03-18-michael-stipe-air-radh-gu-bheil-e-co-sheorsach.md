@@ -21,7 +21,7 @@ Bha Stipe, 48, a tha ainmeil airson ceistean mu dheidhinn an gnèitheachd aige a
 
 “Tha mi air a bhith gu tùr fìrinneach leis a’ chòmhlan, mo theaghlach agus mo chàirdean. Bha mi a’ smaointinn gun robh e follaiseach.”
 
-“Chan eil faireachdainnean làidir gu leòr air a bhith agam riamh a bhith ag ràdh ‘Seadh. ‘S e mo charabhaidh a th&#8217; ann, sin mar a tha e.’
+“Chan eil faireachdainnean làidir gu leòr air a bhith agam riamh a bhith ag ràdh ‘Seadh. ‘S e mo charabhaidh a th’ ann, sin mar a tha e.’
 
 “A-nis tha mi a’ mothachadh gu bheil e cuideachail do dhaoine co-sheòrsach òga a bhith a’ faicinn daoine ainmeil a tha fìrinneach mu dheidhinn an gnèitheachd aca.”
 

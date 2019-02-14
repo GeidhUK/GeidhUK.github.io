@@ -37,7 +37,7 @@ Thuirt neach-labhairt airson OLKE:
 
 “Cha bu chòir bacadh a bhith oirnn.”
 
-&#8220;Tha an lagh a’ toirt iomradh air “daoine” an àite “duine agus bean”. ‘S mar sin bidh sinn a’ dol air adhart mar nach eil bacadh oirnn.&#8221;
+“Tha an lagh a’ toirt iomradh air “daoine” an àite “duine agus bean”. ‘S mar sin bidh sinn a’ dol air adhart mar nach eil bacadh oirnn.”
 
 Ged a tha a’ Ghrèig na ball anns a t-Aonadh Eòrpach, chan eil a’ choimhearsnachd LCDT a’ faighinn a’ mhòr-chuid dhe na còirichean ’s a bhios iad anns na stàitean Eòrpach eile, mar eisimpleir aois aontaidh co-ionannachd.
 

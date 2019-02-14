@@ -29,7 +29,7 @@ tags:
   - Lagh
   - Middle East
 ---
-Tha _Amnesty International_ agus _Human Rights Watch_ ag ràdh gu bheil Riaghaltas an Èipheit &#8220;aineolach mu dheidhinn HIV agus gu bheil iad a’ coimhead air le claon-bharail&#8221; an dèidh barrachd casaidean airson “habitual debauchery.”
+Tha _Amnesty International_ agus _Human Rights Watch_ ag ràdh gu bheil Riaghaltas an Èipheit “aineolach mu dheidhinn HIV agus gu bheil iad a’ coimhead air le claon-bharail” an dèidh barrachd casaidean airson “habitual debauchery.”
 
 <!--more-->
 

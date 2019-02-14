@@ -17,7 +17,7 @@ tags:
   - Nuadh Eabhrac
   - Tierney Gleason
 ---
-Bha am buidheann _Irish Queers_ a&#8217; togail fianais an aghaidh caismeachd Naomh Pàdraig ann an Nuadh Eabhrac an-diugh.
+Bha am buidheann _Irish Queers_ a’ togail fianais an aghaidh caismeachd Naomh Pàdraig ann an Nuadh Eabhrac an-diugh.
 
 <!--more-->
 
@@ -25,4 +25,4 @@ Bha am buidheann a’ gearan nach eil iad ceadaichte ri pàirt a ghabhail anns a
 
 Thuirt Tierney Gleason, neach-labhairt nan _Irish Queers_:
 
-“Tha sinn seachd searbh sgìth dhe dh&#8217;ùghdarrasan a&#8217; bhaile ag ràdh nach urrainn dhuinn eadar-ghuidhe a dhèanamh air sgàth ’s gur e caismeachd diadhaidh a th’ ann.”
+“Tha sinn seachd searbh sgìth dhe dh’ùghdarrasan a’ bhaile ag ràdh nach urrainn dhuinn eadar-ghuidhe a dhèanamh air sgàth ’s gur e caismeachd diadhaidh a th’ ann.”

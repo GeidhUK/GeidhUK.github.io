@@ -41,7 +41,7 @@ Thuirt Omar Kuddus a tha na gnìomhaiche còirichean co-sheòrsach a’ sabaid a
 
 “Airson aon turas rinn Riaghaltas Bhreatainn an rud ceart agus thug iad cothrom dhan a’ ghille seo.”
 
-“Chan eil teagamh sam bith dè bhios a’ tachairt do Kazemi ma tèid e air ais gu Ioràn &#8211; thèid ga chur gu bàs, dìreach air sgàth ’s gu bheil e co-sheòrsach.
+“Chan eil teagamh sam bith dè bhios a’ tachairt do Kazemi ma tèid e air ais gu Ioràn - thèid ga chur gu bàs, dìreach air sgàth ’s gu bheil e co-sheòrsach.
 
 “Chan eil Ioràn a’ gabhail ri daoine co-sheòrsach agus thèid gan cur gu bàs leis an stàit, ma tha iad ciontach ri co-sheòrsachd.”
 
