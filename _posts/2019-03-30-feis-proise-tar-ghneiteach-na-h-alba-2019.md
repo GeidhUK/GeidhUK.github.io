@@ -3,9 +3,9 @@ title: Fèis-pròise Tar-ghnèitheach na h-Alba 2019
 permalink: /tachartasan/2019-03-30-feis-proise-tar-ghneiteach-na-h-alba-2019/
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2019-03-30-feis-proise-tar-ghneiteach-na-h-alba-2019.jpg
 type: tachartas
-date: 2019-03-30 12:30:00
+date: {{post.ceannlatha}}
 author: Crìstean MacMhìcheil
-ceann-latha: 2019-03-30 12:30:00
+ceannlatha: 2019-03-30 12:30:00
 categories: tachartasan
 ---
 
