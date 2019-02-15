@@ -16,22 +16,22 @@ Tha am pròiseas tighinn a-mach diofraichte airson a h-uile duine agus chan eil 
 
 Chan urrainn dhuinn a h-uile ceist a fhreagairt an-seo ’s mar sin ma tha sibh ag iarraidh barrachd fhiosrachaidh mu dheidhinn cuspair sam bith a nochdas an seo bhitheamaid gur moladh sùil a thoirt air na ceanglaichean feumail aig bonn na duilleige no anns an iùl-lann againn [an seo]({site.baseurl}/ceanglaichean/).
 
-#### [A' tighinn a-mach mar leasbach, co-sheòrsach agus dà-sheòrsach](/comhairle/a-tighinn-a-mach/daoine-LCD/)
+#### [A' tighinn a-mach mar leasbach, co-sheòrsach agus dà-sheòrsach](/comhairle/a-tighinn-a-mach-mar-lcd/)
 
 Ma tha sibh a’ smaointinn gum faodadh sibh a bhith LCD no ma tha sibh cinnteach gu bheil, tha sinn an dòchas gum bi an stiùireadh seo gur cuideachadh gu ur faireachdainnean a thuigsinn gus am bi sibh comasach air an roinneadh nuair a tha sibh deiseil.
 
-#### [A' tighinn a-mach mar tar-ghnèitheach]({site.baseurl}/comhairle/a-tighinn-a-mach/daoine-tar-ghneitheach/)
+#### [A' tighinn a-mach mar tar-ghnèitheach]({site.baseurl}/comhairle/a-tighinn-a-mach-mar-tar-ghneitheach/)
 
 Ma tha sibh a’ smaointinn gum faodadh sibh a bhith tar-ghnèitheach no ma tha sibh cinnteach gu bheil, tha sinn an dòchas gum bi an stiùireadh seo gur cuideachadh gu ur faireachdainnean a thuigsinn gus am bi sibh comasach air an roinneadh nuair a tha sibh deiseil.
 
-#### [A' tighinn a-mach mar neo-sheòrsach]({site.baseurl}/comhairle/a-tighinn-a-mach/daoine-neo-sheorsach/)
+#### [A' tighinn a-mach mar neo-sheòrsach]({site.baseurl}/comhairle/a-tighinn-a-mach-mar-neo-sheorsach/)
 
 Ma tha sibh a’ smaointinn gum faodadh sibh a bhith neo-sheòrsach no ma tha sibh cinnteach gu bheil, tha sinn an dòchas gum bi an stiùireadh seo gur cuideachadh gu ur faireachdainnean a thuigsinn gus am bi sibh comasach air an roinneadh nuair a tha sibh deiseil.
 
-#### [Comhairle do phàrantan le clann LCDT+]({site.baseurl}/comhairle/a-tighinn-a-mach/parantan-de-chlann-lcdt/)
+#### [Comhairle do phàrantan de chlann LCDT+]({site.baseurl}/comhairle/comhairle-do-pharantan-de-chlann-lcdtq/)
 
 Mar phàrant(an), 's dòcha gum bi ceistean no draghan agaibh ma tha sibh a' smaointinn gum faodadh ur leanabh a bhith LCD. Tha sinn air cuid de na ceistean as cumanta a fhreagairt an seo.
 
-#### [Comhairle do bhuill teaghlaich agus càirdean de dhaoine LCDT+]({site.baseurl}/comhairle/a-tighinn-a-mach/teaghlach-agus-cairdean/)
+#### [Comhairle do bhuill teaghlaich agus càirdean de dhaoine LCDT+]({site.baseurl}/comhairle/comhairle-do-bhuill-teaghlaich-agus-chairdean/)
 
 Beagan comhairle do bhuill teaghlaich agus chàirdean a tha eòlach air cuideigin a tha air tighinn a-mach cho chionn goirid.
