@@ -77,7 +77,7 @@ Ma tha sibh airson tighinn a-mach aig sgoil bu chòir dhuibh beachdachadh air na
 
 Tha Co-chruinneachadh nan Dùthchannan Aonaichte air Còirichean airson an Leanaibh a' toirt a h-uile duine fo aois 18 an còir air foghlam, an còir a bhith sàbhailte bho chron agus an còir pàirt a ghabhail ann an co-dhùnaidhean a bhios a' toirt buaidh air am beatha fhèin. Mura h-eil an sgoil agaibh gur cuideachadh no gur cumail sàbhailte bho bhurraidheachd no leth-bhreith, faodaidh sibh innse dha na Poileas. Tha barrachd chomhairle againn a thaobh <a href="https://geidh.uk/comhairle/coirichean-agus-reachdas/">chòirichean</a> agus <a href="https://geidh.uk/comhairle/eucoirean-graineil/">eucoirean gràineil.</a>
 
-<h4>A' tighinn a-mach aig colaiste / oilthigh</h4>
+A' tighinn a-mach aig colaiste / oilthigh</h4>
 
 Bidh mòran dhaoine a' smaointinn air bhith nas fosgailte mu an feisealachd no an dearbh-aithne aca nuair a thòisicheas iad a' dol gu colaiste no oilthigh.
 
@@ -95,4 +95,4 @@ Tha dleastanas aig a h-uile colaiste / oilthigh ann an Alba dèiligeadh ri leth-
 
 Bidh cuid de dhaoine a' tighinn a-mach san àite-obrach gus am bi iad nas onarach leis na co-obraichean aca gus nach bi iadsan a' dèanamh ro-bheachdan mun deidhinn. Bidh cuid eile, ge-tà, nas comhfhurtail gun a bhith a' tighinn a-mach san àite obrach air sgàth 's gur e rud pearsanta a th' ann.
 
-The leth-bhreith a thaobh feisealachd no gnè air a bhith mì-laghail o chionn 2003. Ma tha sibh a' smaointinn gu bheil sibh air leth-bhreith a fhulang bu chòir dhuibh comhairle a sireadh. Tha barrachd fhiosrachaidh mu dheidhinn leth-bhreith <a href="https://geidh.uk/comhairle/coirichean-agus-reachdas/">an seo</a>.
+The leth-bhreith a thaobh feisealachd no gnè air a bhith mì-laghail o chionn 2003. Ma tha sibh a' smaointinn gu bheil sibh air leth-bhreith a fhulang bu chòir dhuibh comhairle a sireadh. Tha barrachd fhiosrachaidh mu dheidhinn leth-bhreith [an-seo]({{site.baseurl}}comhairle/coirichean-agus-reachdas/).
