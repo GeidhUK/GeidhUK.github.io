@@ -8,7 +8,11 @@ permalink: /comhairle/
 
 # COMHAIRLE
 
-#### [A' tighinn a-mach]({site.baseurl}/comhairle/a-tighinn-a-mach/)
+#### [1- A' tighinn a-mach]({site.baseurl}/comhairle/a-tighinn-a-mach/)
+
+#### [2- A' tighinn a-mach](/comhairle/a-tighinn-a-mach/)
+
+#### [3 - A' tighinn a-mach](/a-tighinn-a-mach/)
 
 Ma tha sibh a’ smaointinn gum faodadh sibh a bhith LCDT+ no ma tha sibh cinnteach gu bheil, tha sinn an dòchas gum bi an stiùireadh seo gur cuideachadh gus ur faireachdainnean a thuigsinn gus am bi sibh comasach air an roinneadh nuair a tha sibh deiseil.
 
