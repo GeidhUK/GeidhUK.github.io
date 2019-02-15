@@ -26,7 +26,7 @@ Chruthaich Achd Aithneachadh Gnè (2004) pròiseas gus leigeil le daoine tar-ghn
 
 Tha burraidheachd a’ toirt iomradh air giùlan sam bith leis an dùil cron a dhèanamh air cuideigin gu corporra no gu faireachail. Chan eil duine sam bith airidh air agus chan eil burraidheachd a-riamh riaraichte. Tha sinn an dòchas gum bi an stiùireadh seo gur cuideachadh ma bhios sibh a’ fulang burraidheachd, gràin-co-sheòrsachd no gràin-tar-ghnèitheachd.
 
-#### [Còirichean & Reachdas]({{site.baseurl}}/comhairle/coirichean/)
+#### [Còirichean & Reachdas]({{site.baseurl}}/comhairle/coirichean-reachdas/)
 
 Tha iomadh pìos reachdais air tighinn a-mach anns an bliadhnaichean a dh’fhalbh gus barrachd chòirichean a thoirt do dhaoine LCDT+. Tha liosta dhen reachdas as cudromaiche an seo le iomradh goirid air na tha iad a’ ciallachadh dhuibh.
 
