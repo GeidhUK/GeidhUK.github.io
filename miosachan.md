@@ -1,5 +1,6 @@
 ---
 type: page
+title: Mìosachan
 permalink: /miosachan/
 ---
 
