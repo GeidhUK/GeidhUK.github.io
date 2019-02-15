@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Buarraidheachd
-permalink: /comhairle/buarraidheachd/
+title: Burraidheachd
+permalink: /comhairle/burraidheachd/
 ---
 
 [Comhairle]({{site.baseurl}}/comhairle/) / Burraidheachd
