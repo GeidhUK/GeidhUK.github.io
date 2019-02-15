@@ -18,7 +18,7 @@ Tha am pròiseas tighinn a-mach diofraichte airson a h-uile duine agus chan eil 
 
 Chan urrainn dhuinn a h-uile ceist a fhreagairt an-seo ’s mar sin ma tha sibh ag iarraidh barrachd fhiosrachaidh mu dheidhinn cuspair sam bith a nochdas an seo bhitheamaid gur moladh sùil a thoirt air na ceanglaichean feumail aig bonn na duilleige no anns an iùl-lann againn [an seo]({site.baseurl}/ceanglaichean/).
 
-#### [A' tighinn a-mach mar leasbach, co-sheòrsach agus dà-sheòrsach]({site.baseurl}/comhairle/a-tighinn-a-mach/daoine-LCD/)
+#### [A' tighinn a-mach mar leasbach, co-sheòrsach agus dà-sheòrsach](/comhairle/a-tighinn-a-mach/daoine-LCD/)
 
 Ma tha sibh a’ smaointinn gum faodadh sibh a bhith LCD no ma tha sibh cinnteach gu bheil, tha sinn an dòchas gum bi an stiùireadh seo gur cuideachadh gu ur faireachdainnean a thuigsinn gus am bi sibh comasach air an roinneadh nuair a tha sibh deiseil.
 
