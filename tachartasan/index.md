@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tachartasan
-permalink: /tachartasan/
+permalink: /tachartasan-old/
 ---
 
 An Gearran
