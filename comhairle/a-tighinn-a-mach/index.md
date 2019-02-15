@@ -1,6 +1,6 @@
 ---
 layout: page
-title: A' Tighinn A-mach
+title: A' tighinn a-mach
 permalink: /comhairle/a-tighinn-a-mach/
 ---
 
