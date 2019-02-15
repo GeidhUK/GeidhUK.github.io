@@ -3,7 +3,7 @@ layout: page
 title: Aithneachadh gnè
 permalink: /comhairle/aithneachadh-gne/
 ---
-[Comhairle](https://geidh.uk/comhairle/) / Aithneachadh Gnè  
+[Comhairle]({{site.baseurl}}/comhairle/) / Aithneachadh Gnè  
 
 Anns an Rìoghachd Aonaichte, tha an gnè laghail aig a h-uile daoine ceangailte ris an teisteanas breith aca
 

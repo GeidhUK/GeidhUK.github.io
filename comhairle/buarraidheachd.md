@@ -4,7 +4,7 @@ title: Buarraidheachd
 permalink: /comhairle/buarraidheachd/
 ---
 
-[Comhairle](/comhairle/) / Burraidheachd
+[Comhairle]({{site.baseurl}}/comhairle/) / Burraidheachd
 
 # Burraidheachd
 

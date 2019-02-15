@@ -3,7 +3,7 @@ layout: page
 title: Leth-bhreith
 permalink: /comhairle/leth-bhreith/
 ---
-[Comhairle]({site.baseurl}/comhairle/) / Leth-bhreith  
+[Comhairle]({{site.baseurl}}/comhairle/) / Leth-bhreith  
 
 #### Leth-bhreith nuair a thathar a' solarachadh bathar, goireasan no seibheisean  
 

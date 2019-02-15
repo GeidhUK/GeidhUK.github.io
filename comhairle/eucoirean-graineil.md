@@ -3,7 +3,7 @@ layout: page
 title: Eucoirean Gràineil
 permalink: /comhairle/eucoirean-graineil/
 ---
-[Comhairle]({site.baseurl}/comhairle/) / Eucoirean Gràineil
+[Comhairle]({{site.baseurl}}/comhairle/) / Eucoirean Gràineil
 
 # Eucoirean Gràineil
 

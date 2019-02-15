@@ -8,49 +8,45 @@ permalink: /comhairle/
  Tha sinn fhathast a' leasachadh an roinn seo. Faodaidh rudan atharrachadh no gluasad gun fhios ro-làimh fhad 's a tha sinn ag obair air.
 </div>
 
-#### [1- A' tighinn a-mach]({{site.baseurl}}/comhairle/a-tighinn-a-mach/)
-
-#### [2- A' tighinn a-mach](/comhairle/a-tighinn-a-mach/)
-
-#### [3 - A' tighinn a-mach](/a-tighinn-a-mach/)
+#### [A' tighinn a-mach]({{site.baseurl}}/comhairle/a-tighinn-a-mach/)
 
 Ma tha sibh a’ smaointinn gum faodadh sibh a bhith LCDT+ no ma tha sibh cinnteach gu bheil, tha sinn an dòchas gum bi an stiùireadh seo gur cuideachadh gus ur faireachdainnean a thuigsinn gus am bi sibh comasach air an roinneadh nuair a tha sibh deiseil.
 
-*   [A' tighinn a-mach mar leasbach, co-sheòrsach agus dà-sheòrsach]({site.baseurl}/comhairle/a-tighinn-a-mach-mar-lcd/)
-*   [A' tighinn a-mach mar tar-ghnèitheach]({site.baseurl}/comhairle/a-tighinn-a-mach-mar-tar-ghneitheach/)
-*   [A' tighinn a-mach mar neo-sheòrsach]({site.baseurl}/comhairle/a-tighinn-a-mach-mar-neo-sheorsach/)
-*   [Comhairle do phàrantan de chlann LCDT+]({site.baseurl}/comhairle/comhairle-do-pharantan-de-chlann-lcdtq/)
-*   [Comhairle do bhuill teaghlaich agus càirdean de dhaoine LCDT+]({site.baseurl}/comhairle/comhairle-do-bhuill-teaghlaich-agus-chairdean/)
+*   [A' tighinn a-mach mar leasbach, co-sheòrsach agus dà-sheòrsach]({{site.baseurl}}/comhairle/a-tighinn-a-mach-mar-lcd/)
+*   [A' tighinn a-mach mar tar-ghnèitheach]({{site.baseurl}}/comhairle/a-tighinn-a-mach-mar-tar-ghneitheach/)
+*   [A' tighinn a-mach mar neo-sheòrsach]({{site.baseurl}}/comhairle/a-tighinn-a-mach-mar-neo-sheorsach/)
+*   [Comhairle do phàrantan de chlann LCDT+]({{site.baseurl}}/comhairle/comhairle-do-pharantan-de-chlann-lcdtq/)
+*   [Comhairle do bhuill teaghlaich agus càirdean de dhaoine LCDT+]({{site.baseurl}}/comhairle/comhairle-do-bhuill-teaghlaich-agus-chairdean/)
 
-#### [Aithneachadh Gnè]({site.baseurl}/aithneachadh-gne/)
+#### [Aithneachadh Gnè]({{site.baseurl}}/aithneachadh-gne/)
 
 Chruthaich Achd Aithneachadh Gnè (2004) pròiseas gus leigeil le daoine tar-ghnèitheach an gnè laghail aca atharrachadh agus teisteanas breith ùr fhaighinn.
 
-#### [Burraidheachd]({site.baseurl}/comhairle/burraidheachd/)
+#### [Burraidheachd]({{site.baseurl}}/comhairle/burraidheachd/)
 
 Tha burraidheachd a’ toirt iomradh air giùlan sam bith leis an dùil cron a dhèanamh air cuideigin gu corporra no gu faireachail. Chan eil duine sam bith airidh air agus chan eil burraidheachd a-riamh riaraichte. Tha sinn an dòchas gum bi an stiùireadh seo gur cuideachadh ma bhios sibh a’ fulang burraidheachd, gràin-co-sheòrsachd no gràin-tar-ghnèitheachd.
 
-#### [Còirichean & Reachdas]({site.baseurl}/comhairle/coirichean/)
+#### [Còirichean & Reachdas]({{site.baseurl}}/comhairle/coirichean/)
 
 Tha iomadh pìos reachdais air tighinn a-mach anns an bliadhnaichean a dh’fhalbh gus barrachd chòirichean a thoirt do dhaoine LCDT+. Tha liosta dhen reachdas as cudromaiche an seo le iomradh goirid air na tha iad a’ ciallachadh dhuibh.
 
-#### [Dàimhean agus feise]({site.baseurl}/comhairle/daimhean-feise/)
+#### [Dàimhean agus feise]({{site.baseurl}}/comhairle/daimhean-feise/)
 
 Tuairisgeul
 
-#### [Eucoirean gràineil]({site.baseurl}/comhairle/eucoirean-graineil/)
+#### [Eucoirean gràineil]({{site.baseurl}}/comhairle/eucoirean-graineil/)
 
 Dh'atharraich an lagh ann an 2009 gus daoine LCDT+ a dhìon bho eucoirean air adhbharachadh le gràin-co-sheòrsachd, gràin-dà-sheòrsachd, gràin-tar-ghnèitheachd 's a leithid.
 
-#### [Leth-bhreith]({site.baseurl}/comhairle/leth-bhreith/)
+#### [Leth-bhreith]({{site.baseurl}}/comhairle/leth-bhreith/)
 
 Beagan fiosrachaidh mu dheidhinn Achd na Co-ionannachd 2010 a bhios a' dìon daoine LCDT+ bho leth-bhreith.
 
-#### [Pàrantachd]({site.baseurl}/comhairle/parantachd/)
+#### [Pàrantachd]({{site.baseurl}}/comhairle/parantachd/)
 
 Beagan fiosrachaidh mu dheidhinn dleastanasan agus còirichean phàrant, uchd-mhacachadh, altramachadh, co-phàrantachd, leigheas torrachais agus màthraichean-ionaid.
 
-#### [Slàinte]({site.baseurl}/comhairle/slainte/)
+#### [Slàinte]({{site.baseurl}}/comhairle/slainte/)
 
 Tuairisgeul
 
