@@ -1,6 +1,6 @@
 ---
-title: Bracaist LGBT Moray
-permalink: /tachartasan/2019-02-16-bracaist-lgbt-moray/
+title: Bracaist LGBT Moray 2
+permalink: /tachartasan/2019-02-16-bracaist-lgbt-moray-2/
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/.jpg
 type: tachartas
 date: 2019-02-16 10:30:00
