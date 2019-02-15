@@ -4,26 +4,26 @@ layout: page
 
 {{ content }}
 
-#### Cùin
+<h4>Cùin</h4>
 
-{{ post.ceann-latha }}
+<p>{{ post.ceann-latha }}</p>
 
-#### Càit
+<h4>Càit</h4>
 
-{{ post.seoladh }}
+<p>{{ page.seoladh }}</p>
 
-#### Barrachd fhiosrachaidh
+<h4>Barrachd fhiosrachaidh</h4>
 
-Faodaidh sibh barrachd fhiosrachaidh fhaighinn mun tachartas seo aig:
+<p>Faodaidh sibh barrachd fhiosrachaidh fhaighinn mun tachartas seo aig:</p>
 
 {% if post.facebook %}
-  [Làrach-lìn ]({{ post.larach-lin }})
+  <p>[Làrach-lìn ]({{ post.larach-lin }})</p>
 {% endif %}
 
 {% if post.facebook %}
-  [Duilleag Facebook ]({{ post.facebook }})
+  <p>[Duilleag Facebook ]({{ post.facebook }})</p>
 {% endif %}
 
 {% if post.facebook %}
-  [Duilleag Twitter ]({{ post.twitter}})
+  <p>[Duilleag Twitter ]({{ post.twitter}})</p>
 {% endif %}
