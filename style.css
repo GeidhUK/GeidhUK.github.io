@@ -162,3 +162,7 @@ body { padding-bottom: 70px; }
 .pagination {
     text-align: center;
  }
+
+.post-title{
+  padding-bottom: 25px;
+}
