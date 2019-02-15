@@ -3,7 +3,7 @@ layout: page
 title: Uchd-mhacachd
 permalink: /comhairle/parantachd/uchd-mhacachd
 ---
-[Comhairle]({site.baseurl}/comhairle/) / [Pàrantachd]({site.baseurl}/comhairle/parantachd/) / Uchd-mhacachd
+[Comhairle](/comhairle/) / [Pàrantachd](/comhairle/parantachd/) / Uchd-mhacachd
 
 # Uchd-mhacachd
 
