@@ -6,7 +6,7 @@ type: tachartas
 date: 2019-03-30 12:30:00
 author: Crìstean MacMhìcheil
 categories: tachartasan
-ceann-latha: 2019-03-30 12:30:00
+ceann-latha: 30mh Am Màrt 2019 @ 12:30
 seoladh: Bonar Hall, Dùn Dè, DD1 1PB
 ---
 
