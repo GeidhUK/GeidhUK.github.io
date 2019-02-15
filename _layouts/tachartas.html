@@ -1,19 +1,29 @@
 ---
 layout: page
 ---
-{% unless page.content == '' %}
-  <p>{{ page.content }}</p>
-{% endunless %}
 
-{% unless site.categories[page.category].size > 0 %}
-  <p>There is no article in this category.</p>
-{% endunless %}
+{{ content }}
 
-{% for post in site.categories[page.category]  | sort:"meta.ceannlatha"  %}
-  <h4><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h4>
+#### Cùin
 
-  <p>Cùin: {{ post.ceann-latha }}</p>
+{{ post.ceann-latha }}
 
-  <p>Càit: {{ post.seoladh }}</p>
-  <hr>
-{% endfor %}
+#### Càit
+
+{{ post.seoladh }}
+
+#### Barrachd fhiosrachaidh
+
+Faodaidh sibh barrachd fhiosrachaidh fhaighinn mun tachartas seo aig:
+
+{% if post.facebook %}
+  [Làrach-lìn ]({{ post.larach-lin }})
+{% endif %}
+
+{% if post.facebook %}
+  [Duilleag Facebook ]({{ post.facebook }})
+{% endif %}
+
+{% if post.facebook %}
+  [Duilleag Twitter ]({{ post.twitter}})
+{% endif %}
