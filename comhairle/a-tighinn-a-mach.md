@@ -4,7 +4,7 @@ title: A' tighinn a-mach
 permalink: /comhairle/a-tighinn-a-mach/
 ---
 
-[Comhairle]({site.baseurl}/comhairle/) / A' tighinn a-mach
+[Comhairle](/comhairle/) / A' tighinn a-mach
 
 Ged a tha tòrr daoine a bharrachd air tighinn a-mach san latha an-diugh, tha a’ chuid as motha againn fhathast air ar togadh ann an saoghal far a bheilear a’ faicinn eile-sheòrsachd mar an àbhaist.
 

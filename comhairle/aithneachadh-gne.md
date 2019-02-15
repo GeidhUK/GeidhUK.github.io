@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dàimhean & Feise
+title: Aithneachadh gnè
 permalink: /comhairle/aithneachadh-gne/
 ---
 [Comhairle](https://geidh.uk/comhairle/) / Aithneachadh Gnè  
