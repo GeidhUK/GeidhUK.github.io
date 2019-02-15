@@ -17,13 +17,13 @@ layout: page
 <p>Faodaidh sibh barrachd fhiosrachaidh fhaighinn mun tachartas seo aig:</p>
 
 {% if post.larach-lin %}
-  <p>[Làrach-lìn ]({{ page.larach-lin }})</p>
-{% endif %}
-
-{% if page.facebook %}
-  <p>[Duilleag Facebook ]({{ page.facebook }})</p>
+  <p><a href="page.larach-lin">Làrach-lìn</a></p>
 {% endif %}
 
 {% if page.twitter %}
-  <p>[Duilleag Twitter ]({{ page.twitter}})</p>
+  <p><a href="page.twitter">Twitter</a></p>
+{% endif %}
+
+{% if page.facebook %}
+  <p><a href="page.facebook">Facebook</a></p>
 {% endif %}
