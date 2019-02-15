@@ -7,8 +7,8 @@ title: Dachaigh
 ---
 
 <div class="container">
+  {% unless post.categories contains 'tachartasan' %}
     {% for post in paginator.posts %}
-      {% if post.category != "tachartasan" %}
   <div class="row">
     <div class="col-3">
       <a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ post.image }}" class="index-image"></a>
@@ -27,8 +27,8 @@ title: Dachaigh
     </div>
   </div>
   <hr/>
-{% endif %}
     {% endfor %}
+    {% endunless %}
     <!-- Pagination -->
     <nav>
       <ul class="pagination justify-content-center pagination-lg">
