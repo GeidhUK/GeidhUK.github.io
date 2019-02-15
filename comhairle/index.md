@@ -12,11 +12,11 @@ permalink: /comhairle/
 
 Ma tha sibh a’ smaointinn gum faodadh sibh a bhith LCDT+ no ma tha sibh cinnteach gu bheil, tha sinn an dòchas gum bi an stiùireadh seo gur cuideachadh gus ur faireachdainnean a thuigsinn gus am bi sibh comasach air an roinneadh nuair a tha sibh deiseil.
 
-*   [A' tighinn a-mach mar leasbach, co-sheòrsach agus dà-sheòrsach]({site.baseurl}/comhairle/a-tighinn-a-mach/comhairle-do-dhaoine-LCD/)
-*   [A' tighinn a-mach mar tar-ghnèitheach]({site.baseurl}/comhairle/a-tighinn-a-mach/comhairle-do-dhaoine-tar-ghneitheach/)
-*   [A' tighinn a-mach mar neo-sheòrsach]({site.baseurl}/comhairle/a-tighinn-a-mach/comhairle-do-dhaoine-neo-sheorsach/)
-*   [Comhairle do phàrantan le clann LCDT+]({site.baseurl}/comhairle/a-tighinn-a-mach/comhairle-do-pharantan-le-chlann-lcdt/)
-*   [Comhairle do bhuill teaghlaich agus càirdean de dhaoine LCDT+]({site.baseurl}/comhairle/a-tighinn-a-mach/comhairle-do-bhuill-teaghlaich-agus-chairdean/)
+*   [A' tighinn a-mach mar leasbach, co-sheòrsach agus dà-sheòrsach]({site.baseurl}/comhairle/a-tighinn-a-mach-mar-lcd/)
+*   [A' tighinn a-mach mar tar-ghnèitheach]({site.baseurl}/comhairle/a-tighinn-a-mach-mar-tar-ghneitheach/)
+*   [A' tighinn a-mach mar neo-sheòrsach]({site.baseurl}/comhairle/a-tighinn-a-mach-mar-neo-sheorsach/)
+*   [Comhairle do phàrantan de chlann LCDT+]({site.baseurl}/comhairle/comhairle-do-pharantan-de-chlann-lcdtq/)
+*   [Comhairle do bhuill teaghlaich agus càirdean de dhaoine LCDT+]({site.baseurl}/comhairle/comhairle-do-bhuill-teaghlaich-agus-chairdean/)
 
 #### [Aithneachadh Gnè]({site.baseurl}/aithneachadh-gne/)
 
