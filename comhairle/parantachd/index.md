@@ -4,24 +4,24 @@ title: Pàrantachd
 permalink: /comhairle/parantachd/
 ---
 
-[Comhairle]({site.baseurl}/comhairle/) / Pàrantachd
+[Comhairle](/comhairle/) / Pàrantachd
 
-#### [Altramachadh]({site.baseurl}/comhairle/parantachd/altramachadh/)
+#### [Altramachadh](/comhairle/parantachd/altramachadh/)
 
 Beagan fhiosrachaidh mu dheidhinn altramachadh.
 
-#### [Co-phàrantachd]({site.baseurl}/comhairle/parantachd/co-pharantachd/)
+#### [Co-phàrantachd](/comhairle/parantachd/co-pharantachd/)
 
 Tuairisgeul
 
-#### [Leigheas torrachais]({site.baseurl}/comhairle/parantachd/leigheas-torrachais/)
+#### [Leigheas torrachais](/comhairle/parantachd/leigheas-torrachais/)
 
 Tuairisgeul  
 
-#### [Màthraichean-ionaid]({site.baseurl}/comhairle/parantachd/mathraichean-ionaid/)
+#### [Màthraichean-ionaid](/comhairle/parantachd/mathraichean-ionaid/)
 
 Tuairisgeul  
 
-#### [Uchd-mhacachd]({site.baseurl}/comhairle/parantachd/uchd-mhacachd/)
+#### [Uchd-mhacachd](/comhairle/parantachd/uchd-mhacachd/)
 
 Beagan fhiosrachaidh mu dheidhinn uchd-mhacachd.
