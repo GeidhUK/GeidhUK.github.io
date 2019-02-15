@@ -22,6 +22,6 @@ Tuairisgeul
 
 Tuairisgeul  
 
-#### [Uchd-mhacachd]({{site.baseurl}}/comhairle//uchd-mhacachd/)
+#### [Uchd-mhacachd]({{site.baseurl}}/comhairle/uchd-mhacachd/)
 
 Beagan fhiosrachaidh mu dheidhinn uchd-mhacachd.
