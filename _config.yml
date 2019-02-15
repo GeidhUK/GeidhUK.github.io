@@ -19,6 +19,7 @@ description: A' toirt thugaibh na naidheachdan LCDQT as ùire le fòcas àraidh 
 baseurl: "/GeidhUK" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /:year/:month/:day/:title/
+relative_permalinks: false
 
 # Pagination number
 plugins: [jekyll-paginate]
