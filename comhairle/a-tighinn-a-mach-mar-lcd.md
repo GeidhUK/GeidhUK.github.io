@@ -75,23 +75,21 @@ Ma tha sibh airson tighinn a-mach aig sgoil bu chòir dhuibh beachdachadh air na
 * A bheil dlùth charaid aig an sgoil a bhios a' toirt taic dhiubh?
 * Faodaidh tu bruidinn ri buidheann-òigridh LCDT+ ionadail airson barrachd chomhairle agus ma dh'fhaodte gun connaich sibh ri caraid ùr a bhios an làthair aig an aon sgoil.
 
-Tha Co-chruinneachadh nan Dùthchannan Aonaichte air Còirichean airson an Leanaibh a' toirt a h-uile duine fo aois 18 an còir air foghlam, an còir a bhith sàbhailte bho chron agus an còir pàirt a ghabhail ann an co-dhùnaidhean a bhios a' toirt buaidh air am beatha fhèin. Mura h-eil an sgoil agaibh gur cuideachadh no gur cumail sàbhailte bho bhurraidheachd no leth-bhreith, faodaidh sibh innse dha na Poileas. Tha barrachd chomhairle againn a thaobh <a href="https://geidh.uk/comhairle/coirichean-agus-reachdas/">chòirichean</a> agus <a href="https://geidh.uk/comhairle/eucoirean-graineil/">eucoirean gràineil.</a>
+Tha Co-chruinneachadh nan Dùthchannan Aonaichte air Còirichean airson an Leanaibh a' toirt a h-uile duine fo aois 18 an còir air foghlam, an còir a bhith sàbhailte bho chron agus an còir pàirt a ghabhail ann an co-dhùnaidhean a bhios a' toirt buaidh air am beatha fhèin. Mura h-eil an sgoil agaibh gur cuideachadh no gur cumail sàbhailte bho bhurraidheachd no leth-bhreith, faodaidh sibh innse dha na Poileas. Tha barrachd chomhairle againn a thaobh [chòirichean]({{site.baseurl}}/comhairle/coirichean-agus-reachdas/) agus [eucoirean gràineil]({{site.baseurl}}/comhairle/eucoirean-graineil/).</a>
 
-A' tighinn a-mach aig colaiste / oilthigh</h4>
+#### A' tighinn a-mach aig colaiste / oilthigh
 
 Bidh mòran dhaoine a' smaointinn air bhith nas fosgailte mu an feisealachd no an dearbh-aithne aca nuair a thòisicheas iad a' dol gu colaiste no oilthigh.
 
 Mus chlàr sibh le colaiste no oilthigh sam bith bu chòir dhuibh beachdachadh air na puingean na leanas:-
 
-<ul>
-    <li>A bheil aithris rùin a' cholaiste / an oilthigh a' toirt iomradh air co-ionannachd agus iomadachd?</li>
-    <li>A bheil poileasaidh aca a thaobh gràin-co-sheòrsachd, gràin-tar-ghnèitheachd 's a leithid?</li>
-    <li>A bheil co-chomann LCDT+ aca?</li>
-</ul>
+* A bheil aithris rùin a' cholaiste / an oilthigh a' toirt iomradh air co-ionannachd agus iomadachd?</li>
+* A bheil poileasaidh aca a thaobh gràin-co-sheòrsachd, gràin-tar-ghnèitheachd 's a leithid?</li>
+* A bheil co-chomann LCDT+ aca?
 
 Tha dleastanas aig a h-uile colaiste / oilthigh ann an Alba dèiligeadh ri leth-bhreith an aghaidh dhaoine LCDT+.
 
-<h4>A' tighinn a-mach san àite-obrach</h4>
+#### A' tighinn a-mach san àite-obrach
 
 Bidh cuid de dhaoine a' tighinn a-mach san àite-obrach gus am bi iad nas onarach leis na co-obraichean aca gus nach bi iadsan a' dèanamh ro-bheachdan mun deidhinn. Bidh cuid eile, ge-tà, nas comhfhurtail gun a bhith a' tighinn a-mach san àite obrach air sgàth 's gur e rud pearsanta a th' ann.
 
