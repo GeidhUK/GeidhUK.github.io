@@ -5,8 +5,9 @@ image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2019-
 type: tachartas
 date: 2019-03-30 12:30:00
 author: Crìstean MacMhìcheil
-ceannlatha: 2019-03-30 12:30:00
 categories: tachartasan
+ceann-latha: 2019-03-30 12:30:00
+seoladh: Bonar Hall, Dùn Dè, DD1 1PB
 ---
 
 #### Tuairisgeul
@@ -17,18 +18,18 @@ _Our march will begin at Mcmanus art gallery & museum, we will begin gathering a
 
 #### Cùin
 
-30mh Am Màrt 2019 @ 12:30
+{{ post.ceann-latha }}
 
 #### Càit
 
-Bonar Hall, Dùn Dè, DD1 1PB
+{{ post.seoladh }}
 
 #### Barrachd fhiosrachaidh
 
 Faodaidh sibh barrachd fhiosrachaidh fhaighinn mun tachartas seo aig:
 
-[Làrach-lìn ](https://www.eventbrite.co.uk/e/trans-pride-scotland-in-dundee-tickets-54539907331)
+[Làrach-lìn Fèis-pròise Tar-ghnèitheach na h-Alba](https://www.eventbrite.co.uk/e/trans-pride-scotland-in-dundee-tickets-54539907331)
 
-[Duilleag Facebook ]()
+[Duilleag Facebook Fèis-pròise Tar-ghnèitheach na h-Alba](https://www.facebook.com/transpridescotland/)
 
-[Duilleag Twitter ]()
+[Duilleag Twitter Fèis-pròise Tar-ghnèitheach na h-Alba](https://twitter.com/transpridescot)
