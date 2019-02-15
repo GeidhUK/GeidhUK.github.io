@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Uchd-mhacachd
-permalink: /comhairle/uchd-mhacachd
+permalink: /comhairle/uchd-mhacachd/
 ---
 [Comhairle]({{site.baseurl}}/comhairle/) / [Pàrantachd]({{site.baseurl}}/comhairle/parantachd/) / Uchd-mhacachd
 
