@@ -16,20 +16,14 @@ layout: page
 
 <p>Faodaidh sibh barrachd fhiosrachaidh fhaighinn mun tachartas seo aig:</p>
 
-<p>Page</p>
 {% if page.larach-lin %}
   <p><a href="{{page.larach-lin}}">Làrach-lìn</a></p>
 {% endif %}
 
-<p>Post</p>
-{% if post.larach-lin %}
-  <p><a href="{{post.larach-lin}}">Làrach-lìn</a></p>
+{% if page.twitter %}
+  <p><a href="{{page.twitter}}">Twitter</a></p>
 {% endif %}
 
-{% if post.twitter %}
-  <p><a href="{{post.twitter}}">Twitter</a></p>
-{% endif %}
-
-{% if post.facebook %}
-  <p><a href="{{post.facebook}}">Facebook</a></p>
+{% if page.facebook %}
+  <p><a href="{{page.facebook}}">Facebook</a></p>
 {% endif %}
