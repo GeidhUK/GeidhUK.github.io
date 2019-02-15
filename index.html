@@ -7,6 +7,7 @@ title: Dachaigh
 ---
 
 <div class="container">
+  {% if post.category != "tachartasan" %}
     {% for post in paginator.posts %}
   <div class="row">
     <div class="col-3">
@@ -27,7 +28,7 @@ title: Dachaigh
   </div>
   <hr/>
     {% endfor %}
-
+{% endif %}
     <!-- Pagination -->
     <nav>
       <ul class="pagination justify-content-center pagination-lg">
