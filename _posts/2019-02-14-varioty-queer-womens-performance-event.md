@@ -3,7 +3,7 @@ title: VaRIOTy
 permalink: /tachartasan/2019-02-14-varioty-queer-womens-performance-event/
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2019-03-30-feis-proise-tar-ghneiteach-na-h-alba-2019.jpg
 type: tachartas
-date: {{post.ceannlatha}}
+date: 2019-02-14 12:30:00
 author: Crìstean MacMhìcheil
 ceannlatha: 2019-02-14 12:30:00
 categories: tachartasan
