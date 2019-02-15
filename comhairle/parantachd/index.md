@@ -6,8 +6,6 @@ permalink: /comhairle/parantachd/
 
 [Comhairle]({site.baseurl}/comhairle/) / Pàrantachd
 
-# Pàrantachd
-
 #### [Altramachadh]({site.baseurl}/comhairle/parantachd/altramachadh/)
 
 Beagan fhiosrachaidh mu dheidhinn altramachadh.
