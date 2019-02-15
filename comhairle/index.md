@@ -18,7 +18,7 @@ Ma tha sibh a’ smaointinn gum faodadh sibh a bhith LCDT+ no ma tha sibh cinnte
 *   [Comhairle do phàrantan de chlann LCDT+]({{site.baseurl}}/comhairle/comhairle-do-pharantan-de-chlann-lcdtq/)
 *   [Comhairle do bhuill teaghlaich agus càirdean de dhaoine LCDT+]({{site.baseurl}}/comhairle/comhairle-do-bhuill-teaghlaich-agus-chairdean/)
 
-#### [Aithneachadh Gnè]({{site.baseurl}}/aithneachadh-gne/)
+#### [Aithneachadh Gnè]({{site.baseurl}}/comhairle/aithneachadh-gne/)
 
 Chruthaich Achd Aithneachadh Gnè (2004) pròiseas gus leigeil le daoine tar-ghnèitheach an gnè laghail aca atharrachadh agus teisteanas breith ùr fhaighinn.
 
