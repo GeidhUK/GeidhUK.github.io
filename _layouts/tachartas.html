@@ -16,6 +16,12 @@ layout: page
 
 <p>Faodaidh sibh barrachd fhiosrachaidh fhaighinn mun tachartas seo aig:</p>
 
+<p>Page</p>
+{% if page.larach-lin %}
+  <p><a href="{{page.larach-lin}}">Làrach-lìn</a></p>
+{% endif %}
+
+<p>Post</p>
 {% if post.larach-lin %}
   <p><a href="{{post.larach-lin}}">Làrach-lìn</a></p>
 {% endif %}
