@@ -4,11 +4,11 @@ title: Comhairle
 permalink: /comhairle/
 ---
 
-### <span style="color: #ff0000;">Tha sinn fhathast a' leasachadh an roinn seo. Faodaidh rudan atharrachadh no gluasad gun fhios ro-làimh fhad 's a tha sinn ag obair air.</span>
+<div class="jumbotron">
+ Tha sinn fhathast a' leasachadh an roinn seo. Faodaidh rudan atharrachadh no gluasad gun fhios ro-làimh fhad 's a tha sinn ag obair air.
+</div>
 
-# COMHAIRLE
-
-#### [1- A' tighinn a-mach]({site.baseurl}/comhairle/a-tighinn-a-mach/)
+#### [1- A' tighinn a-mach]({{site.baseurl}}/comhairle/a-tighinn-a-mach/)
 
 #### [2- A' tighinn a-mach](/comhairle/a-tighinn-a-mach/)
 
