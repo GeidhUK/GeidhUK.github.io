@@ -4,16 +4,8 @@ title: Tachartasan
 permalink: /tachartasan/
 ---
 
-30mh An Gearran
+An Gearran
 
-[Bracaist LGBT Moray]({site.baseurl}/tachartasan/2019-02-16-bracaist-lgbt-moray)
-
-
-
-| Cùin            | Tachartas                                                                        |
-|-----------------|----------------------------------------------------------------------------------|
-| 30mh An Gearran | [Bracaist LGBT Moray]({site.baseurl}/tachartasan/2019-02-16-bracaist-lgbt-moray) |
-|                 |                                                                                  |
-|                 |                                                                                  |
+<pre>30/03/2019  10:30  [LGBT Moray]({site.baseurl}/tachartasan/2019-02-16-bracaist-lgbt-moray)</pre>
 
 <hr>
