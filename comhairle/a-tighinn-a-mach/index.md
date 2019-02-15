@@ -6,8 +6,6 @@ permalink: /comhairle/a-tighinn-a-mach/
 
 [Comhairle]({site.baseurl}/comhairle/) / A' tighinn a-mach
 
-# A' tighinn a-mach
-
 Ged a tha tòrr daoine a bharrachd air tighinn a-mach san latha an-diugh, tha a’ chuid as motha againn fhathast air ar togadh ann an saoghal far a bheilear a’ faicinn eile-sheòrsachd mar an àbhaist.
 
 Air sgàth ’s sin bidh daoine a’ smaointinn gum bi coltas, giùlan agus faireachdainnean àraid agaibh a-rèir ur gnè. Gu fìrinneach, ge-tà, tha coltas, giùlan agus faireachdainnean diofraichte aig a h-uile duine agus tha seo fìor a thaobh feisealachd cuideachd.
