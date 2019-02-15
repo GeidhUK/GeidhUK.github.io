@@ -10,8 +10,10 @@ layout: page
 {% endunless %}
 
 {% for post in site.categories[page.category] %}
-  <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+  <h4><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h4>
+
   {{ post.ceann-latha }}
+
   {{ post.seoladh}}
   <hr>
 {% endfor %}
