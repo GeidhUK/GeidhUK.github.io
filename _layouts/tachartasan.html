@@ -10,8 +10,8 @@ layout: page
 {% endunless %}
 
 {% for post in site.categories[page.category]  | sort:"meta.ceannlatha"  %}
-  <h4>{{ post.ceann-latha }} &nbsp;&nbsp; <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h4>
-
+  <p><strong>{{ post.ceann-latha }}</strong><p>
+  <h4><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h4>
   <p>Cùin: {{ post.excerpt }}</p>
   <hr>
 {% endfor %}
