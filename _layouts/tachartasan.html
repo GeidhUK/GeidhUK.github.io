@@ -20,17 +20,18 @@ layout: page
         <h4><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h4>
         <p><strong>{{ post.ceann-latha }}</strong><p>
         <p>{{ post.seoladh }}</p>
-        <p>Airson barrachd fhiosrachaidh tadhalaibh air:
+        <p>Barrachd fhiosrachaidh:
+            &nbsp;&nbsp;
           {% if post.larach-lin %}
-            <a href="{{post.larach-lin}}" target="_blank" rel="noopener"><i class="fas fa-home"></i></button></a>
+            <a href="{{post.larach-lin}}" target="_blank" rel="noopener"><i class="fas fa-home"></i></a>
           {% endif %}
             &nbsp;&nbsp;
           {% if post.twitter %}
-            <a href="{{post.twitter}}" target="_blank" rel="noopener"><i class="fab fa-twitter"></i></button></a>
+            <a href="{{post.twitter}}" target="_blank" rel="noopener"><i class="fab fa-twitter"></i></a>
           {% endif %}
             &nbsp;&nbsp;
           {% if post.facebook %}
-            <a href="{{post.facebook}}" target="_blank" rel="noopener"><i class="fab fa-facebook-f"></i></button></a>
+            <a href="{{post.facebook}}" target="_blank" rel="noopener"><i class="fab fa-facebook-f"></i></a>
           {% endif %}
         </p>
       </div>
