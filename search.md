@@ -23,3 +23,16 @@ SimpleJekyllSearch({
   json: '{{ site.baseurl }}/search.json'
 })
 </script>
+
+
+<ul>
+{% for category in site.categories limit:3 %}
+  <li><a name="{{ category | first }}">{{ category | first }}</a>
+    <ul>
+    {% for post in category.last %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+    </ul>
+  </li>
+{% endfor %}
+</ul>
