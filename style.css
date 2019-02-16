@@ -124,14 +124,11 @@ a{
     text-align: center;
  }
 
-.post-title{
-  padding-bottom: 25px;
-}
-
 .related{
   margin-top: 25px;
 }
 
 .post-title{
-  margin-top: 15px;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
