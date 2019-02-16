@@ -6,7 +6,7 @@ date: 2009-02-12 13:34:38
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2009-02-12-an-eaglais-chleireach-a-deasbad-aonaidhean-aon-sheorsach.jpg
 categories:
   - an-t-saoghal
-  - vreideamh
+  - creideamh
 tags:
   - Aimearaga
   - America
