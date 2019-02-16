@@ -4,11 +4,11 @@ title: Lorg
 permalink: /lorg/
 ---
 
-Tòisich a' sgrìobhadh anns a' bhogsa gu h-ìosal airson lorg sna puist.
+Tòisich a' sgrìobhadh anns a' bhogsa gu h-ìosal airson lorg sna postaichean.
 
 <!-- Html Elements for Search -->
 <div class="form-group" id="search-container">
-<input class="form-control" type="text" id="search-input" placeholder="Lorg sna puist..."><br />
+<input class="form-control" type="text" id="search-input" placeholder="Lorg sna postaichean..."><br />
 <ul id="results-container"></ul>
 </div>
 
@@ -24,6 +24,7 @@ SimpleJekyllSearch({
 })
 </script>
 
+Na postaichean as ùire anns gach roinn-seòrsa
 
 <ul>
 {% for category in site.categories %}
