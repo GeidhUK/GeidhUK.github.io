@@ -24,6 +24,8 @@ SimpleJekyllSearch({
 })
 </script>
 
+<hr>
+
 Na postaichean as ùire anns gach roinn-seòrsa
 
 <ul>
