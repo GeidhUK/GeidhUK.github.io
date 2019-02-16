@@ -37,7 +37,7 @@ SimpleJekyllSearch({
 
 
 <ul>
-{{ "{% assign sorted_categories = site.categories | sort " }}%}
+{% assign sorted_categories = site.categories | sort %}
   {% for category in sorted_categories %}
     <li><a name="{{ category | first }}">{{ category | first }}</a>
       <ul>
