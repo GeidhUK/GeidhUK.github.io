@@ -6,7 +6,7 @@ date: 2009-07-20 18:55:52
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2009-07-20-a-chiad-seirbheis-aon-sheorsach-eilean-leodhais-an-diugh.jpg
 categories:
   - alba
-  - an Rìoghachd Aonaichte
+  - an-rioghachd-aonaichte
   - creideamh
 tags:
   - Anndra Robasdan
