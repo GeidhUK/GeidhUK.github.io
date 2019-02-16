@@ -22,10 +22,17 @@ layout: page
         <p>{{ post.excerpt }}</p>
 
         <h5>Barrachd Fhiosrachaidh</h5>
-        <a href="{{post.larach-lin}}" target="_blank" rel="noopener"><button type="button" class="btn btn-primary" style="background-color: #fb135b !important; border-style: none; width: 15%;"><i class="fas fa-link"></i></button></a>
-        <a href="{{post.twitter}}" target="_blank" rel="noopener"><button type="button" class="btn btn-primary" style="background-color: #fb135b !important; border-style: none;; width: 15%"><i class="fab fa-twitter"></i></button></a>
-        <a href="{{post.facebook}}" target="_blank" rel="noopener"><button type="button" class="btn btn-primary" style="background-color: #fb135b !important; border-style: none;; width: 15%"><i class="fab fa-facebook-f"></i></button></a>
+        {% if page.larach-lin %}
+          <a href="{{post.larach-lin}}" target="_blank" rel="noopener"><button type="button" class="btn btn-primary" style="background-color: #fb135b !important; border-style: none; width: 15%;"><i class="fas fa-link"></i></button></a>
+        {% endif %}
 
+        {% if page.twitter %}
+          <a href="{{post.twitter}}" target="_blank" rel="noopener"><button type="button" class="btn btn-primary" style="background-color: #fb135b !important; border-style: none;; width: 15%"><i class="fab fa-twitter"></i></button></a>
+        {% endif %}
+
+        {% if page.facebook %}
+          <a href="{{post.facebook}}" target="_blank" rel="noopener"><button type="button" class="btn btn-primary" style="background-color: #fb135b !important; border-style: none;; width: 15%"><i class="fab fa-facebook-f"></i></button></a>
+        {% endif %}
       </div>
     </div>
   </div>
