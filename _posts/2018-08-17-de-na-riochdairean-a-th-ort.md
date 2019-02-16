@@ -8,8 +8,8 @@ categories:
   - ceanglaichean
   - gaidhlig
 tags:
-  - @akerbelttz
-  - @axnixho
+  - akerbeltz
+  - axnixho
   - a’ tighinn a-mach
   - aca
   - Acquired Immunodeficiency Syndrome
