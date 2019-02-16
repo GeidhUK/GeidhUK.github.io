@@ -9,7 +9,7 @@ Tòisich a' sgrìobhadh anns a' bhogsa gu h-ìosal airson lorg sna postaichean.
 <!-- Html Elements for Search -->
 <div class="form-group" id="search-container">
 <input class="form-control" type="text" id="search-input" placeholder="Lorg sna postaichean..."><br />
-<ul id="results-container"><h4>Toraidhean luirg</h4></ul>
+<ul id="results-container"></ul>
 </div>
 
 <!-- Script pointing to search-script.js -->
