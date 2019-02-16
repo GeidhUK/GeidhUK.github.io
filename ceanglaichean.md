@@ -4,6 +4,8 @@ title: Ceanglaichean
 permalink: /ceanglaichean/
 ---
 
+Gu h-ìosal tha liosta de cheanglaichean a dh'fhaodadh a bhith feumail no inntinneach dhuibh. Leigibh fios thugainn air [Twitter](https://www.twitter.com/GeidhUK/) ma tha sibh airson gun cuir sinn ceangal ris an liosta.
+
 #### Blogaichean
 
 * [ Transponderings: An aimless, unprincipled blog by Anna Nicholson ](https://transponderings.blog/)
