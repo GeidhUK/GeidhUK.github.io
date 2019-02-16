@@ -10,11 +10,11 @@ title: Dachaigh
     {% for post in paginator.posts %}
       {% unless post.categories contains 'tachartasan' %}
   <div class="row">
-    <div class="col-3">
+    <div class="col-md-3">
       <a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ post.image }}" class="index-image"></a>
     </div>
-    <div class="col-9">
-      <h5><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h5>
+    <div class="col-md-9">
+      <h5 class="post-title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h5>
       {% if post.author %}
       <p class="text-muted">{{ post.date | date: "%Y-%m-%d" }} le <a href="{{ post.author_url }}">{{ post.author }}</a></p>
 
