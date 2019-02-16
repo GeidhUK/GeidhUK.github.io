@@ -164,7 +164,8 @@ a{
   padding-bottom: 25px;
 }
 
-.btn{
-  display: table-cell;
-  vertical-align: middle;
+.more-info{
+  text-align: center;
+  display:table-cell;
+  vertical-align:middle;
 }
