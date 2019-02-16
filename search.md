@@ -31,13 +31,13 @@ SimpleJekyllSearch({
 <p>Ma tha sibh a' lorg post ùr ri leughadh, seo agaibh na postaichean as ùire anns gach roinn-seòrsa:</p>
 
 <ul>
-{% for category in site.categories %}
-  <li><a name="{{ category | first }}">{{ category | first }}</a>
-    <ul>
-    {% for post in category.last limit:3 %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-    </ul>
-  </li>
-{% endfor %}
+  {% for category in site.categories %}
+    <li><a name="{{ category | first | sort }}">{{ category | first }}</a>
+      <ul>
+      {% for post in category.last limit:3 %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+      {% endfor %}
+      </ul>
+    </li>
+  {% endfor %}
 </ul>
