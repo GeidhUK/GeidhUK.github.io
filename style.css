@@ -72,11 +72,14 @@ a{
   margin-bottom 15px;
 }
 
-.footer {
-    background-color: {{ site.featured-color }};
-    color: #ffffff;
+.footer{
+    background-color:  {{ site.featured-color }};
+    color: #fff;
     text-align: center;
     width: 100%;
+    margin-top: 100px;
+    height: 60px;
+    padding: 5px 0px;
 }
 
 .footer a {
