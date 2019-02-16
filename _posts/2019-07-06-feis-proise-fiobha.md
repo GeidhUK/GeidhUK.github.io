@@ -14,6 +14,6 @@ facebook: http://www.facebook.com/fifepride
 twitter: http://www.twitter.com/pridefife
 ---
 
-
+We are sooooo excited to announce the date of Fife Pride 2019! Kirkcaldy will host the spectacular event for the 3rd Year on Saturday 6th July 2019. Put the date in your diary and get your rainbow flags, glitter and sun cream at the ready! 🏳️‍🌈
 
 <!--more-->
