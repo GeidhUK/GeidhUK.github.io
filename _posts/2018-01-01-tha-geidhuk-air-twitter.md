@@ -7,10 +7,11 @@ image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-
 categories:
   - blog
 tags:
-  - @GèidhUK
+  - GeidhUK
   - blog
-  - Gèidh.uk
+  - Geidh.uk
   - Twitter
+  - Deuchainn001
 
 ---
 Ma tha sibh airson cumail suas leis an naidheachd as ùire bho Gèidh.uk faodaidh sibh gar leantainn air Twitter thall aig [@GèidhUK][1].
