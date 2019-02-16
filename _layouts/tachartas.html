@@ -5,25 +5,20 @@ layout: page
 {{ content }}
 
 <h4>Cùin</h4>
-
 <p>{{ page.ceann-latha }}</p>
 
 <h4>Càit</h4>
-
 <p>{{ page.seoladh }}</p>
 
-<h4>Barrachd fhiosrachaidh</h4>
+<p>Airson barrachd fhiosrachaidh mun tachartas seo tadhalaibh air:</p>
+  {% if post.larach-lin %}
+    <a href="{{post.larach-lin}}" target="_blank" rel="noopener"><button type="button" class="btn btn-primary more-info" style="background-color: #fb135b !important; border-style: none; width: 30%;"><i class="fas fa-home"></i></button></a>
 
-<p>Faodaidh sibh barrachd fhiosrachaidh fhaighinn mun tachartas seo aig:</p>
+  {% endif %}
+  {% if post.twitter %}
+    <a href="{{post.twitter}}" target="_blank" rel="noopener"><button type="button" class="btn btn-primary" style="background-color: #fb135b !important; border-style: none; width: 30%;"><i class="fab fa-twitter"></i></button></a>
 
-{% if page.larach-lin %}
-  <p><a href="{{page.larach-lin}}">Làrach-lìn</a></p>
-{% endif %}
-
-{% if page.twitter %}
-  <p><a href="{{page.twitter}}">Twitter</a></p>
-{% endif %}
-
-{% if page.facebook %}
-  <p><a href="{{page.facebook}}">Facebook</a></p>
-{% endif %}
+  {% endif %}
+  {% if post.facebook %}
+    <a href="{{post.facebook}}" target="_blank" rel="noopener"><button type="button" class="btn btn-primary" style="background-color: #fb135b !important; border-style: none; width: 30%;"><i class="fab fa-facebook-f"></i></button></a>
+  {% endif %}
