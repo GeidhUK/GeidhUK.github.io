@@ -22,7 +22,6 @@ layout: null
                 <category>{{ category | xml_escape }}</category>
                 {% endfor %}
             </item>
-          {% endunless %}
         {% endfor %}
     </channel>
 </rss>
