@@ -41,7 +41,8 @@ layout: page
 
 {% for post in site.categories[page.category] reversed %}
 	{% assign currentDate = post.date | date: "%-m" %}
-	{% if currentDate = "3" %}
+
+	{% if currentDate = 3 %}
 		<h2 class="archive-page-date">Am Màrt</h2>
 	{% endif %}
   <div class="container">
