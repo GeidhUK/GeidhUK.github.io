@@ -6,6 +6,7 @@ layout: tachartas
 date: 2019-02-16 19:00:00
 author: Crìstean MacMhìcheil
 categories: tachartasan
+hidden: true
 ceann-latha: 16mh An Gearran 2019 @ 19:00
 seoladh: Na Seòmraichean Anatomy, Obar Dheathain, AB10 1AP
 larach-lin: https://www.lgbthistory.org.uk/whats-on/the-gaylidh/
