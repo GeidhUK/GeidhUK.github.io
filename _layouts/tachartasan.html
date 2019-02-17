@@ -56,9 +56,8 @@ layout: page
     {% when '12' %}Dezember
   {% endcase %}
 
-	{% if currentDate != myDate %}
-		<h2 class="archive-page-date">{{ currentDate }}</h2>
-		{% assign myDate = currentDate %}
+	{% if currentDate = 3 %}
+		<h2 class="archive-page-date">Am Màrt</h2>
 	{% endif %}
   <div class="container">
     <div class="row">
