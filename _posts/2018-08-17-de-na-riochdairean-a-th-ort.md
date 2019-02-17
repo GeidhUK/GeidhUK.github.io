@@ -7,6 +7,7 @@ image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-
 categories:
   - ceanglaichean
   - gaidhlig
+  - naidheachdan
 tags:
   - akerbeltz
   - axnixho

@@ -6,6 +6,7 @@ date: 2008-04-07 19:55:23
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-04-07-coimhearsnachd-eadar-naiseanta-a-cur-cuideam-air-an-eipheit-air-sgsth-s-casaidean-hiv-aids.jpg
 categories:
   - an-t-saoghal
+  - naidheachdan
   - poilitigs
   - slainte
 tags:

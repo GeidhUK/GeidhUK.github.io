@@ -7,6 +7,7 @@ image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-
 categories:
   - an-rioghachd-aonaichte
   - feisean-proise
+  - naidheachdan
 tags:
   - An Rìoghachd Aonaichte
   - Caisteal Nuadh

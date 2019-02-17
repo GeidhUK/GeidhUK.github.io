@@ -4,7 +4,9 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2019-02-17 18:00:00
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2019-02-17-a-gluasad-bho-wordpress-gu-jekyll.jpg
-categories: blog
+categories:
+- blog
+- naidheachdan
 tags: blog, GeidhUK, Naidheachdan Pinc, LCDTQ, Naidheachdan, ùrachadh, Jekyll, Wordpress
 ---
 

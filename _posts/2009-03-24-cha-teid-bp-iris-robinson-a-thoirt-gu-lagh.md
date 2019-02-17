@@ -6,6 +6,7 @@ date: 2009-03-24 18:53:05
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2009-03-24-cha-teid-bp-iris-robinson-a-thoirt-gu-lagh.jpg
 categories:
   - an-rioghachd-aonaichte
+  - naidheachdan
   - poilitigs
 tags:
   - BBC Radio Ulaidh

@@ -6,6 +6,7 @@ date: 2008-06-22 19:12:44
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-06-22-deuchainnean-hiv-saor-an-asgaidh-taobh-a-staigh-15-mionaid.jpg
 categories:
   - an-rioghachd-aonaichte
+  - naidheachdan
   - slainte
 tags:
   - AIDS

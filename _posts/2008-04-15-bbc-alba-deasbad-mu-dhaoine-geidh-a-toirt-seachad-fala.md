@@ -6,6 +6,7 @@ date: 2008-04-15 09:45:02
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-04-15-bbc-alba-deasbad-mu-dhaoine-geidh-a-toirt-seachad-fala.jpg
 categories:
   - alba
+  - naidheachdan
   - slainte
 tags:
   - Acquired Immunodeficiency Syndrome

@@ -6,6 +6,7 @@ date: 2019-01-04 15:57:05
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2019-01-04-direach-da-charaid-aon-sheorsach-air-leanabh-uchd-mhacachadh-ann-an-eirinn-a-tuath-o-chionn-2013.jpg
 categories:
   - an-rioghachd-aonaichte
+  - naidheachdan
 tags:
   - adoption
   - An Rìoghachd Aonaichte

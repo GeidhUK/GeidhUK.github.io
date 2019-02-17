@@ -6,6 +6,7 @@ date: 2018-06-19 10:52:16
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-06-19-bpa-snp-a-caineadh-bile-nan-eucoirean-feise.jpg
 categories:
   - alba
+  - naidheachdan
   - poilitigs
 tags:
   - Ball Pàrlamaid na h-Alba

@@ -6,6 +6,7 @@ date: 2008-03-30 11:24:35
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-03-30-iosrael-air-bhiosa-a-thoirt-ri-palastaineach-co-sheorsach.jpg
 categories:
   - an-t-saoghal
+  - naidheachdan
   - poilitigs
 tags:
   - An Ear Mheadhanach

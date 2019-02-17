@@ -9,6 +9,7 @@ categories:
   - an-rioghachd-aonaichte
   - cultar
   - feisean-proise
+  - naidheachdan
 tags:
   - Alba
   - fèis-pròise

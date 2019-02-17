@@ -8,6 +8,7 @@ categories:
   - alba
   - an-rioghachd-aonaichte
   - creideamh
+  - naidheachdan
 tags:
   - Caitligeach
   - Calum Irving

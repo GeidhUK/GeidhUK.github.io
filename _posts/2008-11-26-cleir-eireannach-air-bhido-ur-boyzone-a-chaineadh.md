@@ -8,6 +8,7 @@ categories:
   - creideamh
   - cultar
   - eirinn
+  - naidheachdan
 tags:
   - better
   - bhidio-ciùil

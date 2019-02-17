@@ -7,6 +7,7 @@ image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2017-
 categories:
   - foghlam
   - gaidhlig
+  - naidheachdan
 tags:
   - a’ tighinn a-mach
   - Acquired Immunodeficiency Syndrome

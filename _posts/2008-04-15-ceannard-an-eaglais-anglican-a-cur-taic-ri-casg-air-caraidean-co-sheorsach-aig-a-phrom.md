@@ -8,6 +8,7 @@ categories:
   - an-t-saoghal
   - creideamh
   - foghlam
+  - naidheachdan
 tags:
   - An Eaglais Anglach
   - an t-Urr

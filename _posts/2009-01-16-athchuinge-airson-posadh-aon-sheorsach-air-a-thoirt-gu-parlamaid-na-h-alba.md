@@ -8,6 +8,7 @@ categories:
   - alba
   - an-rioghachd-aonaichte
   - creideamh
+  - naidheachdan
   - poilitigs
 tags:
   - 1977 Marriage (Scotland) Act

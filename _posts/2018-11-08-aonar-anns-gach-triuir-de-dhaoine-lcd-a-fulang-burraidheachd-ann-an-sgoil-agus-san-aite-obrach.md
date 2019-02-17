@@ -8,6 +8,7 @@ categories:
   - an-rioghachd-aonaichte
   - foghlam
   - gniomhachas
+  - naidheachdan
 tags:
   - àite-obrach
   - An Rìoghachd Aonaichte

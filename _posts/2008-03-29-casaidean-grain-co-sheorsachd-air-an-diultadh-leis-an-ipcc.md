@@ -7,6 +7,7 @@ image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-
 categories:
   - an-rioghachd-aonaichte
   - lagh
+  - naidheachdan
   - poilitigs
 tags:
   - Iain Bynoe

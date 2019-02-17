@@ -8,6 +8,7 @@ categories:
   - an-rioghachd-aonaichte
   - creideamh
   - foghlam
+  - naidheachdan
 tags:
   - Advertising Standards Authority
   - co-sheòrsach

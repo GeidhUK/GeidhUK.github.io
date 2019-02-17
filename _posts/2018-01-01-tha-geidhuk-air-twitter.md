@@ -6,6 +6,7 @@ date: 2018-01-01 23:04:14
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-01-01-tha-geidhuk-air-twitter.jpg
 categories:
   - blog
+  - naidheachdan
 tags:
   - GeidhUK
   - blog

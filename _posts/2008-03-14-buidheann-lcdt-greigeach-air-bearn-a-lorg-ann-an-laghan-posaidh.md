@@ -6,6 +6,7 @@ date: 2008-03-14 09:54:55
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-03-14-buidheann-lcdt-greigeach-air-bearn-a-lorg-ann-an-laghan-posaidh.jpg
 categories:
   - an-roinn-eorpa
+  - naidheachdan
   - poilitigs
 tags:
   - "A' Ghrèig"

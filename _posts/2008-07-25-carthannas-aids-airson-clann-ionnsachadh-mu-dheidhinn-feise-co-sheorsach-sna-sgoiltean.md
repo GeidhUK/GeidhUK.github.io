@@ -7,6 +7,7 @@ image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-
 categories:
   - an-rioghachd-aonaichte
   - foghlam
+  - naidheachdan
   - slainte
 tags:
   - Acquired Immunodeficiency Syndrome

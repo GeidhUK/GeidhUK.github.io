@@ -8,6 +8,7 @@ categories:
   - alba
   - an-rioghachd-aonaichte
   - foghlam
+  - naidheachdan
   - poilitigs
 tags:
   - briathrachas

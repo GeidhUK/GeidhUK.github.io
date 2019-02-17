@@ -7,6 +7,7 @@ image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-
 categories:
   - an-roinn-eorpa
   - eirinn
+  - naidheachdan
   - poilitigs
 tags:
   - Charlie Flanagan

@@ -8,6 +8,7 @@ categories:
   - alba
   - an-rioghachd-aonaichte
   - creideamh
+  - naidheachdan
 tags:
   - an Dtr. Urr.
   - an t-Urr

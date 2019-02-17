@@ -6,6 +6,7 @@ date: 2018-06-19 14:28:13
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-06-19-duine-tar-ghneitheach-a-stri-airson-a-bhith-air-aithneachadh-gu-h-oifigeil-mar-athair-a-phaiste.jpg
 categories:
   - an-rioghachd-aonaichte
+  - naidheachdan
   - poilitigs
 tags:
   - Àrd-chùirt Lunainn

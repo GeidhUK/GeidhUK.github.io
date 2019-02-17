@@ -7,6 +7,7 @@ image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-
 categories:
   - an-rioghachd-aonaichte
   - lagh
+  - naidheachdan
   - poilitigs
 tags:
   - abortion

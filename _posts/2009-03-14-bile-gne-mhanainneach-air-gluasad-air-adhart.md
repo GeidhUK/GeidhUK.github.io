@@ -8,6 +8,7 @@ categories:
   - an-rioghachd-aonaichte
   - an-roinn-eorpa
   - an-t-saoghal
+  - naidheachdan
   - poilitigs
 tags:
   - co-ionannachd

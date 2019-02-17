@@ -6,6 +6,7 @@ date: 2008-05-07 09:21:39
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-05-07-triuir-ann-an-eilean-lesbos-a-toirt-buidheann-lcdt-gu-lagh.jpg
 categories:
   - an-roinn-eorpa
+  - naidheachdan
   - poilitigs
 tags:
   - "A' Ghrèig"

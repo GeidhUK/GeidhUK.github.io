@@ -6,6 +6,7 @@ date: 2008-04-22 13:51:17
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-04-22-nhs-anns-a-chuimrigh-airson-seirbheisean-co-ionann-a-thoirt-dhan-a-choimhearsnachd-lcdte.jpg
 categories:
   - an-rioghachd-aonaichte
+  - naidheachdan
   - slainte
 tags:
   - "A' Chuimrigh"

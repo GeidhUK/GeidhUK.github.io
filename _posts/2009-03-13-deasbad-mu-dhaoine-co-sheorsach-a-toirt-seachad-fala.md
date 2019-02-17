@@ -6,6 +6,7 @@ date: 2009-03-13 22:11:34
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2009-03-13-deasbad-mu-dhaoine-co-sheorsach-a-toirt-seachad-fala.jpg
 categories:
   - an-rioghachd-aonaichte
+  - naidheachdan
   - slainte
 tags:
   - Acquired Immunodeficiency Syndrome

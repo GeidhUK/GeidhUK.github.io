@@ -6,6 +6,7 @@ date: 2019-01-11 14:56:18
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2019-01-11-talla-spors-dhun-eideann-a-tabhann-chlasaichean-fallaineachd-an-asgaidh-do-dhaoine-tar-gneitheach-agus-neo-bhinearaidh.jpg
 categories:
   - alba
+  - naidheachdan
   - slainte
 tags:
   - Dùn Èideann

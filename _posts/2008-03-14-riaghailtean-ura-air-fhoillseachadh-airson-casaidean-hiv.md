@@ -6,6 +6,7 @@ date: 2008-03-14 14:01:28
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-03-14-riaghailtean-ura-air-fhoillseachadh-airson-casaidean-hiv.jpg
 categories:
   - an-rioghachd-aonaichte
+  - naidheachdan
   - poilitigs
   - slainte
 tags:

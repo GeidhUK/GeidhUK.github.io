@@ -7,6 +7,7 @@ image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2012-
 categories:
   - alba
   - creideamh
+  - naidheachdan
   - poilitigs
 tags:
   - Alba

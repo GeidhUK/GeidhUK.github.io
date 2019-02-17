@@ -7,6 +7,7 @@ image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2019-
 categories:
   - an-roinn-eorpa
   - cultar
+  - naidheachdan
   - teicneolas
 tags:
   - Adrienne Shaw

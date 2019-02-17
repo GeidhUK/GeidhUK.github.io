@@ -9,6 +9,7 @@ categories:
   - creideamh
   - cultar
   - gaidhlig
+  - naidheachdan
 tags:
   - BBC Alba
   - BBC iPlayer

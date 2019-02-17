@@ -7,6 +7,7 @@ image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-
 categories:
   - alba
   - cultar
+  - naidheachdan
 tags:
   - Canada
   - co-ionnannachd pòsaidh

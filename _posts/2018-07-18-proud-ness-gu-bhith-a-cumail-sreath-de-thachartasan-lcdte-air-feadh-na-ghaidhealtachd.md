@@ -8,6 +8,7 @@ categories:
   - alba
   - cultar
   - feisean-proise
+  - naidheachdan
 tags:
   - Cùirt an Easbaig
   - Eden Court

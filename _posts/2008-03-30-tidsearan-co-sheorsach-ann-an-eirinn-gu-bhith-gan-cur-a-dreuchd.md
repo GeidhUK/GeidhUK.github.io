@@ -8,6 +8,7 @@ categories:
   - creideamh
   - eirinn
   - foghlam
+  - naidheachdan
   - poilitigs
 tags:
   - co-ionannachd

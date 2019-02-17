@@ -8,6 +8,7 @@ categories:
   - alba
   - an-rioghachd-aonaichte
   - feisean-proise
+  - naidheachdan
 tags:
   - caismeachd
   - fèis

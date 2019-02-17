@@ -7,6 +7,7 @@ image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-
 categories:
   - an-roinn-eorpa
   - an-t-saoghal
+  - naidheachdan
   - poilitigs
 tags:
   - "A' Ghrèig"

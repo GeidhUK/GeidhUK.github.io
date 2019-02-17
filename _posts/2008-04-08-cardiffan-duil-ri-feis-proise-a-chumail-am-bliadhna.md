@@ -8,6 +8,7 @@ categories:
   - an-rioghachd-aonaichte
   - cultar
   - feisean-proise
+  - naidheachdan
 tags:
   - "A' Chuimrigh"
   - Cardiff Pride

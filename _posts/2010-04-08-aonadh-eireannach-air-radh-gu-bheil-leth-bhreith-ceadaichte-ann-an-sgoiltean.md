@@ -8,6 +8,7 @@ categories:
   - an-roinn-eorpa
   - eirinn
   - foghlam
+  - naidheachdan
   - poilitigs
 tags:
   - co-ionannachd

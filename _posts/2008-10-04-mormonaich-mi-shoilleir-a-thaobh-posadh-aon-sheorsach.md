@@ -8,6 +8,7 @@ categories:
   - an-t-saoghal
   - creideamh
   - lagh
+  - naidheachdan
   - poilitigs
 tags:
   - Affirmation

@@ -7,6 +7,7 @@ image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-
 categories:
   - alba
   - foghlam
+  - naidheachdan
 tags:
   - An Equal Future?
   - Bliadhna na h-Òigridh

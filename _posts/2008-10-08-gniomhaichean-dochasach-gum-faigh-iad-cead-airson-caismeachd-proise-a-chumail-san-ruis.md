@@ -9,6 +9,7 @@ categories:
   - an-t-saoghal
   - feisean-proise
   - lagh
+  - naidheachdan
   - poilitigs
 tags:
   - An Ruis

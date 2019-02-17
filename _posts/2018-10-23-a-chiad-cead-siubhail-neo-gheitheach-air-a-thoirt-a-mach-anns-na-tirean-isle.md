@@ -8,6 +8,7 @@ categories:
   - an-roinn-eorpa
   - an-t-saoghal
   - lagh
+  - naidheachdan
   - poilitigs
 tags:
   - An Òlaind

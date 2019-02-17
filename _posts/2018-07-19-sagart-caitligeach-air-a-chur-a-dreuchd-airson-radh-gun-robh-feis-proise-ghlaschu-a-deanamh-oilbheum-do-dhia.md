@@ -8,6 +8,7 @@ categories:
   - alba
   - creideamh
   - feisean-proise
+  - naidheachdan
 tags:
   - An Eaglais Chaitligeach
   - Caitligeach

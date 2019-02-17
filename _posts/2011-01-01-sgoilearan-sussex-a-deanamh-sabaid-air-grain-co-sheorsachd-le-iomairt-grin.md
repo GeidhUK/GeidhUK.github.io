@@ -7,6 +7,7 @@ image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2011-
 categories:
   - an-rioghachd-aonaichte
   - foghlam
+  - naidheachdan
 tags:
   - Bedales School
   - children

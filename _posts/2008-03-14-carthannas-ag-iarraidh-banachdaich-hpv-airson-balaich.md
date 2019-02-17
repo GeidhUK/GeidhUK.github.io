@@ -6,6 +6,7 @@ date: 2008-03-14 09:33:41
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-03-14-carthannas-ag-iarraidh-banachdaich-hpv-airson-balaich.jpg
 categories:
   - an-rioghachd-aonaichte
+  - naidheachdan
   - slainte
 tags:
   - aillse

@@ -7,6 +7,7 @@ image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2019-
 categories:
   - blog
   - gaidhlig
+  - naidheachdan
 tags:
   - agender
   - Aromantic

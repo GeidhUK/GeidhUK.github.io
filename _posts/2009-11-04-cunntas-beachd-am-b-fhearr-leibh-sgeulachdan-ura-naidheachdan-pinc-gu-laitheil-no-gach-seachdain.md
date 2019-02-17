@@ -6,6 +6,7 @@ date: 2009-11-04 17:05:17
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2009-11-04-cunntas-beachd-am-b-fhearr-leibh-sgeulachdan-ura-naidheachdan-pinc-gu-laitheil-no-gach-seachdain.jpg
 categories:
   - blog
+  - naidheachdan
 tags:
   - blog
   - cunntas-beachd

@@ -7,6 +7,7 @@ image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2011-
 categories:
   - an-roinn-eorpa
   - eirinn
+  - naidheachdan
   - poilitigs
 tags:
   - civil union

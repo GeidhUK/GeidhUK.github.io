@@ -7,6 +7,7 @@ image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-
 categories:
   - an-rioghachd-aonaichte
   - feisean-proise
+  - naidheachdan
 tags:
   - "A' Chuimrigh"
   - An Rìoghachd Aonaichte

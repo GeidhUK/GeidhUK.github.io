@@ -8,6 +8,7 @@ categories:
   - alba
   - creideamh
   - feisean-proise
+  - naidheachdan
 tags:
   - An Eaglais Shaor Leantainneach
   - an t-Urr

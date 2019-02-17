@@ -8,6 +8,7 @@ categories:
   - alba
   - an-rioghachd-aonaichte
   - creideamh
+  - naidheachdan
   - poilitigs
 tags:
   - Ball Pàrlamaid na h-Alba

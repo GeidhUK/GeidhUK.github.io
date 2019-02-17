@@ -7,6 +7,7 @@ image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2009-
 categories:
   - alba
   - an-rioghachd-aonaichte
+  - naidheachdan
   - poilitigs
 tags:
   - Ball Pàrlamaid na h-Alba

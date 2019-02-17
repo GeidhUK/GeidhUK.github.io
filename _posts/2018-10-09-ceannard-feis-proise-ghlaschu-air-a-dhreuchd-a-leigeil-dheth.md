@@ -7,6 +7,7 @@ image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-
 categories:
   - alba
   - feisean-proise
+  - naidheachdan
 tags:
   - "Alasdair Mac a' Ghobhainn"
   - Alastair Smith

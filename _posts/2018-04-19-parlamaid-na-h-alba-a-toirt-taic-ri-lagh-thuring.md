@@ -6,6 +6,7 @@ date: 2018-04-19 13:39:27
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-04-19-parlamaid-na-h-alba-a-toirt-taic-ri-lagh-thuring.jpg
 categories:
   - alba
+  - naidheachdan
   - poilitigs
 tags:
   - Alan Turing

@@ -7,6 +7,7 @@ image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-
 categories:
   - an-t-saoghal
   - feisean-proise
+  - naidheachdan
 tags:
   - An Antartaig
   - Evan Townsend

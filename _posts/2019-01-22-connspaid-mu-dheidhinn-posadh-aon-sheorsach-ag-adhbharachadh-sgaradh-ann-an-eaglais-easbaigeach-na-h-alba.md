@@ -7,6 +7,7 @@ image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2019-
 categories:
   - alba
   - creideamh
+  - naidheachdan
 tags:
   - Alba
   - an t-Urr

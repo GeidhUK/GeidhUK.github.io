@@ -8,6 +8,7 @@ categories:
   - alba
   - an-rioghachd-aonaichte
   - creideamh
+  - naidheachdan
 tags:
   - Anndra Robasdan
   - aon-sheòrsach

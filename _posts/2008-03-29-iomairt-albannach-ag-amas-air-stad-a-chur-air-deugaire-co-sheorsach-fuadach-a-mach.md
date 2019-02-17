@@ -9,6 +9,7 @@ categories:
   - an-rioghachd-aonaichte
   - an-t-saoghal
   - lagh
+  - naidheachdan
   - poilitigs
 tags:
   - Alba

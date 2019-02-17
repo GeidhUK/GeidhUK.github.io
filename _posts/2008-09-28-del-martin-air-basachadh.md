@@ -6,6 +6,7 @@ date: 2008-09-28 11:45:00
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-09-28-del-martin-air-basachadh.jpg
 categories:
   - an-t-saoghal
+  - naidheachdan
   - poilitigs
 tags:
   - Aimearaga

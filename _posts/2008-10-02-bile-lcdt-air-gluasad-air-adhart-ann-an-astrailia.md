@@ -6,6 +6,7 @@ date: 2008-10-02 22:30:29
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-10-02-bile-lcdt-air-gluasad-air-adhart-ann-an-astrailia.jpg
 categories:
   - an-t-saoghal
+  - naidheachdan
   - poilitigs
 tags:
   - Astràilia

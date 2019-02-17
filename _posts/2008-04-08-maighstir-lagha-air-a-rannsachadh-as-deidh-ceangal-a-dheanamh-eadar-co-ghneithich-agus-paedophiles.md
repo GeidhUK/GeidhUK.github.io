@@ -8,6 +8,7 @@ categories:
   - an-rioghachd-aonaichte
   - cultar
   - lagh
+  - naidheachdan
   - poilitigs
 tags:
   - "A' Chuimrigh"

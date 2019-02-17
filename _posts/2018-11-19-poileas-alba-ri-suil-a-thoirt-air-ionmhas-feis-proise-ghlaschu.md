@@ -8,6 +8,7 @@ categories:
   - alba
   - feisean-proise
   - lagh
+  - naidheachdan
 tags:
   - Alba
   - Chris Laing

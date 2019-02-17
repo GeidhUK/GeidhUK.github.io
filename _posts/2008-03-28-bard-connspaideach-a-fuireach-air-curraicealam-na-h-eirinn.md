@@ -9,6 +9,7 @@ categories:
   - cultar
   - eirinn
   - foghlam
+  - naidheachdan
 tags:
   - Àisia
   - An Chomhairle Náisiúnta Curaclaim agus Measúnachta

@@ -7,6 +7,7 @@ image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2010-
 categories:
   - an-roinn-eorpa
   - eirinn
+  - naidheachdan
   - poilitigs
 tags:
   - Ceann-suidhe na h-Èirinn
