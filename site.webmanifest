@@ -1,0 +1,15 @@
+{
+    "name": "Geidh.uk",
+    "short_name": "Geidh.uk",
+    "icons": [
+        {
+            "src": "/android-chrome-144x144.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#fb135b",
+    "background_color": "#fb135b",
+    "start_url": "https;//geidh.uk",
+    "display": "standalone"
+}
