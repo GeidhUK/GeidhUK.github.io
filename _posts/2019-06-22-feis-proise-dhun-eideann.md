@@ -6,6 +6,7 @@ layout: tachartas
 date: 2019-06-22 00:00:00
 author: Crìstean MacMhìcheil
 categories: tachartasan
+hidden: true
 tags: Fèis-pròise Dhùn Èideann, Pride Edinburgh, Dùn Èideann, Edinburgh
 ceann-latha: 22mh An t-Ògmhìos 2019
 seoladh: EUSA, Cearnag Bristo, Dùn Èideann, EH8 9AL
