@@ -40,7 +40,7 @@ layout: page
 
 
 {% for post in site.categories[page.category] reversed %}
-	{% assign currentDate = post.date | date: "%M" %}
+	{% assign currentDate = post.date | date: "%B" %}
 	{% if currentDate != myDate %}
 		<h2 class="archive-page-date">{{ currentDate }}</h2>
 		{% assign myDate = currentDate %}
