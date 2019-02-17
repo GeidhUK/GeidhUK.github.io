@@ -58,7 +58,9 @@ Bidh ChildLine a' toirt comhairle do chlann agus daoine òga fo aois 19 san Rìo
 
 **Comhairliche air loidhne:** Faodaidh sibh bruidhinn gu dìomhair le comhairliche air loidhne [an-seo](https://www.childline.org.uk/locker/inbox/)
 
-**Fòn:** 0800 1111 [**LGBT Health & Wellbeing**](http://www.lgbthealth.org.uk/)
+**Fòn:** 0800 1111
+
+[**LGBT Health & Wellbeing**](http://www.lgbthealth.org.uk/)
 
 **Post-d:** admin@lgbthealth.org.uk
 
@@ -68,13 +70,19 @@ Bidh ChildLine a' toirt comhairle do chlann agus daoine òga fo aois 19 san Rìo
 
 **Post-d:** helpline@lgbthealth.org.uk
 
-**Fòn:** 0300 123 2523 (Dim/Dic 12f gu 9f) [**LGBT Switchboad**](https://switchboard.lgbt/)
+**Fòn:** 0300 123 2523 (Dim/Dic 12f gu 9f)
+
+[**LGBT Switchboad**](https://switchboard.lgbt/)
 
 **Post-d:** chris@switchboard.lgbt
 
-**Fòn:** 0300 330 0630 [**LGBT Youth Scotland**](https://www.lgbtyouth.org.uk/)
+**Fòn:** 0300 330 0630
 
-**Fòn:** 0131 555 3940 / 0141 552 7425 [**Samh**](https://www.samh.org.uk)
+[**LGBT Youth Scotland**](https://www.lgbtyouth.org.uk/)
+
+**Fòn:** 0131 555 3940 / 0141 552 7425
+
+[**Samh**](https://www.samh.org.uk)
 
 **Fòn:** 0141 530 1000
 
