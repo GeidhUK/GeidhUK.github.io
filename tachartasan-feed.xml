@@ -20,11 +20,9 @@ layout: null
 
                 {% if post.twitter_username %} Leanaibh {{ post.twitter_username | prepend @ }} airson barrachd fhiosrachaidh.
 
-                {% else %}
+                {% elsif post.larachlin %} Barrachd fhiosrachaidh: {{ post.larachlin }}
 
-                {% if post.larachlin %} Barrachd fhiosrachaidh: {{ post.larachlin }}
-
-                {% endif %}
+                {% else post.facebook %} Barrachd fhiosrachaidh: {{ post.larachlin }}
 
                 {% endif %}
 
