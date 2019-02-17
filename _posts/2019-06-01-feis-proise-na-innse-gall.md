@@ -6,6 +6,7 @@ layout: tachartas
 date: 2019-06-01 13:30:00
 author: Crìstean MacMhìcheil
 categories: tachartasan
+hidden: true
 tags: Fèis-pròise na h-Innse Gall, Hebridian Pride, Pride Hebrides
 ceann-latha: 1d An t-Òg-mhìos 2019 @ 1:30f
 seoladh: Sràid Choinnich, Steòrnabhagh, HS1 2DS
