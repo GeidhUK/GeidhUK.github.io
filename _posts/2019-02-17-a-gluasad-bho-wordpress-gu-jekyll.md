@@ -8,9 +8,11 @@ categories: blog
 tags: blog, GeidhUK, Naidheachdan Pinc, LCDTQ, Naidheachdan, ùrachadh, Jekyll, Wordpress
 ---
 
-O chionn 2008 tha Geidh.uk air a bhith na bhlog Wordpress (a' ruith grunn plugain treas=phàrtaidh) a tha mi air a bhith ag òstaireachd agus a' cumail suas leam fhèin.
+O chionn 2008 tha Geidh.uk air a bhith na bhlog Wordpress (a' ruith grunn plugain treas-phàrtaidh) a tha mi air a bhith ag òstaireachd agus a' cumail suas leam fhèin.
 
 Dh'obraich e math gu leòr airson greis, ach tha mi air a bhith a' fàs sgìth le duilleagan slaodach, mearachdan frithealaiche, amannan far-loidhne agus ùrachaidhean a stàladh fad na h-ùine agus mar sin tha an làrach-lìn a-nis air gluasad bho Wordpress gu Jekyll.
+
+<!--more-->
 
 Tha mi air feuchainn ri buaidh a' ghluasaid a lùghdachadh - bu chòir a' mhòr-chuid de sheann cheanglaichean a bhith ag obair fhathast agus tha coltas an làraich-lìn ùr cha mhòr co-ionnan ris an an t-seann làrach-lìn.
 
