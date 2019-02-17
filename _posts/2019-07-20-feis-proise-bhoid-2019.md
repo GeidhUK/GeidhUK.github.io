@@ -6,6 +6,7 @@ layout: tachartas
 date: 2019-07-20 11:00:00
 author: Crìstean MacMhìcheil
 categories: tachartasan
+hidden: true
 tags: Fèis-pròise Bhòid, Bute Pride
 ceann-latha: 20mh An t-Iuchar 2019 @ 11:00m
 seoladh: Scottish Honky-Tonk, Baile Bhòid, Eilean Bhòid, PA20 0LF
