@@ -17,7 +17,7 @@ title: Gèidh.uk
 email: chris@macmhicheil.uk
 description: A' toirt thugaibh na naidheachdan LCDQT as ùire le fòcas àraidh air naidheachdan Albannach
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://geidh.uk" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /:year/:month/:day/:title/
 
 # Pagination number
