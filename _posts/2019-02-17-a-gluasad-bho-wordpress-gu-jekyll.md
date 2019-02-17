@@ -24,4 +24,6 @@ Dh'fhaodadh gum bi bug no dhà ann fhathast is mar sin bhithinn fada nur comain 
 
 'S e an prìomh diofar eadar Jekyll agus Wordpress nach fheum Jekyll an làrach-lìn a chruthachadh ach nuar a thèid atharrachadh a dhèanamh agus nach fheum e sreath de dh'iarrtasan stòr-dàta a dhèanamh a h-uile turas a tha duilleag air a luchdachadh. Tha seo a' ciallachadh gu bheil an làrach-lìn fada nas luaithe.
 
+Tha e cuideachd a' ciallachadh gu bheil mi comasach air postaichean a sgrìobhadh ann am faidhlichean teacsa sìmplidh a' cleachdadh am bathar-bog as fheàrr leam agus 's urrainn dhomh fiù 's sgrìobhadh fhad 's a tha mi far-loidhne.
+
 'S buannachd mhòr eile a th' ann gum faodar làraichean-lìn Jekyll òstaireadh an-asgaidh air GitHub Pages far am faigh sibh teisteanas HTTPS an-asgaidh cuideachd.
