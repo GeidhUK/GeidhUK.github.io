@@ -44,8 +44,8 @@ layout: page
   {% case currentDate %}
     {% when '1' %}Januar
     {% when '2' %}Februar
-    {% when '3' %}<h1>März</h1>
-    {% when '4' %}April
+    {% when '3' %}März
+    {% when '4' %}<h1>An Giblean</h1>
     {% when '5' %}Mai
     {% when '6' %}Juni
     {% when '7' %}Juli
@@ -55,7 +55,9 @@ layout: page
     {% when '11' %}November
     {% when '12' %}Dezember
   {% endcase %}
-		<h2 class="archive-page-date">{{ currentDate }}</h2>
+	{% if currentDate != myDate %}
+		{% assign myDate = currentDate %}
+	{% endif %}
   <div class="container">
     <div class="row">
       <div class="col-md-3">
