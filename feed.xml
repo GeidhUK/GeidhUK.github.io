@@ -12,6 +12,7 @@ layout: null
         <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
         <generator>Jekyll v{{ jekyll.version }}</generator>
         {% for post in site.posts %}
+          {% unless post.categories contains 'tachartasan' %}
             <item>
                 <title>{{ post.title | xml_escape }}</title>
                 <description>{{ post.excerpt }}</description>
@@ -22,6 +23,7 @@ layout: null
                 <category>{{ category | xml_escape }}</category>
                 {% endfor %}
             </item>
+          {% endunless %}
         {% endfor %}
     </channel>
 </rss>
