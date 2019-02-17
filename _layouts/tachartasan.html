@@ -41,7 +41,7 @@ layout: page
 
 {% for post in site.categories[page.category] reversed %}
 	{% assign currentDate = post.date | date: "%-m" %}
-  {% case currentDate %}
+  <h1>{% case currentDate %}
     {% when '1' %}Januar
     {% when '2' %}Februar
     {% when '3' %}März
@@ -54,7 +54,7 @@ layout: page
     {% when '10' %}Oktober
     {% when '11' %}November
     {% when '12' %}Dezember
-  {% endcase %}
+  {% endcase %}</h1>
 		<h2 class="archive-page-date">{{ currentDate }}</h2>
 	{% endif %}
   <div class="container">
