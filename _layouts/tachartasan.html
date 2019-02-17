@@ -13,7 +13,7 @@ layout: page
 {% for post in site.categories[page.category] reversed %}
 	{% assign currentDate = post.date | date: "%-m" %}
 	{% if currentDate != myDate %}
-		<h2 class="archive-page-date">
+		<h2 class="event-list-month">
       {% case currentDate %}
         {% when '1' %}Am Faoilleach
         {% when '2' %}An Gearran
