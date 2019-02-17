@@ -6,6 +6,7 @@ layout: tachartas
 date: 2019-05-25 13:00:00
 author: Crìstean MacMhìcheil
 categories: tachartasan
+hidden: true
 tags: Grampian Pride, Fèis-pròis a' Mhonaidh, Aberdenn, Obair Dheathain
 ceann-latha: 25mh An Cèitean 2019 @ 1:00f
 seoladh: Beach Boulevard, Obair Dheathainn, AB24 5EF
