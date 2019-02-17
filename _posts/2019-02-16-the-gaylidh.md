@@ -5,7 +5,7 @@ image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2019-
 layout: tachartas
 date: 2019-02-16 19:00:00
 author: Crìstean MacMhìcheil
-categories: tachartasan-roimhe
+categories: tachartasan, tachartasan-roimhe
 hidden: true
 ceann-latha: 16mh An Gearran 2019 @ 19:00
 seoladh: Na Seòmraichean Anatomy, Obar Dheathain, AB10 1AP
