@@ -18,7 +18,7 @@ layout: null
 
                 Thèid an tachartas {{ post.title | xml_escape }} a chumail {{ post.ceann-latha | xml_escape }} aig {{ post.seoladh | xml_escape }}.
 
-                {% if post.twitter_username %} Leanaibh {{ post.twitter_username | prepend @ }} airson barrachd fhiosrachaidh.
+                {% if post.twitter_username %} Leanaibh {{ post.twitter_username | prepend: @ }} airson barrachd fhiosrachaidh.
 
                 {% elsif post.larachlin %} Barrachd fhiosrachaidh: {{ post.larachlin }}
 
