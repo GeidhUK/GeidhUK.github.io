@@ -7,7 +7,7 @@ date: 2019-07-06 12:00:00
 author: Crìstean MacMhìcheil
 categories: tachartasan
 tags: Fèis-pròise Fìobha, Fife Pride,
-ceann-latha: 6mh An Iuchar 2019 @ 12:00f
+ceann-latha: 6mh An t-Iuchar 2019 @ 12:00f
 seoladh: Meadhan a' Bhaile, Cair Chaladain KY1 1XW
 larach-lin: https://fifepride.wordpress.com/
 facebook: http://www.facebook.com/fifepride
