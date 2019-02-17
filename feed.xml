@@ -12,7 +12,7 @@ layout: null
         <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
         <generator>Jekyll v{{ jekyll.version }}</generator>
         {% for post in site.posts %}
-          {% unless post.categories contains 'tachartasan', 'tachartasan-roimhe' %}
+          {% unless post.categories contains 'tachartasan, tachartasan-roimhe' %}
             <item>
                 <title>{{ post.title | xml_escape }}</title>
                 <description>{{ post.excerpt }}</description>
@@ -20,7 +20,7 @@ layout: null
                 <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
                 <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
                 {% for cat in post.categories %}
-                <category>{{ categories | xml_escape }}</category>
+                <category>{{ category | xml_escape }}</category>
                 {% endfor %}
             </item>
           {% endunless %}
