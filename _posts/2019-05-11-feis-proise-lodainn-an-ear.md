@@ -6,6 +6,7 @@ layout: tachartas
 date: 2019-05-11 12:00:00
 author: Crìstean MacMhìcheil
 categories: tachartasan
+hidden: true
 ceann-latha: 11mh An Cèitean 2019 @ 12:00f
 seoladh: Taigh Chùl Choinnich, Cùl Choinnich, EH32 0HY
 larach-lin: https://pridesaltire.org.uk/index.html
