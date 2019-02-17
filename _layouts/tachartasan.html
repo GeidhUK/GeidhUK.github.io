@@ -10,7 +10,13 @@ layout: page
   <p>Chan eil post sam bith anns an roinn-seòrsa seo.</p>
 {% endunless %}
 
-{% for post in site.categories[page.category] reversed %}
+
+{% assign postsByYearMonth = categories[page.category] | group_by_exp:"post", "post.date | date: '%Y %b'"  %}
+{% for yearMonth in postsByYearMonth %}
+  <h3>{{ yearMonth.name }}</h3>
+    <ul>
+      {% for post in yearMonth.items reversed %}
+
   <div class="container">
     <div class="row">
       <div class="col-md-3">
