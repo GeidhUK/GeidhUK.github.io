@@ -6,6 +6,7 @@ layout: tachartas
 date: 2019-03-30 12:30:00
 author: Crìstean MacMhìcheil
 categories: tachartasan
+hidden: true
 ceann-latha: 30mh Am Màrt 2019 @ 12:30
 seoladh: Bonar Hall, Dùn Dè, DD1 1PB
 larach-lin: https://www.eventbrite.co.uk/e/trans-pride-scotland-in-dundee-tickets-54539907331
