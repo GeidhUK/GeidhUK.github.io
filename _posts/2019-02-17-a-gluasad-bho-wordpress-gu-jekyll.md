@@ -20,6 +20,6 @@ Dh'fhaodadh gum bi bug no dhà ann fhathast is mar sin bhithinn fada nur comain 
 
 'S e gineadair làrach-lìn a th' ann an Jekyll a bhios a' toirt faidhlichean teacsa (a' toirt a-steach faidhlichean Markdown) gus làraichean-lìn stadaigeach a chruthachadh a dh'fhaodar a luchdachadh.
 
-'S e an prìomh diofar eadar Jekyll agus Wordpress nach fheum Jekyll an làrach-lìn a chruthachadh ach nuar a thèid atharrachadh a dhèanamh agus nach fheum e sreath de dh'iarrtasan stòr-dàta a dhèanamh a h-uile tùras a tha duilleag air a luchdachadh. Tha seo a' ciallachadh gu bheil an làrach-lìn fada nas luaithe.
+'S e an prìomh diofar eadar Jekyll agus Wordpress nach fheum Jekyll an làrach-lìn a chruthachadh ach nuar a thèid atharrachadh a dhèanamh agus nach fheum e sreath de dh'iarrtasan stòr-dàta a dhèanamh a h-uile turas a tha duilleag air a luchdachadh. Tha seo a' ciallachadh gu bheil an làrach-lìn fada nas luaithe.
 
-'S buannachd mhòr eile a th' ann gum faodar làraichean-lìn Jekyll òstaireadh an-asgaidh air GitHub Pages afar am faigh sibh teisteanas HTTPS an-asgaidh cuideachd.
+'S buannachd mhòr eile a th' ann gum faodar làraichean-lìn Jekyll òstaireadh an-asgaidh air GitHub Pages far am faigh sibh teisteanas HTTPS an-asgaidh cuideachd.
