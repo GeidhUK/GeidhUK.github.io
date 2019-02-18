@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2008-04-15 08:35:40
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-04-15-ionnsaigh-a-thoirt-air-buidheann-lcdt-ann-an-istanbul-leis-a-phoileas.jpg
+comments: true
 categories:
   - an-t-saoghal
   - lagh

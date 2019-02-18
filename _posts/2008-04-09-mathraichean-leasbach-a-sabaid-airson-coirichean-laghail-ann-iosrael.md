@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2008-04-09 13:46:31
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-04-09-mathraichean-leasbach-a-sabaid-airson-coirichean-laghail-ann-iosrael.jpg
+comments: true
 categories:
   - lagh
   - naidheachdan

@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2018-11-22 17:37:27
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-11-22-bu-choir-cuisean-lcdt-a-bhith-na-phairt-bunaiteach-de-dhfhoghlam-chloinne.jpg
+comments: true
 categories:
   - an-rioghachd-aonaichte
   - foghlam

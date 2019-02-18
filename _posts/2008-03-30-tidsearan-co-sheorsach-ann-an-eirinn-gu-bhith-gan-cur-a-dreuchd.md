@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2008-03-30 10:54:04
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-03-30-tidsearan-co-sheorsach-ann-an-eirinn-gu-bhith-gan-cur-a-dreuchd.jpg
+comments: true
 categories:
   - creideamh
   - eirinn

@@ -2,6 +2,7 @@
 title: Fèis-pròise Dhùn Èideann
 permalink: /tachartasan/2019-06-22-feis-proise-dhun-eideann/
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2019-06-22-feis-proise-dhun-eideann.jpg
+comments: true
 layout: tachartas
 date: 2019-06-22 00:00:00
 author: Crìstean MacMhìcheil

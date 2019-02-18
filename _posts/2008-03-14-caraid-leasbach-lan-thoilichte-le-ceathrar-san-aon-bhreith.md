@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2008-03-14 17:44:38
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-03-14-caraid-leasbach-lan-thoilichte-le-ceathrar-san-aon-bhreith.jpg
+comments: true
 categories:
   - an-t-saoghal
   - naidheachdan

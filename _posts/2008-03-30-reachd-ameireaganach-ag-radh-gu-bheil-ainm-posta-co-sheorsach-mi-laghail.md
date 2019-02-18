@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2008-03-30 10:26:22
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-03-30-reachd-ameireaganach-ag-radh-gu-bheil-ainm-posta-co-sheorsach-mi-laghail.jpg
+comments: true
 categories:
   - an-t-saoghal
   - lagh

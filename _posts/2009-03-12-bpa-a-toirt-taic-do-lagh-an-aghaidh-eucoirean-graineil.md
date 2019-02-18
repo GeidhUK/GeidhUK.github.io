@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2009-03-12 21:06:32
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2009-03-12-bpa-a-toirt-taic-do-lagh-an-aghaidh-eucoirean-graineil.jpg
+comments: true
 categories:
   - alba
   - an-rioghachd-aonaichte

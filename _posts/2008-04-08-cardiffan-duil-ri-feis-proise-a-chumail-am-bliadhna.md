@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2008-04-08 18:10:07
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-04-08-cardiffan-duil-ri-feis-proise-a-chumail-am-bliadhna.jpg
+comments: true
 categories:
   - an-rioghachd-aonaichte
   - cultar

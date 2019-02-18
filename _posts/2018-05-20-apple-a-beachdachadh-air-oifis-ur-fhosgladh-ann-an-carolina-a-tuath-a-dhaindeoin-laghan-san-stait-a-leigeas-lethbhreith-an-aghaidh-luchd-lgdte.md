@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2018-05-20 16:15:17
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-05-20-apple-a-beachdachadh-air-oifis-ur-fhosgladh-ann-an-carolina-a-tuath-a-dh-aindeoin-laghan-san-stait-a-leigeas-leth-bhreith.jpg
+comments: true
 categories:
   - an-t-saoghal
   - naidheachdan

@@ -2,6 +2,7 @@
 title: Bracaist LGBT Moray
 permalink: /tachartasan/2019-04-20-bracaist-lgbt-moray/
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2019-03-16-bracaist-lgbt-moray.jpg
+comments: true
 layout: tachartas
 date: 2019-04-20 10:30:00
 author: Crìstean MacMhìcheil

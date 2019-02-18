@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2008-03-31 13:25:10
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-03-31-taic-airson-posaidhean-co-sheorsach-a-fas-nas-laidire-ann-an-eirinn.jpg
+comments: true
 categories:
   - eirinn
   - lagh

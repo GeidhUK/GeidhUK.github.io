@@ -2,6 +2,7 @@
 title: Fèis-pròise Fìobha 2019
 permalink: /tachartasan/2019-07-06-feis-proise-fiobha/
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2019-07-06-feis-proise-fiobha.jpg
+comments: true
 layout: tachartas
 date: 2019-07-06 12:00:00
 author: Crìstean MacMhìcheil

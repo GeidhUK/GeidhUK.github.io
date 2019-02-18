@@ -2,6 +2,7 @@
 title: Fèis-pròise Bhòid 2019
 permalink: /tachartasan/2019-07-20-feis-proise-bhoid-2019/
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2019-07-20-feis-proise-bhoid-2019.jpg
+comments: true
 layout: tachartas
 date: 2019-07-20 11:00:00
 author: Crìstean MacMhìcheil

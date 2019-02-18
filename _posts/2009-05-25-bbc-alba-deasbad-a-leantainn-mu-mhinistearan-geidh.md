@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2009-05-25 12:25:09
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2009-05-25-bbc-alba-deasbad-a-leantainn-mu-mhinistearan-geidh.jpg
+comments: true
 categories:
   - alba
   - an-rioghachd-aonaichte

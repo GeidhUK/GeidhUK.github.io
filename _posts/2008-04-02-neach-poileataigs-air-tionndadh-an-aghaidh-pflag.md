@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2008-04-02 10:59:53
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-04-02-neach-poileataigs-air-tionndadh-an-aghaidh-pflag.jpg
+comments: true
 categories:
   - an-t-saoghal
   - creideamh

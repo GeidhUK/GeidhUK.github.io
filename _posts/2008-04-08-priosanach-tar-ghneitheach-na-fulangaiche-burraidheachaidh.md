@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2008-04-08 15:23:08
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-04-08-priosanach-tar-ghneitheach-na-fulangaiche-burraidheachaidh.jpg
+comments: true
 categories:
   - an-rioghachd-aonaichte
   - lagh

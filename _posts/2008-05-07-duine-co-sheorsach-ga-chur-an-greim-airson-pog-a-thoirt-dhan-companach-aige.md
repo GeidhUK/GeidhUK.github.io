@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2008-05-07 10:10:52
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-05-07-duine-co-sheorsach-ga-chur-an-greim-airson-pog-a-thoirt-dhan-companach-aige.jpg
+comments: true
 categories:
   - an-rioghachd-aonaichte
   - an-t-saoghal

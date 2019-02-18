@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2008-03-19 07:31:44
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-03-19-an-eipheit-air-a-chaineadh-airson-an-iomairt-an-aghaidh-aids-lagachadh.jpg
+comments: true
 categories:
   - an-t-saoghal
   - lagh

@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2019-01-22 12:03:43
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2019-01-22-connspaid-mu-dheidhinn-posadh-aon-sheorsach-ag-adhbharachadh-sgaradh-ann-an-eaglais-easbaigeach-na-h-alba.jpg
+comments: true
 categories:
   - alba
   - creideamh

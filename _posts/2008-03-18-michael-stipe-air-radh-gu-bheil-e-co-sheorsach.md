@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2008-03-18 16:55:18
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-03-18-michael-stipe-air-radh-gu-bheil-e-co-sheorsach.jpg
+comments: true
 categories:
   - cultar
   - naidheachdan

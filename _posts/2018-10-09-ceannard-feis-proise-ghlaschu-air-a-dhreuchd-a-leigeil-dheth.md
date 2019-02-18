@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2018-10-09 13:34:57
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-10-09-ceannard-feis-proise-ghlaschu-air-a-dhreuchd-a-leigeil-dheth.jpg
+comments: true
 categories:
   - alba
   - feisean-proise

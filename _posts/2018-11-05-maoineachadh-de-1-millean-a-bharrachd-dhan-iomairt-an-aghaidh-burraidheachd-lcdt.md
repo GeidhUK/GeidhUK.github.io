@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2018-11-05 19:50:43
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-11-05-maoineachadh-de-1-millean-a-bharrachd-dhan-iomairt-an-aghaidh-burraidheachd-lcdt.jpg
+comments: true
 categories:
   - an-rioghachd-aonaichte
   - foghlam

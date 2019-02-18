@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2008-04-02 10:43:52
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-04-02-buidheann-co-ionannachd-gu-bhith-a-deanamh-priomhachas-air-cuisean-lagh-a-thaobh-gneitheachd.jpg
+comments: true
 categories:
   - an-rioghachd-aonaichte
   - lagh

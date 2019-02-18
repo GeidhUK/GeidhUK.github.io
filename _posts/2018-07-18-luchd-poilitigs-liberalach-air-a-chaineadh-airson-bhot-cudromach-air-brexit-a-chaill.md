@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2018-07-18 21:45:04
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-07-18-luchd-poilitigs-liberalach-air-a-chaineadh-airson-bhot-cudromach-air-brexit-a-chaill.jpg
+comments: true
 categories:
   - an-rioghachd-aonaichte
   - an-roinn-eorpa

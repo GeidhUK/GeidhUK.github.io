@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2019-01-07 16:12:28
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2019-01-07-geamaichean-bhidio-lcdtq-air-an-taisbeanadh-ann-an-taigh-tasgaidh-bherlin.jpg
+comments: true
 categories:
   - an-roinn-eorpa
   - cultar

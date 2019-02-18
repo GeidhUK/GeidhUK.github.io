@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2018-05-05 11:31:54
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-05-05-maoineachadh-de-chorr-is-8000-a-thoirt-gu-foram-lgdt-na-gaidhealtachd.jpg
+comments: true
 categories:
   - alba
   - feisean-proise

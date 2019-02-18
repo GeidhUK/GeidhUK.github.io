@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2008-10-02 21:10:55
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-10-02-google-an-aghaidh-a-chaisg-air-posadh-aon-sheorsach.jpg
+comments: true
 categories:
   - an-t-saoghal
   - lagh

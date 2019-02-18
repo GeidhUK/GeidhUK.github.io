@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2009-05-26 19:11:45
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2009-05-26-ard-chuirt-chalifornia-a-cumail-ri-prop-8.jpg
+comments: true
 categories:
   - an-t-saoghal
   - lagh

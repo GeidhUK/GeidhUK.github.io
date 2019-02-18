@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2017-06-01 13:13:34
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2017-06-01-priomhaire-co-sheorsach-gu-bhith-aig-eirinn.jpg
+comments: true
 categories:
   - an-roinn-eorpa
   - eirinn

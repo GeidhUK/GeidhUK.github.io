@@ -2,6 +2,7 @@
 title: Fèis-pròise Lodainn an Iar 2019
 permalink: /tachartasan/2019-07-27-feis-proise-lodainn-an-iar/
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2019-07-27-feis-proise-lodainn-an-iar.jpg
+comments: true
 layout: tachartas
 date: 2019-07-27 12:00:00
 author: Crìstean MacMhìcheil

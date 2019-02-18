@@ -5,6 +5,7 @@ type: post
 date: 2018-03-20 20:53:48
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-03-20-caineadh-mu-phostair-oilbheumach-ann-an-taigh-seinnse-liteach.jpg
 categories:
+comments: true
   - alba
   - naidheachdan
 tags:

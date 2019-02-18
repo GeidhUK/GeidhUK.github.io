@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2009-03-02 16:23:43
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2009-03-02-firinn-is-feise-air-bbc-iplayer.jpg
+comments: true
 categories:
   - alba
   - creideamh

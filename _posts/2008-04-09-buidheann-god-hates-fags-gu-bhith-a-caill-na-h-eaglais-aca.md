@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2008-04-09 09:08:35
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-04-09-buidheann-god-hates-fags-gu-bhith-a-caill-na-h-eaglais-aca.jpg
+comments: true
 categories:
   - an-t-saoghal
   - creideamh

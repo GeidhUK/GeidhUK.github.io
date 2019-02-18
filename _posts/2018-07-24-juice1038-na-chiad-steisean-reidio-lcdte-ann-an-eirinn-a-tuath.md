@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2018-07-24 12:46:59
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-07-24-juice1038-na-chiad-steisean-reidio-lcdte-ann-an-eirinn-a-tuath.jpg
+comments: true
 categories:
   - an-rioghachd-aonaichte
   - cultar

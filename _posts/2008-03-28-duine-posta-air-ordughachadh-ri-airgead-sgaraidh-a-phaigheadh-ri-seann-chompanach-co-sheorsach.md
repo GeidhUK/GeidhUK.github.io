@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2008-03-28 08:30:43
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-03-28-duine-posta-air-ordughachadh-ri-airgead-sgaraidh-a-phaigheadh-ri-seann-chompanach-co-sheorsach.jpg
+comments: true
 categories:
   - an-t-saoghal
   - lagh

@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2008-06-22 18:03:15
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-06-22-bile-ur-a-brosnachadh-co-ionannachd-do-dhaoine-lcdt.jpg
+comments: true
 categories:
   - an-rioghachd-aonaichte
   - lagh

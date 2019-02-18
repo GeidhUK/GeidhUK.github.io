@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2018-06-07 21:30:35
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-06-07-lionra-ur-steideachadh-gus-taic-a-thoirt-ri-thidsearan-lcdt.jpg
+comments: true
 categories:
   - an-rioghachd-aonaichte
   - foghlam

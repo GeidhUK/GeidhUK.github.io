@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2008-03-17 18:31:22
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-03-17-buidheann-irish-queers-a-togail-fianai-an-aghaidh-caismeachd-naomh-padraig.jpg
+comments: true
 categories:
   - an-t-saoghal
   - creideamh

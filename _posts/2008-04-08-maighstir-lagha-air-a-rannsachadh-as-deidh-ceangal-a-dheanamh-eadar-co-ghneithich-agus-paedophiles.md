@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2008-04-08 17:21:20
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-04-08-maighstir-lagha-air-a-rannsachadh-as-deidh-ceangal-a-dheanamh-eadar-co-ghneithich-agus-paedophiles.jpg
+comments: true
 categories:
   - an-rioghachd-aonaichte
   - cultar

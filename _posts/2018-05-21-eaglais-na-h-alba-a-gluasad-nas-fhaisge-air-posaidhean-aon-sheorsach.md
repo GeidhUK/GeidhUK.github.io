@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2018-05-21 18:22:52
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-05-21-eaglais-na-h-alba-a-gluasad-nas-fhaisge-air-posaidhean-aon-sheorsach.jpg
+comments: true
 categories:
   - alba
   - creideamh

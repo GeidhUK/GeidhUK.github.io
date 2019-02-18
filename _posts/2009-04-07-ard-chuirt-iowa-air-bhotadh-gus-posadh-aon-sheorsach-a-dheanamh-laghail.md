@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2009-04-07 11:40:32
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2009-04-07-ard-chuirt-iowa-air-bhotadh-gus-posadh-aon-sheorsach-a-dheanamh-laghail.jpg
+comments: true
 categories:
   - an-t-saoghal
   - creideamh

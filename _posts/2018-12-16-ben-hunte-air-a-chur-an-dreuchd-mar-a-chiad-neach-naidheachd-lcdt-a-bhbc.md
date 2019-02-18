@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2018-12-16 21:04:42
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-12-16-ben-hunte-air-a-chur-an-dreuchd-mar-a-chiad-neach-naidheachd-lcdt-a-bhbc.jpg
+comments: true
 categories:
   - an-rioghachd-aonaichte
   - cultar

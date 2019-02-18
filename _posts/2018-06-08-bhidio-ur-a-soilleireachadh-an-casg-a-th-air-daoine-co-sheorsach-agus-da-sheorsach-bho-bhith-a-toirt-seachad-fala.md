@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2018-06-08 12:27:20
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-06-08-bhidio-ur-a-soilleireachadh-an-casg-a-th-air-daoine-co-sheorsach-agus-da-sheorsach-bho-bhith-a-toirt-seachad-fala.jpg
+comments: true
 categories:
   - naidheachdan
   - slainte

@@ -2,6 +2,7 @@
 title: Fèis-pròise an Rìoghachd Aonaichte is Èirinn 2019
 permalink: /tachartasan/2019-08-31-feis-proise-an-rioghachd-aonaichte/
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2019-08-31-feis-proise-an-rioghachd-aonaichte.jpg
+comments: true
 layout: tachartas
 date: 2019-08-31 00:00:00
 author: Crìstean MacMhìcheil

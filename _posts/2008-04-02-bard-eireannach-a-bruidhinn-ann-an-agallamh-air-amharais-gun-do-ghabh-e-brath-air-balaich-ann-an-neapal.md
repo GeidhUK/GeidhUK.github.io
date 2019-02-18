@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2008-04-02 10:49:15
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-04-02-bard-eireannach-a-bruidhinn-ann-an-agallamh-air-amharais-gun-do-ghabh-e-brath-air-balaich-ann-an-neapal.jpg
+comments: true
 categories:
   - an-t-saoghal
   - cultar

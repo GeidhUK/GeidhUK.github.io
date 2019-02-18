@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2008-11-26 17:13:55
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-11-26-cleir-eireannach-air-bhido-ur-boyzone-a-chaineadh.jpg
+comments: true
 categories:
   - creideamh
   - cultar

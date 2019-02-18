@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2012-07-17 21:08:05
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2012-07-17-ceannard-caitligeach-airson-bhotadh-air-posaidhean-aon-sheorsach.jpg
+comments: true
 categories:
   - alba
   - creideamh

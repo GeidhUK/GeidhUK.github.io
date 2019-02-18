@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2009-07-20 18:55:52
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2009-07-20-a-chiad-seirbheis-aon-sheorsach-eilean-leodhais-an-diugh.jpg
+comments: true
 categories:
   - alba
   - an-rioghachd-aonaichte

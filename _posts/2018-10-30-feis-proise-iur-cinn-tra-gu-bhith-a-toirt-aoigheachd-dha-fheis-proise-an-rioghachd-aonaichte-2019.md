@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2018-10-30 16:10:43
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-10-30-feis-proise-iur-cinn-tra-gu-bhith-a-toirt-aoigheachd-dha-fheis-proise-an-rioghachd-aonaichte-2019.jpg
+comments: true
 categories:
   - an-rioghachd-aonaichte
   - feisean-proise

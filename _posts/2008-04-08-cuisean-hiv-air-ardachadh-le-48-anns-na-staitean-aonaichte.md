@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2008-04-08 18:01:37
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-04-08-cuisean-hiv-air-ardachadh-le-48-anns-na-staitean-aonaichte.jpg
+comments: true
 categories:
   - an-t-saoghal
   - naidheachdan

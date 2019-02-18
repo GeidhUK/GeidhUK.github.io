@@ -2,6 +2,7 @@
 title: Fèis-pròise Pheairt 2019
 permalink: /tachartasan/2019-08-10-feis-proise-pheairt/
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2019-08-10-feis-proise-pheairt.jpg
+comments: true
 layout: tachartas
 date: 2019-08-10 12:00:00
 author: Crìstean MacMhìcheil

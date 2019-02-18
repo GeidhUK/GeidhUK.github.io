@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2008-04-05 16:47:05
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-04-05-cruinneachadh-gus-taic-a-thoirt-ri-neach-poileataigs-a-tha-dhen-bheachd-gu-bheil-a-choimhearsnachd-lcdte-nas-miosa-na-ceannaircich.jpg
+comments: true
 categories:
   - an-t-saoghal
   - creideamh

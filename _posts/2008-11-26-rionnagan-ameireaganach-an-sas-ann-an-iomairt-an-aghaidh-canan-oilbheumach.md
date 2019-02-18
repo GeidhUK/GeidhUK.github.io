@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2008-11-26 16:15:39
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-11-26-rionnagan-ameireaganach-an-sas-ann-an-iomairt-an-aghaidh-canan-oilbheumach.jpg
+comments: true
 categories:
   - an-t-saoghal
   - cultar

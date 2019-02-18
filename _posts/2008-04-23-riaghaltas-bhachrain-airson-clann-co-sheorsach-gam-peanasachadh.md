@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2008-04-23 16:59:00
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-04-23-riaghaltas-bhachrain-airson-clann-co-sheorsach-gam-peanasachadh.jpg
+comments: true
 categories:
   - an-t-saoghal
   - creideamh

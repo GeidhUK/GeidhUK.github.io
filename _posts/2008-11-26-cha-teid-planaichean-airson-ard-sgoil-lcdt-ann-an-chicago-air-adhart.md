@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2008-11-26 16:37:18
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-11-26-cha-teid-planaichean-airson-ard-sgoil-lcdt-ann-an-chicago-air-adhart.jpg
+comments: true
 categories:
   - an-t-saoghal
   - foghlam

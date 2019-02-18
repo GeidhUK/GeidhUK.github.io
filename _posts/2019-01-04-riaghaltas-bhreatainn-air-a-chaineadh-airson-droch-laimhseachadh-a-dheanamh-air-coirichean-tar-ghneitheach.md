@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2019-01-04 20:55:27
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2019-01-04-riaghaltas-bhreatainn-air-a-chaineadh-airson-droch-laimhseachadh-a-dheanamh-air-coirichean-tar-ghneitheach.jpg
+comments: true
 categories:
   - an-rioghachd-aonaichte
   - lagh

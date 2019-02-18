@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2008-06-12 14:46:11
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-06-12-buidheann-ameireaganach-a-toirt-dochas-ur-do-fireannaich-le-hiv.jpg
+comments: true
 categories:
   - an-t-saoghal
   - naidheachdan

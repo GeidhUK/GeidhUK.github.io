@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2008-09-28 11:45:00
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-09-28-del-martin-air-basachadh.jpg
+comments: true
 categories:
   - an-t-saoghal
   - naidheachdan

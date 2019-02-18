@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2009-01-29 18:14:28
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2009-01-29-daoine-lcdt-a-togail-casaid-an-aghaidh-riaghaltas-bharain.jpg
+comments: true
 categories:
   - an-t-saoghal
   - naidheachdan

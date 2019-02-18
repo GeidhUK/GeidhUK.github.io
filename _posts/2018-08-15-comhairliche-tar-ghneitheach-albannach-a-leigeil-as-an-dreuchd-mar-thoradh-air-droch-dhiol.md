@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2018-08-15 09:11:01
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-08-15-comhairliche-tar-ghneitheach-albannach-a-leigeil-as-an-dreuchd-mar-thoradh-air-droch-dhiol.jpg
+comments: true
 categories:
   - alba
   - naidheachdan

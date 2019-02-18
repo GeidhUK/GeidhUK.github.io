@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2018-03-27 19:57:22
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-03-27-a-chiad-feis-proise-tar-ghneitheach-ann-an-alba.jpg
+comments: true
 categories:
   - alba
   - feisean-proise

@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2018-07-19 21:15:00
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-07-19-sagart-caitligeach-air-a-chur-a-dreuchd-airson-radh-gun-robh-feis-proise-ghlaschu-a-deanamh-oilbheum-do-dhia.jpg
+comments: true
 categories:
   - alba
   - creideamh

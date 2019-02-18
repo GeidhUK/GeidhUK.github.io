@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2008-04-25 11:22:52
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-04-25-oileanaich-air-feadh-nan-staitean-aonaichte-nan-tost.jpg
+comments: true
 categories:
   - an-rioghachd-aonaichte
   - an-t-saoghal

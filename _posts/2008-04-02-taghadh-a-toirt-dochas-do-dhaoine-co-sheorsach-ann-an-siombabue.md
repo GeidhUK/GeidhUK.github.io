@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2008-04-02 10:20:12
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-04-02-taghadh-a-toirt-dochas-do-dhaoine-co-sheorsach-ann-an-siombabue.jpg
+comments: true
 categories:
   - an-t-saoghal
   - naidheachdan

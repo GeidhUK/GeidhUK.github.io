@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2008-03-14 10:30:13
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-03-14-lagh-an-aghaidh-grain-co-sheorsachd-a-gluasad-air-adhart.jpg
+comments: true
 categories:
   - an-rioghachd-aonaichte
   - naidheachdan

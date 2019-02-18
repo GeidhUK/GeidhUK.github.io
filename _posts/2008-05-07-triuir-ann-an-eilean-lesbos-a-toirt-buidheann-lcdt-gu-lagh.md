@@ -4,6 +4,8 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2008-05-07 09:21:39
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-05-07-triuir-ann-an-eilean-lesbos-a-toirt-buidheann-lcdt-gu-lagh.jpg
+comments: true
+comments: true
 categories:
   - an-roinn-eorpa
   - naidheachdan

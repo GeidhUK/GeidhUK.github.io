@@ -2,6 +2,7 @@
 title: Fèis-pròise Lodainn an Ear
 permalink: /tachartasan/2019-05-11-feis-proise-lodainn-an-ear/
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2019-05-11-feis-proise-lodainn-an-ear.jpg
+comments: true
 layout: tachartas
 date: 2019-05-11 12:00:00
 author: Crìstean MacMhìcheil

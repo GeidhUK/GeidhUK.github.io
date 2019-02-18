@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2008-05-21 11:19:46
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-05-21-posadh-the-final-frontier.jpg
+comments: true
 categories:
   - an-t-saoghal
   - cultar

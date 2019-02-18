@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2008-04-22 16:50:10
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-04-22-iomairt-ex-gay-gu-bhith-steidheachadh-anns-a-chuimrigh.jpg
+comments: true
 categories:
   - an-rioghachd-aonaichte
   - creideamh

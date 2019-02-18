@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2008-11-04 10:17:35
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-11-04-muinntir-chalifornia-gu-bhith-a-bhotadh-air-proposition-8-an-diugh.jpg
+comments: true
 categories:
   - an-t-saoghal
   - lagh

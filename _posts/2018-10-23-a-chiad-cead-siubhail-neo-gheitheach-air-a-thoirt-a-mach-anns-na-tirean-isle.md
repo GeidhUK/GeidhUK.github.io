@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2018-10-23 21:00:24
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-10-23-a-chiad-cead-siubhail-neo-gheitheach-air-a-thoirt-a-mach-anns-na-tirean-isle.jpg
+comments: true
 categories:
   - an-roinn-eorpa
   - an-t-saoghal

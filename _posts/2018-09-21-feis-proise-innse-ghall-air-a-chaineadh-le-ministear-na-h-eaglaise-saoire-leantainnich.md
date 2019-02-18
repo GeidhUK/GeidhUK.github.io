@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2018-09-21 19:19:21
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-09-21-feis-proise-innse-ghall-air-a-chaineadh-le-ministear-na-h-eaglaise-saoire-leantainnich.jpg
+comments: true
 categories:
   - alba
   - creideamh

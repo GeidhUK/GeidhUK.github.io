@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2018-10-23 12:16:39
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-10-23-dochas-ur-airson-posadh-aon-sheorsach-ann-an-eirinn-a-tuath.jpg
+comments: true
 categories:
   - an-rioghachd-aonaichte
   - lagh

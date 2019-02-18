@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2008-11-05 09:11:09
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-11-05-air-urachadh-bhot-california-florida-agus-arizona-airson-casg-a-chur-air-posadh-aon-sheorsach.jpg
+comments: true
 categories:
   - an-t-saoghal
   - lagh

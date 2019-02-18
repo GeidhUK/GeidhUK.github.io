@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2008-07-20 20:45:25
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-07-20-eadailteach-air-80000-fhaighinn-air-sgath-s-gun-do-chiall-e-an-cead-draibhidh-aige-o-chionn-s-gu-bheil-e-co-sheorsach.jpg
+comments: true
 categories:
   - an-roinn-eorpa
   - lagh

@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2008-03-27 08:52:10
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-03-27-duine-trom-air-bruidhinn-a-mach-an-aghaidh-seirbheis-slainte-claon-breitheach.jpg
+comments: true
 categories:
   - an-t-saoghal
   - naidheachdan

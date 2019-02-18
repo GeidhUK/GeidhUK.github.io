@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2008-06-12 12:57:36
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-06-12-feis-proise-lunnainn-air-iris-ur-fhoillseachadh.jpg
+comments: true
 categories:
   - an-rioghachd-aonaichte
   - cultar

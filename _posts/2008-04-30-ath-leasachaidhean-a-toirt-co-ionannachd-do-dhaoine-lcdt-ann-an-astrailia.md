@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2008-04-30 18:15:28
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-04-30-ath-leasachaidhean-a-toirt-co-ionannachd-do-dhaoine-lcdt-ann-an-astrailia.jpg
+comments: true
 categories:
   - an-t-saoghal
   - naidheachdan

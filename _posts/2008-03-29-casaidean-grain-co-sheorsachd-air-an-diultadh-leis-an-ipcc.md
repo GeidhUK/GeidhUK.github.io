@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2008-03-29 10:30:36
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-03-29-casaidean-grain-co-sheorsachd-air-an-diultadh-leis-an-ipcc.jpg
+comments: true
 categories:
   - an-rioghachd-aonaichte
   - lagh

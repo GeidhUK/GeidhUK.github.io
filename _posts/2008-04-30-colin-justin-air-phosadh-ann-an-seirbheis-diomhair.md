@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2008-04-30 19:34:14
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-04-30-colin-justin-air-phosadh-ann-an-seirbheis-diomhair.jpg
+comments: true
 categories:
   - alba
   - cultar

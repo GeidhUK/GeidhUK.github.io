@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2008-03-28 09:09:59
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-03-28-droch-laimhseachadh-de-dhaoine-a-sireadh-tearmann-na-ghaoid-air-cliu-an-rioghachd-aonaichte.jpg
+comments: true
 categories:
   - an-rioghachd-aonaichte
   - an-t-saoghal

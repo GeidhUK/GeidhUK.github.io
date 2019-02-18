@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2009-01-29 19:55:46
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2009-01-29-caitligich-albannach-air-radh-gu-bheil-co-sheorsachd-ag-adhbharachadh-bais-tratha.jpg
+comments: true
 categories:
   - alba
   - an-rioghachd-aonaichte

@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2019-02-17 18:00:00
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2019-02-17-a-gluasad-bho-wordpress-gu-jekyll.jpg
+comments: true
 categories:
 - blog
 - naidheachdan

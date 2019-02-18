@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2008-03-29 09:58:46
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-03-29-neach-poileataigs-aig-a-bheil-grain-co-sheorsachd-a-coinneachadh-le-pflag.jpg
+comments: true
 categories:
   - an-t-saoghal
   - creideamh

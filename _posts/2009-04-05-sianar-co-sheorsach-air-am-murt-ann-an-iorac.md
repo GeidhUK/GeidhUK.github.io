@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2009-04-05 19:02:10
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2009-04-05-sianar-co-sheorsach-air-am-murt-ann-an-iorac.jpg
+comments: true
 categories:
   - an-t-saoghal
   - creideamh

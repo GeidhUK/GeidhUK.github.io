@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2008-04-03 19:59:03
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-04-03-companasan-catharra-ann-an-eirinn-gu-bhith-a-cumail-a-mach-coirichean-airson-parantan-lcdt.jpg
+comments: true
 categories:
   - eirinn
   - lagh

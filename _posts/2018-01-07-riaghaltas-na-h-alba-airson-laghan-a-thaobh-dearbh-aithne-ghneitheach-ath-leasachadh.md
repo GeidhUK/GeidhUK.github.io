@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2018-01-07 21:30:01
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-01-07-riaghaltas-na-h-alba-airson-laghan-a-thaobh-dearbh-aithne-ghneitheach-ath-leasachadh.jpg
+comments: true
 categories:
   - alba
   - an-rioghachd-aonaichte

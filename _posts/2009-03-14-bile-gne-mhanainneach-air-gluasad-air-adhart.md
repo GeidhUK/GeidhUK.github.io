@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2009-03-14 20:33:39
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2009-03-14-bile-gne-mhanainneach-air-gluasad-air-adhart.jpg
+comments: true
 categories:
   - an-rioghachd-aonaichte
   - an-roinn-eorpa

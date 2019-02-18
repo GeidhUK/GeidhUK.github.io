@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2008-04-06 21:21:39
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-04-06-coimhearsnachd-lcdte-an-duil-ri-leth-bhreith-anns-a-h-uile-a-aite.jpg
+comments: true
 categories:
   - an-rioghachd-aonaichte
   - naidheachdan

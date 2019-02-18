@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2018-01-07 18:02:27
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-01-07-42-tagraichean-lcdt-a-sireadh-taghaidh-ann-an-teagsas-am-bliadhna.jpg
+comments: true
 categories:
   - an-t-saoghal
   - naidheachdan

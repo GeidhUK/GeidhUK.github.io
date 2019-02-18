@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2008-05-12 16:31:06
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-05-12-bile-nan-eucoirean-graineil-air-a-dheanamh-laghail-leis-a-pharlamaid.jpg
+comments: true
 categories:
   - an-rioghachd-aonaichte
   - lagh

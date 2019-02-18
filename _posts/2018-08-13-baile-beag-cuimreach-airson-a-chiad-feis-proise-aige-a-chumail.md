@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2018-08-13 20:45:18
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-08-13-baile-beag-cuimreach-airson-a-chiad-feis-proise-aige-a-chumail.jpg
+comments: true
 categories:
   - an-rioghachd-aonaichte
   - feisean-proise

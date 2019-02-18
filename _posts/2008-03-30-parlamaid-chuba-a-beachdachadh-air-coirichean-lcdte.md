@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2008-03-30 10:11:56
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-03-30-parlamaid-chuba-a-beachdachadh-air-coirichean-lcdte.jpg
+comments: true
 categories:
   - an-t-saoghal
   - lagh

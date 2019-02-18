@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2018-03-18 16:27:45
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-03-18-feisean-proise-2018.jpg
+comments: true
 categories:
   - alba
   - an-rioghachd-aonaichte

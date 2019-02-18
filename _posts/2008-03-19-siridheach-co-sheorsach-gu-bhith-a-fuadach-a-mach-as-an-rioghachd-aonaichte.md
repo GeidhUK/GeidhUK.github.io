@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2008-03-19 07:47:57
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-03-19-siridheach-co-sheorsach-gu-bhith-a-fuadach-a-mach-as-an-rioghachd-aonaichte.jpg
+comments: true
 categories:
   - alba
   - an-rioghachd-aonaichte

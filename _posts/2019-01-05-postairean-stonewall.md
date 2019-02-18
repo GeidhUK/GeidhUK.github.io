@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2019-01-05 21:50:34
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2019-01-05-postairean-stonewall.png
+comments: true
 categories:
   - blog
   - gaidhlig

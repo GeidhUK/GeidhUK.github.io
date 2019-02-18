@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2008-12-06 23:11:27
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-12-06-tha-bhidio-ur-air-nochdadh-an-aghaidh-proposition-8.jpg
+comments: true
 categories:
   - an-t-saoghal
   - lagh

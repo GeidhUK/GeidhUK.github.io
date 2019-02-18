@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2018-03-24 21:24:35
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-03-24-a-chiad-feis-proise-pheairt.jpg
+comments: true
 categories:
   - alba
   - feisean-proise

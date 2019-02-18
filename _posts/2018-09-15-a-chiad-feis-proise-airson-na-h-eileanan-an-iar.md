@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2018-09-15 09:44:15
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-09-15-a-chiad-feis-proise-airson-na-h-eileanan-an-iar.jpg
+comments: true
 categories:
   - alba
   - feisean-proise

@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2018-11-26 12:33:21
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-11-26-riaghailtean-ura-gus-deiligeadh-ri-grain-tar-ghneitheachd-air-twitter.jpg
+comments: true
 categories:
   - naidheachdan
   - teicneolas

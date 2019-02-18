@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2018-06-06 21:02:49
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-06-06-parlamaid-na-h-alba-air-bhotadh-gus-lagh-thuring-a-chur-an-gniomh.jpg
+comments: true
 categories:
   - alba
   - naidheachdan

@@ -2,6 +2,7 @@
 title: Fèis-pròise Àtha Cliath
 permalink: /tachartasan/2019-06-20-feis-proise-atha-cliath/
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2019-06-20-feis-proise-atha-cliath.jpg
+comments: true
 layout: tachartas
 date: 2019-06-20 12:00:00
 author: Crìstean MacMhìcheil

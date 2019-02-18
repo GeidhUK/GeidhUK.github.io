@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2018-03-26 20:41:08
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-03-26-casg-air-tar-ghneithich-ann-an-seirbheisean-armailteach-nan-staitean-aonaichte.jpg
+comments: true
 categories:
   - an-t-saoghal
   - naidheachdan

@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2009-03-13 22:11:34
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2009-03-13-deasbad-mu-dhaoine-co-sheorsach-a-toirt-seachad-fala.jpg
+comments: true
 categories:
   - an-rioghachd-aonaichte
   - naidheachdan

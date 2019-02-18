@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2018-07-17 20:54:17
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-07-17-luchd-poilitigs-co-sheorsach-airson-reifreann-eile-air-brexit.jpg
+comments: true
 categories:
   - an-rioghachd-aonaichte
   - an-roinn-eorpa

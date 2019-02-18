@@ -2,6 +2,7 @@
 title: The Gaylidh
 permalink: /tachartasan/2019-02-16-the-gaylidh/
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2019-02-16-the-gaylidh.jpg
+comments: true
 layout: tachartas
 date: 2019-02-16 19:00:00
 author: Crìstean MacMhìcheil

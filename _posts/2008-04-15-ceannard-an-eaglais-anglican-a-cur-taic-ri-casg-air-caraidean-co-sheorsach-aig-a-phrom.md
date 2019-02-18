@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2008-04-15 08:22:56
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-04-15-ceannard-an-eaglais-anglican-a-cur-taic-ri-casg-air-caraidean-co-sheorsach-aig-a-phrom.jpg
+comments: true
 categories:
   - an-t-saoghal
   - creideamh

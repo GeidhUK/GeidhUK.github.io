@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2018-07-15 20:47:50
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-07-15-nicola-sturgeon-na-h-ard-mharasgal-na-caismeachd-aig-feis-proise-ghlaschu.jpg
+comments: true
 categories:
   - alba
   - feisean-proise

@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2010-10-22 10:35:55
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2010-10-22-iomairt-facebook-airson-a-chiad-ceann-suidhe-co-sheorsach-aig-na-h-eirinn.jpg
+comments: true
 categories:
   - an-roinn-eorpa
   - eirinn

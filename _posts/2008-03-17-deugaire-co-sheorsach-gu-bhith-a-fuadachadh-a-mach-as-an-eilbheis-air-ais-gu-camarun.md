@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2008-03-17 18:36:35
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-03-17-deugaire-co-sheorsach-gu-bhith-a-fuadachadh-a-mach-as-an-eilbheis-air-ais-gu-camarun.jpg
+comments: true
 categories:
   - an-roinn-eorpa
   - lagh

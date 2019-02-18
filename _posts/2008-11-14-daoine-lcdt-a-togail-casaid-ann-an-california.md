@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2008-11-14 14:23:20
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-11-14-daoine-lcdt-a-togail-casaid-ann-an-california.jpg
+comments: true
 categories:
   - an-t-saoghal
   - feisean-proise

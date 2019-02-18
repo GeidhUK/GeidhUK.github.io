@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2008-10-04 13:35:18
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-10-04-proposition-8-a-caill-taic-ann-an-california.jpg
+comments: true
 categories:
   - an-t-saoghal
   - lagh

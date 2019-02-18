@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2010-04-08 13:18:35
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2010-04-08-aonadh-eireannach-air-radh-gu-bheil-leth-bhreith-ceadaichte-ann-an-sgoiltean.jpg
+comments: true
 categories:
   - an-roinn-eorpa
   - eirinn

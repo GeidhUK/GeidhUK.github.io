@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2008-04-09 08:30:36
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-04-09-larach-lin-air-a-chaineadh-airson-faighneachd-dhan-luchd-cleachdaidh-mun-gneitheachd-aca.jpg
+comments: true
 categories:
   - an-t-saoghal
   - lagh

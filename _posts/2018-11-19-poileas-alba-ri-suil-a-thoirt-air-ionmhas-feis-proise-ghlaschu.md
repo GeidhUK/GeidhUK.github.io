@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2018-11-19 17:23:34
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-11-19-poileas-alba-ri-suil-a-thoirt-air-ionmhas-feis-proise-ghlaschu.jpg
+comments: true
 categories:
   - alba
   - feisean-proise

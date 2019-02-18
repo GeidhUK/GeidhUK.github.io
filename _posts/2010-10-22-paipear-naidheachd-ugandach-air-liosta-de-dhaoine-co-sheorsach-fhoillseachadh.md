@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2010-10-22 09:59:38
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2010-10-22-paipear-naidheachd-ugandach-air-liosta-de-dhaoine-co-sheorsach-fhoillseachadh.jpg
+comments: true
 categories:
   - an-t-saoghal
   - naidheachdan

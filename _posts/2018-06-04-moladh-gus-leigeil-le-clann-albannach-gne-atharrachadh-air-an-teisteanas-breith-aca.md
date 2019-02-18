@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2018-06-04 10:48:30
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-06-04-moladh-gus-leigeil-le-clann-albannach-gne-atharrachadh-air-an-teisteanas-breith-aca.jpg
+comments: true
 categories:
   - alba
   - naidheachdan

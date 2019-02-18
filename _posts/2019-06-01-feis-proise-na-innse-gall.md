@@ -2,6 +2,7 @@
 title: Fèis-pròise na h-Innse Gall 2019
 permalink: /tachartasan/2019-06-01-feis-proise-na-innse-gall/
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2019-06-01-feis-proise-na-innse-gall.jpg
+comments: true
 layout: tachartas
 date: 2019-06-01 13:30:00
 author: Crìstean MacMhìcheil

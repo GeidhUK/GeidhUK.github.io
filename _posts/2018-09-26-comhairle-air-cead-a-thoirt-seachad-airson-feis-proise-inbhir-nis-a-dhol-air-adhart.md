@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2018-09-26 13:00:10
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-09-26-comhairle-air-cead-a-thoirt-seachad-airson-feis-proise-inbhir-nis-a-dhol-air-adhart.jpg
+comments: true
 categories:
   - alba
   - feisean-proise
