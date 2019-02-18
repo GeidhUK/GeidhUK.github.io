@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2019-01-28 19:51:39
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2019-01-28-leigheas-siolachadh-in-bhiotro-air-a-thabhann-do-charaid-fhireannach-ann-an-alba.jpg
+comments: true
 categories:
   - alba
   - an-rioghachd-aonaichte
