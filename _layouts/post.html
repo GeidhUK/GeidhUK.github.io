@@ -23,11 +23,11 @@ layout: default
 
       <div class="PageNavigation">
         {% if page.previous.url %}
-          {{ unless page.categories contains "tachartasan"}}
+          {{ unless page.categories.naidheachdan"}}
           <a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
         {% endif %}
         {% if page.next.url %}
-          {{ unless page.categories contains "tachartasan"}}
+          {{ unless page.categories.naidheachdan"}}
           <a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
         {% endif %}
       </div>
