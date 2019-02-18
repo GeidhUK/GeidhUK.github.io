@@ -9,7 +9,7 @@ categories:
 - naidheachdan
 tags: blog, GeidhUK, Naidheachdan Pinc, LCDTQ, Naidheachdan, ùrachadh, Jekyll, Wordpress
 twitter-comments: https://twitter.com/GeidhUK/status/1097224641616203776
-facebook-comments:
+facebook-comments: https://www.facebook.com/GeidhUK/posts/2158791507476727?__xts__%5B0%5D=68.ARA4y5oomFcYliIhoMztLdLNdgli7Q495lH7kL8jeATafvOOqliyzaxsiwL21ID6K5gZqQZTb_u7RJHoj8thFrhykJgWtPuzrDij4mPgWtN-9b49enGCiZJKPuYIWlnTSBAWaizPbRME4l08UbQrUNtz6nxCbv9zi_9C3bBbMYNkG0BuxXgVE0bOWC_aKfSkkihmH138abNwmjLZQQsEC6dLAsClHLT8_mcmFFklLTbo9cM0lZYvYy6UfUP3UNPz4dtoS8-hS3FLQKMdlU3WYBLMQlkp7Q6vT0h3tv_OYfr9hX24dUvRdxiC7mcRSbdtctYnGRur1gxXMKg01IpzIjzt7QKB&__tn__=-R
 ---
 
 O chionn 2008 tha Geidh.uk air a bhith na bhlog Wordpress (a' ruith grunn plugain treas-phàrtaidh) a tha mi air a bhith ag òstaireachd agus a' cumail suas leam fhèin.
