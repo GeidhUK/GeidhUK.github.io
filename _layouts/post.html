@@ -21,6 +21,19 @@ layout: default
         {{ content }}
       </div>
 
+      <div class="comments">
+        {% if post.twitter-comments and post.facebook-comments %}
+        <h4>Beachdan</h4>
+        <p>Ma tha beachd agaibh air am post seo, faodaidh sibh freagairt a chur ris air <a href="{{ post.twitter-comments }}">Twitter</a> no <a href="{{ post.facebook-comments }}">Facebook</a>.
+        {% elsif post.twitter-comments %}
+        <h4>Beachdan</h4>
+        <p>Ma tha beachd agaibh air am post seo, faodaidh sibh freagairt a chur ris air <a href="{{ post.twitter-comments }}">Twitter</a>.
+        {% elsif post.facebook-comments %}
+        <h4>Beachdan</h4>
+        <p>Ma tha beachd agaibh air am post seo, faodaidh sibh freagairt a chur ris air <a href="{{ post.facebook-comments }}">Facebook</a>.
+        {% endif %}
+      </div>
+
       <div class="related">
         {% unless page.categories == null %}
       	  {% capture pageCategory %}{{ page.categories[0] }}{% endcapture %}
