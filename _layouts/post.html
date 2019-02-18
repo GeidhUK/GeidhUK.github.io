@@ -23,13 +23,25 @@ layout: default
 
       <div class="PageNavigation">
         {% for post in site.categories.naidheachdan %}
-          {% if page.previous.url %}
-            <a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
-          {% endif %}
-          {% if page.next.url %}
-            <a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
-          {% endif %}
-        {% endfor %}
+                {% if post.url == page.url %}
+                    {% assign post_index0 = forloop.index0 %}
+                    {% assign post_index1 = forloop.index %}
+                {% endif %}
+            {% endfor %}
+            {% for post in site.categories.naidheachdan %}
+                {% if post_index0 == forloop.index %}
+                    {% assign next_post = post.url %}
+                {% endif %}
+                {% if post_index1 == forloop.index0 %}
+                    {% assign prev_post = post.url %}
+                {% endif %}
+            {% endfor %}
+            {% if next_post %}
+                <a href="{{ next_post }}">Nas ùire</a> <br>
+            {% endif %}
+            {% if prev_post %}
+                <a href="{{ prev_post }}">Nas sìne</a> <br>
+            {% endif %}
       </div>
 
       <div class="comments">
