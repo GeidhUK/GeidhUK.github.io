@@ -36,11 +36,11 @@ layout: default
                     {% assign prev_post = post.url %}
                 {% endif %}
             {% endfor %}
-            {% if next_post %}
-                <a class="next" href="{{ next_post }}">Nas ùire</a> <br>
-            {% endif %}
             {% if prev_post %}
                 <a class="prev" href="{{ prev_post }}">Nas sìne</a> <br>
+            {% endif %}
+            {% if next_post %}
+                <a class="next" href="{{ next_post }}">Nas ùire</a> <br>
             {% endif %}
       </div>
 
