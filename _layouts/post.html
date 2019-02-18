@@ -44,7 +44,6 @@ layout: default
             {% endif %}
       </div>
       <hr>
-      <hr>
       <div class="related">
         {% unless page.categories == null %}
       	  {% capture pageCategory %}{{ page.categories[0] }}{% endcapture %}
@@ -66,6 +65,7 @@ layout: default
       	  {% endunless %}
       	{% endunless %}
       </div>
+      <hr>
       <div class="comments">
         {% if page.comments %}
         <div id="disqus_thread"></div>
