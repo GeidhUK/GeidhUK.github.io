@@ -4,7 +4,7 @@ title: Ceanglaichean
 permalink: /ceanglaichean/
 ---
 
-  [![Pink Saltire]({{ site.baseurl }}/images/pink_saltire_logo.jpg){: .post-image }](https://pinksaltire.com/)
+  [![Pink Saltire]({{ site.baseurl }}/images/pink_saltire_logo.jpg){: .post-image width: 100px }](https://pinksaltire.com/)
 
   [![LGBT.scot]({{ site.baseurl }}/images/lgbt_scot_logo.jpg){: .post-image }](http://www.lgbt.scot/)
 
