@@ -4,17 +4,9 @@ title: Ceanglaichean
 permalink: /ceanglaichean/
 ---
 
-<div class="row">
-  <div class="col-md-4">
   [![Pink Saltire]({{ site.baseurl }}/images/pink_saltire_logo.jpg)](https://pinksaltire.com/){: .post-image }
-  </div>
-  <div class="col-md-4">
   [![Naidheachdan AAA]({{ site.baseurl }}/images/naidheachdan_aaa_logo.jpg)](https://twitter.com/naidheachdanaaa){: .post-image }
-  </div>
-  <div class="col-md-4">
   [![LGBT.scot]({{ site.baseurl }}/images/lgbt_scot_logo.jpg)](http://www.lgbt.scot/){: .post-image }
-  </div>
-</div>
 
 Gu h-ìosal tha liosta de cheanglaichean a dh'fhaodadh a bhith feumail no inntinneach dhuibh. Leigibh fios thugainn air [Twitter](https://www.twitter.com/GeidhUK/) ma tha sibh airson gun cuir sinn ceangal ris an liosta.
 
