@@ -4,11 +4,11 @@ title: Ceanglaichean
 permalink: /ceanglaichean/
 ---
 
-  [![Pink Saltire]({{ site.baseurl }}/images/pink_saltire_logo.jpg){: .post-image width: "100px" }](https://pinksaltire.com/)
+  [![Pink Saltire]({{ site.baseurl }}/images/pink_saltire_logo.jpg){: .post-image width="100px" }](https://pinksaltire.com/)
 
-  [![LGBT.scot]({{ site.baseurl }}/images/lgbt_scot_logo.jpg){: .post-image }](http://www.lgbt.scot/)
+  [![LGBT.scot]({{ site.baseurl }}/images/lgbt_scot_logo.jpg){: .post-image width="100px" }](http://www.lgbt.scot/)
 
-  [![Naidheachdan AAA]({{ site.baseurl }}/images/naidheachdan_aaa_logo.jpg){: .post-image }](https://twitter.com/naidheachdanaaa)
+  [![Naidheachdan AAA]({{ site.baseurl }}/images/naidheachdan_aaa_logo.jpg){: .post-image width="100px" }](https://twitter.com/naidheachdanaaa)
 
 
 Gu h-ìosal tha liosta de cheanglaichean a dh'fhaodadh a bhith feumail no inntinneach dhuibh. Leigibh fios thugainn air [Twitter](https://www.twitter.com/GeidhUK/) ma tha sibh airson gun cuir sinn ceangal ris an liosta.
