@@ -4,10 +4,9 @@ title: Ceanglaichean
 permalink: /ceanglaichean/
 ---
 
-{% include links.html %}
-
-
 Gu h-ìosal tha liosta de cheanglaichean a dh'fhaodadh a bhith feumail no inntinneach dhuibh. Leigibh fios thugainn air [Twitter](https://www.twitter.com/GeidhUK/) ma tha sibh airson gun cuir sinn ceangal ris an liosta.
+
+{% include links.html %}
 
 #### Blogaichean
 
