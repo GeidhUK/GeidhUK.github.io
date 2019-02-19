@@ -6,13 +6,13 @@ permalink: /ceanglaichean/
 
 <div class="row">
   <div class="col-md-4">
-  [![Pink Saltire]({{ site.baseurl }}/images/pink_saltire_logo.jpg)](https://pinksaltire.com/)
+  [![Pink Saltire]({{ site.baseurl }}/images/pink_saltire_logo.jpg)](https://pinksaltire.com/){: .post-image }
   </div>
   <div class="col-md-4">
-  [![Naidheachdan AAA]({{ site.baseurl }}/images/naidheachdan_aaa_logo.jpg)](https://twitter.com/naidheachdanaaa)
+  [![Naidheachdan AAA]({{ site.baseurl }}/images/naidheachdan_aaa_logo.jpg)](https://twitter.com/naidheachdanaaa){: .post-image }
   </div>
   <div class="col-md-4">
-  [![LGBT.scot]({{ site.baseurl }}/images/lgbt_scot_logo.jpg)](http://www.lgbt.scot/)
+  [![LGBT.scot]({{ site.baseurl }}/images/lgbt_scot_logo.jpg)](http://www.lgbt.scot/){: .post-image }
   </div>
 </div>
 
