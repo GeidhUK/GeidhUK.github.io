@@ -19,14 +19,10 @@ twitter_username: anlanntair
 
 Into Film is proud to present an educational screening of Love, Simon as part of our LGBT History Month programme showcasing LGBTQ+ cinema.
 
+<!--more-->
+
 Please contact info@intofilm.org with any queries.
 
 Recommended for ages 11 to 16
 
 This free event is for school groups only. Please book for your class or group [here](https://www.intofilm.org/events/249).
-
-<!--more-->
-
-To support our LGBTI community, we will be collecting signatures on our Pride flag. Also feel free to wear purple though this is not a requirement.
-
-See you all Friday!
