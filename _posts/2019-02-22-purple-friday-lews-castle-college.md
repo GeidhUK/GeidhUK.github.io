@@ -1,5 +1,5 @@
 ---
-title: Lews Castle College: Purple Friday
+title: Lews Castle College - Purple Friday
 permalink: /tachartasan/2019-02-22-purple-friday-lews-castle-college/
 image: /images/2019-02-22-purple-friday-lews-castle-college.jpg
 comments: true
@@ -8,7 +8,7 @@ date: 2019-02-22 10:30:00
 author: Crìstean MacMhìcheil
 categories: tachartasan
 hidden: true
-tags: 
+tags:
 ceann-latha: 22mh An Gearran 2019 @ 10:30m
 seoladh: Colaisde a' Chaisteil, Steòrnabhagh HS2 0XR
 larach-lin: https://www.lews.uhi.ac.uk/
