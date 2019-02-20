@@ -10,8 +10,8 @@ hidden: true
 ceann-latha: 21mh An Gearran 2019 @ 07:00f
 seoladh: LGBT Youth Scotland, Dùn Èideann EH6 6JD
 larach-lin: https://www.lgbtyouth.org.uk/
-facebook: https://twitter.com/lgbtys
-twitter: https://www.facebook.com/lgbtys/
+facebook: https://www.facebook.com/lgbtys/
+twitter: https://twitter.com/lgbtys
 twitter_username: lgbtys
 ---
 
