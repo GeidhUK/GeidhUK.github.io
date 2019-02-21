@@ -16,7 +16,7 @@ Tha David Mundelll BP, air ràdh gum b' e tighinn a-mach aon de na rudan as duil
 
 <!--more-->
 
-"B' e tighinn a-mach aon de na rudan as duilghe a rinn mi, ach aon de na rudan as cudromaiche cuideachd. Bha mi leis an taic a fhuair mi bho càirdean, teaghlach agus co-obraichean."
+"B' e tighinn a-mach aon de na rudan as duilghe a rinn mi, ach aon de na rudan as cudromaiche cuideachd. Bha mi air mo cheannsachadh leis an taic mòr a fhuair mi bho càirdean, teaghlach agus co-obraichean."
 
 "Bu chòir a h-uile duine a bhith comasach air fuireach mar a thogras iad, gu sàbhailte, gu misneachail agus gun eagal ro bhreith no leth-bhreith. Tha sinn air adhartas mòr a dhèanamh a thaobh còirichean airson ar coimhearsnachdan LCDT, agus tha Mìos Eachdraidh LCDT na chuimhneachan luachmhor air na coileanaidhean sin a chaidh a bhuannachadh le oidhirp mhòr."
 
