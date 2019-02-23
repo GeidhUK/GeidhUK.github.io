@@ -10,7 +10,7 @@ permalink: /mios-eachdraidh-lcdt/
 
 ![]({{ site.baseurl }}/images/mios-eachdraidh-lcdt/Kertbeny.png){: .post-image }
 
-![]]({{ site.baseurl }}/images/mios-eachdraidh-lcdt/Wilde.png){: .post-image }
+![]({{ site.baseurl }}/images/mios-eachdraidh-lcdt/Wilde.png){: .post-image }
 
 ![]({{ site.baseurl }}/images/mios-eachdraidh-lcdt/WW2.png){: .post-image }
 
