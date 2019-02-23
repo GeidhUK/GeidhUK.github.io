@@ -24,4 +24,4 @@ permalink: /mios-eachdraidh-lcdt/
 
 ![]({{ site.baseurl }}/images/mios-eachdraidh-lcdt/Marsha.jpg){: .post-image }
 
-![]({{ site.baseurl }}/images/mios-eachdraidh-lcdt/Dihaoine-Purpaidh.jpg){: .post-image }
+![]({{ site.baseurl }}/images/mios-eachdraidh-lcdt/Dihaoine-Purpaidh.png){: .post-image }
