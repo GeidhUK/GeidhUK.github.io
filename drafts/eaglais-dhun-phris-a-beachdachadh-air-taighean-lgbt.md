@@ -4,6 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2019-02-24 20:15:00
 image: /images/.jpg
+image-caption: © Copyright Billy McCrorie and licensed for reuse under this Creative Commons Licence.
 comments: true
 categories:
 - alba
@@ -32,4 +33,4 @@ Mhìnich i gu bheil iad airson am pròiseact rud beag diofraichte a dhèanamh ag
 
 "'S e seo buidheann so-leònte a bhiodh airson greim a ghabhail air cothrom air dòigh-beatha nas bailteil."
 
-Airson barrachd ionnsachadh mun sgeulachd seo, tadhalaibh air BBC News: [LGBT-friendly homes at Dumfries church could be 'life-changing'](https://www.bbc.co.uk/news/uk-scotland-south-scotland-47291707)
+Airson barrachd ionnsachadh mun sgeulachd seo, tadhalaibh air BBC News: [LGBT-friendly homes at Dumfries church could be 'life-changing'](https://www.bbc.co.uk/news/uk-scotland-south-scotland-47291707).
