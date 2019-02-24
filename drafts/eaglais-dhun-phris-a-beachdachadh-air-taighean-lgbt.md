@@ -21,13 +21,13 @@ Chaidh an eaglais a thogail anns na 1860'an agus tha i fhathast aon de na toglai
 
 Thuirt Dr. Belle Doyle, a tha a' stiùireadh an sgioba dealbhaidh, ris a' BhBC gu bheil Eaglais Anglach an Naoimh Brìghde air a bhith a' coimhead air àm ri teachd na h-eaglaise.
 
-"'S e aon dhe na duilgheadasan a th' ann gur e eaglais uabhasach mhòr agus cha bhi mòran dhaoine ga cleachdadh a-nis, ars i."
+"'S e aon dhe na duilgheadasan a th' ann gur e eaglais uabhasach mhòr agus cha bhi mòran dhaoine ga cleachdadh a-nis", ars i.
 
 "B' e am beachd rudeigin a thogail aig a' chùl a bhiodh a' pàigheadh beagan de mhàl talmhainn no rudeigin gus an eaglais a chumail a' dol."
 
 Mhìnich i gu bheil iad airson pròiseact rud beag diofraichte a dhèanamh agus iad a' beachdachadh air taighean a leasachadh do dhaoine LCDT nas sine.
 
-"Tha mi air a bhith an-sàs leis a' bhuidheann LCDT ann an Dùn Prìs is Gall-Ghaidhealaibh fiù 's mus robh LCDT air, lean i air adhart."
+"Tha mi air a bhith an-sàs leis a' bhuidheann LCDT ann an Dùn Prìs is Gall-Ghaidhealaibh fiù 's mus robh LCDT air", lean i air adhart.
 
 "Tha mi eòlach air tòrr dhaoine, ged a tha iad ag iarraidh a bhith a' fuireach san sgìre, tha daoine a' fàs nas sine, tha iad a' fàs beagan nas iomallaiche."
 
