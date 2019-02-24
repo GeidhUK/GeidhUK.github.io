@@ -16,7 +16,7 @@ Tha [BBC News ag aithris](https://www.bbc.co.uk/news/uk-scotland-south-scotland-
 
 <!--more-->
 
-Chaidh an eaglais a thogail ann na 1860'an agus tha i fhathast aon de na toglaichean as fhollaisiche sa bhaile.
+Chaidh an eaglais a thogail anns na 1860'an agus tha i fhathast aon de na toglaichean as fhollaisiche sa bhaile.
 
 'S e Dr. Belle Doyle a tha a' stiùireadh an sgioba a bhios a' beachdachadh air cleachdaidhean airson an eaglais san àm ri teachd.
 
