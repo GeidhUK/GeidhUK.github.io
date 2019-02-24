@@ -4,7 +4,7 @@ author: Crìstean MacMhìcheil
 type: post
 date: 2019-02-24 20:15:00
 image: /images/eaglais-dhun-phris-a-beachdachadh-air-taighean-lgbt.jpg
-image-caption: © Copyright Billy McCrorie and licensed for reuse under this Creative Commons Licence.
+image-caption: Dealbh le Billy McCrorie. Ceadaichte fo Creative Commons.
 comments: true
 categories:
 - alba
