@@ -1,5 +1,5 @@
 ---
-title: Eaglais Dhùn Phrìs a' beachdachadh air taighean LCBT
+title: Eaglais Dhùn Phrìs a' beachdachadh air taighean LCDT a' leasachadg
 author: Crìstean MacMhìcheil
 type: post
 date: 2019-02-24 20:15:00
@@ -18,9 +18,7 @@ Tha [BBC News ag aithris](https://www.bbc.co.uk/news/uk-scotland-south-scotland-
 
 Chaidh an eaglais a thogail anns na 1860'an agus tha i fhathast aon de na toglaichean as fhollaisiche sa bhaile.
 
-'S e Dr. Belle Doyle a tha a' stiùireadh an sgioba a bhios a' beachdachadh air cleachdaidhean airson an eaglais san àm ri teachd.
-
-Thuirt i ris a' BhBC Eaglais Anglach an Naoimh Brìghde - leis a bheil i ag obair - air a bhith a' coimhead air àm ri teachd na h-eaglaise.
+Thuirt Dr. Belle Doyle, a tha a' stiùireadh an sgioba dealbhaidh, ris a' BhBC gu bheil Eaglais Anglach an Naoimh Brìghde air a bhith a' coimhead air àm ri teachd na h-eaglaise.
 
 "'S e aon dhe na duilgheadasan a th' ann gur e eaglais uabhasach mhòr agus cha bhi mòran dhaoine ga cleachdadh a-nis."
 
