@@ -7,7 +7,7 @@ html {
 }
 
 /* Center Post Images */
-.brand-image, .post-image {
+.brand-image, .post-image, .timeline-image {
     margin: 0 auto;
     display: block;
     max-width: 100%;
