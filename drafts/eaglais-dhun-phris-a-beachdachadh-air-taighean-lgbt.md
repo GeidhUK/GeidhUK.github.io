@@ -1,9 +1,9 @@
 ---
-title: Eaglais Dhùn Phrìs a' beachdachadh air taighean LCDT a' leasachadg
+title: Eaglais Dhùn Phrìs a' beachdachadh air taighean LCDT a' leasachadh
 author: Crìstean MacMhìcheil
 type: post
 date: 2019-02-24 20:15:00
-image: /images/.jpg
+image: /images/eaglais-dhun-phris-a-beachdachadh-air-taighean-lgbt.jpg
 image-caption: © Copyright Billy McCrorie and licensed for reuse under this Creative Commons Licence.
 comments: true
 categories:
