@@ -16,8 +16,14 @@ layout: default
             </a>
           {% endfor %}
         </span>
+        {{ if post.image-caption }}
+        <figure>
           <img src="{{ page.image }}" class="post-image">
-
+          <figcaption><small>{{ image.caption }}</small></figcaption>
+        </figure>
+        {{ else }}
+          <img src="{{ page.image }}" class="post-image">
+        {{ endif }}
         {{ content }}
       </div>
       <hr>
