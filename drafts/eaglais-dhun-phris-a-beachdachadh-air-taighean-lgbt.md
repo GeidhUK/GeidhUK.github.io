@@ -21,7 +21,7 @@ Chaidh an eaglais a thogail anns na 1860'an agus tha i fhathast aon de na toglai
 
 Thuirt Dr. Belle Doyle, a tha a' stiùireadh an sgioba dealbhaidh, ris a' BhBC gu bheil Eaglais Anglach an Naoimh Brìghde air a bhith a' coimhead air àm ri teachd na h-eaglaise.
 
-"'S e aon dhe na duilgheadasan a th' ann gur e eaglais uabhasach mhòr agus cha bhi mòran dhaoine ga cleachdadh a-nis."
+"'S e aon dhe na duilgheadasan a th' ann gur e eaglais uabhasach mhòr agus cha bhi mòran dhaoine ga cleachdadh a-nis, ars i."
 
 "B' e am beachd rudeigin a thogail aig a' chùl a bhiodh a' pàigheadh beagan de mhàl talmhainn no rudeigin gus an eaglais a chumail a' dol."
 
