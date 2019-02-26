@@ -7,7 +7,7 @@ layout: tachartas
 date: 2019-05-18 00:00:00
 categories: tachartasan
 hidden: true
-ceann-latha: 18mh Am Cèitean 2019
+ceann-latha: 18mh An Cèitean 2019
 seoladh:
 larach-lin:
 facebook: https://www.facebook.com/ObanPride/
