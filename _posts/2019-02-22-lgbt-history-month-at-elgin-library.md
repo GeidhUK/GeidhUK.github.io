@@ -6,7 +6,7 @@ comments: true
 layout: tachartas
 date: 2019-02-22 10:30:00
 author: Crìstean MacMhìcheil
-categories: tachartasan
+categories: tachartasan-roimhe
 hidden: true
 tags:
 ceann-latha: 22mh An Gearran 2019 @ 10:30m
