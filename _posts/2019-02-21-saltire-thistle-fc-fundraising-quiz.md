@@ -5,7 +5,7 @@ image: /images/2019-02-21-saltire-thistle-fc-fundraising-quiz.jpg
 comments: true
 layout: tachartas
 date: 2019-02-21 20:00:00
-categories: tachartasan
+categories: tachartasan-roimhe
 hidden: true
 ceann-latha: 21mh An Gearran 2019 @ 08:00f
 seoladh: Merchant Gallery Bar, Glaschu

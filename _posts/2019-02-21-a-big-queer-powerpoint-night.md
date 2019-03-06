@@ -5,7 +5,7 @@ image: /images/2019-02-21-a-big-queer-powerpoint-night.jpg
 comments: true
 layout: tachartas
 date: 2019-02-21 19:00:00
-categories: tachartasan
+categories: tachartasan-roimhe
 hidden: true
 ceann-latha: 21mh An Gearran 2019 @ 07:00f
 seoladh: The Vic Bar, Glaschu

@@ -5,7 +5,7 @@ image: /images/2019-02-21-the-pride-plays.jpg
 comments: true
 layout: tachartas
 date: 2019-02-21 19:00:00
-categories: tachartasan
+categories: tachartasan-roimhe
 hidden: true
 ceann-latha: 21mh An Gearran 2019 @ 07:00f
 seoladh: Traverse Theatre, Edinburgh EH1 2ED
