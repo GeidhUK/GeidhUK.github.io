@@ -135,6 +135,11 @@ Mar as trice tha co-sheòrsach a' toirt iomradh air fireannach aig a bheil miann
 
 Bun-bheachd gu bheil a h-uile duine co-ionann agus gum bu chòir na h-aon cothroman agus còirichean a bhith aig a h-uile daoine ge b' e rudan a leithid gnè, feisealachd, creideamh, aois no cinneadh.
 
+#### Cuèir
+
+<div class="text-muted">(queer)</div>
+
+
 #### Cùisean co-cheangailte ri gnè
 
 <div class="text-muted">(gender issues)</div>
