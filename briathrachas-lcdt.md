@@ -61,6 +61,10 @@ An atharrachadh, le lannsaireachd is leigheasan brodaig, de fheartan gnè corpor
 
 ### **<a name="B"></a>B**
 
+#### Bana-ghèidh
+
+<div class="text-muted">(a gay woman / a lesbian)</div>
+
 #### Bànrigh draga
 
 <div class="text-muted">(drag queen)</div>
@@ -200,6 +204,10 @@ Tha eile-sheòrsach a' toirt iomradh air cuideigin aig a bheil miann air gnè ei
 
 Tha far-ghnèitheach a' toirt iomradh air cuideigin aig nach eil dearbh aithne boireann no fireann. Ma dh'fhaodte gum bi iad a' toirt iomradh orra fhèin mar mheasgachadh dhen dà chuid, mar far-ghnèitheach no mar rudeigin gu tur eadar-dhealaichte.
 
+#### Fear-gèidh
+
+<div class="text-muted">(a gay man)</div>
+
 #### Fèis-pròise
 
 <div class="text-muted">(Pride - march, event, celebration etc)</div>
@@ -330,7 +338,11 @@ Tha leth-sheòrsach a' toirt iomradh air cuideigin aig nach eil miann feise air 
 
 <div class="text-muted">(LGBTI)</div>
 
-**L**esbach, **G**èidh, **D**à-ghnèitheach, **T**ar-ghnèitheach, **E**adar-ghnèitheach
+Leasbach, Gèidh, Dà-ghnèitheach, Tar-ghnèitheach, Eadar-ghnèitheach
+
+#### Luchd-gèidh
+
+<div class="text-muted">(gay people)</div>
 
 ### **<a name="M"></a>M**
 
@@ -365,6 +377,10 @@ A' toirt iomradh air cuideigin leis na riochdairean ceàrr. Mar eisimpleir a' to
 An duilgheadas a bhios cuideigin a' fulang nuair nach eil an dearbh-aithne aca co-ionann ris an gnè breith aca. 'S e teirm seann-fhasanta a th' ann a-nis agus 's e neo-shàstachd gnè an teirm as cumanta.
 
 ### **<a name="N"></a>N**
+
+#### Neach-gèidh
+
+<div class="text-muted">(a gay person)</div>
 
 #### Neach-ionaid
 
@@ -513,6 +529,22 @@ Tha taobhadh-feise no feisealachd a' toirt iomradh air a' phàtran de mhiann fai
 <div class="text-muted">(crossed/mixed orientation)</div>
 
 'S e taobhadh measgaichte nuair a tha miann faireachail no romansach aig cuideigin a tha eadar-dhealaichte bhon feisealachd aca mar eisimpleir boireannach le miann faireachail no romansach air boireannaich ach miann feise air fireannaich.
+
+#### Tar-bhoireannach
+
+<div class="text-muted">(a trans woman)</div>
+
+#### Tar-dhuine
+
+<div class="text-muted">(a trans person)</div>
+
+#### Tar-neach
+
+<div class="text-muted">(a trans person)</div>
+
+#### Tar-fhireannach
+
+<div class="text-muted">(a trans man)</div>
 
 #### Tar-ghnèitheach
 
