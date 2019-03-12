@@ -210,6 +210,8 @@ Tha far-ghnèitheach a' toirt iomradh air cuideigin aig nach eil dearbh aithne b
 
 <div class="text-muted">(a gay man)</div>
 
+Fireannach co-sheòrsach no fireannach aig a bheil miann air fireannaich eile.
+
 #### Fèis-pròise
 
 <div class="text-muted">(Pride - march, event, celebration etc)</div>
