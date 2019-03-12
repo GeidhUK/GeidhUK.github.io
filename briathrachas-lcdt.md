@@ -37,7 +37,7 @@ Buidheann de ghalaran agus tinneasan a bhios euslaintich HIV+ a' fulang nuair a 
 
 <div class="text-muted">(bicurious)</div>
 
-Ma tha annas aig cuideigin dhen dà-sheòrsachd, tha ùidh aca ann am feise ri duine de ghnè nach eil a' co-fhreagairt an feisealachd àbhaisteach aca.
+Ma tha annas aig cuideigin dhen dà-sheòrsachd, tha ùidh aca ann am feise ri duine de ghnè nach eil a' co-fhreagairt am feisealachd àbhaisteach aca.
 
 M.e. fireannach co-sheòrsach no boireannach eile-sheòrsach a tha airson feise ri boireannach agus fireannach eile-sheòrsach no leasbach a tha airson feise ri fireannach.
 
@@ -65,17 +65,19 @@ An atharrachadh, le lannsaireachd is leigheasan brodaig, de fheartan gnè corpor
 
 <div class="text-muted">(a gay woman / a lesbian)</div>
 
+Boireannach co-sheòrsach no boireannach aig a bheil miann air boireannaich eile.
+
 #### Bànrigh draga
 
 <div class="text-muted">(drag queen)</div>
 
-Fèistear fireann a bhios a' cur air aodach "boireannaich" mar phàirt de thaisbeanadh.
+Fèistear fireannach a bhios a' cur air aodach "boireannaich" mar phàirt de thaisbeanadh.
 
 #### Bhìoras Dìon-slàinte Daonna
 
 <div class="text-muted">(Human Immunodeficiency Virus / HIV)</div>
 
-Bhìoras a bhios a' milleadh ceallan anns an t-siostam dìon-slàinte agus a' lagachadh an comas a bhith a' sabaid galaran agus tinneasan. Nuair a tha an siostam dìon-slàinte air a mhilleadh bidh cuid de dh’euslaintich a' fulang buideann de ghalaran agus tinneasan a tha air an ainmeachadh AIDS.
+Bhìoras a bhios a' milleadh ceallan anns an t-siostam dìon-slàinte agus a' lagachadh an comas a bhith a' sabaid galaran agus tinneasan. Nuair a tha an siostam dìon-slàinte air a mhilleadh bidh cuid de dh’euslaintich a' fulang buidheann de ghalaran agus tinneasan a tha air an ainmeachadh AIDS.
 
 #### Bìnearachd gnè
 
