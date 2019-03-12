@@ -254,19 +254,19 @@ Dearbh-aithne gnè far nach eil cuideigin ag aithneachadh le aon ghnè stèidhic
 
 <div class="text-muted">(homophobia)</div>
 
-Claon-bhreith an aghaibh dhaoine co-sheòrsach.
+Claon-bhreith an aghaidh dhaoine co-sheòrsach.
 
 #### Gràin-dà-sheòrsachd
 
 <div class="text-muted">(biphobia)</div>
 
-Claon-bhreith an aghaibh dhaoine dà-sheòrsach.
+Claon-bhreith an aghaidh dhaoine dà-sheòrsach.
 
 #### Gràin-tar-ghnèitheachd
 
 <div class="text-muted">(transphobia)</div>
 
-Claon-bhreith an aghaibh dhaoine tar-ghnèitheach.
+Claon-bhreith an aghaidh dhaoine tar-ghnèitheach.
 
 ### **<a name="I"></a>I**
 
