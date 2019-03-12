@@ -484,7 +484,7 @@ Mìneachadh
 
 <div class="text-muted">(drag king)</div>
 
-Fèistear boireann a bhios a' cur air aodach "fireannaich" mar phàirt de thaisbeanadh.
+Fèistear boireannach a bhios a' cur air aodach "fireannaich" mar phàirt de thaisbeanadh.
 
 ### **<a name="S"></a>S**
 
