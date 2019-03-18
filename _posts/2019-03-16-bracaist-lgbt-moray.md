@@ -6,7 +6,7 @@ comments: true
 layout: tachartas
 date: 2019-03-16 10:30:00
 author: Crìstean MacMhìcheil
-categories: tachartasan
+categories: tachartasan-roimhe
 hidden: true
 tags:
 ceann-latha: 16mh Am Màrt 2019 @ 10:30m
