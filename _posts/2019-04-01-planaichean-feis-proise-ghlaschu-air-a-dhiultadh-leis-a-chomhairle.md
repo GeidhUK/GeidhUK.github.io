@@ -28,8 +28,8 @@ Tha grunn dhuilgheadasan air a bhith aig an tachartas anns na mìosan a chaidh s
 
 Chaidh a chàineadh an-uiridh air sgàth 's gun deach cus tiocaidean a reic agus nach robh cuid de dhaoine comasach air a dhol ann. Cuideachd bha gearanan mu dheidhinn droch-làimhseachadh de chleasaichean agus luchd-aoigheachd.
 
-As t-fhoghar chaidh a dhearbhadh gun robh am poileas a' toirt sùil air ionmhas na buidhne agus aig coinneamh poblach as t-Samhain dhearbh Stiùirich na Buidhne, Chris Laing, gun robh £32,500 fhathast aca ri phàigheadh ris a' chomhairle.
+As t-fhoghar chaidh a dhearbhadh gun robh [am poileas a' toirt sùil air ionmhas na buidhne](https://geidh.uk/2018/11/19/poileas-alba-ri-suil-a-thoirt-air-ionmhas-feis-proise-ghlaschu/) agus aig coinneamh poblach as t-Samhain dhearbh Stiùirich na Buidhne, Chris Laing, gun robh £32,500 fhathast aca ri phàigheadh ris a' chomhairle.
 
-Anns an aithisg bliadhnail aca dhan riaghlaiche carthannais OSCR dhearbh iad call còrr 's £46,000 an-uiridh, a' toirt a-steach caiteachas mì-cheadaichte de £41,422.
+Anns an aithisg bliadhnail aca dhan riaghlaiche carthannais OSCR, a ghabhas a leughadh [an-seo](https://pinksaltire.com/wp-content/uploads/2019/04/Pride-Glasgow_-Sep-18_Signed-Accounts_Redacted.pdf), dhearbh iad call còrr 's £46,000 an-uiridh, a' toirt a-steach caiteachas mì-cheadaichte de £41,422.
 
 Tha comhairle a' bhaile a-nis air an taic aca a chur ris a' bhuidheann ùr LGBT Co-operative a bhios a' cumail an tachartas an-asgaidh [Mardi Gla](http://www.mardigla.org) sa bhaile as t-samhraidh.
