@@ -31,7 +31,7 @@ Achd Pàrlamaid an Rìoghachd Aonaichte a bhios a' toirt cead do dhaoine a bhith
 
 <div class="text-muted">(Acquired Immunodeficiency Syndrome / AIDS)</div>
 
-Buidheann de ghalaran agus tinneasan a bhios euslaintich HIV+ a' fulang nuair a tha HIV air an siostam dìon-slàinte aca a mhilleadh.
+Buidheann de ghalaran agus tinneasan a bhios cuid de dh'euslaintich le HIV a' fulang nuair a tha an HIV air an siostam dìon-slàinte aca a mhilleadh.
 
 #### Annas dhen dà-sheòrsachd
 
@@ -52,6 +52,8 @@ A' buntainn ri no a' toirt iomradh air daoine dhen aon gnè.
 <div class="text-muted">(same-sex)</div>
 
 A' buntainn ri no a' toirt iomradh air daoine dhen aon seòrsa.
+
+M.e. Is pòsadh eadar dithis fhireannach no dithis bhoireannach a th' ann am pòsadh aon-sheòrsach.
 
 #### Ath-bhuileachadh gnè
 
@@ -85,11 +87,25 @@ Bhìoras a bhios a' milleadh ceallan anns an t-siostam dìon-slàinte agus a' la
 
 Siostam seòrsachaidh gnè le dà ghnè no dà sheòrsa eadar-dhealaichte .i. boireann is fireann. Tha an siostam seo an dùil ri seòrsa, gnè agus feisealachd a tha uile co-ionann ri chèile .i. fear le coltas, feartan agus dearbh-aithne gnè fireannach agus aig a bheil miann eile-sheòrsach air boireannaich.
 
+#### Brodag
+
+<div class="text-muted">hormone</div>
+
+Stuth ceimigeach, a leithid estrogen no teisteostaron, air a dhèanamh anns a' bhodhaig a bhios a' riaghladh leasachadh gnèitheasach agus an t-siostam gineamhainn.
+
 #### Brodag-gnè
 
 <div class="text-muted">(sex hormone)</div>
 
 Stuth ceimigeach, a leithid estrogen no teisteostaron, air a dhèanamh anns a' bhodhaig a bhios a' riaghladh leasachadh gnèitheasach agus an t-siostam gineamhainn.
+
+#### Brodag nan clach / Teisteostaron
+
+<div class="text-muted">testosterone</div>
+
+Brodag nàdurrach a tha air a dhèanamh anns a' bhodhaig agus a tha an urra ri leasachadh na feartan-gineamhain fireann a leithid na clachan agus a' phròstata. Tha e cuideachd an urra ri leasachadh feartan eile a leithid meudachadh ann an tomhad fèithe agus cnàimh agus fàs fuilt cuirp.
+
+Tha teisteostaron cuideachd air a chleachdadh mar leigheas airson fireannaich le ìrean ìsle de teisteostaron, fireannaich gun theisteostaron nàdurra, seòrsaichean sònraichte de dh'aillse broilleach agus neo-shàstachd gnè ann an tar-fhireannaich.
 
 ### **<a name="C"></a>C**
 
@@ -99,17 +115,19 @@ Stuth ceimigeach, a leithid estrogen no teisteostaron, air a dhèanamh anns a' b
 
 Tachartas a bhios a' comharrachadh a' choimhearsnachd LCDT+. Uaireannan tha iad air an cleachdadh airson fianais a thogail an-aghaidh claon-bhreith air choireigin m.e. neo-ionannachd pòsaidh. Bidh a' chuid as motha de thachartasan pròise a' tachairt gach bliadhna, agus bidh mòran a' tachairt air feadh an t-Òg-mhios gus na Stonewall Riots, a thachair ann an 1969, a chomharrachadh.
 
-#### Caraid
+#### Caidreabhach / Caraid
 
 <div class="text-muted">(ally)</div>
 
-Mar as trice 's e caraid na dhaoine eile-sheòrsach no cios-ghnèitheach a bhios a' toirt taic dhan a' choimhearsnachd LCDT+.
+Neach a bhios a' toirt taic dhan a' choimhearsnachd LCDTQ ged nach eil iadsan LCDTQ.
 
 #### Cios-ghnèitheach
 
 <div class="text-muted">(cisgender)</div>
 
-Tha cios-ghnèitheach a' toirt iomradh air cuideigin aig a bheil dearbh-aithne gnè a tha co-ionann ris an gnè breith aca .i. fear aig a bheil dearbh-aithne fireann agus boireannach le dearbh-aithne boireann.
+Tha cios-ghnèitheach a' toirt iomradh air cuideigin aig a bheil dearbh-aithne gnè a tha co-ionann ris an gnè breith aca.
+
+M.e. fear aig a bheil dearbh-aithne fireann agus boireannach le dearbh-aithne boireann.
 
 #### Co-ghnèitheach
 
@@ -145,6 +163,9 @@ Bun-bheachd gu bheil a h-uile duine co-ionann agus gum bu chòir na h-aon cothro
 
 <div class="text-muted">(queer)</div>
 
+Bidh cuid de dhaoine a' cleachdadh am facal cuèir gus iomradh a thoirt air a' choimhearsnachd LCDTQ san fharsaingeachd agus bidh cuid eile ga chleachdadh air sgàth 's nach eil iad a' faireachdainn gu bheil teirmean LCDTQ eile gan riochdachadh gu ceart.
+
+**Thoir an àire:** Ann am Breatainn b' e facal lùghdachail a bh' ann an cuèir gu h-eachdraidheil. Ged a tha a' choimhearsnachd air a thoirt air ais, tha cuid ann a tha a' smaoineachadh gur e facal lùghdaichail a th' ann fhathast.
 
 #### Cùisean co-cheangailte ri gnè
 
@@ -191,6 +212,14 @@ Tha daoine eadar-sheòrsach air am breith le aon de ghrunn atharrachaidhean anns
 <div class="text-muted">(homoeroticism)</div>
 
 Miann feise eadar daoine dhen aon gnè no seòrsa.
+
+#### Eastraigin
+
+<div class="text-muted">oestrogen</div>
+
+Buidheann de bhrodagan nàdarrach a tha air a dhèanamh anns a' bhodhaig agus a tha an urra ri leasachadh na feartan-gineamhain boirean agus am broinn ullachadh airson uighean thorrach.
+
+Tha eastraigin cuideachd air a chleachdadh ann am pilean casg-gineamhain, ann an leigheasan airson seòrsaichean sònraichte de dh'aillse agus neo-shàstachd gnè ann an tar-bhoireannaich.
 
 #### Eile-sheòrsach
 
@@ -254,19 +283,19 @@ Dearbh-aithne gnè far nach eil cuideigin ag aithneachadh le aon ghnè stèidhic
 
 <div class="text-muted">(homophobia)</div>
 
-Claon-bhreith an aghaidh dhaoine co-sheòrsach.
+Claon-bhreith an aghaidh dhaoine co-sheòrsach air sgàth 's gu bhei iad co-sheòrsach.
 
 #### Gràin-dà-sheòrsachd
 
 <div class="text-muted">(biphobia)</div>
 
-Claon-bhreith an aghaidh dhaoine dà-sheòrsach.
+Claon-bhreith an aghaidh dhaoine dà-sheòrsach air sgàth 's gu bhei iad dà-sheòrsach.
 
 #### Gràin-tar-ghnèitheachd
 
 <div class="text-muted">(transphobia)</div>
 
-Claon-bhreith an aghaidh dhaoine tar-ghnèitheach.
+Claon-bhreith an aghaidh dhaoine tar-ghnèitheach air sgàth 's gu bhei iad tar-ghnèitheach.
 
 ### **<a name="I"></a>I**
 
@@ -296,11 +325,11 @@ Tha ioma-sheòrsach a' toirt iomradh air cuideigin aig a bheil miann air iomadh 
 
 ### **<a name="L"></a>L**
 
-#### LCDTE
+#### LCDT+
 
-<div class="text-muted">(LGBTI)</div>
+<div class="text-muted">(LGBT+)</div>
 
-Lesbach, Co-ghnèitheach, Dà-ghnèitheach, Tar-ghnèitheach, Eadar-ghnèitheach
+Lesbach, Co-ghnèitheach, Dà-ghnèitheach, Tar-ghnèitheach
 
 #### Leasbach
 
@@ -312,7 +341,7 @@ Tha leasbach a' toirt iomradh air boireanna(i)ch co-sheòrsach no boireannach ai
 
 <div class="text-muted">(fertility treatment)</div>
 
-Mìneachadh
+Leigheas sam bith, a leithid sìolachadh fuadain no sìolachadh in-bhiotro, a tha ag amas air neach a chuidheachadh le bhith a' fàs trom le leanabh.
 
 #### Leth-bhreith
 
@@ -324,7 +353,7 @@ Làimhseachadh eadar-dhealaichte de dhaoine air sgàth 's adhbharan a leithid ao
 
 <div class="text-muted">(gender discrimination)</div>
 
-Làimhseachadh eadar-dhealaichte de dhaoine air sgàth 's a gnè aca
+Làimhseachadh eadar-dhealaichte de dhaoine air sgàth 's a gnè aca.
 
 #### Leth-ghnèitheach
 
@@ -338,15 +367,17 @@ Tha leth-ghnèitheach a' toirt iomradh air cuideigin aig a bheil ceangal pàirti
 
 Tha leth-sheòrsach a' toirt iomradh air cuideigin aig nach eil miann feise air daoine eile mura h-eil ceangal faireachail eadarra cuideachd.
 
-#### LGDTE
+#### LGDT+
 
-<div class="text-muted">(LGBTI)</div>
+<div class="text-muted">(LGBT+)</div>
 
-Leasbach, Gèidh, Dà-ghnèitheach, Tar-ghnèitheach, Eadar-ghnèitheach
+Leasbach, Gèidh, Dà-ghnèitheach, Tar-ghnèitheach
 
 #### Luchd-gèidh
 
 <div class="text-muted">(gay people)</div>
+
+Daoine aig a bheil miann air daoine eile dhen aon seòrsa.
 
 ### **<a name="M"></a>M**
 
@@ -360,7 +391,7 @@ Cuideigin a bhios a' breith leanabh do chuideigin nach eil comasach air leanabh 
 
 <div class="text-muted">(minority)</div>
 
-Buidheann de dhaoine a tha diofraichte bhon a' mhòr-chuid air sgàth 's adhbhar sònraichte a leithid creideamh, cinneadh, cànan no feisealachd
+Buidheann de dhaoine a tha diofraichte bhon a' mhòr-chuid air sgàth 's adhbhar sònraichte a leithid creideamh, cinneadh, cànan no feisealachd.
 
 #### Mì-ainmeachadh
 
@@ -385,6 +416,8 @@ An duilgheadas a bhios cuideigin a' fulang nuair nach eil an dearbh-aithne aca c
 #### Neach-gèidh
 
 <div class="text-muted">(a gay person)</div>
+
+Neach aig a bheil miann air daoine eile dhen aon seòrsa no gnè.
 
 #### Neach-ionaid
 
@@ -426,7 +459,11 @@ Tha neo-sheòrsach a' toirt iomradh air cuideigin gun mhiann feise air daoine ei
 
 <div class="text-muted">(gender expression)</div>
 
-Tha nochdadh gnè a' toirt iomradh air mar a bhios cuideigin a' roghnachadh an gnè aca a thaisbeanadh taobh a-steach co-theacsa chultarail sònraichte.
+An dòigh anns a bheil giùlan, cleachdaidhean, ùidhean agus còltas neach a tha co-cheangailte ri gnè ann an co-theacsa cultarail sònraichte.
+
+Mar as trice bidh nochdadh gnè neach co-ionann ris an dearbh-aithne gnè aca ach chan eil seo an-còmhnaidh fìor agus tha nochdadh gnè eadar-dhealaichte agus neo-eisimeileach bho taobhadh feise agus gnè breithe.
+
+M.e. Dh'fhaodadh nochdadh gnè boireann a bhith air balach cios-ghnèitheach ge b' e dè am feisealachd aige.
 
 ### **<a name="O"></a>O**
 
@@ -436,17 +473,23 @@ Tha nochdadh gnè a' toirt iomradh air mar a bhios cuideigin a' roghnachadh an g
 
 Obair-lannsa gus fheartan corporra duine tar-ghnèitheach atharrachadh gus a bhith nas coltaiche ri feartan corporra an gnè aithnichte aca.
 
+#### Oillt cho-sheòrsach
+
+<div class="text-muted">(homophobia)</div>
+
+Claon-bhreith an aghaidh dhaoine co-sheòrsach air sgàth 's gu bhei iad co-sheòrsach.
+
 #### Oillt dhà-sheòrsach
 
 <div class="text-muted">(biphobia)</div>
 
-Claon-bhreith an aghaidh dhaoine dà-sheòrsach.
+Claon-bhreith an aghaidh dhaoine dà-sheòrsach air sgàth 's gu bhei iad dà-sheòrsach.
 
 #### Oillt thar-ghnèitheach
 
 <div class="text-muted">(transphobia)</div>
 
-Claon-bhreith an aghaidh dhaoine tar-ghnèitheach.
+Claon-bhreith an aghaidh dhaoine tar-ghnèitheach air sgàth 's gu bhei iad tar-ghnèitheach.
 
 ### **<a name="P"></a>P**
 
@@ -500,7 +543,7 @@ Tha cuideigin sa chlòsaid nuair nach eil iad air aithneachadh do dhaoine eile, 
 
 <div class="text-muted">(artificial insemination)</div>
 
-Mìneachadh
+Leigheas a tha ag amas air neach a chuidheachadh le bhith a' fàs trom le leanabh.
 
 #### Speactram gnè
 
@@ -538,17 +581,25 @@ Tha taobhadh-feise no feisealachd a' toirt iomradh air a' phàtran de mhiann fai
 
 <div class="text-muted">(a trans woman)</div>
 
+Boireannach a chaidh a shònrachadh fireannach aig àm a breith ach a tha a-nis a' fuireach mar bhoireannach.
+
 #### Tar-dhuine
 
 <div class="text-muted">(a trans person)</div>
+
+Neach aig a bheil dearbh-aithne gnè no nochdadh gnè a tha diofraichte bhon gnè a chaidh a chur orra nuair a rugadh iad.
 
 #### Tar-neach
 
 <div class="text-muted">(a trans person)</div>
 
+Neach aig a bheil dearbh-aithne gnè no nochdadh gnè a tha diofraichte bhon gnè a chaidh a chur orra nuair a rugadh iad.
+
 #### Tar-fhireannach
 
 <div class="text-muted">(a trans man)</div>
+
+Fireannach a chaidh a shònrachadh boireannach aig àm a bhreith ach a tha a-nis a' fuireach mar fhireannach.
 
 #### Tar-ghnèitheach
 
@@ -571,6 +622,14 @@ Bidh cuid de dhaoine a' cleachdadh tar-ghnèitheach, tar-sheòrsach no an giorra
 <div class="text-muted">(hormone replacement therapy)</div>
 
 Mìneachadh
+
+#### Brodag nan clach / Teisteostaron
+
+<div class="text-muted">testosterone</div>
+
+Brodag nàdurrach a tha air a dhèanamh anns a' bhodhaig agus a tha an urra ri leasachadh na feartan-gineamhain fireann a leithid na clachan agus a' phròstata. Tha e cuideachd an urra ri leasachadh feartan eile a leithid meudachadh ann an tomhad fèithe agus cnàimh agus fàs fuilt cuirp.
+
+Tha teisteostaron cuideachd air a chleachdadh mar leigheas airson fireannaich le ìrean ìsle de teisteostaron, fireannaich gun theisteostaron nàdurra, seòrsaichean sònraichte de dh'aillse broilleach agus neo-shàstachd gnè ann an tar-fhireannaich.
 
 ### **<a name="U"></a>U**
 
