@@ -23,7 +23,7 @@ Bha Mgr Lyons a’ tilleadh dhachaigh as dèidh dha pàirt a ghabhail ann an oid
 
 Thuirt e ri STV News nach eil cuimhne aige air an ionnsaigh ach gu bheil e a’ smaointinn gun do thachair e air sgàth ‘s gun robh e ann an drag fhathast.
 
-Thuirt neach-labhairt am Poileas:
+Thuirt neach-labhairt a' Phoileis:
 
 “Tha sinn a’ rannsachadh ionnsaigh dona a thachair air South Bridge mu 3.20 madainn Dimàirt.”
 
