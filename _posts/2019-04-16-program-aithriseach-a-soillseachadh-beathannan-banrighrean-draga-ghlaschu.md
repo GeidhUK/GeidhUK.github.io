@@ -2,8 +2,8 @@
 title: Prògram aithriseach ùr a’ soillseachadh beathannan banrighrean-draga Ghlaschu
 author: Crìstean MacMhìcheil
 type: post
-date: 2019-
-image: /images/.jpg
+date: 2019-04-16 14:32
+image: /images/2019-04-16-program-aithriseach-a-soillseachadh-beathannan-banrighrean-draga-ghlaschu.jpg
 comments: true
 categories:
 - alba
