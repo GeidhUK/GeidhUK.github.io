@@ -17,7 +17,7 @@ Chaidh teachdaireachdan a fhoillseachadh air loidhne anns a bheil triùir BPA SN
 
 <!--more-->
 
-Chaidh na teachdaireachdan a lorg a lorg ann an còmhradh prìobhaideach air Twitter le seann neach-obrach an SNP a chur air adhart iad ri Phink Saltire [1].
+Chaidh na teachdaireachdan a lorg a lorg ann an còmhradh prìobhaideach air Twitter le seann neach-obrach an SNP a chur air adhart iad ri Phink Saltire. [1]
 
 Anns na teachdaireachdan, a ghabhas a leughadh gu h-ìseal, tha Ash Denham, Ruth Maguire agus Gillian Martin a’ deasbad ma tha Nicola Sturgeon a’ dol an-aghaidh faireachdainn a’ phàrtaidh a-thaobh ath-leasachaidhean gnè as dèidh i ràdh nach eil i a’ faicinn barrachd aithneachadh air còirichean tar-ghnèitheach mar chunnart dhi mar bhoireannach neo mar fheimineach.
 
