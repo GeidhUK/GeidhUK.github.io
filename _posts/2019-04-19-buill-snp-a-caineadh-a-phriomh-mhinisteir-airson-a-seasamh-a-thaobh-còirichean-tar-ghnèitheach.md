@@ -8,7 +8,7 @@ comments: true
 categories:
 - alba
 - naidheachdan
-- politigs
+- poilitigs
 tags:
 comments: true
 ---
