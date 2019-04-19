@@ -51,4 +51,4 @@ Bho chaidh  na teachdaireachdan a fhoillseachadh air loidhne tha buill eile an S
 
 Dh’ iarr Pink Saltire air Ash Denham, Ruth Maguire agus Gillian Martin aithris a dhèanamh ach cha d’fhuair iad freagairt.
 
-[1] [Leaks reveal critics of First Minister's trans rights stance](https://pinksaltire.com/2019/04/17/leaks-reveal-critics-of-first-ministers-trans-rights-stance/)
+[1] Pink Saltire: [Leaks reveal critics of First Minister's trans rights stance](https://pinksaltire.com/2019/04/17/leaks-reveal-critics-of-first-ministers-trans-rights-stance/)
