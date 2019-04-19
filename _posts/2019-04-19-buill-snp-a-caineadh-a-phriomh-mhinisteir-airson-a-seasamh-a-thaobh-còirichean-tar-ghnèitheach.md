@@ -1,5 +1,5 @@
 ---
-title: Buill SNP a’ càineadh a’ Prìomh Mhinisteir airson a thaobh còirichean tar-ghnèitheach
+title: Buill SNP a’ càineadh a’ Prìomh Mhinisteir airson a seasamh a thaobh còirichean tar-ghnèitheach
 author: Crìstean MacMhìcheil
 type: post
 date: 2019-04-19 17:00
