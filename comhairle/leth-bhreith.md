@@ -43,7 +43,6 @@ Tha luchd-obrach air an dìon tron phròiseas tagraidh agus agallaimh agus an ù
 Tha an achd a' dìon:
 
 *   daoine le cùmhnantan làn-ùine  
-
 *   daoine le cùmhnantan pàirt-ùine
 *   daoine le cùmhnantan sealach
 *   Cùmhnantaichean
