@@ -6,9 +6,7 @@ permalink: /comhairle/altramachadh/
 
 [Comhairle]({{site.baseurl}}/comhairle/) / [Pàrantachd]({{site.baseurl}}/comhairle/parantachd/) / Altramachadh
 
-# Altramachadh
-
-#### Dè th' ann?
+#### Dè th' ann an altramachadh?
 
 'S e altramachadh nuair nach eil leanabh no duine òg comasach air fuireach còmhla ris am pàrantan air sgàth 's duilgheadas air choireigin agus thèid an cur fo chùram neach no teaghlach eile airson grèis.
 
