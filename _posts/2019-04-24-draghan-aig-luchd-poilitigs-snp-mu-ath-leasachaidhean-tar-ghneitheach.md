@@ -2,7 +2,7 @@
 title: Draghan aig luchd-poilitigs SNP mu ath-leasachaidhean tar-ghnèitheach
 author: Crìstean MacMhìcheil
 type: post
-date: 2019-
+date: 2019-04-24 21:30
 image: /images/2019-04-24-draghan-aig-luchd-poilitigs-snp-mu-ath-leasachaidhean-tar-ghneitheach.jpg
 comments: true
 categories:
