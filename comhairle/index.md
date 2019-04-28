@@ -30,13 +30,17 @@ Tha burraidheachd a’ toirt iomradh air giùlan sam bith leis an dùil cron a d
 
 Tha iomadh pìos reachdais air tighinn a-mach anns an bliadhnaichean a dh’fhalbh gus barrachd chòirichean a thoirt do dhaoine LCDT+. Tha liosta dhen reachdas as cudromaiche an seo le iomradh goirid air na tha iad a’ ciallachadh dhuibh.
 
-#### [Dàimhean agus feise]({{site.baseurl}}/comhairle/daimhean-feise/)
+#### [Dàimhean]({{site.baseurl}}/comhairle/daimhean/)
 
 Tuairisgeul
 
 #### [Eucoirean gràineil]({{site.baseurl}}/comhairle/eucoirean-graineil/)
 
 Dh'atharraich an lagh ann an 2009 gus daoine LCDT+ a dhìon bho eucoirean air adhbharachadh le gràin-co-sheòrsachd, gràin-dà-sheòrsachd, gràin-tar-ghnèitheachd 's a leithid.
+
+#### [Feise]({{site.baseurl}}/comhairle/feise/)
+
+Tuairisgeul
 
 #### [Leth-bhreith]({{site.baseurl}}/comhairle/leth-bhreith/)
 
