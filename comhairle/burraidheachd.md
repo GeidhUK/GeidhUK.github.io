@@ -66,7 +66,7 @@ Bidh ChildLine a' toirt comhairle do chlann agus daoine òga fo aois 19 san Rìo
 
 **Fòn:** 0300 123 2523 (Dim/Dic 12f gu 9f)
 
-[**LGBT Switchboad**](https://switchboard.lgbt/)
+[**LGBT Switchboard**](https://switchboard.lgbt/)
 
 **Post-d:** chris@switchboard.lgbt
 
