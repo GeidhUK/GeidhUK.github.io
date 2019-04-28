@@ -16,7 +16,7 @@ Ge b' e an seòrsa dàimh a th' ann 's ann air leth cudromach a tha an comas ait
 
 Nuair a thig e gu dàimhean feise tha e gu math cudromach gum bi sibh a' conaltradh leis ur bràmair agus gum bi sibh comhfhurtail bruidhinn riutha mu dheidhinn feise agus dè tha còrdadh ruibh agus riutha-san cuideachd.
 
-Cha bu chòir do dhuine sam bith leigeil le dàimh truailleach no foirneartach. Ma tha feum agaibh air cuideachadh no taic air sgàth dàimh truailleach, thoiribh sùil air na ceanglaichean an-seo.
+Cha bu chòir do dhuine sam bith leigeil le dàimh truailleach no foirneartach. Ma tha feum agaibh air cuideachadh no taic air sgàth dàimh truailleach, thoiribh sùil air na ceanglaichean [an-seo]({{site.baseurl}}/comhairle/cumail-sabhailte/).
 
 #### Fèise
 
