@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Galaran Feiseil
-permalink: /comhairle/daimhean-feise/galaran-feise/
+permalink: /comhairle/daimhean-feise/galaran-feiseil/
 ---
 
 [Comhairle]({{site.baseurl}}/comhairle/) / [Dàimhean & Feise]({{site.baseurl}}/comhairle/daimhean-feise) / Galaran Feiseil
