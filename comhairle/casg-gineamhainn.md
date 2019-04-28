@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Casg-gineamhainn
-permalink: /comhairle/daimhean-feise/casg-gineamhainn/
+permalink: /comhairle/feise/casg-gineamhainn/
 ---
 
-[Comhairle]({{site.baseurl}}/comhairle/) / [Dàimhean & Feise]({{site.baseurl}}/comhairle/daimhean-feise) / Casg-gineamhainn
+[Comhairle]({{site.baseurl}}/comhairle/) / [Feise]({{site.baseurl}}/comhairle/feise) / Casg-gineamhainn
