@@ -71,7 +71,7 @@ Cha bu chòir neach-proifeiseanta slàinte do dhìomhaireachd a bhriseadh a-riam
 
 Bu chòir dhaibh bruidhinn ruibh mu na draghan aca agus innse dhuibh dè na rudan a dh'fheumas iad a dhèanamh mus innis iad do chuideigin eile mun turas agaibh.
 
-#### Deuchainnean STI
+#### Deuchainn airson Galaran Feiseil
 
 Tha clionaigean slàinte feise comasach air deuchainn airson raon farsaing de ghalaran feiseil.
 
