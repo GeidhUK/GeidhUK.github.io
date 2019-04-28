@@ -15,7 +15,7 @@ Gabhaidh cuid de ghalaran feiseil an sgaoileadh ann an dòighean eile cuideachd,
 
 ### Dè na galaran feiseil as cumanta?
 
-**Chlamydia**
+**Clamaidia (Chlamydia)**
 
 **Genital Herpes**
 
