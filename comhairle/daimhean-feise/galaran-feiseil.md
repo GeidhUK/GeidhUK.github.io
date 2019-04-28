@@ -9,7 +9,7 @@ permalink: /comhairle/daimhean-feise/galaran-feiseil/
 Tha a' mhòr-chuid de ghalaran feiseil air an sgaoileadh
 le sùghan-cuirp, ach gabhaidh cuid dhiubh an sgaoileadh tro bheantainn.
 
-Tha feise le dìon gu math cudromach airson gur cumail sàbhailte ann an dàimh feiseil. 'S e casganan, casgannan bhoireannach agus damaichean-fhiachail na h-aon dhòighean casg-gineamhainn a bhios gur dìon an-aghaidh a' mhòr-chuid de ghalaran feiseil. Faodar barrachd ionnsachadh mun deidhinn [an-seo]({{site.baseurl}}/comhairle/daimhean-feise/cumail-sabhailte).
+Tha feise le dìon gu math cudromach airson gur cumail sàbhailte ann an dàimh feiseil. 'S e casganan, casgannan bhoireannach agus damaichean-fhiachail na h-aon dhòighean casg-gineamhainn a bhios gur dìon an-aghaidh a' mhòr-chuid de ghalaran feiseil. Faodar barrachd ionnsachadh mun deidhinn [an-seo]({{site.baseurl}}/comhairle/daimhean-feise/casg-gineamhainn).
 
 Gabhaidh cuid de ghalaran feiseil an sgaoileadh ann an dòighean eile cuideachd, mar eisimpleir a' cleachdadh snàthadan a chaidh a chleachdadh mar-thà, brèith cloinne agus beathachadh aig a' chìoch.
 
