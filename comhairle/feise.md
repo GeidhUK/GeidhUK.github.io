@@ -6,7 +6,7 @@ permalink: /comhairle/feise/
 
 [Comhairle]({{site.baseurl}}/comhairle/) / Feise
 
-#### Fèise
+Tuairisgeul ri thighinn.
 
 [Galaran feiseil]({{site.baseurl}}/comhairle/daimhean-feise/galaran-feiseil/)
 
