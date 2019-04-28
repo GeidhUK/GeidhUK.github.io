@@ -8,6 +8,6 @@ permalink: /comhairle/feise/
 
 Tuairisgeul ri thighinn.
 
-[Galaran feiseil]({{site.baseurl}}/comhairle/daimhean-feise/galaran-feiseil/)
+[Galaran feiseil]({{site.baseurl}}/comhairle/feise/galaran-feiseil/)
 
-[Casg-gineamhainn]({{site.baseurl}}/comhairle/daimhean-feise/casg-gineamhainn/)
+[Casg-gineamhainn]({{site.baseurl}}/comhairle/feise/casg-gineamhainn/)
