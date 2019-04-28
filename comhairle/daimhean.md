@@ -6,8 +6,6 @@ permalink: /comhairle/daimhean/
 
 [Comhairle]({{site.baseurl}}/comhairle/) / Dàimhean
 
-#### Dàimhean
-
 Bidh na dàimhean again a' toirt buaidh mhòr air ar beathannan agus air ar dearbh-aithne.
 
 Bidh iomadh seòrsa dàimh againn fad ar beathannan, mar eisimpleir teaghlach, càirdean, tidsearan, luchd-fastaidh agus bràmairean.
