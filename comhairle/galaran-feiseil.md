@@ -83,7 +83,7 @@ Nuair a thadhalas sibh air clionaig, faighnichidh an luchd-obrach ceistean dhuib
 
 A-rèir an t-seòrsa deuchainn, faodaidh sibh toraidhean fhaighinn sa bhad, as dèidh grunn làithean no nas fhaidhe. Dèanamh cinnteach gum faighnich sibh dhan neach-proifeasanta slàinte.
 
-Ma tha comharraidhean oirbh, no ma bheireas an deuchainn toradh sa bhad, faodaidh an neach-proifeasanta slàinte leigheas a thoirt dhuibh fhad 's a tha sibh ann.
+Ma tha comharraidhean agaibh, no ma bheireas an deuchainn toradh sa bhad, faodaidh an neach-proifeasanta slàinte leigheas a thoirt dhuibh fhad 's a tha sibh ann.
 
 #### Deuchainnean Leatromachd
 
