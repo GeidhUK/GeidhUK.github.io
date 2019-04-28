@@ -15,23 +15,32 @@ Gabhaidh cuid de ghalaran feiseil an sgaoileadh ann an dòighean eile cuideachd,
 
 ### Dè na galaran feiseil as cumanta?
 
-**Clamaidia (Chlamydia)**
-
-**Genital Herpes**
-
-**Genital Warts**
-
-**An Clap / An Galar-teth (Gonorrhoea)**
-
-**Lionnachadh-gruthain (Hepatitis)**
-
 **Bhìoras Dìon-slàinte Daonna (HIV)**
+Tuairisgeul ri thighinn
 
-**Tollagan (Pubic Lice)**
-
-**Sifilis (Syphillis)**
+**Clamaidia (Chlamydia)**
+Tuairisgeul ri thighinn
 
 **Craos-ghalar (Thrush)**
+Tuairisgeul ri thighinn
+
+**An Galar-teth / An Clap (Gonorrhoea)**
+Tuairisgeul ri thighinn
+
+**Genital Herpes**
+Tuairisgeul ri thighinn
+
+**Genital Warts**
+Tuairisgeul ri thighinn
+
+**Lionnachadh-gruthain (Hepatitis)**
+Tuairisgeul ri thighinn
+
+**Sifilis (Syphillis)**
+Tuairisgeul ri thighinn
+
+**Tollagan (Pubic Lice)**
+Tuairisgeul ri thighinn
 
 ## Clionagan Slàinte Feise
 
