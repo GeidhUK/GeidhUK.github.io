@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Galaran Feiseil
+title: Casg-gineamhainn
 permalink: /comhairle/daimhean-feise/casg-gineamhainn/
 ---
 
