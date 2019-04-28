@@ -13,25 +13,25 @@ Tha feise le dìon gu math cudromach airson gur cumail sàbhailte ann an dàimh 
 
 Gabhaidh cuid de ghalaran feiseil an sgaoileadh ann an dòighean eile cuideachd, mar eisimpleir a' cleachdadh snàthadan a chaidh a chleachdadh mar-thà, brèith cloinne agus beathachadh aig a' chìoch.
 
-## Dè na galaran feiseil as cumanta?
+### Dè na galaran feiseil as cumanta?
 
-#### Chlamydia
+**Chlamydia**
 
-#### Genital Herpes
+**Genital Herpes**
 
-#### Genital Warts
+**Genital Warts**
 
-#### An Clap / An Galar-teth (Gonorrhoea)
+**An Clap / An Galar-teth (Gonorrhoea)**
 
-#### Lionnachadh-gruthain (Hepatitis)
+**Lionnachadh-gruthain (Hepatitis)**
 
-#### Bhìoras Dìon-slàinte Daonna (HIV)
+**Bhìoras Dìon-slàinte Daonna (HIV)**
 
-#### Tollagan (Pubic Lice)
+**Tollagan (Pubic Lice)**
 
-#### Sifilis (Syphillis)
+**Sifilis (Syphillis)**
 
-#### Craos-ghalar (Thrush)
+**Craos-ghalar (Thrush)**
 
 ## Clionagan Slàinte Feise
 
