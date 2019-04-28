@@ -20,6 +20,6 @@ Cha bu chòir do dhuine sam bith leigeil le dàimh truailleach no foirneartach. 
 
 #### Fèise
 
-Galaran feise
+[Galaran feiseil]({{site.baseurl}}/comhairle/daimhean-feise/galaran-feiseil)
 
-Casg-gineamhainn
+[Casg-gineamhainn]({{site.baseurl}}/comhairle/daimhean-feise/casg-gineamhainn)
