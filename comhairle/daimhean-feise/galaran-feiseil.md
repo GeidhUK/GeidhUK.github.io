@@ -16,30 +16,39 @@ Gabhaidh cuid de ghalaran feiseil an sgaoileadh ann an dòighean eile cuideachd,
 ### Dè na galaran feiseil as cumanta?
 
 **Bhìoras Dìon-slàinte Daonna (HIV)**
+
 Tuairisgeul ri thighinn
 
 **Clamaidia (Chlamydia)**
+
 Tuairisgeul ri thighinn
 
 **Craos-ghalar (Thrush)**
+
 Tuairisgeul ri thighinn
 
 **An Galar-teth / An Clap (Gonorrhoea)**
+
 Tuairisgeul ri thighinn
 
 **Genital Herpes**
+
 Tuairisgeul ri thighinn
 
 **Genital Warts**
+
 Tuairisgeul ri thighinn
 
 **Lionnachadh-gruthain (Hepatitis)**
+
 Tuairisgeul ri thighinn
 
 **Sifilis (Syphillis)**
+
 Tuairisgeul ri thighinn
 
 **Tollagan (Pubic Lice)**
+
 Tuairisgeul ri thighinn
 
 ## Clionagan Slàinte Feise
