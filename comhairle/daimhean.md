@@ -8,13 +8,13 @@ permalink: /comhairle/daimhean/
 
 Bidh na dàimhean again a' toirt buaidh mhòr air ar beathannan agus air ar dearbh-aithne.
 
-Bidh iomadh seòrsa dàimh againn fad ar beathannan, mar eisimpleir teaghlach, càirdean, tidsearan, luchd-fastaidh agus bràmairean.
+Bidh iomadh seòrsa dàimh againn fad ar beathannan, mar eisimpleir teaghlach, càirdean, tidsearan, luchd-fastaidh agus cèilean.
 
 Ge b' e an seòrsa dàimh a th' ann 's ann air leth cudromach a tha an comas aithneachadh an diofar eadar dàimhean math agus dona.
 
-Nuair a thig e gu dàimhean feise tha e gu math cudromach gum bi sibh a' conaltradh leis ur bràmair agus gum bi sibh comhfhurtail bruidhinn riutha mu dheidhinn feise agus dè tha còrdadh ruibh agus riutha-san cuideachd.
+Nuair a thig e gu dàimhean feise tha e gu math cudromach gum bi thu a' bruidhinn ri do chèile agus innse dhaibh mar a tha thu a' faireachdainn agus dè a tha cofhurtail dhut. (Tha barrachd fhiosrachaidh mu dheidhinn feise [an-seo]({{site.baseurl}}/comhairle/feise/).)
 
-Cha bu chòir do dhuine sam bith leigeil le dàimh truailleach no foirneartach. Ma tha feum agaibh air cuideachadh no taic air sgàth dàimh truailleach, thoiribh sùil air na ceanglaichean gu h-ìseal
+Cha bu chòir do dhuine sam bith leigeil le dàimh truailleach no foirneartach. Ma tha feum agad air cuideachadh no taic air sgàth dàimh truailleach, thoir sùil air na ceanglaichean gu h-ìseal
 
 #### Ceanglaichean feumail
 
