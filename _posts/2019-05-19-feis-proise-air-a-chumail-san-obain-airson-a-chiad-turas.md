@@ -9,8 +9,7 @@ categories:
 - alba
 - feisean-proise
 - naidheachdan
-tags:
-comments: true
+tags: 
 ---
 
 Chaidh caismeachd pròise a chumail san Òban an-dè airson a’ chiad turas a-riamh.
