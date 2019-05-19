@@ -3,7 +3,7 @@ title: Fèis-pròise air a chumail san Òban airson a’ chiad turas
 author: Crìstean MacMhìcheil
 type: post
 date: 2019-05-19 11:05:00
-image: /images/2019-05-19-feis-proise-air-a-chumail-san-oban-airson-a-chiad-turas.jpg
+image: /images/2019-05-18-feis-proise-an-obain.jpg
 comments: true
 categories:
 - alba
