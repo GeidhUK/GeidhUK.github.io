@@ -44,7 +44,8 @@ html {
 
 .navbar a{
   color: #ffffff;
-	padding: 10px;
+  padding: 10px;
+  text-align: center;
 }
 
 .navbar-dark .navbar-nav .nav-link{
