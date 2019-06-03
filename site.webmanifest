@@ -10,4 +10,6 @@
     ],
     "theme_color": "#fb135b",
     "background_color": "#fb135b",
+    "display": "standalone",
+    "lang": "Scottish Gaelic; Gaelic",
 }
