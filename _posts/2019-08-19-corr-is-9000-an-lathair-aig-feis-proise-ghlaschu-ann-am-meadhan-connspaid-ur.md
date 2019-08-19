@@ -3,7 +3,7 @@ title: Còrr ‘s 9000 mìle an lathair aig Fèis-pròise Ghlaschu ann am meadha
 author: Crìstean MacMhìcheil
 type: post
 date: 2019-08-19 19:40:00
-image: /images/2019-08-19-corr-is-9000-an-lathair-aig-feis-proise-ghlaschu-ann-am-meadhan-connspaid-ur.jpg
+image: /images/2019-08-19-corr-is-9000-an-lathair-aig-feis-proise-ghlaschu-ann-am-meadhan-connspaid-ur.JPG
 comments: true
 categories:
 - alba
