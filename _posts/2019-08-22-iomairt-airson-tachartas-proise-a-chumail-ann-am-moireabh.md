@@ -3,7 +3,7 @@ title: Iomairt airson tachartas pròise a chumail ann am Moireabh
 author: Crìstean MacMhìcheil
 type: post
 date: 2019-08-22 20:30:00
-image: /images/2019-08-22-iomairt-airson-tachartas-proise-a-chumail-ann-am-moireabh.jpg
+image: /images/2019-08-22-iomairt-airson-tachartas-proise-a-chumail-ann-am-moireabh.JPG
 comments: true
 categories:
 - alba
