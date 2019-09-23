@@ -16,13 +16,13 @@ Tha a' BhBC ag aithris gu bheil bùth tatù ann an Dùn Dè air duine a dhiùlta
 
 <!--more-->
 
-Chaidh Deejay Bullock dhan bhùth san t-Iuchar gus tatù ùr fhaighinn airson a cho-là-breith ach chaidh a dhiùltadh nuair a dhearbh e air foirm aithri-àichidh gu bheil HIV air.
+Chaidh Deejay Bullock dhan bhùth san Iuchar gus tatù ùr fhaighinn airson a cho-là-breith ach chaidh a dhiùltadh nuair a dhearbh e air foirm aithris-àichidh gu bheil HIV air.
 
-A-rèir Deejay nuair a thug an tatùdair sùil air an fhoirm, thuirt e nach robh e "a' dol a chur mi-fhìn, mo cho-obraichean no duine sam bith eile ann an cunnart".
+Thathar ag aithris nuair a thug an tatùdair sùil air an fhoirm, thuirt e, "Chan eil mi a' dol a chur mi-fhìn, mo cho-obraichean no duine sam bith eile ann an cunnart".
 
-Thuirt Deejay gun do chuir e iognadh air gun deach a dhiùltadh air sgàth 's gu bheil e air dà thàtu fhaighinn ann am bùth Obair Dheathain gun thrioblaid sam bith on a dh'ionnsaich e ann an 2009 gu bheil HIV air.
+Thuirt Deejay gun do chuir e iognadh air gun deach a dhiùltadh air sgàth 's gun robh e air dà thàtu fhaighinn ann am bùth Obair Dheathain gun thrioblaid sam bith bho dh'ionnsaich e gu bheil HIV air ann an 2009.
 
-Thuirt e ri BBC Scotland gur e strì dha an tòiseach nuair a dh'ionnsaich e gun robh HIV air agus gun do thug e buaidh mhòr air an slàinte-inntinn aige.
+Thuirt e ri BBC Scotland gun robh e doirbh dha nuair a dh'ionnsaich e gun robh HIV air agus gun do lughdaich a sHlàinte-inntinn mar toradh air.
 
 O chionn 2012 tha e air a bhith ag obair ann an slàinte LCDT agus e ag ràdh gu bheil seo air a mhisneachd a bhrosnachadh agus air a chuidheachadh leis an inbhe aige aontachadh.
 
