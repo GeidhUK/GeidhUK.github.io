@@ -3,7 +3,7 @@ title: Litir homafòbach air a chur gu bùth cèice
 author: Crìstean MacMhìcheil
 type: post
 date: 2019-09-24 13:45:00
-image: /images/2019-09-24-litir-homafobach-air-a-chur-gu-buth-ceice.jpg
+image: /images/2019-09-24-litir-homafobach-air-a-chur-gu-buth-ceice.png
 comments: true
 categories:
 - lagh
