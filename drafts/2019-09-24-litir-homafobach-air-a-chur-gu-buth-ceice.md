@@ -1,9 +1,9 @@
 ---
-title: Litir homafòbach air a chur do bùth-cèic Baile Udain
+title: Litir homafòbach air a chur gu bùth cèice
 author: Crìstean MacMhìcheil
 type: post
-date: 2019-09-23 17:00:00
-image: /images/2019-09-23-litir-homafobach-air-a-chur-do-buth-ceic-baile-udain.jpg
+date: 2019-09-24 13:10:00
+image: /images/2019-09-24-litir-homafobach-air-a-chur-gu-buth-ceice.jpg
 comments: true
 categories:
 - lagh
@@ -13,7 +13,7 @@ tags:
 comments: true
 ---
 
-Bha iongnadh air luchd-obrach aig bùth-cèic ann am Baile Udain Diardaoin as dèidh dhaibh litir homafòbach fhaighinn.
+Bha iongnadh air luchd-obrach aig bùth cèice ann am Baile Udain Diardaoin as dèidh dhaibh litir homafòbach fhaighinn tron phost.
 
 <!--more-->
 
