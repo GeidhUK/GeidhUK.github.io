@@ -29,4 +29,4 @@ Thuirt Mìcheal ri Pink Saltire:
 
 Chaidh aithris air na thachair a thoirt do Phoileas Alba a bhios ga làimhseachadh mar eucoir-gràin.
 
-Ma tha sibh airson barrachd leughadh mun sgeulachd seo tadhalaibh air làrach-lìn Pink Saltire: [https://pinksaltire.com/2019/09/19/scottish-business-owners-receive-targeted-homophobic-hate-mail/](Scottish business owners receive targeted homophobic hate mail).
+Ma tha sibh airson barrachd leughadh mun sgeulachd seo tadhalaibh air làrach-lìn Pink Saltire: [Scottish business owners receive targeted homophobic hate mail](https://pinksaltire.com/2019/09/19/scottish-business-owners-receive-targeted-homophobic-hate-mail/).
