@@ -2,7 +2,7 @@
 title: Litir homafòbach air a chur gu bùth cèice
 author: Crìstean MacMhìcheil
 type: post
-date: 2019-09-24 13:10:00
+date: 2019-09-24 13:45:00
 image: /images/2019-09-24-litir-homafobach-air-a-chur-gu-buth-ceice.jpg
 comments: true
 categories:
@@ -17,13 +17,13 @@ Bha iongnadh air luchd-obrach aig bùth cèice ann am Baile Udain Diardaoin as d
 
 <!--more-->
 
-Chaidh an litir, a ghabhas a leughadh gu h-àrd, a chur gun ainm dhan bhùth Special Days Cakes.
+Chaidh an litir, a ghabhas a leughadh gu h-àrd, a chur gun ainm dhan bhùth [https://specialdayscakes.com/](Special Days Cakes).
 
 'S ann le Mìcheal Burns agus Steafan Whyteside a tha am bùth.
 
-Ann an aithris ri Pink Saltire, thuirt Mìcheal:
+Thuirt Mìcheal ri Pink Saltire:
 
-"Cha do smaoinich sinn airson diog gun d' thàinig an litir bho cliant sam bith againn, ach is dòcha bho cuideigin a bha airson ar soillseachadh air sgàth 's gu bheil sinn co-sheòrsach. Tha sinn air a bhith còmhla fad ochd bliadhna deug agus 's e seo an 10mh ceann-bliadhna pòsaidh againn san Dùbhlachd, ach chan fhaca sinn dad mar seo a-riamh. Bha mi a' smaointinn gur e rud eachdraidheil a bh' ann an gràin na co-sheòrsachd ach chaidh mo chur ann an tuaineal le seo an-diugh."
+"Cha do smaoinich sinn airson diog gun d' thàinig an litir bho chliant sam bith againn, ach is dòcha bho chuideigin a bha airson ar nàrachadh air sgàth 's gu bheil sinn co-sheòrsach. Tha sinn air a bhith còmhla fad ochd bliadhna deug agus 's e seo an 10mh ceann-bliadhna pòsaidh againn san Dùbhlachd, ach chan fhaca sinn dad mar seo a-riamh. Bha mi a' smaointinn gur e rud a thachair san àm a dh'fhalbh a bh' ann an gràin na co-sheòrsachd ach chaidh mo chur ann an tuaineal le seo an-diugh."
 
 Chaidh aithris air na thachair a thoirt do Phoileas Alba a bhios ga làimhseachadh mar eucoir-gràin.
 
