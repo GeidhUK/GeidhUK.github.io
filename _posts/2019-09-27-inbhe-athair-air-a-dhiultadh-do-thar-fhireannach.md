@@ -27,9 +27,9 @@ Ann an agallamh le The Guardian, far a bhios e ag obair, thuirt e:
 
 Mhothaich McConnell gun robh e tar-ghnèitheach ann an 2010 agus tha e air a bhith a' fuireach mar fhireannach fad iomadh bliadhna.
 
-Ann an 2013 thòisich e air leigeasan teisteostaron fhaighinn agus fhuair e obair-lannsa gus stuth a chìochan a thoirt air falbh.
+Ann an 2013 thòisich e air leigheasan teisteostaron fhaighinn agus fhuair e obair-lannsa gus stuth a chìochan a thoirt air falbh.
 
-Ann an 2016 fhuair e comhairle bho chlionaig sìolachaidh mu fhàs trom agus stad e na leigeasan teisteostaron.
+Ann an 2016 fhuair e comhairle bho chlionaig sìolachaidh mu fhàs trom agus stad e na leigheasan teisteostaron.
 
 Dh'fhàs e trom ann an 2017 agus rug e an leanabh ann an 2018.
 
