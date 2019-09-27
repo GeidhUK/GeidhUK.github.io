@@ -13,7 +13,7 @@ tags:
 comments: true
 ---
 
-Tha an Àrd-chùirt ann an Lunnainn air co-dhùnadh nach fhaod tar-fhireannach, Freddy McConnell, clàradh mar atha air teisteanas-breith an leanabh aige air sgàth 's gun do rug e an leanabh.
+Tha an Àrd-chùirt ann an Lunnainn air co-dhùnadh nach fhaod tar-fhireannach, Freddy McConnell, clàradh mar athair air teisteanas-breith an leanabh aige air sgàth 's gun do rug e an leanabh.
 
 <!--more-->
 
