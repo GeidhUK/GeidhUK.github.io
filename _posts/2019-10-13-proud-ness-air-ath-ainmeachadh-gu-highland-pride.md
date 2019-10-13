@@ -3,7 +3,7 @@ title: Proud Ness air ath-ainmeachadh gu Highland Pride
 author: Crìstean MacMhìcheil
 type: post
 date: 2019-10-13 17:40:00
-image: /images/2019-10-13-proud-ness-air-ath-ainmeachadh-gu-highland-pride.jpg
+image: /images/2019-10-13-proud-ness-air-ath-ainmeachadh-gu-highland-pride.JPG
 comments: true
 categories:
 - alba
