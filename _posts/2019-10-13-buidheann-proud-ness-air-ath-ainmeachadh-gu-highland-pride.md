@@ -1,9 +1,9 @@
 ---
-title: Buidheann Proud Ness air ath-ainmeachadh gu Highland Pride
+title: Proud Ness air ath-ainmeachadh gu Highland Pride
 author: Crìstean MacMhìcheil
 type: post
 date: 2019-10-13 17:40:00
-image: /images/2019-10-13-buidheann-proud-ness-air-ath-ainmeachadh-gu-highland-pride.jpg
+image: /images/2019-10-13-proud-ness-air-ath-ainmeachadh-gu-highland-pride.jpg
 comments: true
 categories:
 - alba
@@ -13,7 +13,7 @@ tags:
 comments: true
 ---
 
-Tha eagraichean Fèis-pròise Inbhir Nis air ainmeachadh gun tèid am buidheann aca ath-ainmeachadh gu Highland Pride gus a’ choimhearsnachd LCDT+ air feadh na sgìre aithneachadh.
+Tha eagraichean Fèis-pròise Inbhir Nis air ainmeachadh gun tèid am buidheann aca ath-ainmeachadh gu Highland Pride gus coimhearsnachd LCDT+ na sgìre air fad aithneachadh.
 
 <!--more-->
 
@@ -31,4 +31,4 @@ Thuirt Jess Taylor, Cathraiche Highland Pride:
 
 “Air an dàrna làimh, ma tha planaichean agaibh mu thràth, aig an leabhar-lann, an sgoil no an ionad coimhearsnachd agaibh, airson Mìos Eachdraidh LCDT, cuiribh fios thugainn cuideachd.”
 
-Bu chòir do dhuine sam bith le beachdan post-d a chur gu [info@highlandpride.org](mailto: info@highlandpride.org) no tadhal air [www.highlandpride.org](www.highlandpride.org) airson barrachd fhiosrachaidh.
+Bu chòir do dhuine sam bith le beachdan post-d a chur gu <info@highlandpride.org> no tadhal air <www.highlandpride.org> airson barrachd fhiosrachaidh.
