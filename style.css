@@ -6,6 +6,38 @@ html {
   font-size: 100%;
 }
 
+html, html[data-theme="light"], {
+  --light-text-color: hsl(0, 0%, 35%);
+  --main-background-color: hsl(0, 5%, 95%);
+  --main-text-color: hsl(0, 0%, 0%);
+  --main-link-color: {{ site.featured-color }};
+}
+
+html[data-theme="dark"] {
+  --light-text-color: hsl(0, 0%, 60%);
+  --main-background-color: hsl(0, 0%, 10%);
+  --main-text-color: hsl(0, 10%, 80%);
+  --main-link-color: {{ site.featured-color }};
+}
+
+@media (prefers-color-scheme: dark) {
+    html {
+      content: "dark";
+    }
+}
+
+body {
+    background-color: var(--main-background-color);
+}
+
+a {
+  color: var(--main-link-color)
+}
+
+h1, h2, h3, h4, h5, h6, p {
+  color: var(--main-text-color);
+}
+
 /* Center Post Images */
 .brand-image, .post-image, .timeline-image {
     margin: 0 auto;
@@ -54,10 +86,6 @@ html {
 
 .dropdown-menu{
 	background-color: {{ site.featured-color }};
-}
-
-a{
-  color: {{ site.featured-color }};
 }
 
 .page-content{
