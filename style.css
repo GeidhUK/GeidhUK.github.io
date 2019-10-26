@@ -34,8 +34,15 @@ a {
   color: var(--main-link-color);
 }
 
-h1, h2, h3, h4, h5, h6, p, li, hr {
+h1, h2, h3, h4, h5, h6, p, li {
   color: var(--main-text-color);
+}
+
+hr {
+  border-color: var(--main-text-color);
+  height:0; 
+  border:0; 
+  border-top:1px solid;
 }
 
 /* Center Post Images */
