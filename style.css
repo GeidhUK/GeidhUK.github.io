@@ -28,7 +28,7 @@ body {
 
 /* Set Dark Mode text color */
 h1, h2, h3, h4, h5, h6, p, li {
-  color: var(--main-text-color);
+  color: var(--light-text-color);
 }
 
 /* Set hyperlink color to the site's featured color */
