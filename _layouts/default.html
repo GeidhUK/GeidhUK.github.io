@@ -108,17 +108,18 @@
           <li class="nav-item">
             <a class="nav-link" href="https://pinksaltire.com/" title="Seirbheis naidheachd is fiosrachaidh LGBT+ na h-Alba | Scotland's LGBT+ news and information sourc">Pink Saltire</a>
           </li>
-          <li class="nav-item">
-            <a class="nav-link" href="{{ site.baseurl }}/roinn-seorsa/blog">Blog</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="{{ site.baseurl }}/mu-dheidhinn">Mu Dheidhinn</a>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Naidheachdan
+          </a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+            <a class="dropdown-item" href="{{ site.baseurl }}/roinn-seorsa/blog">Blog</a>
+            <a class="dropdown-item" href="{{ site.baseurl }}/roinn-seorsa/mu-dheidhinn">Mu Dheidhinn</a>
+            <a class="nav-link" id="theme-toggle" onclick="modeSwitcher()"></a>
+            </div>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="{{ site.baseurl }}/lorg"><i class="fas fa-search"></i></a>
-          </li>
-          <li>
-            <a class="nav-link" id="theme-toggle" onclick="modeSwitcher()"></a>
           </li>
         </ul>
       </div>
