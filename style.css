@@ -11,6 +11,7 @@ html, html[data-theme="light"], {
   --main-background-color: hsl(0, 5%, 95%);
   --main-text-color: hsl(0, 0%, 0%);
   --main-link-color: {{ site.featured-color }};
+  --post-divider-color: orange;
 }
 
 html[data-theme="dark"] {
