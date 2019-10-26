@@ -31,6 +31,10 @@ body {
 }
 
 a {
+  color: {{ site.featured-color }};
+}
+
+a {
   color: var(--main-link-color);
 }
 
