@@ -6,39 +6,37 @@ html {
   font-size: 100%;
 }
 
-/*
-html, html[data-theme="light"], {
-  --light-text-color: hsl(0, 0%, 35%);
-  --main-background-color: hsl(0, 5%, 95%);
-  --main-text-color: hsl(0, 0%, 0%);
-}
-*/
-
+/* Set Dark Mode's text, and background colors */
 html[data-theme="dark"] {
-  --light-text-color: hsl(0, 0%, 60%);
-  --main-background-color: hsl(0, 0%, 10%);
-  --main-text-color: hsl(0, 10%, 80%);
+  --light-text-color: #999999;
+  --main-background-color: #1a1a1a;
+  --main-text-color: #d1c7c7;
 }
 
+/* Check if user has dark mode enabled */
 @media (prefers-color-scheme: dark) {
     html {
       content: "dark";
     }
 }
 
+/* Set Dark Mode background color */
 body {
     background-color: var(--main-background-color);
 }
 
-a {
-  color: {{ site.featured-color }};
-}
 
-
+/* Set Dark Mode text color */
 h1, h2, h3, h4, h5, h6, p, li {
   color: var(--main-text-color);
 }
 
+/* Set hyperlink color to the site's featured color */
+a {
+  color: {{ site.featured-color }};
+}
+
+/* Set the color of the divider between articles */
 hr {
   border-color: #f5f5f5;
   border-style: solid;
