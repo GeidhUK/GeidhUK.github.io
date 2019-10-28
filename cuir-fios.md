@@ -15,28 +15,12 @@ Twitter Chrìstein: [@MacMhìcheil](https://www.twitter.com/MacMhicheil)
 Instagram Chrìstein: [@MacMhìcheil](https://www.instagram.com/MacMhicheil)
 
 Mura h-eil sibh airson Twitter no Instagram a chleachdadh, 's urrainn dhuibh post-d a chur thugainn le bhith a' lìonadh an fhoirm gu h-ìosal.
-<!--
+
 <form action="https://formspree.io/mqkzdoro" method="POST">
   <div class="form-group">
     <input class="form-control" type="text" name="email" placeholder="Cuir a-steach do sheòladh puist-d an seo"><br/>
     <textarea class="form-control" type="text" name="content" rows="10" placeholder="Cuir a-steach do bhrath puist-d an seo"></textarea><br/>
     <input class="form-control" type="hidden" name="_next" value="https://geidh.uk/thanks.html">
-    <input class="form-control" type="hidden" name="_subject" value="Brath ùr bho leughadair Geidh.uk">
-    <input class="form-control" type="text" name="_gotcha" style="display:none">
-    <input class="form-control" type="submit" value="Cuir a-steach">
-  </div>
-</form>
--->
-<script type="text/javascript">var submitted=false;</script>
-<iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted)  {window.location='https://geidh.uk/thanks.html';}"></iframe>
-
-<form action="https://docs.google.com/forms/d/e/1FAIpQLSfyQYFn6pXGWZZu0Q0JtereGKBho5UAdHNBSYWMVnzwM5oiKg/formResponse" method="post" target="hidden_iframe"
-onsubmit="submitted=true;">
-  <div class="form-group">
-    <input class="form-control" type="text" name="entry.1075426892" placeholder="Cuir a-steach d' ainm an seo"><br/>
-    <input class="form-control" type="text" name="entry.2111218823" placeholder="Cuir a-steach do sheòladh puist-d an seo"><br/>
-    <textarea class="form-control" type="text" name="entry.631547409" rows="10" placeholder="Cuir a-steach do bhrath puist-d an seo"></textarea><br/>
-    <input class="form-control" type="hidden" name="_next" value="https://geidh.uk/thanks/">
     <input class="form-control" type="hidden" name="_subject" value="Brath ùr bho leughadair Geidh.uk">
     <input class="form-control" type="text" name="_gotcha" style="display:none">
     <input class="form-control" type="submit" value="Cuir a-steach">
