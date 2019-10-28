@@ -15,7 +15,7 @@ Twitter Chrìstein: [@MacMhìcheil](https://www.twitter.com/MacMhicheil)
 Instagram Chrìstein: [@MacMhìcheil](https://www.instagram.com/MacMhicheil)
 
 Mura h-eil sibh airson Twitter no Instagram a chleachdadh, 's urrainn dhuibh post-d a chur thugainn le bhith a' lìonadh an fhoirm gu h-ìosal.
-
+<!--
 <form action="https://formspree.io/mqkzdoro" method="POST">
   <div class="form-group">
     <input class="form-control" type="text" name="email" placeholder="Cuir a-steach do sheòladh puist-d an seo"><br/>
@@ -26,7 +26,7 @@ Mura h-eil sibh airson Twitter no Instagram a chleachdadh, 's urrainn dhuibh pos
     <input class="form-control" type="submit" value="Cuir a-steach">
   </div>
 </form>
-
+-->
 <script type="text/javascript">var submitted=false;</script>
 <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted)  {window.location='https://geidh.uk/thanks.html';}"></iframe>
 
