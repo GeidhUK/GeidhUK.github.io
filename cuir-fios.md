@@ -20,7 +20,7 @@ Mura h-eil sibh airson Twitter no Instagram a chleachdadh, 's urrainn dhuibh pos
   <div class="form-group">
     <input class="form-control" type="text" name="email" placeholder="Cuir a-steach do sheòladh puist-d an seo"><br/>
     <textarea class="form-control" type="text" name="content" rows="10" placeholder="Cuir a-steach do bhrath puist-d an seo"></textarea><br/>
-    <input class="form-control" type="hidden" name="_next" value="{{ site.baseurl }}/taing/">
+    <input class="form-control" type="hidden" name="_next" value="https://geidh.uk/taing/">
     <input class="form-control" type="hidden" name="_subject" value="Brath ùr bho leughadair Geidh.uk">
     <input class="form-control" type="text" name="_gotcha" style="display:none">
     <input class="form-control" type="submit" value="Cuir a-steach">
