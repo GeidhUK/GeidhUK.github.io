@@ -27,8 +27,11 @@ Mura h-eil sibh airson Twitter no Instagram a chleachdadh, 's urrainn dhuibh pos
   </div>
 </form>
 
+<script type="text/javascript">var submitted=false;</script>
+<iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted)  {window.location='https://geidh.uk/thanks.html';}"></iframe>
 
-<form action="https://docs.google.com/forms/d/e/1FAIpQLSfyQYFn6pXGWZZu0Q0JtereGKBho5UAdHNBSYWMVnzwM5oiKg/formResponse" method="POST">
+<form action="https://docs.google.com/forms/d/e/1FAIpQLSfyQYFn6pXGWZZu0Q0JtereGKBho5UAdHNBSYWMVnzwM5oiKg/formResponse" method="post" target="hidden_iframe"
+onsubmit="submitted=true;">
   <div class="form-group">
     <input class="form-control" type="text" name="entry.1075426892" placeholder="Cuir a-steach d' ainm an seo"><br/>
     <input class="form-control" type="text" name="entry.2111218823" placeholder="Cuir a-steach do sheòladh puist-d an seo"><br/>
