@@ -7,9 +7,11 @@ permalink: /cuir-fios/
 'S e Twitter no Instagram an dòigh as fheàrr airson brath a chur thugainn. 'S urrainn dhuibh ar lorg aig na ceanglaichean gu h-ìosal.
 
 <div class="col-md-3">
-  <div class="card" style="background-color: #3498db">
-    <i class="fab fa-twitter"></i> Twitter: [@GeidhUK](https://www.twitter.com/GeidhUK)
-  </div>
+  <a href="https://www.twitter.com/GeidhUK">
+    <div class="card" style="background-color: #3498db">
+      <i class="fab fa-twitter"></i> @GeidhUK
+    </div>
+  </a>
 </div>
 
 Instagram: [@GeidhUK](https://www.instagram.com/GeidhUK)
