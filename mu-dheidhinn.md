@@ -26,11 +26,3 @@ Nuair a bha mi nam oileanach aig SMO cha robh mi eòlach air mòran Gàidheil LC
 Ann an 2007 chruthaich mi AbairThusa a bha na chiad lìon-sòisealta do Ghàidheil.
 
 Tha mi nam glasraichear-cruaidh (vegan).
-
-##### Cuir Fios
-
-Twitter: [@GeidhUK](https://www.twitter.com/GeidhUK)
-
-Twitter Chrìstein: [@MacMhìcheil](https://www.twitter.com/MacMhicheil)
-
-Post-d: [chris@macmhicheil.uk](mailto:chris@macmhicheil.uk)
