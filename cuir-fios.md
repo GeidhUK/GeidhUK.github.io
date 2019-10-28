@@ -12,11 +12,11 @@ Post-d: [chris@macmhicheil.uk](mailto:chris@macmhicheil.uk)
 
 <form action="https://formspree.io/{{site.email}}" method="POST">
   <div class="form-group">
-    <input class="form-control" type="text" name="email" placeholder="Ur Post-d">
-    <textarea class="form-control" type="text" name="content" rows="10" placeholder="Sgrìobh ur brath an seo."></textarea>
-    <input class="form-control" type="hidden" name="_next" value="/taing/">
-    <input class="form-control" type="hidden" name="_subject" value="Brath ùr bho leughadair Geidh.uk">
-    <input class="form-control" type="text" name="_gotcha" style="display:none">
+    <input class="form-control" type="text" name="email" placeholder="Ur Post-d"><br/>
+    <textarea class="form-control" type="text" name="content" rows="10" placeholder="Sgrìobh ur brath an seo."></textarea><br/>
+    <input class="form-control" type="hidden" name="_next" value="/taing/"><br/>
+    <input class="form-control" type="hidden" name="_subject" value="Brath ùr bho leughadair Geidh.uk"><br/>
+    <input class="form-control" type="text" name="_gotcha" style="display:none"><br/>
     <input class="form-control" type="submit" value="Cuir a-steach">
   </div>
 </form>
