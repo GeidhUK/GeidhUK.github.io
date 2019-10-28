@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mu dheidhinn Gèidh.uk
+title: Mu dheidhinn Geidh.uk
 permalink: /mu-dheidhinn/
 ---
 
