@@ -10,11 +10,13 @@ Twitter Chrìstein: [@MacMhìcheil](https://www.twitter.com/MacMhicheil)
 
 Post-d: [chris@macmhicheil.uk](mailto:chris@macmhicheil.uk)
 
-<form class="wj-contact" action="https://formspree.io/{{site.email}}" method="POST">
-    <input type="text" name="email" placeholder="Email Address">
-    <textarea type="text" name="content" rows="10" placeholder="Message"></textarea>
-    <input type="hidden" name="_next" value="/taing/">
-    <input type="hidden" name="_subject" value="Brath ùr bho leughadair Geidh.uk">
-    <input type="text" name="_gotcha" style="display:none">
-    <input type="submit" value="Cuir a-steach">
+<form action="https://formspree.io/{{site.email}}" method="POST">
+  <div class="form-group">
+    <input class="form-control" type="text" name="email" placeholder="Email Address">
+    <textareaclass="form-control" type="text" name="content" rows="10" placeholder="Message"></textarea>
+    <input class="form-control" type="hidden" name="_next" value="/taing/">
+    <input class="form-control" type="hidden" name="_subject" value="Brath ùr bho leughadair Geidh.uk">
+    <input class="form-control" type="text" name="_gotcha" style="display:none">
+    <input class="form-control" type="submit" value="Cuir a-steach">
+  </div>
 </form>
