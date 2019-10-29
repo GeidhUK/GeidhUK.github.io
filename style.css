@@ -24,7 +24,6 @@ body {
     background-color: var(--dark-mode-background-color);
 }
 
-
 /* Set Dark Mode text color */
 h1, h2, h3, h4, h5, h6, p, li {
   color: var(--dark-mode-text-color);
