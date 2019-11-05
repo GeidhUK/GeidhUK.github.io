@@ -16,8 +16,6 @@ Instagram Chrìstein: [@MacMhìcheil](https://www.instagram.com/MacMhicheil)
 
 Mura h-eil sibh airson Twitter no Instagram a chleachdadh, 's urrainn dhuibh post-d a chur thugainn le bhith a' lìonadh an fhoirm gu h-ìosal.
 
-'S ann airson adhbharan deuchainn a tha an loidhne seo !
-
 <form action="https://formspree.io/mqkzdoro" method="POST">
   <div class="form-group">
     <input class="form-control" type="text" name="name" placeholder="Cuir a-steach d' ainm an seo" required><br/>
