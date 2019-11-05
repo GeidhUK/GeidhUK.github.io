@@ -39,6 +39,10 @@ hr {
   color: {{ site.featured-color }};
 }
 
+.section-divider {
+  border-top: 1px solid orange;
+}
+
 /* Center Post Images */
 .brand-image, .post-image {
     margin: 0 auto;
