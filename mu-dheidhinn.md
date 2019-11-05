@@ -15,8 +15,6 @@ Chaidh a stèidheachadh ann an 2008 mar Naidheachdan Pinc le Crìstean MacMhìch
 * a’ brosnachadh  co-ionnanachd agus iomadachd;
 * a’ lughdachadh iomallachd sa choimhearsnachd LCDTE+ Gàidhealach le bhith a’ cruthachadh cheanglaichean brìoghmhor agus luachmhor
 
-
-
 ##### Mu dheidhinn Crìstean MacMhìcheil
 
 ‘S ann à Inbhir Pheofharain a tha mi o thùs agus tha mi air a bhith a’ fuireach ann an Sìorrachd Rois cha mhòr fad mo bheatha.
@@ -28,6 +26,8 @@ Nuair a bha mi nam oileanach aig SMO cha robh mi eòlach air mòran Gàidheil LC
 Ann an 2007 chruthaich mi AbairThusa a bha na chiad lìon-sòisealta do Ghàidheil.
 
 Tha mi nam glasraichear-cruaidh (vegan).
+
+!!! 'S ann airson adhbharan deuchainn a tha an loidhne seo !!!
 
 {% include divider.html %}
 
