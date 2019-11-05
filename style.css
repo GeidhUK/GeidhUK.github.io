@@ -38,7 +38,7 @@ a {
 .section-divider {
   height:1px;
   background: {{ site.featured-color }};
-  margin: 20px 0px 10px;
+  margin: 10px 0px 20px;
   width: 100%;
 }
 
