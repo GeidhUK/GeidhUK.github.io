@@ -35,12 +35,8 @@ a {
 }
 
 /* Set the color of the divider between articles */
-hr {
-  color: {{ site.featured-color }};
-}
-
 .section-divider {
-  border-top: 1px solid orange;
+  border-top: 1px solid #c0c0c0;
   margin-bottom: 10px;
 }
 
