@@ -29,7 +29,8 @@ Ann an 2007 chruthaich mi AbairThusa a bha na chiad lìon-sòisealta do Ghàidhe
 
 Tha mi nam glasraichear-cruaidh (vegan).
 
-<hr>
+<div class="section-divider"></div>
+
 **Nòtaichean**
 
 [^1]: Nòta mun ainm - 'S e an adhbhar nach bi sinn a' cleachdadh Gèidh.uk ann an ainm an làraich nach eil URLan le stràcan nam broinn air an taisbeanadh gu ceart anns a h-uile àite. Ma choimheadas tu air an ìomhaigh gu h-ìosal chì thu gu bheil _Gèidh.uk_ air a thaisbeanadh mar _xn--gidh-50a.uk_ air sgàth 's gu bheil stràc air an e. ![Nòta mun ainm](/images/nota-mun-ainm.jpg){: .post-image }
