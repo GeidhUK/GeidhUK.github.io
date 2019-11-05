@@ -36,8 +36,7 @@ a {
 
 /* Set the color of the divider between articles */
 hr {
-  border-color: #c0c0c0;
-  border-style: solid;
+  color: {{ site.featured-color }};
 }
 
 /* Center Post Images */
