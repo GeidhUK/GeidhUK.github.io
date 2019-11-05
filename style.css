@@ -115,6 +115,7 @@ hr {
     color: #f3f3f3;
 }
 
+/* Style for Jump to Top button */
 #myBtn {
   display: none;
   position: fixed;
@@ -134,6 +135,8 @@ hr {
 #myBtn:hover {
   background-color: #555;
 }
+
+/* Style for Index pagination */
 
 .pagination a, .pagination span {
     padding: 7px 18px;
