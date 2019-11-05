@@ -29,7 +29,7 @@ Ann an 2007 chruthaich mi AbairThusa a bha na chiad lìon-sòisealta do Ghàidhe
 
 Tha mi nam glasraichear-cruaidh (vegan).
 
-<div class="section-divider"></div>
+{% include divider.html %}
 
 **Nòtaichean**
 
