@@ -26,7 +26,7 @@ layout: default
         {% endif %}
         {{ content }}
       </div>
-      <hr>
+      <div class="section-divider"></div>
       <div class="PageNavigation">
         {% for post in site.categories.naidheachdan %}
                 {% if post.url == page.url %}
@@ -49,7 +49,7 @@ layout: default
                 <a class="next" href="{{ next_post }}">An ath phost <i class="fas fa-arrow-circle-right"></i></a>
             {% endif %}
       </div>
-      <hr>
+      <div class="section-divider"></div>
       <div class="related">
         {% unless page.categories == null %}
       	  {% capture pageCategory %}{{ page.categories[0] }}{% endcapture %}
@@ -71,7 +71,7 @@ layout: default
       	  {% endunless %}
       	{% endunless %}
       </div>
-      <hr>
+      <div class="section-divider"></div>
       <div class="comments">
         {% if page.comments %}
         <div id="disqus_thread"></div>
