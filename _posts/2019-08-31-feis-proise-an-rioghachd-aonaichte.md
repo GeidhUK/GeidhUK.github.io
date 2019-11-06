@@ -6,7 +6,7 @@ comments: true
 layout: tachartas
 date: 2019-08-31 00:00:00
 author: Crìstean MacMhìcheil
-categories: tachartasan
+categories: tachartasan-roimhe
 hidden: true
 tags: Fèis-pròise an Rìoghachd Aonaichte is Èirinn, UK & Ireland Pride
 ceann-latha: 31mh An Lùnastal 2019
