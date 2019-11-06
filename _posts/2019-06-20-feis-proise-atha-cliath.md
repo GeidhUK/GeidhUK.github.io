@@ -6,7 +6,7 @@ comments: true
 layout: tachartas
 date: 2019-06-20 12:00:00
 author: Crìstean MacMhìcheil
-categories: tachartasan
+categories: tachartasan-roimhe
 hidden: true
 tags:
 ceann-latha: 20mh An t-Ògmhìos 2019 @ 12:00f

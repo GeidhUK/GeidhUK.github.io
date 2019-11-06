@@ -5,7 +5,7 @@ image: /images/2019-05-18-feis-proise-an-obain.jpg
 comments: true
 layout: tachartas
 date: 2019-05-18 00:00:00
-categories: tachartasan
+categories: tachartasan-roimhe
 hidden: true
 ceann-latha: 18mh An Cèitean 2019
 seoladh:

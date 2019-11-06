@@ -6,7 +6,7 @@ comments: true
 layout: tachartas
 date: 2019-07-27 12:00:00
 author: Crìstean MacMhìcheil
-categories: tachartasan
+categories: tachartasan-roimhe
 hidden: true
 tags: Fèis-pròise Lodainn an Iar, West Lothian Pride
 ceann-latha: 27mh An t-Iuchar 2019 @ 12:00f

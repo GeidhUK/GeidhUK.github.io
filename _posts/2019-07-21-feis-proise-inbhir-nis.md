@@ -5,7 +5,7 @@ image: /images/2019-07-21-feis-proise-inbhir-nis.jpg
 comments: true
 layout: tachartas
 date: 2019-07-21 13:00:00
-categories: tachartasan
+categories: tachartasan-roimhe
 hidden: true
 ceann-latha: 21mh An t-Iuchar 2019 @ 01:00f
 seoladh: Pàirc nam Bochd, Inbhir Nis

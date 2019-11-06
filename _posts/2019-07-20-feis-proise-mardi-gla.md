@@ -6,7 +6,7 @@ comments: true
 layout: tachartas
 date: 2019-07-20 00:00:00
 author: Crìstean MacMhìcheil
-categories: tachartasan
+categories: tachartasan-roimhe
 hidden: true
 tags:
 ceann-latha: 20mh An t-Iuchar 2019

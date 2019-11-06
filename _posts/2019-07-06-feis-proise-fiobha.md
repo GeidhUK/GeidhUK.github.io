@@ -6,7 +6,7 @@ comments: true
 layout: tachartas
 date: 2019-07-06 12:00:00
 author: Crìstean MacMhìcheil
-categories: tachartasan
+categories: tachartasan-roimhe
 hidden: true
 tags: Fèis-pròise Fìobha, Fife Pride,
 ceann-latha: 6mh An t-Iuchar 2019 @ 12:00f
