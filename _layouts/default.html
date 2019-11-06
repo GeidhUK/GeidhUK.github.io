@@ -60,11 +60,11 @@
       <div class="collapse navbar-collapse" id="navbarNavDropdown">
         <ul class="navbar-nav navbar-center">
           <li class="nav-item">
-            <a class="nav-link" href="{{ site.baseurl }}/"><i class="fas fa-home"></i></a>
+            <a class="nav-link" href="{{ site.baseurl }}/" title="Duilleag-dachaigh | Homepage"><i class="fas fa-home"></i></a>
           </li>
           <li class="nav-item dropdown">
-            <a class="nav-link" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-          Naidheachdan <i class="fas fa-caret-down"></i>
+            <a class="nav-link" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" title="Roinnean-naidheachd | News Categories">
+          Roinnean-seòrsa <i class="fas fa-caret-down"></i>
           </a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
               <a class="dropdown-item" href="{{ site.baseurl }}/roinn-seorsa/alba">Alba</a>
@@ -93,26 +93,22 @@
             <a class="nav-link" href="{{ site.baseurl }}/comhairle/" title="">Comhairle</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="{{ site.baseurl }}/roinn-seorsa/tachartasan">Tachartasan</a>
+            <a class="nav-link" href="{{ site.baseurl }}/roinn-seorsa/tachartasan" title="Liosta de thachartasan LCDTQ+ a' tachairt air feadh na h-Alba | A list of LGBTQ+ events from around Scotland">Tachartasan</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="{{ site.baseurl }}/ceanglaichean">Ceanglaichean</a>
-          </li>
-          <li class="nav-item dropdown">
-            <a class="nav-link" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-          Fios <i class="fas fa-caret-down"></i>
-          </a>
-            <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-              <a class="dropdown-item" href="{{ site.baseurl }}/roinn-seorsa/blog">Blog</a>
-              <a class="dropdown-item" href="{{ site.baseurl }}/mu-dheidhinn">Mu Dheidhinn</a>
-              <a class="dropdown-item" href="{{ site.baseurl }}/cuir-fios">Cuir Fios</a>
-            </div>
+            <a class="nav-link" href="{{ site.baseurl }}/ceanglaichean" title="Liosta de cheanglaichean feumail | A list of useful links">Ceanglaichean</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="{{ site.baseurl }}/lorg"><i class="fas fa-search"></i></a>
+              <a class="nav-link" href="{{ site.baseurl }}/roinn-seorsa/blog" title="Blog">Blog</a>
+          </li>
+          <li class="nav-item">
+              <a class="nav-link" href="{{ site.baseurl }}/mu-dheidhinn" title="Mar deidhinn | About Us">Mar Deidhinn</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="{{ site.baseurl }}/lorg" title="Lorg sna postaichean | Search the posts"><i class="fas fa-search"></i></a>
           </li>
           <li class="nav-item dropdown">
-            <a class="nav-link" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            <a class="nav-link" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" title="Roghainnean | Settings">
                 <i class="fas fa-cog"></i>
             </a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
@@ -141,9 +137,14 @@
 
     <div class="footer">
       <p>
-        <a href="{{ site.baseurl }}/naidheachdan-rss.xml"><i class="fas fa-rss"></i> Naidheachdan</a> |
-        <a href="{{ site.baseurl }}/tachartasan-rss.xml"><i class="fas fa-rss"></i> Tachartasan</a> |
+        <a href="{{ site.baseurl }}/naidheachdan-rss.xml"><i class="fas fa-rss"></i> Naidheachdan</a>
+        <a href="{{ site.baseurl }}/tachartasan-rss.xml"><i class="fas fa-rss"></i> Tachartasan</a>
         <a href="{{ site.baseurl }}/sitemap.xml"><i class="fas fa-sitemap"></i> Sitemap</a>
+      </p>
+      <p>
+        <a href="https://www.twitter.com/{{ site.twitter-username }}" title="Lean sinn air Twitter | Follow us on Twitter"><i class="fab fa-twitter"></i> @GeidhUK</a>
+        <a href="https://www.instagram.com/{{ site.instagram-username }}" title="Lean sinn air Instagram | Follow us on Instagram"><i class="fab fa-instagram"></i> @GeidhUK</a>
+        <a href="{{ site.baseurl }}/cuir-fios" title="Cuir post-d thugainn | Send us an email"><i class="fas fa-envelope"></i> Post-d</a>
       </p>
       <p><i class="fa fa-code"></i> le <i class="fa fa-heart"></i> le <a href="https://github.com/GeidhUK/GeidhUK.github.io/" title="Stòr Github Chrìstein MhicMhìcheil | Chris Mitchell's Github Repository">Crìstean MacMhìcheil</a></p>
     </div>
