@@ -36,9 +36,8 @@ a {
 
 /* Set the color of the divider between articles */
 .section-divider {
-  height:1px;
   /*background: {{ site.featured-color }}; */
-  margin: 15px 0px;
+  margin: 30px 0px;
   width: 100%;
 }
 
