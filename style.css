@@ -34,34 +34,7 @@ a {
   color: {{ site.featured-color }};
 }
 
-/* Set the color of the divider between articles */
-.section-divider {
-  /*background: {{ site.featured-color }}; */
-  margin: 30px 0px;
-  width: 100%;
-}
-
-/* Center Post Images */
-.brand-image, .post-image {
-    margin: 0 auto;
-    display: block;
-    max-width: 100%;
-    height: auto;
-}
-
-.post-image{
-  padding-top: 25px;
-  padding-bottom: 25px;
-}
-
-.index-image{
-  margin: 0 auto;
-  display: block;
-  max-width: 100%;
-  height: auto;
-  border: 1px whitesmoke solid;
-}
-
+/* Header Section */
 .header-brand {
   margin-bottom: 0px;
   padding-bottom: 15px;
@@ -91,6 +64,12 @@ a {
 	background-color: {{ site.featured-color }};
 }
 
+/* Content Section */
+
+.post-title{
+  margin: 10px 0px;
+}
+
 .page-content{
   margin-top: 25px;
 }
@@ -99,24 +78,45 @@ a {
   margin-right: 8px;
 }
 
-.footer{
-    background-color:  {{ site.featured-color }};
-    color: #fff;
-    text-align: center;
-    width: 100%;
-    margin-top: 100px;
-    padding: 5px 0px;
+/* Section divider allowing for more flexible styling compared to an hr line */
+.section-divider {
+  /*background: {{ site.featured-color }}; */
+  margin: 30px 0px;
+  width: 100%;
 }
 
-.footer a {
-    color: #fff;
+/* Images */
+.brand-image, .post-image {
+  margin: 0 auto;
+  display: block;
+  max-width: 100%;
+  height: auto;
 }
 
-.footer a:hover {
-    color: #f3f3f3;
+.post-image{
+  padding-top: 25px;
+  padding-bottom: 25px;
 }
 
-/* Style for Jump to Top button */
+.index-image{
+  margin: 0 auto;
+  display: block;
+  max-width: 100%;
+  height: auto;
+  border: 1px whitesmoke solid;
+}
+
+/* Events Category */
+.event-list-month{
+  margin: 25px 0px;
+}
+
+/* Related Posts */
+.related{
+  margin-top: 25px;
+}
+
+/* Jump to Top Button */
 #myBtn {
   display: none;
   position: fixed;
@@ -137,8 +137,7 @@ a {
   background-color: #555;
 }
 
-/* Style for Index pagination */
-
+/* Index Pagination */
 .pagination a, .pagination span {
     padding: 7px 18px;
     border: 1px solid #eee;
@@ -159,18 +158,6 @@ a {
     text-align: center;
  }
 
-.related{
-  margin-top: 25px;
-}
-
-.post-title{
-  margin: 10px 0px;
-}
-
-.event-list-month{
-  margin: 25px 0px;
-}
-
 .PageNavigation {
   font-size: 14px;
   display: block;
@@ -187,4 +174,22 @@ a {
 
 .PageNavigation .next {
   text-align: right;
+}
+
+/* Footer Section */
+.footer{
+    background-color:  {{ site.featured-color }};
+    color: #fff;
+    text-align: center;
+    width: 100%;
+    margin-top: 100px;
+    padding: 5px 0px;
+}
+
+.footer a {
+    color: #fff;
+}
+
+.footer a:hover {
+    color: #f3f3f3;
 }
