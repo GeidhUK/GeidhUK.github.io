@@ -20,6 +20,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://geidh.uk" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /:year/:month/:day/:title/
 
+twitter-username: GeidhUK
+instagram-username: GeidhUK
+
 # Pagination number
 plugins: [jekyll-paginate]
 paginate: 10
