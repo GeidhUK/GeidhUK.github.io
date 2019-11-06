@@ -86,24 +86,20 @@ a {
 }
 
 /* Images */
-.brand-image, .post-image {
+.brand-image, .index-image, .post-image {
   margin: 0 auto;
   display: block;
   max-width: 100%;
   height: auto;
+}
+
+.index-image{
+  border: 1px whitesmoke solid;
 }
 
 .post-image{
   padding-top: 25px;
   padding-bottom: 25px;
-}
-
-.index-image{
-  margin: 0 auto;
-  display: block;
-  max-width: 100%;
-  height: auto;
-  border: 1px whitesmoke solid;
 }
 
 /* Events Category */
