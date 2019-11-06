@@ -38,7 +38,7 @@ a {
 .section-divider {
   height:1px;
   /*background: {{ site.featured-color }}; */
-  margin: 25px 0px;
+  margin: 15px 0px;
   width: 100%;
 }
 
