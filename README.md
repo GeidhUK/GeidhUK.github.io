@@ -2,7 +2,7 @@
 
 ## Gàidhlig (English below)
 
-Bidh Geidh.uk **[^1]** a’ toirt thugaibh sa Ghàidhlig na naidheachdan LGBT+ as ùire le fòcas àraidh air naidheachd Albannach.
+Bidh [Geidh.uk](https://geidh.uk) **[^1]** a’ toirt thugaibh sa Ghàidhlig na naidheachdan LGBT+ as ùire le fòcas àraidh air naidheachd Albannach.
 
 Chaidh a stèidheachadh ann an 2008 mar Naidheachdan Pinc le Crìstean MacMhìcheil nuair a bha e na oileanach aig Sabhal Mòr Ostaig.
 
@@ -13,13 +13,17 @@ Chaidh a stèidheachadh ann an 2008 mar Naidheachdan Pinc le Crìstean MacMhìch
 * a’ brosnachadh  co-ionnanachd agus iomadachd;
 * a’ lughdachadh iomallachd sa choimhearsnachd LCDTE+ Gàidhealach le bhith a’ cruthachadh cheanglaichean brìoghmhor agus luachmhor.
 
+**Nòtaichean**
+
+[^1]: Nòta mun ainm - 'S e an adhbhar nach bi sinn a' cleachdadh Gèidh.uk ann an ainm an làraich nach eil URLan le stràcan nam broinn air an taisbeanadh gu ceart anns a h-uile àite. Ma choimheadas tu air an ìomhaigh gu h-ìosal chì thu gu bheil _Gèidh.uk_ air a thaisbeanadh mar _xn--gidh-50a.uk_ air sgàth 's gu bheil stràc air an e.
+
+![Nòta mun ainm](/images/nota-mun-ainm.jpg)
+
 <hr/>
 
 ## English
 
-Geidh.uk **[^2]** is a Gaelic medium LGBTQ news blog.
-
-The site is hosted on Github pages [here](https://geidh.uk/) and uses a custom Jekyll theme which is available [here](https://github.com/MacMhicheil/bootstrap-jekyll-theme).
+[Geidh.uk](https://geidh.uk) **[^2]** is a Gaelic medium LGBTQ news blog.
 
 It was established in 2008 as Naidheachdan Pinc (Pink News) by Chris Mitchell when he was a student at Sabhal Mòr Ostaig.
 
@@ -30,10 +34,6 @@ Our aims are to:
 * promote equality and diversity;
 * reduce isolation in the Gaelic LGBTQI+ community by creating meaningful and valuable.
 
-**Nòtaichean**
-
-[^1]: Nòta mun ainm - 'S e an adhbhar nach bi sinn a' cleachdadh Gèidh.uk ann an ainm an làraich nach eil URLan le stràcan nam broinn air an taisbeanadh gu ceart anns a h-uile àite. Ma choimheadas tu air an ìomhaigh gu h-ìosal chì thu gu bheil _Gèidh.uk_ air a thaisbeanadh mar _xn--gidh-50a.uk_ air sgàth 's gu bheil stràc air an e.
-
 [^2]: A note about the name - The reason we use Geidh.uk instead of Gèidh.uk in the website name is because URLs containing accents are not displayed correctly in every situation. If you look at the image below you will see that _Gèidh.uk_ is displayed as _xn--gidh-50a.uk_ because of the accent on the e.
 
-![Nòta mun ainm](/images/nota-mun-ainm.jpg){: .post-image }
+![Nòta mun ainm](/images/nota-mun-ainm.jpg)
