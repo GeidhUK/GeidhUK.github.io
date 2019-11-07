@@ -6,15 +6,17 @@ layout: page
 
 <p>Gheibhear tasglann de thachartasan a tha ri thighinn <a href="{{ site.baseurl }}/roinn-seorsa/tachartasan/">an seo</a></p>
 
-
+<!-- Displays the page content -->
 {% unless page.content == '' %}
   <p>{{ page.content }}</p>
 {% endunless %}
 
+<!-- Diplays if there are no posts in this category -->
 {% unless site.categories[page.category].size > 0 %}
   <p>Chan eil post sam bith anns an roinn-seòrsa seo.</p>
 {% endunless %}
 
+<!-- Converts the month number to the Gàidhlig name -->
 {% for post in site.categories[page.category] %}
 	{% assign currentDate = post.date | date: "%-m" %}
 	{% if currentDate != myDate %}
@@ -43,9 +45,15 @@ layout: page
       </div>
       <div class="col-md-9">
         <h5 class="post-title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h5>
+
+        <!-- Event date as defined in the front matter of the event's post -->
         <p><strong>{{ post.ceann-latha }}</strong><p>
+
+        <!-- Event address as defined in the front matter of the event's post -->
         <p><strong>{{ post.seoladh }}</strong></p>
+
         <p>Airson barrachd fhiosrachaidh mun tachartas seo tadhalaibh air:</p>
+          <!-- Adds a button link to the event website, Twitter and/or Facebook page as defined in the front matter of the event's post -->
           {% if post.larach-lin %}
             <a href="{{post.larach-lin}}" target="_blank" rel="noopener"><button type="button" class="btn btn-primary more-info" style="background-color: {{ site.featured-color }} !important; border-style: none; width: 30%;"><i class="fas fa-home"></i></button></a>
 
@@ -59,5 +67,8 @@ layout: page
           {% endif %}
       </div>
     </div>
+
+    <!-- Adds an invisible divider between each event -->
     <div class="section-divider"></div>
+    
 {% endfor %}
