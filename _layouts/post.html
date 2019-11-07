@@ -4,6 +4,8 @@ layout: default
 <div class="container">
   <div class="row">
     <div class="col-10 offset-1">
+
+      <!-- Post Content -->
       <div class="post">
         <h3 class="post-title">{{ page.title }}</h3>
         <span class="post-date text-muted">
@@ -25,8 +27,11 @@ layout: default
           <img src="{{ page.image }}" class="post-image">
         {% endif %}
         {{ content }}
-      </div>
+      </div><!-- End post content section -->
+
       <div class="section-divider"></div>
+
+      <!-- Next/Previous Post Nagivation -->
       <div class="PageNavigation">
         {% for post in site.categories.naidheachdan %}
                 {% if post.url == page.url %}
@@ -48,8 +53,11 @@ layout: default
             {% if next_post %}
                 <a class="next" href="{{ next_post }}">An ath phost <i class="fas fa-arrow-circle-right"></i></a>
             {% endif %}
-      </div>
+      </div><!-- End post navigation -->
+
       <div class="section-divider"></div>
+
+      <!-- Related Posts Section -->
       <div class="related">
         {% unless page.categories == null %}
       	  {% capture pageCategory %}{{ page.categories[0] }}{% endcapture %}
@@ -70,21 +78,15 @@ layout: default
       	    </ul>
       	  {% endunless %}
       	{% endunless %}
-      </div>
+      </div><!-- End related posts section -->
+
       <div class="section-divider"></div>
+
+      <!-- Display Disqus Comments Section -->
       <div class="comments">
         {% if page.comments %}
         <div id="disqus_thread"></div>
           <script>
-            /**
-            *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-            *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
-            /*
-            var disqus_config = function () {
-            this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
-            this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-            };
-            */
             (function() { // DON'T EDIT BELOW THIS LINE
             var d = document, s = d.createElement('script');
             s.src = 'https://geidh-uk.disqus.com/embed.js';
@@ -94,7 +96,8 @@ layout: default
           </script>
           <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
         {% endif %}
-      </div>
-    </div>
-  </div>
-</div>
+      </div><!-- End Disqus Comments Section -->
+
+    </div><!-- End grid column -->
+  </div><!-- End grid row -->
+</div><!-- End grid container -->
