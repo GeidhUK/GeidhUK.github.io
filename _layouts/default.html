@@ -4,193 +4,26 @@
 <!doctype html>
   <html lang="gd-GB">
     <head>
+      <!-- Inserts Header (_includes/header.html) here -->
+      {% include header.html %}
 
-      <!-- Global site tag (gtag.js) - Google Analytics -->
-      <script async src="https://www.googletagmanager.com/gtag/js?id=UA-134945777-1"></script>
-      <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-
-        gtag('config', 'UA-134945777-1');
-      </script>
-
-      <!-- Set Viewport to match device width with 1:1px ratio -->
-      <meta name="viewport" content="width=device-width, initial-scale=1">
-
-      <!-- Set Window/Tab Title -->
-      <title>
-        {% if page.title == "Dachaigh" %}
-        {{ site.title }} - {{ site.description }}
-        {% else %}
-        {{ page.title }} - {{ site.title }}
-        {% endif %}
-      </title>
-
-      <!-- Description for search engine use -->
-      <meta itemprop="description" name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
-
-      <!-- Web app icons -->
-      <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-      <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-      <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-      <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-      <link rel="manifest" href="/site.webmanifest">
-      <link rel="mask-icon" href="/safari-pinned-tab.svg" color="{{ site.featured-color }}">
-      <meta name="apple-mobile-web-app-title" content="Geidh.uk">
-      <meta name="application-name" content="Geidh.uk">
-      <meta name="msapplication-TileColor" content="{{ site.featured-color }}">
-      <meta name="msapplication-TileImage" content="/mstile-144x144.png">
-      <meta name="theme-color" content="{{ site.featured-color }}">
-
-      <!-- News RSS Feed -->
-      <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/naidheachdan-rss.xml" />
-
-      <!-- Load Font Awesome -->
-      <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
-
-      <!-- Load Bootstrap CSS -->
-      <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
-
-      <!-- Load Bootstrap JavaScript -->
-      <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
-
-      <!-- Load local CSS -->
-      <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
-
-      <!-- Meta data for Facebook Open Graph -->
-      <meta property="og:title" content="{{ post.title }}" />
-      <meta property="og:type" content="website" />
-      <meta property="og:url" content="{{ post.url }}" />
-      <meta property="og:image" content="{{ page.image }}" />
     </head>
 
-    <!-- Top Menubar -->
-    <nav class="navbar navbar-expand-lg navbar-dark bg-light" style="background-color: {{ site.featured-color }}!important">
-      <a href="{{ site.baseurl }}/"><img class="brand-image" src="{{ site.baseurl }}/images/header.png" width="200px"></a>
-      <!--<a class="navbar-brand" href="#">Navbar</a>-->
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="collapse navbar-collapse" id="navbarNavDropdown">
-        <ul class="navbar-nav navbar-center">
-          <li class="nav-item dropdown">
-            <a class="nav-link" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" title="Roinnean-naidheachd | News Categories">
-          Naidheachdan
-          </a>
-            <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-              <a class="dropdown-item" href="{{ site.baseurl }}/">Dachaigh</a>
-              <a class="dropdown-item" href="{{ site.baseurl }}/roinn-seorsa/alba">Alba</a>
-              <a class="dropdown-item" href="{{ site.baseurl }}/roinn-seorsa/an-rioghachd-aonaichte">An Rìoghachd Aonaichte</a>
-              <a class="dropdown-item" href="{{ site.baseurl }}/roinn-seorsa/an-roinn-eorpa">An Roinn-eòrpa</a>
-              <a class="dropdown-item" href="{{ site.baseurl }}/roinn-seorsa/creideamh">Creideamh</a>
-              <a class="dropdown-item" href="{{ site.baseurl }}/roinn-seorsa/cultar">Cùltar</a>
-              <a class="dropdown-item" href="{{ site.baseurl }}/roinn-seorsa/eirinn">Èirinn</a>
-              <a class="dropdown-item" href="{{ site.baseurl }}/roinn-seorsa/feisean-proise">Fèisean-pròise</a>
-              <a class="dropdown-item" href="{{ site.baseurl }}/roinn-seorsa/foghlam">Foghlam</a>
-              <a class="dropdown-item" href="{{ site.baseurl }}/roinn-seorsa/gaidhlig">Gàidhlig</a>
-              <a class="dropdown-item" href="{{ site.baseurl }}/roinn-seorsa/gniomhachas">Gnìomhachas</a>
-              <a class="dropdown-item" href="{{ site.baseurl }}/roinn-seorsa/lagh">Lagh</a>
-              <a class="dropdown-item" href="{{ site.baseurl }}/roinn-seorsa/poilitigs">Poilitigs</a>
-              <a class="dropdown-item" href="{{ site.baseurl }}/roinn-seorsa/slainte">Slàinte</a>
-              <a class="dropdown-item" href="{{ site.baseurl }}/roinn-seorsa/teicneolas">Teicneòlas</a>
-            </div>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="{{ site.baseurl }}/briathrachas-lcdt" title="Liosta de bhriathrachas Gàidhlig LCDTQ+ | A list of Gaelic LGBTQ+ vocabulary">Briathrachas LCDTQ+</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="{{ site.baseurl }}/dualchas" title="Geàrr-chunntas ghoirid de dh'eachdraidh LCDT na h-Alba | A short history of LGBT Scotland">Dualchas</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="{{ site.baseurl }}/comhairle/" title="">Comhairle</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="{{ site.baseurl }}/roinn-seorsa/tachartasan" title="Liosta de thachartasan LCDTQ+ a' tachairt air feadh na h-Alba | A list of LGBTQ+ events from around Scotland">Tachartasan</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="{{ site.baseurl }}/ceanglaichean" title="Liosta de cheanglaichean feumail | A list of useful links">Ceanglaichean</a>
-          </li>
-          <li class="nav-item">
-              <a class="nav-link" href="{{ site.baseurl }}/roinn-seorsa/blog" title="Blog">Blog</a>
-          </li>
-          <li class="nav-item">
-              <a class="nav-link" href="{{ site.baseurl }}/fios" title="Mar deidhinn | About Us">Fios</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="{{ site.baseurl }}/lorg" title="Lorg sna postaichean | Search the posts">Lorg</a>
-          </li>
-          <li class="nav-item dropdown">
-            <a class="nav-link" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" title="Roghainnean | Settings">
-                <i class="fas fa-cog"></i>
-            </a>
-            <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-              <a class="dropdown-item" id="theme-toggle" onclick="modeSwitcher()" href="#"></a>
-            </div>
-          </li>
-        </ul>
-      </div>
-    </nav>
+    <!-- Inserts Navbar (_includes/navbar.html) here -->
+    {% include navbar.html %}
 
   <body>
-
-    <!-- Dark Mode JavaScript -->
-    <script>
-      const theme = localStorage.getItem('theme');
-      if (theme === "dark") {
-        document.documentElement.setAttribute('data-theme', 'dark');
-      }
-    </script>
-
-    <!-- Bootstrap JavaScript -->
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
 
     <!-- Page Content -->
     <div class="page-content">
           {{ content }}
     </div>
 
-    <!-- Footer -->
-    <div class="footer">
-            <span class="nav-link">
-              <i class="fa fa-code"></i> le <i class="fa fa-heart"></i> le <a href="https://github.com/GeidhUK/GeidhUK.github.io/" title="Stòr Github Chrìstein MhicMhìcheil | Chris Mitchell's Github Repository">Crìstean MacMhìcheil</a><br/>
-              <i class="fab fa-creative-commons"></i> <i class="fab fa-creative-commons-by"></i>
-            </span>
-    </div>
+    <!-- Insert Footer (_includes/footer.html) here -->
+    {% include footer.html %}
 
-    <!-- User Theme Preference -->
-    <script>
-        const userPrefers = getComputedStyle(document.documentElement).getPropertyValue('content');
-
-        if (theme === "dark") {
-        	document.getElementById("theme-toggle").innerHTML = "Cuir air na solais";
-        } else if (theme === "light") {
-        	document.getElementById("theme-toggle").innerHTML = "Cuir dheth na solais";
-        } else if  (userPrefers === "dark") {
-        	document.documentElement.setAttribute('data-theme', 'dark');
-        	window.localStorage.setItem('theme', 'dark');
-        	document.getElementById("theme-toggle").innerHTML = "Cuir air na solais";
-        } else {
-        	document.documentElement.setAttribute('data-theme', 'light');
-        	window.localStorage.setItem('theme', 'light');
-        	document.getElementById("theme-toggle").innerHTML = "Cuir dheth na solais";
-        }
-
-        function modeSwitcher() {
-        	let currentMode = document.documentElement.getAttribute('data-theme');
-        	if (currentMode === "dark") {
-        		document.documentElement.setAttribute('data-theme', 'light');
-        		window.localStorage.setItem('theme', 'light');
-        		document.getElementById("theme-toggle").innerHTML = "Cuir dheth na solais";
-        	} else {
-        		document.documentElement.setAttribute('data-theme', 'dark');
-        		window.localStorage.setItem('theme', 'dark');
-        		document.getElementById("theme-toggle").innerHTML = "Cuir air na solais";
-        	}
-        }
-    </script>
+    <!-- Insert Dark Mode, Theme Preference & Bootstrap javascript (_includes/javascript.html) here -->
+    {% include javascript.html %}
 
   </body>
 </html>
