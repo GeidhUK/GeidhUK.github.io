@@ -2,22 +2,24 @@
 layout: page
 ---
 
+<!-- Displays the event's post content -->
 {{ content }}
 
+<!-- Event date as defined in the front matter of the event's post -->
 <h4>Cùin</h4>
 <p>{{ page.ceann-latha }}</p>
 
+<!-- Event address as defined in the front matter of the event's post -->
 <h4>Càit</h4>
 <p>{{ page.seoladh }}</p>
 
 <p>Airson barrachd fhiosrachaidh mun tachartas seo tadhalaibh air:</p>
+  <!-- Adds a button link to the event website, Twitter and/or Facebook page as defined in the front matter of the event's post -->
   {% if page.larach-lin %}
     <a href="{{page.larach-lin}}" target="_blank" rel="noopener"><button type="button" class="btn btn-primary more-info" style="background-color: #fb135b !important; border-style: none; width: 30%;"><i class="fas fa-home"></i></button></a>
-
   {% endif %}
   {% if page.twitter %}
     <a href="{{page.twitter}}" target="_blank" rel="noopener"><button type="button" class="btn btn-primary" style="background-color: #fb135b !important; border-style: none; width: 30%;"><i class="fab fa-twitter"></i></button></a>
-
   {% endif %}
   {% if page.facebook %}
     <a href="{{page.facebook}}" target="_blank" rel="noopener"><button type="button" class="btn btn-primary" style="background-color: #fb135b !important; border-style: none; width: 30%;"><i class="fab fa-facebook-f"></i></button></a>
