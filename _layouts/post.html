@@ -32,53 +32,12 @@ layout: default
       <div class="section-divider"></div>
 
       <!-- Next/Previous Post Nagivation -->
-      <div class="PageNavigation">
-        {% for post in site.categories.naidheachdan %}
-                {% if post.url == page.url %}
-                    {% assign post_index0 = forloop.index0 %}
-                    {% assign post_index1 = forloop.index %}
-                {% endif %}
-            {% endfor %}
-            {% for post in site.categories.naidheachdan %}
-                {% if post_index0 == forloop.index %}
-                    {% assign next_post = post.url %}
-                {% endif %}
-                {% if post_index1 == forloop.index0 %}
-                    {% assign prev_post = post.url %}
-                {% endif %}
-            {% endfor %}
-            {% if prev_post %}
-                <a class="prev" href="{{ prev_post }}"><i class="fas fa-arrow-circle-left"></i> Am post roimhe</a>
-            {% endif %}
-            {% if next_post %}
-                <a class="next" href="{{ next_post }}">An ath phost <i class="fas fa-arrow-circle-right"></i></a>
-            {% endif %}
-      </div><!-- End post navigation -->
+      {% include post-nav.html %}
 
       <div class="section-divider"></div>
 
       <!-- Related Posts Section -->
-      <div class="related">
-        {% unless page.categories == null %}
-      	  {% capture pageCategory %}{{ page.categories[0] }}{% endcapture %}
-      	  {% unless site.categories[pageCategory].size == 1 %}
-            <h4>Postaichean Co-cheangailte</h4>
-            <ul class="related-posts">
-              {% for post in site.categories[pageCategory] limit:6 %}
-                {% unless post.title == page.title %}
-                	<li class="related-post">
-      	           	<p>
-      		            <a class="related-post" href="{{ site.baseurl }}{{ post.url }}">
-                        {{ post.title }}
-      		            </a>
-      	           	</p>
-      	          </li>
-                {% endunless %}
-              {% endfor %}
-      	    </ul>
-      	  {% endunless %}
-      	{% endunless %}
-      </div><!-- End related posts section -->
+      {% include related.html %}
 
       <div class="section-divider"></div>
 
