@@ -15,7 +15,7 @@ Chaidh a stèidheachadh ann an 2008 mar Naidheachdan Pinc le Crìstean MacMhìch
 * a’ brosnachadh  co-ionnanachd agus iomadachd;
 * a’ lughdachadh iomallachd sa choimhearsnachd LCDTE+ Gàidhealach le bhith a’ cruthachadh cheanglaichean brìoghmhor agus luachmhor.
 
-##### Mu dheidhinn Crìstean MacMhìcheil
+#### Mu dheidhinn Crìstean MacMhìcheil
 
 ‘S ann à Inbhir Pheofharain a tha mi o thùs agus tha mi air a bhith a’ fuireach ann an Sìorrachd Rois cha mhòr fad mo bheatha.
 
@@ -37,6 +37,6 @@ Tha mi nam glasraichear-cruaidh (vegan).
 
 {% include divider.html %}
 
-## Nòtaichean
+### Nòtaichean
 
 [^1]: Nòta mun ainm - 'S e an adhbhar nach bi sinn a' cleachdadh Gèidh.uk ann an ainm an làraich nach eil URLan le stràcan nam broinn air an taisbeanadh gu ceart anns a h-uile àite. Ma choimheadas tu air an ìomhaigh gu h-ìosal chì thu gu bheil _Gèidh.uk_ air a thaisbeanadh mar _xn--gidh-50a.uk_ air sgàth 's gu bheil stràc air an e. ![Nòta mun ainm](/images/nota-mun-ainm.jpg){: .post-image }
