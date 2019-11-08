@@ -27,19 +27,23 @@ Ann an 2007 chruthaich mi AbairThusa a bha na chiad lìon-sòisealta do Ghàidhe
 
 Tha mi nam glasraichear-cruaidh (vegan).
 
-### Cuir fios thugainn
+### Lean sinn
 
-'S e Twitter no Instagram an dòigh as fheàrr airson brath a chur thugainn. 'S urrainn dhuibh ar lorg aig na ceanglaichean gu h-ìosal.
+<i class="fab fa-twitter"></i> Twitter: [@GeidhUK](https://www.twitter.com/GeidhUK)
 
-Twitter: [@GeidhUK](https://www.twitter.com/GeidhUK)
+<i class="fab fa-instagram"></i> Instagram: [@GeidhUK](https://www.instagram.com/GeidhUK)
 
-Instagram: [@GeidhUK](https://www.instagram.com/GeidhUK)
+<i class="fab fa-twitter"></i> Twitter Chrìstein: [@MacMhìcheil](https://www.twitter.com/MacMhicheil)
 
-Twitter Chrìstein: [@MacMhìcheil](https://www.twitter.com/MacMhicheil)
+<i class="fab fa-instagram"></i> Instagram Chrìstein: [@MacMhìcheil](https://www.instagram.com/MacMhicheil)
 
-Instagram Chrìstein: [@MacMhìcheil](https://www.instagram.com/MacMhicheil)
+<i class="fas fa-rss"></i> [RSS (Naidheachdan)]({{ site.baseurl }}/naidheachdan-rss.xml)
 
-Mura h-eil sibh airson Twitter no Instagram a chleachdadh, 's urrainn dhuibh post-d a chur thugainn le bhith a' lìonadh an fhoirm gu h-ìosal.
+<i class="fas fa-rss"></i> [RSS (Tachartasan)]({{ site.baseurl }}/tachartasan-rss.xml)
+
+### Cuir post-d thugainn
+
+'S e Twitter no Instagram an dòigh as fheàrr airson brath a chur thugainn ach mura h-eil sibh airson an cleachdadh, 's urrainn dhuibh post-d a chur thugainn le bhith a' lìonadh an fhoirm gu h-ìosal.
 
 {% include contact-form.html %}
 
