@@ -29,17 +29,7 @@ Tha mi nam glasraichear-cruaidh (vegan).
 
 ### Lean sinn
 
-<i class="fab fa-twitter"></i> Twitter: [@GeidhUK](https://www.twitter.com/GeidhUK)
-
-<i class="fab fa-instagram"></i> Instagram: [@GeidhUK](https://www.instagram.com/GeidhUK)
-
-<i class="fab fa-twitter"></i> Twitter Chrìstein: [@MacMhìcheil](https://www.twitter.com/MacMhicheil)
-
-<i class="fab fa-instagram"></i> Instagram Chrìstein: [@MacMhìcheil](https://www.instagram.com/MacMhicheil)
-
-<i class="fas fa-rss"></i> [RSS (Naidheachdan)]({{ site.baseurl }}/naidheachdan-rss.xml)
-
-<i class="fas fa-rss"></i> [RSS (Tachartasan)]({{ site.baseurl }}/tachartasan-rss.xml)
+{% include social.html %}
 
 ### Cuir post-d thugainn
 
