@@ -33,7 +33,7 @@ Tha mi nam glasraichear-cruaidh (vegan).
 
 ### Cuir post-d thugainn
 
-'S e Twitter no Instagram an dòigh as fheàrr airson brath a chur thugainn ach mura h-eil sibh airson an cleachdadh, 's urrainn dhuibh post-d a chur thugainn le bhith a' lìonadh an fhoirm [seo]({{ site.baseurl }}/cuir-fios).
+'S e Twitter no Instagram an dòigh as fheàrr airson brath a chur thugainn ach mura h-eil sibh airson an cleachdadh, 's urrainn dhuibh post-d a chur thugainn le bhith a' lìonadh [an fhoirm seo]({{ site.baseurl }}/cuir-fios).
 
 {% include divider.html %}
 
