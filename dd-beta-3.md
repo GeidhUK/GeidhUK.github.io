@@ -26,7 +26,9 @@ permalink: /dd-beta-3/
       {% endfor %}
    </div>
    <p>
-      <a href="{{ site.baseurl }}/roinn-seorsa/{{ category | first }}" name="{{ category | first }}">Barrachd phostaichean san roinn-seòrsa seo.</a>
+      <a href="{{ site.baseurl }}/roinn-seorsa/{{ category | first }}" name="{{ category | first }}">Barrachd phostaichean san roinn-seòrsa seo <i class="far fa-arrow-alt-circle-right"></i>
+
+Download SVGPerfect for when you want to use just one icon as a vector on the desktop or in your own icon workflow.</a>
       <div class="section-divider"></div>
     </p>
    <div class="hidden-section-divider"></div>
