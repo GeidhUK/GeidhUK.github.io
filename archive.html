@@ -7,7 +7,7 @@ permalink: /archive/
 
 {% assign sorted_categories = site.categories | sort %}
   {% for category in sorted_categories %}
-    <a name="{{ category | first }}">{{ category | first }}</a>
+    <h3 class="post-title"><a name="{{ category | first }}">{{ category | first }}</a></h3>
       {% for post in category.last limit:3 %}
         <div class="row">
           <div class="col-md-3">
@@ -26,6 +26,6 @@ permalink: /archive/
             {{ post.excerpt }}
           </div>
         </div>
-        <div class="section-divider"></div>
       {% endfor %}
+        <div class="section-divider"></div>
   {% endfor %}
