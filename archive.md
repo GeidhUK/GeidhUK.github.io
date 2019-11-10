@@ -1,0 +1,32 @@
+---
+layout: page
+title: Archive
+permalink: /archive/
+---
+
+
+{% assign sorted_categories = site.categories | sort %}
+  {% for category in sorted_categories %}
+    <a name="{{ category | first }}">{{ category | first }}</a>
+      {% for post in category.last limit:3 %}
+        <div class="row">
+          <div class="col-md-3">
+            <a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ post.image }}" class="index-image"></a>
+          </div>
+          <div class="col-md-9">
+            <h5 class="post-title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h5>
+            <!-- If there is an autor link defined in the post's front matter link to that author -->
+            {% if post.author %}
+              <p class="text-muted">{{ post.date | date: "%Y-%m-%d" }} le <a href="{{ post.author_url }}">{{ post.author }}</a></p>
+            <!-- If there is not auther defined in the post's front matter link to Crìstean MacMhìcheil -->
+            {% else %}
+              <p class="text-muted">{{ post.date | date: "%Y-%m-%d" }} le <a href="{{ site.baseurl}}/fios/">Crìstean MacMhìcheil</a></p>
+            {% endif %}
+            <!-- Insert the post excerpt here -->
+            {{ post.excerpt }}
+          </div>
+        </div>
+        <div class="section-divider"></div>
+        </div>
+      {% endfor %}
+  {% endfor %}
