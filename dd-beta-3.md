@@ -26,7 +26,7 @@ permalink: /dd-beta-3/
       {% endfor %}
    </div>
    <p>
-      <a href="{{ site.baseurl }}/roinn-seorsa/{{ category | first }}" name="{{ category | first }}">Leugh barrachd postaichean anns an roinn seo.</a>
+      <a href="{{ site.baseurl }}/roinn-seorsa/{{ category | first }}" name="{{ category | first }}">Barrachd phostaichean san roinn-seòrsa seo.</a>
       <div class="section-divider"></div>
     </p>
    <div class="hidden-section-divider"></div>
