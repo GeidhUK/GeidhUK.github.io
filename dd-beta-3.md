@@ -1,4 +1,4 @@
----
+---   
 layout: page
 title: DD Beta 3
 permalink: /dd-beta-3/
@@ -9,7 +9,7 @@ permalink: /dd-beta-3/
    <h3 class="post-title"><a href="{{ site.baseurl }}/roinn-seorsa/{{ category | first }}" name="{{ category | first }}">{{ category | first }}</a></h3>
    <div class="section-divider"></div>
    <div class="row">
-      {% for post in category.last limit:3 %}
+      {% for post in category.last limit:4 %}
          <div class="col-md-3">
             <p><a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ post.image }}" class="index-image"></a></p>
             <h5 class="post-title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h5>
@@ -23,10 +23,8 @@ permalink: /dd-beta-3/
             <!-- Insert the post excerpt here -->
             {{ post.excerpt }}
          </div>
-         <div class="col-md-1"></div>
       {% endfor %}
-         <div class="col-md-1">
-            <p><a href="{{ site.baseurl }}/roinn-seorsa/{{ category | first }}" name="{{ category | first }}"><i class="fas fa-arrow-right"></i></a></p>
-         </div>
    </div>
+   <div class="hidden-section-divider"></div>
+   <p><a href="{{ site.baseurl }}/roinn-seorsa/{{ category | first }}" name="{{ category | first }}">Leugh barrachd postaichean anns an roinn seo.</a></p>
 {% endfor %}
