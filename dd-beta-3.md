@@ -1,7 +1,7 @@
 ---
 layout: page
-title: DD Beta 2
-permalink: /dd-beta-2/
+title: DD Beta 3
+permalink: /dd-beta-3/
 ---
 
 {% assign sorted_categories = site.categories | sort %}
