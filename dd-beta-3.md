@@ -26,7 +26,7 @@ permalink: /dd-beta-3/
          <div class="col-md-1"></div>
       {% endfor %}
          <div class="col-md-1">
-            <p><a href="{{ site.baseurl }}/roinn-seorsa/{{ category | first }}" name="{{ category | first }}"><i class="fas fa-right-arrow"></i></a></p>
+            <p><a href="{{ site.baseurl }}/roinn-seorsa/{{ category | first }}" name="{{ category | first }}"><i class="fas fa-arrow-right"></i></a></p>
          </div>
    </div>
 {% endfor %}
