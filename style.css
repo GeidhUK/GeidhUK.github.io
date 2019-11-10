@@ -86,6 +86,11 @@ a {
   height: 1px;
 }
 
+.hidden-section-divider {
+  margin: 30px 0px;
+  width: 100%;
+}
+
 /* Images */
 .brand-image, .index-image, .post-image {
   margin: 0 auto;
