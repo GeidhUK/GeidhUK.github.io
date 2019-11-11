@@ -53,8 +53,18 @@ featured-color: "#7e3c8d"
 excerpt_separator: <!--more-->
 
 collections:
-  - feisean-proise
-  - ceol
-  - oigridh
-  - inbhich
-  - spors
+  - feisean-proise:
+      output: true
+      permalink: /tachartasan/feisean-proise/:path/
+  - ceol:
+      output: true
+      permalink: /tachartasan/feisean-proise/:path/
+  - oigridh:
+      output: true
+      permalink: /tachartasan/feisean-proise/:path/
+  - inbhich:
+      output: true
+      permalink: /tachartasan/feisean-proise/:path/
+  - spors:
+      output: true
+      permalink: /tachartasan/feisean-proise/:path/
