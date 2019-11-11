@@ -29,7 +29,7 @@ permalink: /dd-beta-3/
 
 {% assign sorted_categories = site.categories | sort %}
 {% for category in sorted_categories %}
-   <h3 class="post-title"><a href="{{ site.baseurl }}/roinn-seorsa/{{ category | first }}" name="{{ category | first }}">{{ category | first }}</a></h3>
+   <h3 class="post-title"><a href="{{ site.baseurl }}/roinn-seorsa/{{ category | first }}" name="{{ category | first }}">{{ category }}</a></h3>
    <div class="hidden-section-divider"></div>
    <div class="row">
       {% for post in category.last limit:4 %}
