@@ -6,7 +6,7 @@ permalink: /dd-beta-3/
 
 {% assign sorted_categories = site.categories | sort %}
 {% for category in sorted_categories %}
-  {% unless category contains 'tachartasan' %}
+  {% unless post.categories contains 'tachartasan' %}
    <h3 class="post-title"><a href="{{ site.baseurl }}/roinn-seorsa/{{ category | first }}" name="{{ category | first }}">{{ category | first }}</a></h3>
    <div class="hidden-section-divider"></div>
    <div class="row">
