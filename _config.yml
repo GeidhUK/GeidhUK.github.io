@@ -58,13 +58,13 @@ collections:
       permalink: /tachartasan/feisean-proise/:path/
   ceol:
       output: true
-      permalink: /tachartasan/feisean-proise/:path/
+      permalink: /tachartasan/ceol/:path/
   oigridh:
       output: true
-      permalink: /tachartasan/feisean-proise/:path/
+      permalink: /tachartasan/oigridh/:path/
   inbhich:
       output: true
-      permalink: /tachartasan/feisean-proise/:path/
+      permalink: /tachartasan/inbhich/:path/
   spors:
       output: true
-      permalink: /tachartasan/feisean-proise/:path/
+      permalink: /tachartasan/spors/:path/
