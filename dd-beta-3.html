@@ -4,7 +4,7 @@ title: DD Beta 3
 permalink: /dd-beta-3/
 ---
 
-{% for post in site.posts %}
+{% for post in site.posts limit:2 %}
 	{% if post.featured %}
   <div class="row">
     <div class="col-md-3">
