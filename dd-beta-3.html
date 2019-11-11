@@ -40,7 +40,7 @@ permalink: /dd-beta-3/
    <h3 class="post-title"><a href="{{ site.baseurl }}/roinn-seorsa/{{ category | first }}" name="{{ category | first }}">{{ category | first }}</a></h3>
    <div class="hidden-section-divider"></div>
    <div class="row">
-      {% for post in category.last limit:4 %}
+      {% for post in category.last limit:2 %}
          <div class="col-md-3">
             <p><a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ post.image }}" class="index-image"></a></p>
             <h5 class="post-title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h5>
