@@ -51,3 +51,10 @@ featured-color: "#7e3c8d"
 
 # Separator to mark end of post excerpt
 excerpt_separator: <!--more-->
+
+collections:
+  - feisean-proise
+  - ceol
+  - oigridh
+  - inbhich
+  - spors
