@@ -9,7 +9,7 @@ permalink: /dd-beta-1/
   {% for category in sorted_categories %}
     <h3 class="post-title"><a href="{{ site.baseurl }}/roinn-seorsa/{{ category | first }}" name="{{ category | first }}">{{ category | first }}</a></h3>
         <div class="section-divider"></div>
-      {% for post in category.last limit:3 %}
+      {% for post in category.last limit:2 %}
         <div class="row">
           <div class="col-md-3">
             <a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ post.image }}" class="index-image"></a>
@@ -27,6 +27,9 @@ permalink: /dd-beta-1/
             {{ post.excerpt }}
           </div>
         </div>
+        <p>
+           <a href="{{ site.baseurl }}/roinn-seorsa/{{ category | first }}" name="{{ category | first }}">Barrachd phostaichean san roinn-seòrsa seo <i class="far fa-arrow-alt-circle-right"></i></a>
+         </p>
         <div class="hidden-section-divider"></div>
       {% endfor %}
   {% endfor %}
