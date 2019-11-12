@@ -2,7 +2,7 @@
   url: /
   description: Dachaigh&#013;Home
 
-- title: Naidheachdan
+- title: Roinn-seòrsa
   url: #
   description:
   sublinks:
@@ -15,6 +15,9 @@
     - title: An Roinn-Eòrpa
       url: /roinn-seorsa/an-roinn-eorpa
       description:
+    - title: Blog
+      url: /roinn-seorsa/blog
+      description: Blog
     - title: Creideamh
       url: /roinn-seorsa/creideamh
       description:
@@ -68,10 +71,6 @@
 - title: Ceanglaichean
   url: /ceanglaichean
   description: Liosta de cheanglaichean feumail&#013;A list of useful links
-
-- title: Blog
-  url: /roinn-seorsa/blog
-  description: Blog
 
 - title: Mar Deidhinn
   url: /mar-deidhinn
