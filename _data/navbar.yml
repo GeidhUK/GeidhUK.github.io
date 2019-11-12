@@ -1,6 +1,6 @@
 - title: <i class="fas fa-home"></i>
   url: /
-  description:
+  description: Dachaigh | Home
 
 - title: Naidheachdan
   url: #
@@ -51,11 +51,11 @@
 
 - title: Briathrachas LCDTQE+
   url: /briathrachas-lcdt
-  description:
+  description: Liosta de bhriathrachas Gàidhlig LCDTQ+ | A list of Gaelic LGBTQ+ vocabulary
 
 - title: Dualchas
   url: /dualchas
-  description:
+  description: Geàrr-chunntas ghoirid de dh'eachdraidh LCDT na h-Alba | A short history of LGBT Scotland
 
 - title: Comhairle
   url: /comhairle
@@ -63,21 +63,20 @@
 
 - title: Tachartasan
   url: /roinn-seorsa/tachartasan
-  description:
+  description: Liosta de thachartasan LCDTQ+ a' tachairt air feadh na h-Alba | A list of LGBTQ+ events from around Scotland
 
 - title: Ceanglaichean
   url: /ceanglaichean
-  description:
+  description: Liosta de cheanglaichean feumail | A list of useful links
 
 - title: Blog
   url: /roinn-seorsa/blog
-  description:
+  description: Blog
 
 - title: Mar Deidhinn
   url: /mar-deidhinn
-  description:
-  description:
+  description: Mar deidhinn | About Us
 
 - title: Lorg
   url: /lorg
-  description:
+  description: Lorg sna postaichean | Search the posts
