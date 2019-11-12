@@ -7,11 +7,10 @@
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
-  {% for entry in site.data.navbar %}
-    {% assign sublinks = entry.sublinks %}
   <div class="collapse navbar-collapse" id="navbarNavDropdown">
     <ul class="navbar-nav navbar-center">
-
+    {% for entry in site.data.navbar %}
+      {% assign sublinks = entry.sublinks %}
       {% if sublinks %}
       <li class="nav-item dropdown">
           <a class="nav-link" href="{{ site.baseurl }}{{ entry.url }}" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" >{{ entry.title }}</a>
@@ -23,6 +22,8 @@
       </li>
       {% else %}
       <li class="nav-item"><a class="nav-link" href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a></li>
+      {% endif %}
+  {% endfor %}
       <li class="nav-item dropdown">
         <a class="nav-link" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" title="Roghainnean | Settings">
             <i class="fas fa-cog"></i>
@@ -33,7 +34,4 @@
       </li>
     </ul>
   </div>
-
-  {% endif %}
-{% endfor %}
 </nav>
