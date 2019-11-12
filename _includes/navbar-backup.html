@@ -1,0 +1,65 @@
+<nav class="navbar navbar-expand-lg navbar-dark bg-light" style="background-color: {{ site.featured-color }}!important">
+  <a href="{{ site.baseurl }}/"><img class="brand-image" src="{{ site.baseurl }}/images/header.png" width="200px"></a>
+  <!--<a class="navbar-brand" href="#">Navbar</a>-->
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNavDropdown">
+    <ul class="navbar-nav navbar-center">
+      <li class="nav-item dropdown">
+        <a class="nav-link" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" title="Roinnean-naidheachd | News Categories">
+      Naidheachdan
+      </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+          <a class="dropdown-item" href="{{ site.baseurl }}/">Dachaigh</a>
+          <a class="dropdown-item" href="{{ site.baseurl }}/roinn-seorsa/alba">Alba</a>
+          <a class="dropdown-item" href="{{ site.baseurl }}/roinn-seorsa/an-rioghachd-aonaichte">An Rìoghachd Aonaichte</a>
+          <a class="dropdown-item" href="{{ site.baseurl }}/roinn-seorsa/an-roinn-eorpa">An Roinn-eòrpa</a>
+          <a class="dropdown-item" href="{{ site.baseurl }}/roinn-seorsa/creideamh">Creideamh</a>
+          <a class="dropdown-item" href="{{ site.baseurl }}/roinn-seorsa/cultar">Cùltar</a>
+          <a class="dropdown-item" href="{{ site.baseurl }}/roinn-seorsa/eirinn">Èirinn</a>
+          <a class="dropdown-item" href="{{ site.baseurl }}/roinn-seorsa/feisean-proise">Fèisean-pròise</a>
+          <a class="dropdown-item" href="{{ site.baseurl }}/roinn-seorsa/foghlam">Foghlam</a>
+          <a class="dropdown-item" href="{{ site.baseurl }}/roinn-seorsa/gaidhlig">Gàidhlig</a>
+          <a class="dropdown-item" href="{{ site.baseurl }}/roinn-seorsa/gniomhachas">Gnìomhachas</a>
+          <a class="dropdown-item" href="{{ site.baseurl }}/roinn-seorsa/lagh">Lagh</a>
+          <a class="dropdown-item" href="{{ site.baseurl }}/roinn-seorsa/poilitigs">Poilitigs</a>
+          <a class="dropdown-item" href="{{ site.baseurl }}/roinn-seorsa/slainte">Slàinte</a>
+          <a class="dropdown-item" href="{{ site.baseurl }}/roinn-seorsa/teicneolas">Teicneòlas</a>
+        </div>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="{{ site.baseurl }}/briathrachas-lcdt" title="Liosta de bhriathrachas Gàidhlig LCDTQ+ | A list of Gaelic LGBTQ+ vocabulary">Briathrachas LCDTQ+</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="{{ site.baseurl }}/dualchas" title="Geàrr-chunntas ghoirid de dh'eachdraidh LCDT na h-Alba | A short history of LGBT Scotland">Dualchas</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="{{ site.baseurl }}/comhairle/" title="">Comhairle</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="{{ site.baseurl }}/roinn-seorsa/tachartasan" title="Liosta de thachartasan LCDTQ+ a' tachairt air feadh na h-Alba | A list of LGBTQ+ events from around Scotland">Tachartasan</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="{{ site.baseurl }}/ceanglaichean" title="Liosta de cheanglaichean feumail | A list of useful links">Ceanglaichean</a>
+      </li>
+      <li class="nav-item">
+          <a class="nav-link" href="{{ site.baseurl }}/roinn-seorsa/blog" title="Blog">Blog</a>
+      </li>
+      <li class="nav-item">
+          <a class="nav-link" href="{{ site.baseurl }}/mar-deidhinn" title="Mar deidhinn | About Us">Mar Deidhinn</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="{{ site.baseurl }}/lorg" title="Lorg sna postaichean | Search the posts">Lorg</a>
+      </li>
+      <li class="nav-item dropdown">
+        <a class="nav-link" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" title="Roghainnean | Settings">
+            <i class="fas fa-cog"></i>
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+          <a class="dropdown-item" id="theme-toggle" onclick="modeSwitcher()" href="#"></a>
+        </div>
+      </li>
+    </ul>
+  </div>
+</nav>

@@ -1,0 +1,61 @@
+- title: Dachaigh
+  url: /
+
+- title: Naidheachdan
+  url: #
+  sublinks:
+    - title: Alba
+      url: /roinn-seòrsa/alba
+    - title: An Rìoghachd Aonaichte
+      url: /roinn-seorsa/an-rioghachd-aonaichte
+    - title: An Roinn-Eòrpa
+      url: /roinn-seorsa/an-roinn-eorpa
+    - title: Creideamh
+      url: /roinn-seorsa/creideamh
+    - title: Cùltar
+      url: /roinn-seorsa/cultar
+    - title: Èirinn
+      url: /roinn-seorsa/eirinn
+    - title: Fèisean-pròise
+      url: /roinn-seorsa/feisean-proise
+    - title: Foghlam
+      url: /roinn-seorsa/foghlam
+    - title: Gàidhlig
+      url: /roinn-seorsa/gaidhlig
+    - title: Gnìomhachas
+      url: /roinn-seorsa/gniomhachas
+    - title: Lagh
+      url: /roinn-seorsa/lagh
+    - title: Poilitigs
+      url: /roinn-seorsa/poilitigs
+    - title: Slàinte
+      url: /roinn-seorsa/slainte
+    - title: Teicneòlas
+      url: /roinn-seorsa/teicneolas
+
+- title: Briathrachas LCDTQE+
+  url: /briathrachas-lcdt
+
+- title: Dualchas
+  url: /dualchas
+
+- title: Comhairle
+  url: /comhairle
+  sublinks:
+    - title:
+      url:
+
+- title: Tachartasan
+  url: /roinn-seorsa/tachartasan
+
+- title: Ceanglaichean
+  url: /roinn-seorsa/ceanglaichean
+
+- title: Blog
+  url: /roinn-seorsa/blog
+
+- title: Mar Deidhinn
+  url: /mar-Deidhinn
+
+- title: Lorg
+  url: /lorg
