@@ -40,7 +40,7 @@ A-measg na molaidhean eile aca, thuirt iad gum bu chòir &#8220;aithris soilleir
 
 Mar phàirt dhen fhreagairt aca air ceist 24, &#8220;A bheil beachdan sam bith eile agaibh mun dhreachd stiùireadh reachdail a bu mhath leibh toirt ris an roinn?&#8221;, thuirt iad gu bheil iad a&#8217; cur fàilte air &#8220;am moladh&#8221; gum bu chòir cùisean LCDT a bhith &#8216;bunaiteach&#8217;.&#8221;
 
-Faodar am freagairt gu lèir aca a leughadh air loidhne an seo: [https://www.rcpch.ac.uk/sites/default/files/2018-11/rcpch\_response\_to\_consultation\_on\_relationships\_education\_relationships\_and\_sex\_education\_and\_health\_education\_-_final.pdf][2]
+Faodar am freagairt gu lèir aca a leughadh air loidhne [an seo][2].
 
  [1]: https://www.rcpch.ac.uk/
  [2]: https://www.rcpch.ac.uk/sites/default/files/2018-11/rcpch_response_to_consultation_on_relationships_education_relationships_and_sex_education_and_health_education_-_final.pdf
