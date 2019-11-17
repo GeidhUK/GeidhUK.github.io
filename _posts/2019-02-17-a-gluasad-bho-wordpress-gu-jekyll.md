@@ -7,7 +7,8 @@ image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2019-
 comments: true
 categories:
 - blog
-- naidheachdan
+- codachadh
+- jekyll
 tags: blog, GeidhUK, Naidheachdan Pinc, LCDTQ, Naidheachdan, ùrachadh, Jekyll, Wordpress
 comments: true
 ---
