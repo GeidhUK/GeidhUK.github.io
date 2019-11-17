@@ -7,7 +7,7 @@ image: /images/2019-11-17-obair-taighe.PNG
 comments: true
 categories:
 - codachadh
-- geidh.uk
+- blog
 - jekyll
 comments: true
 ---
