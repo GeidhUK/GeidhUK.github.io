@@ -26,6 +26,6 @@ Chuir Peter Grand, tagraiche an SNP a tha ag iomair an-aghaidh Farrell airson ca
 
 Dhearbh neach-labhairt a’ Phàrtaidh Bhrexit ris [The Courier](https://www.thecourier.co.uk/fp/news/politics/1023675/brexit-party-pull-support-for-homophobic-fife-candidate/) gu bheil iad air an taic aca a tharraing bho Fharrell agus nach eil iad ag aontachadh leis a bheachdan.
 
-Tha Farrell a-nis gu bhith na sheasamh mar thagraiche neo-eisimeileach ach tha e air na beachdan aige ath-dhearbhadh ann am post Facebook an-dè anns an tug e iomradh air muinntir LGBT Fìobha mar "choimhearsnachd pheacail".
+Tha Farrell a-nis gu bhith na sheasamh mar thagraiche neo-eisimeileach ach tha e air na beachdan aige ath-dhearbhadh ann am post Facebook an-dè anns an tug e iomradh air muinntir LCDTQ Fìobha mar "choimhearsnachd pheacail".
 
 ![Facebook Post le Victor Farrell](/images/2019-11-20-victor-farrell-post-2.JPG){: .post-image }
