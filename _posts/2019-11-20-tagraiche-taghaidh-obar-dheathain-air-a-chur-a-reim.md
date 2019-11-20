@@ -16,7 +16,7 @@ Chaidh Ryan Houghton, tagraiche taghaidh Obar Dheathain a Tuath, a chur à rèim
 
 <!--more-->
 
-Chaidh na puist a thoirt am follais leis a' phàipear-naidheachd The National na bu tràithe an seachdain seo.
+[Chaidh na puist a thoirt am follais leis a' phàipear-naidheachd The National](https://www.thenational.scot/news/18044656.aberdeen-tory-candidate-ryan-houghton-racist-tweets-uncovered/) na bu tràithe an seachdain seo.
 
 Ann an aon phost, sgrìobh Houghton nach b' urrainn dha fhaicinn mar a dh'fhaodadh co-sheòrsachd a bhith math do mhac an duine leis gum biodh an gnè a' dol à bith nan robh a' chuid as motha dhen t-sluaigh co-sheòrsach.
 
