@@ -3,7 +3,7 @@ title: Tagraiche taghaidh Obar Dheathain air a chur à rèim airson puist an-agh
 author: Crìstean MacMhìcheil
 type: post
 date: 2019-11-20
-image: /images/2019-11-20-tagraiche-taghaidh-obar-dheathain-air-a-chur-a-reim.jpg
+image: /images/2019-11-20-tagraiche-taghaidh-obar-dheathain-air-a-chur-a-reim.JPG
 comments: true
 categories:
 - alba
