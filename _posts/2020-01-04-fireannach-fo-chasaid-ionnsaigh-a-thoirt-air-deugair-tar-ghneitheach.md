@@ -12,9 +12,9 @@ categories:
 tags:
 ---
 
-Tha fireannach, 18, fo chasaid ionnsaigh a thoirt air deugair tar-ghnèitheach ann an Àird Rosain anns an t-Samhain.[^1]
+Tha fireannach, 18, fo chasaid ionnsaigh a thoirt air deugair tar-ghnèitheach ann an Àird Rosain anns an t-Samhain.<!--more-->[^1]
 
-<!--more-->
+
 
 Tha casaid an aghaidh Todd Caimbeul gun do ghabh e greim air gàirdean agus amhach an fhulangaiche agus gun d' thug e iomradh orra ann dòigh a bha claon-bhreitheach an aghaidh daoine tar-ghnèitheach.
 
