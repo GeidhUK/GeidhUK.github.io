@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Geidh.uk
 email: chris@macmhicheil.uk
-description: A' toirt thugaibh na naidheachdan LCDQT as ùire le fòcas àraidh air naidheachdan Albannach
+description: A' toirt thugaibh na naidheachdan LCDTE as ùire le fòcas àraidh air naidheachdan Albannach
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://geidh.uk" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /:year/:month/:day/:title/
