@@ -9,7 +9,7 @@ hidden: true
 ceann-latha: 04mh An Gearran - 1d Am Màrt
 seoladh: Taigh-tasgaidh Inbhir Nis
 larach-lin: https://highlandpride.org/exhibition-03/
-facebook:
+facebook: https://www.facebook.com/events/eden-court-theatre-and-cinema/queerness-and-queer-identity-exhibition/549465402323095/
 twitter:
 twitter_username:
 ---
