@@ -1,0 +1,17 @@
+---
+title: Queerness and Queer Identity
+image: /images/2020-02-04-queerness-and-queer-identity.jpg
+comments: true
+layout: tachartas
+date: 2020-02-04
+categories: tachartasan
+hidden: true
+ceann-latha: 04mh An Gearran - 1d Am Màrt
+seoladh: Taigh-tasgaidh Inbhir Nis
+larach-lin: https://highlandpride.org/exhibition-03/
+facebook:
+twitter:
+twitter_username:
+---
+
+<!--more-->
