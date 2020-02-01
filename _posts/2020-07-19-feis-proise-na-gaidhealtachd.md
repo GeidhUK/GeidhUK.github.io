@@ -6,7 +6,7 @@ layout: tachartas
 date: 2020-07-19
 categories: tachartasan
 hidden: true
-ceann-latha: 19mh An t-Iuchar 2020
+ceann-latha: 19mh An t-Iuchar
 seoladh: Pàirc nam Bochd, Inbhir Nis
 larach-lin: https://highlandpride.org
 facebook: https://www.facebook.com/PrideHighlands/
