@@ -1,6 +1,6 @@
 ---
 title: Highland Pride History – Past and Present
-image: /images/.jpg
+image: /images/2020-01-28-highland-pride-history-past-and-present.jpg
 comments: true
 layout: tachartas
 date: 2020-01-28
