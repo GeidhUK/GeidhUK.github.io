@@ -7,7 +7,7 @@ date: 2020-01-28
 categories: tachartasan
 hidden: true
 ceann-latha: 28mh Am Faoilleach - 29mh An Gearran
-seoladh:
+seoladh: Taigh-tasgaidh Inbhir Nis
 larach-lin: https://highlandpride.org/exhibition-01/
 facebook:
 twitter:
