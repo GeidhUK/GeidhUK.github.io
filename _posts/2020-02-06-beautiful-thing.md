@@ -1,5 +1,5 @@
 ---
-title: Film: Beautiful Thing (15)
+title: "Film: Beautiful Thing (15)"
 image: /images/2020-02-06-beautiful-thing.jpg
 comments: true
 layout: tachartas
