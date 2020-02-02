@@ -1,5 +1,5 @@
 ---
-title: Queerness and Queer Identity
+title: "Taisbeanadh: Queerness and Queer Identity"
 image: /images/2020-02-04-queerness-and-queer-identity.jpg
 comments: true
 layout: tachartas

@@ -1,5 +1,5 @@
 ---
-title: Leughadh-leabhair - 'The Sisterhood’ le Roz White & ceòl le Tegan Sommers
+title: "Leughadh-leabhair: 'The Sisterhood’ le Roz White (Ceòl le Tegan Sommers)"
 image: /images/event.jpg
 comments: true
 layout: tachartas

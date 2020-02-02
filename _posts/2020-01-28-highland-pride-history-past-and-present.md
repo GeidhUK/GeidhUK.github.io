@@ -1,5 +1,5 @@
 ---
-title: Highland Pride History – Past and Present
+title: "Taisbeanadh: Highland Pride History (Past and Present)"
 image: /images/2020-01-28-highland-pride-history-past-and-present.jpg
 comments: true
 layout: tachartas

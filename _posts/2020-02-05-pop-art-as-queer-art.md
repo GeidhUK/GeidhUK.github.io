@@ -1,5 +1,5 @@
 ---
-title: Pop Art as Queer Art
+title: "Òraid: Pop Art as Queer Art"
 image: /images/2020-02-05-pop-art-as-queer-art.jpg
 comments: true
 layout: tachartas

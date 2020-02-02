@@ -1,5 +1,5 @@
 ---
-title: Bogha-frois - LGBT+ Voices in Folk
+title: "Cuirm: Bogha-frois - LGBT+ Voices in Folk"
 Permalink: /bogha-frois-lgbt-voices-in-folk/
 image: /images/2020-02-02-bogha-frois-lgbt-voices-in-folk.jpg
 comments: true
