@@ -9,7 +9,7 @@ hidden: true
 ceann-latha: 28mh Am Faoilleach - 29mh An Gearran
 seoladh: Taigh-tasgaidh Inbhir Nis
 larach-lin: https://highlandpride.org/exhibition-01/
-facebook: 
+facebook: https://facebook.com/events/s/exhibition-highland-pride-hist/556360104955254/
 twitter:
 twitter_username:
 ---
