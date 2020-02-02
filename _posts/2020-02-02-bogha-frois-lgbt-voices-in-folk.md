@@ -1,5 +1,6 @@
 ---
 title: Bogha-frois: LGBT+ Voices in Folk
+Permalink: /bogha-frois-lgbt-voices-in-folk/
 image: /images/2020-02-02-bogha-frois-lgbt-voices-in-folk.jpg
 comments: true
 layout: tachartas
@@ -9,7 +10,7 @@ hidden: true
 ceann-latha: 2na An Gearran
 seoladh: Talla-cuirme Rìoghail Ghlaschu
 larach-lin: https://www.celticconnections.com/event/2/bogha-frois-lgbt-voices-in-folk
-facebook: https://www.facebook.com/lgbtvoicesinfolk/
+facebook: https://facebook.com/events/s/celtic-connections-2020-bogha-/720556018461616/?ti=icl
 twitter:
 twitter_username:
 ---
