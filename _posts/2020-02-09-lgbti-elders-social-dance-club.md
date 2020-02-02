@@ -5,6 +5,7 @@ comments: true
 layout: tachartas
 date: 2020-02-09 14:00:00
 categories: tachartasan
+event-type: Club Sòisealta
 hidden: true
 ceann-latha: 14mh An Gearran aig 2f
 seoladh: Cùirt an Easbaig, Inbhir Nis

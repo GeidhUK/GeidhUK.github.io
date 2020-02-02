@@ -1,10 +1,11 @@
 ---
-title: "Òraid: Pop Art as Queer Art"
+title: Pop Art as Queer Art
 image: /images/2020-02-05-pop-art-as-queer-art.jpg
 comments: true
 layout: tachartas
 date: 2020-02-05
 categories: tachartasan
+event-type: Òraid
 hidden: true
 ceann-latha: 5mh An Gearran aig 6f
 seoladh: Talla-òraid Colaiste Inbhir Nis

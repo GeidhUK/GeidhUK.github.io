@@ -5,6 +5,7 @@ comments: true
 layout: tachartas
 date: 2020-06-06
 categories: tachartasan
+event-type: Fèis-pròise
 hidden: true
 ceann-latha: 6mh An t-Ògmhios
 seoladh: Steòrnabhagh

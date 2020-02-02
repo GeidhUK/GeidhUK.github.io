@@ -5,6 +5,7 @@ comments: true
 layout: tachartas
 date: 2020-02-08 10:00:00
 categories: tachartasan
+event-type: Òraid
 hidden: true
 ceann-latha: 8mh An Gearran aig 10m
 seoladh: Cùirt an Easbaig, Inbhir Nis

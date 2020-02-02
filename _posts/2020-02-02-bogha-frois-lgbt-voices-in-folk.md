@@ -1,11 +1,12 @@
 ---
-title: "Cuirm: Bogha-frois - LGBT+ Voices in Folk"
+title: "Bogha-frois: LGBT+ Voices in Folk"
 Permalink: /bogha-frois-lgbt-voices-in-folk/
 image: /images/2020-02-02-bogha-frois-lgbt-voices-in-folk.jpg
 comments: true
 layout: tachartas
 date: 2020-02-02
 categories: tachartasan
+event-type: Cuirm
 hidden: true
 ceann-latha: 2na An Gearran aig 8f
 seoladh: Talla-cuirme Rìoghail Ghlaschu
