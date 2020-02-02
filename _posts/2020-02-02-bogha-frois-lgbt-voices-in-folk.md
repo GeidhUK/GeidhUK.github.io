@@ -1,15 +1,15 @@
 ---
-title: Queerness and Queer Identity
-image: /images/2020-02-04-queerness-and-queer-identity.jpg
+title: Bogha-frois: LGBT+ Voices in Folk
+image: /images/2020-02-02-bogha-frois-lgbt-voices-in-folk.jpg
 comments: true
 layout: tachartas
-date: 2020-02-04
+date: 2020-02-02
 categories: tachartasan
 hidden: true
-ceann-latha: 04mh An Gearran - 1d Am Màrt
-seoladh: Cùirt an Easbaig
-larach-lin: https://highlandpride.org/exhibition-03/
-facebook: https://www.facebook.com/events/eden-court-theatre-and-cinema/queerness-and-queer-identity-exhibition/549465402323095/
+ceann-latha: 2na An Gearran
+seoladh: Talla-cuirme Rìoghail Ghlaschu
+larach-lin: https://www.celticconnections.com/event/2/bogha-frois-lgbt-voices-in-folk
+facebook: https://www.facebook.com/lgbtvoicesinfolk/
 twitter:
 twitter_username:
 ---
