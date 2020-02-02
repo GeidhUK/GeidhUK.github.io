@@ -113,6 +113,10 @@ a {
   margin: 25px 0px;
 }
 
+.event-icons{
+  margin-right: 5px;
+}
+
 /* Related Posts */
 .related{
   margin-top: 25px;
