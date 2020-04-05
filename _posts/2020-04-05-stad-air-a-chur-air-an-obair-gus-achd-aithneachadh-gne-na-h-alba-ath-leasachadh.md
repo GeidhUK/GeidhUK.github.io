@@ -18,11 +18,11 @@ Dhearbh Graeme Dey, Ministear airson Gnothaichean na Pàrlamaid agus Seann-saigh
 
 Thuirt Dey gu robh seo duilich ach gum feumadh an Riaghaltas bilean nach eil riatanach ath-phrìomhachasadh mar thoradh air an oidhirp gus stad a chur air a’ bhìoras.
 
-Sgrìobh Caidreachas Tar-ghnèitheach na h-Alba air an làrach-lìn aca gu bheil iad a’ tuigsinn gum feum èiginn a’ Choròna-bhìoras a bhith na phrìomhachas dha Riaghaltas na h-Alba agus gu bheil iad “a’ coimhead air adhart ri obair còmhla ri Riaghaltas na h-Alba aon uair ‘s gu bheil èiginn a’ Choròna-bhìoras seachad air grunn chùisean leithid ruigsinneachd air cùram-slàinte, dèiligeadh ri eucoirean gràineil agus eòlasan thar-dhaoine òga san sgoil.”
+Sgrìobh Caidreachas Tar-ghnèitheach na h-Alba air [an làrach-lìn aca](http://equalrecognition.scot/gra-reform-halted-due-to-coronavirus-crisis/) gu bheil iad a’ tuigsinn gum feum èiginn a’ Choròna-bhìoras a bhith na phrìomhachas dha Riaghaltas na h-Alba agus gu bheil iad “a’ coimhead air adhart ri obair còmhla ri Riaghaltas na h-Alba aon uair ‘s gu bheil èiginn a’ Choròna-bhìoras seachad air grunn chùisean leithid ruigsinneachd air cùram-slàinte, dèiligeadh ri eucoirean gràineil agus eòlasan thar-dhaoine òga san sgoil.”
 
-Tha iad cuideachd air litir bho Shirley-Anne Somerville, Rùnaire a’ Chaibineit airson Tèarainteachd Shòisealta agus Daoine nas Sine fhoillseachadh air an làrach-lìn aca, anns an d’thuirt i gu bheil “dealas làidir fhathast aig Riaghaltas na h-Alba ann a bhith ag ath-leasachadh Achd Aithneachadh Gnè 2004 agus leasachadh a dhèanamh air a’ phròiseas làithreach airson tar-dhaoine”.
+Tha iad cuideachd air [litir bho Shirley-Anne Somerville, Rùnaire a’ Chaibineit airson Tèarainteachd Shòisealta agus Daoine nas Sine](http://equalrecognition.scot/gra-reform-halted-due-to-coronavirus-crisis/) fhoillseachadh air an làrach-lìn aca, anns an d’thuirt i gu bheil “dealas làidir fhathast aig Riaghaltas na h-Alba ann a bhith ag ath-leasachadh Achd Aithneachadh Gnè 2004 agus leasachadh a dhèanamh air a’ phròiseas làithreach airson tar-dhaoine”.
 
-Mar fhreagairt air an naidheachd, dh’fhoillsich Dr Màiri Crawford, Ceannard Òigridh LGDT na h-Alba, brath air làrach-lìn a’ bhuidheann anns an d’thuirt i:
+Mar fhreagairt air an naidheachd, dh’fhoillsich Dr Màiri Crawford, Ceannard Òigridh LGDT na h-Alba, [brath air làrach-lìn a’ bhuidheann](https://www.lgbtyouth.org.uk/news/2020/message-from-our-chief-executive-gra-reform/) anns an d’thuirt i:
 
 “Tha mòran dhaoine, daoine òga LGDT agus ar com-pàirtichean nam measg, air oidhirp a dhèanamh gus dàta a chruinneachadh agus freagairtean a chruthachadh do cho-chomhairle Riaghaltas na h-Alba. Chan eil an obair chruaidh seo air chall. Tha na freagairtean sin dligheach agus bidh iad cuideachail nuair a thèid an ath-leasachadh air adhart.”
 
