@@ -6,6 +6,7 @@ date: 2020-04-05
 image: /images/2020-04-05-stad-air-a-chur-air-an-obair-gus-achd-aithneachadh-gne-na-h-alba-ath-leasachadh.jpg
 comments: true
 categories:
+- alba
 - naidheachdan
 - poilitigs
 tags:
