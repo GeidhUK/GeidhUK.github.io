@@ -14,7 +14,7 @@ comments: true
 
 Dhearbh Graeme Dey, Ministear airson Gnothaichean na Pàrlamaid agus Seann-saighdearan, an seachdain seo gun deach dàil a chur air obair a’ Phàrlamaid air cìs turasachd, ath-leasachaidhean gnè agus reachdas Brexit gus an urrainn do BhPA fòcas a dhèanamh air èiginn a’ Choròna-bhìoras.
 
-<!—more—>
+<!—-more—->
 
 Thuirt Dey gu robh seo duilich ach gum feumadh an Riaghaltas bilean nach eil riatanach ath-phrìomhachasadh mar thoradh air an oidhirp gus stad a chur air a’ bhìoras.
 
