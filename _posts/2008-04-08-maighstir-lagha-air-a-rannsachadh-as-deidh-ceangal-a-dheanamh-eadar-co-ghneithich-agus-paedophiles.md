@@ -1,16 +1,27 @@
 ---
-title: Maighstir lagha air a rannsachadh as dèidh ceangal a dhèanamh eadar daoine co-sheòrsach agus paedophiles
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2008-04-08 17:21:20
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-04-08-maighstir-lagha-air-a-rannsachadh-as-deidh-ceangal-a-dheanamh-eadar-co-ghneithich-agus-paedophiles.jpg
+
+title: Maighstir lagha air a rannsachadh as dèidh ceangal a dhèanamh eadar daoine co-sheòrsach agus paedophiles
+
+image: /images/2008-04-08-maighstir-lagha-air-a-rannsachadh-as-deidh-ceangal-a-dheanamh-eadar-co-ghneithich-agus-paedophiles.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - an-rioghachd-aonaichte
   - cultar
   - lagh
-  - naidheachdan
   - poilitigs
+  
 tags:
   - "A' Chuimrigh"
   - BBC Cymru
@@ -25,6 +36,7 @@ tags:
   - Week In Week Out
 
 ---
+
 Chaidh rannsachadh a thòiseachadh air sgàth &#8217;s gun do rinn maighstir lagha ceangal eadar daoine co-sheòrsach agus _paedophiles_ air prògram aithriseach anns a&#8217; Chuimrigh.
 
 <!--more-->

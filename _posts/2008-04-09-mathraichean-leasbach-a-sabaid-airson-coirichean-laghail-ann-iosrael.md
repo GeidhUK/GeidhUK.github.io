@@ -1,15 +1,26 @@
 ---
-title: Màthraichean leasbach a’ sabaid airson còirichean laghail ann an Iosrael
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2008-04-09 13:46:31
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-04-09-mathraichean-leasbach-a-sabaid-airson-coirichean-laghail-ann-iosrael.jpg
+
+title: Màthraichean leasbach a’ sabaid airson còirichean laghail ann an Iosrael
+
+image: /images/2008-04-09-mathraichean-leasbach-a-sabaid-airson-coirichean-laghail-ann-iosrael.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - lagh
-  - naidheachdan
   - poilitigs
   - slainte
+
 tags:
   - adoption
   - An Ear Mheadhanach
@@ -39,6 +50,7 @@ tags:
   - uchd-mhacachadh
 
 ---
+
 Tha màthraichean leasbach ann an Iosrael a&#8217; sabaid gus am bi iad air ainmeachadh air teisteanas breith an leanabh aca.
 
 <!--more-->

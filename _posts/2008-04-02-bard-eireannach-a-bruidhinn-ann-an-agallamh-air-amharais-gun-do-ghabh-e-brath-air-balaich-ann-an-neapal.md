@@ -1,15 +1,26 @@
 ---
-title: Bàrd Èireannach a’ bruidhinn ann an agallamh air amharais gun do ghabh e brath air balaich ann an Neapàl
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2008-04-02 10:49:15
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-04-02-bard-eireannach-a-bruidhinn-ann-an-agallamh-air-amharais-gun-do-ghabh-e-brath-air-balaich-ann-an-neapal.jpg
+
+title: Bàrd Èireannach a’ bruidhinn ann an agallamh air amharais gun do ghabh e brath air balaich ann an Neapàl
+
+image: /images/2008-04-02-bard-eireannach-a-bruidhinn-ann-an-agallamh-air-amharais-gun-do-ghabh-e-brath-air-balaich-ann-an-neapal.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - an-t-saoghal
   - cultar
   - eirinn
-  - naidheachdan
+
 tags:
   - Àisia
   - bàrd
@@ -20,6 +31,7 @@ tags:
   - Raidio na Gaeltachta
 
 ---
+
 Tha bàrd Èireannach, a tha fo amharas gun do ghabh e brath air balaich ann an Neapàl, air agallamh a dhèanamh air _Raidio na Gaeltachta_.
 
 <!--more-->

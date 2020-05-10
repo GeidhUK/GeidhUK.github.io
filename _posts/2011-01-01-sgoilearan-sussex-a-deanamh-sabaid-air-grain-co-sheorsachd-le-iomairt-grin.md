@@ -1,13 +1,23 @@
 ---
-title: Sgoilearan Sussex a’ dèanamh sabaid air gràin-co-sheòrsachd le iomairt GRIN
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2011-01-01 15:45:17
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2011-01-01-sgoilearan-sussex-a-deanamh-sabaid-air-grain-co-sheorsachd-le-iomairt-grin.jpg
+
+title: Sgoilearan Sussex a’ dèanamh sabaid air gràin-co-sheòrsachd le iomairt GRIN
+
+image: /images/2011-01-01-sgoilearan-sussex-a-deanamh-sabaid-air-grain-co-sheorsachd-le-iomairt-grin.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 categories:
   - an-rioghachd-aonaichte
   - foghlam
-  - naidheachdan
+
 tags:
   - Bedales School
   - children
@@ -27,6 +37,7 @@ tags:
   - urram
 
 ---
+
 Tha sgoilearan aig Sgoil Bhedales, faisg air Petersfield air iomairt a chur air bhonn gus sabaid a&#8217; dèanamh air gràin air deugairean co-sheòrsach.
 
 <!--more-->

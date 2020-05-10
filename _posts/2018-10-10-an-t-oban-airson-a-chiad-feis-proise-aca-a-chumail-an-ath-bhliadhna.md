@@ -1,14 +1,25 @@
 ---
-title: An t-Òban airson a’ chiad fèis-pròise aca a chumail an ath-bhliadhna
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2018-10-10 13:17:32
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-10-10-an-t-oban-airson-a-chiad-feis-proise-aca-a-chumail-an-ath-bhliadhna.jpg
+
+title: An t-Òban airson a’ chiad fèis-pròise aca a chumail an ath-bhliadhna
+
+image: /images/2018-10-10-an-t-oban-airson-a-chiad-feis-proise-aca-a-chumail-an-ath-bhliadhna.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - alba
   - feisean-proise
-  - naidheachdan
+
 tags:
   - An t-Òban
   - Argyll
@@ -25,6 +36,7 @@ tags:
   - The Cellar Bar
 
 ---
+
 Thèid fèis-pròise a chumail anns an t-Òban an ath-bhliadhna airson a&#8217; chiad turas a-riamh.
 
 <!--more-->

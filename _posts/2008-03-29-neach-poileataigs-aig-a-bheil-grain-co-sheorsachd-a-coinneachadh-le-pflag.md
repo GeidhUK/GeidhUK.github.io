@@ -1,15 +1,26 @@
 ---
-title: Neach-poileataigs aig a bheil gràin-co-sheòrsachd a’ coinneachadh le PFLAG
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2008-03-29 09:58:46
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-03-29-neach-poileataigs-aig-a-bheil-grain-co-sheorsachd-a-coinneachadh-le-pflag.jpg
+
+title: Neach-poileataigs aig a bheil gràin-co-sheòrsachd a’ coinneachadh le PFLAG
+
+image: /images/2008-03-29-neach-poileataigs-aig-a-bheil-grain-co-sheorsachd-a-coinneachadh-le-pflag.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - an-t-saoghal
   - creideamh
-  - naidheachdan
   - poilitigs
+
 tags:
   - Aimearaga
   - ceannairceachd
@@ -25,7 +36,9 @@ tags:
   - riochdaire
   - Sally Kern
   - terrorists
+  
 ---
+
 Tha neach-poileataigs à Oklahoma, a tha ainmeil airson ag ràdh gu bheil daoine co-sheòrsach nan bagairtean nas motha ris na Stàitean Aonaichte na tha ceannaircich, air a bhith a’ coinneachadh le buidheann PFLAG (_Parents & Friends of Lesbians & Gays_).
 
 <!--more-->

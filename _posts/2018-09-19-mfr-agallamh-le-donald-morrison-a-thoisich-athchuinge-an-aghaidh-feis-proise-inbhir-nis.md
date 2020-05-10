@@ -1,14 +1,25 @@
 ---
-title: 'MFR: Agallamh le Donald Morrison a thòisich athchuinge an-aghaidh Fèis-pròise Inbhir Nis'
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2018-09-19 06:15:53
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-09-19-mfr-agallamh-le-donald-morrison-a-thoisich-athchuinge-an-aghaidh-feis-proise-inbhir-nis.jpg
+
+title: 'MFR: Agallamh le Donald Morrison a thòisich athchuinge an-aghaidh Fèis-pròise Inbhir Nis'
+
+image: /images/2018-09-19-mfr-agallamh-le-donald-morrison-a-thoisich-athchuinge-an-aghaidh-feis-proise-inbhir-nis.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - alba
   - feisean-proise
-  - naidheachdan
+
 tags:
   - Bauer Radio Scotland
   - Bryan Rutherford
@@ -24,6 +35,7 @@ tags:
   - Proud Ness
 
 ---
+
 Seo agaibh agallamh a rinn _MFR_ / _Bauer Radio Scotland_ le Donald Morrison, fear a thòisich athchuinge an-aghaidh Fèis-pròise Inbhir Nis air sgàth, mar a chanas e, &#8220;adhbharan bìoballach, diadhaidh agus moralta&#8221;.
 
 <!--more-->

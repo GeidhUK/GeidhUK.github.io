@@ -1,14 +1,25 @@
 ---
-title: Moladh gus leigeil le clann Albannach gnè atharrachadh air an teisteanas breith aca
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2018-06-04 10:48:30
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-06-04-moladh-gus-leigeil-le-clann-albannach-gne-atharrachadh-air-an-teisteanas-breith-aca.jpg
+
+title: Moladh gus leigeil le clann Albannach gnè atharrachadh air an teisteanas breith aca
+
+image: /images/2018-06-04-moladh-gus-leigeil-le-clann-albannach-gne-atharrachadh-air-an-teisteanas-breith-aca.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - alba
-  - naidheachdan
   - poilitigs
+
 tags:
   - Bruce Adamson
   - children
@@ -29,6 +40,7 @@ tags:
   - transexual
 
 ---
+
 Bu chòir do chlann cho òg ri 12 a bhith comasach air gnè atharrachadh air an teisteanas breith aca gun taic phàrant, a-rèir Coimiseanair Cloinne is Òigridh na h-Alba.
 
 <!--more-->

@@ -1,16 +1,27 @@
 ---
-title: An Èipheit air a chàineadh airson an iomairt an aghaidh AIDS lagachadh
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2008-03-19 07:31:44
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-03-19-an-eipheit-air-a-chaineadh-airson-an-iomairt-an-aghaidh-aids-lagachadh.jpg
+
+title: An Èipheit air a chàineadh airson an iomairt an aghaidh AIDS lagachadh
+
+image: /images/2008-03-19-an-eipheit-air-a-chaineadh-airson-an-iomairt-an-aghaidh-aids-lagachadh.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - an-t-saoghal
   - lagh
-  - naidheachdan
   - poilitigs
   - slainte
+
 tags:
   - Acquired Immunodeficiency Syndrome
   - Afraga
@@ -30,7 +41,9 @@ tags:
   - ICCPR
   - Lagh
   - Middle East
+
 ---
+
 Tha _Amnesty International_ agus _Human Rights Watch_ ag ràdh gu bheil Riaghaltas an Èipheit “aineolach mu dheidhinn HIV agus gu bheil iad a’ coimhead air le claon-bharail” an dèidh barrachd casaidean airson “habitual debauchery.”
 
 <!--more-->

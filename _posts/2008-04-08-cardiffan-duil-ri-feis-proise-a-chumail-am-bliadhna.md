@@ -1,15 +1,26 @@
 ---
-title: Cardiff an dùil ri fèis-pròise a chumail am bliadhna
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2008-04-08 18:10:07
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-04-08-cardiffan-duil-ri-feis-proise-a-chumail-am-bliadhna.jpg
+
+title: Cardiff an dùil ri fèis-pròise a chumail am bliadhna
+
+image: /images/2008-04-08-cardiffan-duil-ri-feis-proise-a-chumail-am-bliadhna.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - an-rioghachd-aonaichte
   - cultar
   - feisean-proise
-  - naidheachdan
+
 tags:
   - "A' Chuimrigh"
   - Cardiff Pride
@@ -21,6 +32,7 @@ tags:
   - Wales
 
 ---
+
 Thèid coinneamh a chumail an seachdain seo gus deasbad a dhèanamh air fèis-pròise a chumail ann an Cardiff.
 
 <!--more-->

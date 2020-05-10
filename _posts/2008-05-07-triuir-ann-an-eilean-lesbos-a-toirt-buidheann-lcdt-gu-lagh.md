@@ -1,15 +1,25 @@
 ---
-title: Triùir ann an Eilean Lesbos a’ toirt buidheann LCDT gu lagh
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2008-05-07 09:21:39
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-05-07-triuir-ann-an-eilean-lesbos-a-toirt-buidheann-lcdt-gu-lagh.jpg
+
+title: Triùir ann an Eilean Lesbos a’ toirt buidheann LCDT gu lagh
+
+image: /images/2008-05-07-triuir-ann-an-eilean-lesbos-a-toirt-buidheann-lcdt-gu-lagh.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
-comments: true
+
 categories:
   - an-roinn-eorpa
-  - naidheachdan
   - poilitigs
+
 tags:
   - "A' Ghrèig"
   - co-ionnannachd pòsaidh
@@ -29,6 +39,7 @@ tags:
   - semantics
 
 ---
+
 Tha triùir ann an Eilean Lesbos, a&#8217; Ghrèig, a&#8217; toirt buidheann LCDT gu lagh air sgàth &#8217;s gu bheil iad a&#8217; cleachdadh am facal &#8220;leasbach&#8221; anns an ainm aca.
 
 <!--more-->

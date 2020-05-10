@@ -1,15 +1,26 @@
 ---
-title: Gearanan a’ cur bacadh air ministear co-sheòrsach
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2009-03-24 18:32:33
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2009-03-24-gearanan-a-cur-bacadh-air-ministear-co-sheorsach.jpg
+
+title: Gearanan a’ cur bacadh air ministear co-sheòrsach
+
+image: /images/2009-03-24-gearanan-a-cur-bacadh-air-ministear-co-sheorsach.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - alba
   - an-rioghachd-aonaichte
   - creideamh
-  - naidheachdan
+
 tags:
   - Aberdeen
   - an t-Urr
@@ -26,6 +37,7 @@ tags:
   - The Kirk
 
 ---
+
 Thèid coinneamh a chumail gus deasbad ma bhios ministear co-sheòrsach ann an Obair Dheathain comasach air obair airson an eaglais.
 
 <!--more-->

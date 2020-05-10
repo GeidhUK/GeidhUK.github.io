@@ -1,14 +1,25 @@
 ---
-title: BPA SNP a’ càineadh Bile nan Eucoirean Feise
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2018-06-19 10:52:16
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-06-19-bpa-snp-a-caineadh-bile-nan-eucoirean-feise.jpg
+
+title: BPA SNP a’ càineadh Bile nan Eucoirean Feise
+
+image: /images/2018-06-19-bpa-snp-a-caineadh-bile-nan-eucoirean-feise.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - alba
-  - naidheachdan
   - poilitigs
+
 tags:
   - Ball Pàrlamaid na h-Alba
   - Bile nan Eucoirean Feise
@@ -22,6 +33,7 @@ tags:
   - "Turing's Law"
 
 ---
+
 Tha John Mason BPA air a bhith a’ càineadh lagh ùr a chitheas mathanas a thoirt do dhaoine co-sheòrsach agus dà-sheòrsach a chaidh an dìteadh fo laghan eachdraidheil.
 
 <!--more-->

@@ -1,16 +1,27 @@
 ---
-title: Na bliadhnaichean ri teachd mì-chinnteach airson Iorànach co-sheòrsach
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2008-04-08 17:36:21
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-04-08-na-bliadhnaichean-ri-teachd-mi-chinnteach-airson-ioranach-co-sheorsach.jpg
+
+title: Na bliadhnaichean ri teachd mì-chinnteach airson Iorànach co-sheòrsach
+
+image: /images/2008-04-08-na-bliadhnaichean-ri-teachd-mi-chinnteach-airson-ioranach-co-sheorsach.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - an-rioghachd-aonaichte
   - an-roinn-eorpa
   - an-t-saoghal
-  - naidheachdan
   - poilitigs
+
 tags:
   - An Ear Mheadhanach
   - 'Border &amp; Immigration Agency'
@@ -27,6 +38,7 @@ tags:
   - The Netherlands
 
 ---
+
 Tha Medhi Kazemi air tilleadh ris an Rìoghachd Aonaichte.
 
 <!--more-->

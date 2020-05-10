@@ -1,13 +1,23 @@
 ---
-title: 'BBC Alba: Deasbad mu dhaoine gèidh a’ toirt seachad fala'
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2008-04-15 09:45:02
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-04-15-bbc-alba-deasbad-mu-dhaoine-geidh-a-toirt-seachad-fala.jpg
+
+title: 'BBC Alba: Deasbad mu dhaoine gèidh a’ toirt seachad fala'
+
+image: /images/2008-04-15-bbc-alba-deasbad-mu-dhaoine-geidh-a-toirt-seachad-fala.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 categories:
   - alba
-  - naidheachdan
   - slainte
+
 tags:
   - Acquired Immunodeficiency Syndrome
   - AIDS
@@ -36,6 +46,7 @@ tags:
   - SNBTS
 
 ---
+
 Nochd an sgeulachd seo air [làrach-lìn a&#8217; BhBC][1] na bu tràithe:-
 
 **Thèid ath-chuinge airson cead a thoirt do dhaoine gèidh ann an Alba fuil a thoirt seachad a dheasbad anns a&#8217; Phàrlamaid Dimàirt.**

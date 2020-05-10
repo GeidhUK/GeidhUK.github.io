@@ -1,14 +1,25 @@
 ---
-title: Riaghaltas a’ toirt maoineachadh de £75,000 dhan charthannas Òigridh LCDT na h-Alba
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2018-01-01 20:21:45
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-01-01-riaghaltas-a-toirt-maoineachadh-de-75000-dhan-charthannas-oigridh-lcdt-na-h-alba.jpg
+
+title: Riaghaltas a’ toirt maoineachadh de £75,000 dhan charthannas Òigridh LCDT na h-Alba
+
+image: /images/2018-01-01-riaghaltas-a-toirt-maoineachadh-de-75000-dhan-charthannas-oigridh-lcdt-na-h-alba.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - alba
-  - naidheachdan
   - poilitigs
+
 tags:
   - Alba
   - Barnardo’s
@@ -25,6 +36,7 @@ tags:
   - Year of Young People
 
 ---
+
 Gheibh an carthannas Òigridh LCDT na h-Alba (LGBT Youth Scotland) £75,000 bho Riaghaltas na h-Alba mar phàirt dhen sgeama “Bliadhna na h-Òigridh” a bhios iad a’ ruith fad 2018.
 
 <!--more-->

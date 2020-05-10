@@ -1,15 +1,26 @@
 ---
-title: ◦ Iongnadh mòr air California às deidh baraile bho Attorney General
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2008-12-23 11:57:01
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-12-23-iongnadh-mor-air-california-as-deidh-baraile-bho-attorney-general.jpg
+
+title: ◦ Iongnadh mòr air California às deidh baraile bho Attorney General
+
+image: /images/2008-12-23-iongnadh-mor-air-california-as-deidh-baraile-bho-attorney-general.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - an-t-saoghal
   - lagh
-  - naidheachdan
   - poilitigs
+  
 tags:
   - Aimearaga
   - America
@@ -42,6 +53,7 @@ tags:
   - United States
 
 ---
+
 Chuir Attorney General Edmund G. “Jerry” Brown, Jr., iongnadh air a h-uile duine ann an California nuair thug e bharail laghail do Àrd-chùirt Chalifornia an aghaidh Proposition 8. Bidh dleastanas àbhaisteach aig an Attorney General an lagh a’ dìon. Thuirt Attorney General Brown, a b’ àbhaist a bhith na riaghladair e fhèin (1975-1983), gu nach eil comas aig bhòt an t-sluaigh sam bith a chur às don còraichean bun-reachdail coltach ri co-ionnanachd nan daoine. ‘S e seo argamaid laghail caran nas làidire na h-argamaid a rinn na luchd-dùbhlain eile.
 
 <!--more-->

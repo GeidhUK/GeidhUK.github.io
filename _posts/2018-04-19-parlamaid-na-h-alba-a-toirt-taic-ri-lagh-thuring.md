@@ -1,14 +1,25 @@
 ---
-title: Pàrlamaid na h-Alba a’ toirt taic ri Lagh Thuring
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2018-04-19 13:39:27
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-04-19-parlamaid-na-h-alba-a-toirt-taic-ri-lagh-thuring.jpg
+
+title: Pàrlamaid na h-Alba a’ toirt taic ri Lagh Thuring
+
+image: /images/2018-04-19-parlamaid-na-h-alba-a-toirt-taic-ri-lagh-thuring.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - alba
-  - naidheachdan
   - poilitigs
+
 tags:
   - Alan Turing
   - BPA
@@ -22,6 +33,7 @@ tags:
   - "Turing's Law"
 
 ---
+
 Dh&#8217;aontaich Pàrlamaid na h-Alba gu h-aon-ghuthach Diciadan ri prìomh-amasan an Historical Sexual Offences (Pardons and Disregards) (Scotland) Bill.
 
 <!--more-->

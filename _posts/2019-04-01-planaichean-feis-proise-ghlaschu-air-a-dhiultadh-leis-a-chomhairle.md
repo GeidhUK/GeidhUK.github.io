@@ -17,16 +17,15 @@ author: Crìstean MacMhìcheil
 comments: true
 
 categories:
-- alba
-- feisean-proise
-- naidheachdan
+    - alba
+    - feisean-proise
 
 tags:
-- pride
-- glasgow
-- feis-proise
-- glaschu
-- mardigla
+    - pride
+    - glasgow
+    - feis-proise
+    - glaschu
+    - mardigla
 
 ---
 

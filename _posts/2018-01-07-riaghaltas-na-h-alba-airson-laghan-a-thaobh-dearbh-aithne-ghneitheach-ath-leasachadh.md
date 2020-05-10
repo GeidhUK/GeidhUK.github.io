@@ -1,15 +1,26 @@
 ---
-title: Riaghaltas na h-Alba airson laghan a thaobh dearbh-aithne ghnèitheach ath-leasachadh
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2018-01-07 21:30:01
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-01-07-riaghaltas-na-h-alba-airson-laghan-a-thaobh-dearbh-aithne-ghneitheach-ath-leasachadh.jpg
+
+title: Riaghaltas na h-Alba airson laghan a thaobh dearbh-aithne ghnèitheach ath-leasachadh
+
+image: /images/2018-01-07-riaghaltas-na-h-alba-airson-laghan-a-thaobh-dearbh-aithne-ghneitheach-ath-leasachadh.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - alba
   - an-rioghachd-aonaichte
-  - naidheachdan
   - poilitigs
+
 tags:
   - Alba
   - Angela Crawley
@@ -33,6 +44,7 @@ tags:
   - transsexual
 
 ---
+
 Tha Riaghaltas na h-Alba air ràdh gum bi iad a’ dol air adhart le planaichean gus laghan a thaobh dearbh-aithne ghnèitheach ath-leasachadh as dèidh gun do chur Riaghaltas Bhreatainn dàil air na planaichean acasan.
 
 <!--more-->

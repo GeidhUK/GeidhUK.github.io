@@ -1,15 +1,26 @@
 ---
-title: Dòchas ùr airson pòsadh aon-sheòrsach ann an Èirinn a Tuath
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2018-10-23 12:16:39
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-10-23-dochas-ur-airson-posadh-aon-sheorsach-ann-an-eirinn-a-tuath.jpg
+
+title: Dòchas ùr airson pòsadh aon-sheòrsach ann an Èirinn a Tuath
+
+image: /images/2018-10-23-dochas-ur-airson-posadh-aon-sheorsach-ann-an-eirinn-a-tuath.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - an-rioghachd-aonaichte
   - lagh
-  - naidheachdan
   - poilitigs
+
 tags:
   - abortion
   - Am Pàrtaidh Làbarach
@@ -38,6 +49,7 @@ tags:
   - UK Parliament
 
 ---
+
 Tha dithis bhall-phàrlamaid Làbarach air plana a chur an gnìomh a dh&#8217;fhaodadh pòsadh aon-sheòrsach a dhèanamh laghail ann an Èirinn a Tuath.
 
 <!--more-->

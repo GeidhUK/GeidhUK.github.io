@@ -1,16 +1,27 @@
 ---
-title: A’ chiad cead-siubhail neo-ghèitheach air a thoirt a-mach anns na Tìrean Ìsle
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2018-10-23 21:00:24
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-10-23-a-chiad-cead-siubhail-neo-gheitheach-air-a-thoirt-a-mach-anns-na-tirean-isle.jpg
+
+title: A’ chiad cead-siubhail neo-ghèitheach air a thoirt a-mach anns na Tìrean Ìsle
+
+image: /images/2018-10-23-a-chiad-cead-siubhail-neo-gheitheach-air-a-thoirt-a-mach-anns-na-tirean-isle.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - an-roinn-eorpa
   - an-t-saoghal
   - lagh
-  - naidheachdan
   - poilitigs
+
 tags:
   - An Òlaind
   - cead-siubhail
@@ -32,6 +43,7 @@ tags:
   - third gender
 
 ---
+
 Chaidh cead-siubhail neo-ghnèitheach (_gender neutral_) a thoirt a-mach anns Na Tìrean Ìsle airson a&#8217; chiad turas.
 
 <!--more-->

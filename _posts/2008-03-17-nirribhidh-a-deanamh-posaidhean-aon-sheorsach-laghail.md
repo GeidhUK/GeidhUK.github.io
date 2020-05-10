@@ -1,15 +1,26 @@
 ---
-title: Nirribhidh a’ dèanamh pòsaidhean aon-sheòrsach laghail
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2008-03-17 11:06:56
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-03-17-nirribhidh-a-deanamh-posaidhean-aon-sheorsach-laghail.jpg
+
+title: Nirribhidh a’ dèanamh pòsaidhean aon-sheòrsach laghail
+
+image: /images/2008-03-17-nirribhidh-a-deanamh-posaidhean-aon-sheorsach-laghail.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - an-roinn-eorpa
   - creideamh
-  - naidheachdan
   - poilitigs
+
 tags:
   - Anniken Huitfeldt
   - co-ionnannachd pòsaidh
@@ -22,7 +33,9 @@ tags:
   - pòsadh aon-sheòrsach
   - same-sex marriage
   - Stortinget
+
 ---
+
 Chaidh reachdas ùr a chur ri chèile ann an Nirribhidh a bhios a’ toirt cead pòsaidh do càraidean aon-sheòrsach a bharrachd air còirichean co-ionann a-thaobh cùram air clann.
 
 <!--more-->

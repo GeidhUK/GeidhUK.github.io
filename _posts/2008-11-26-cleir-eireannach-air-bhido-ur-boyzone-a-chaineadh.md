@@ -1,15 +1,26 @@
 ---
-title: Clèir Èireannach air bhido ùr Boyzone a chàineadh
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2008-11-26 17:13:55
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-11-26-cleir-eireannach-air-bhido-ur-boyzone-a-chaineadh.jpg
+
+title: Clèir Èireannach air bhido ùr Boyzone a chàineadh
+
+image: /images/2008-11-26-cleir-eireannach-air-bhido-ur-boyzone-a-chaineadh.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - creideamh
   - cultar
   - eirinn
-  - naidheachdan
+
 tags:
   - better
   - bhidio-ciùil
@@ -26,6 +37,7 @@ tags:
   - The Sun
 
 ---
+
 Tha clèir Èireannach air am bhidio-ciùil ùr aig Boyzone a chàineadh agus e ag ràdh gu bheil iad a&#8217; sgaoileadh teachdaireachd marbhtach.
 
 <!--more-->

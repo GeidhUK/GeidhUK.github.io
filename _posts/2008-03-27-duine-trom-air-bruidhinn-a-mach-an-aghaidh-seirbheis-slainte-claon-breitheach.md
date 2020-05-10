@@ -1,14 +1,25 @@
 ---
-title: Duine trom air bruidhinn a-mach an aghaidh Seirbheis Slàinte claon-breitheach
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2008-03-27 08:52:10
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-03-27-duine-trom-air-bruidhinn-a-mach-an-aghaidh-seirbheis-slainte-claon-breitheach.jpg
+
+title: Duine trom air bruidhinn a-mach an aghaidh Seirbheis Slàinte claon-breitheach
+
+image: /images/2008-03-27-duine-trom-air-bruidhinn-a-mach-an-aghaidh-seirbheis-slainte-claon-breitheach.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - an-t-saoghal
-  - naidheachdan
   - slainte
+
 tags:
   - Aimearaga
   - clann
@@ -30,7 +41,9 @@ tags:
   - Thomas Beatie
   - trans
   - transgender
+
 ---
+
 Tha duine tar-ghnèitheach à Portland, Oregon air ràdh anns a’ cholbh aige anns an iris co-sheòrsach _The Advocate_ gu bheil e trom.
 
 <!--more-->

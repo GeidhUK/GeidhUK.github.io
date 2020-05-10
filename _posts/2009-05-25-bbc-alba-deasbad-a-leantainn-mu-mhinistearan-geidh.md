@@ -1,15 +1,26 @@
 ---
-title: 'BBC Alba: Deasbad a’ leantainn mu Mhinistearan gèidh'
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2009-05-25 12:25:09
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2009-05-25-bbc-alba-deasbad-a-leantainn-mu-mhinistearan-geidh.jpg
+
+title: 'BBC Alba: Deasbad a’ leantainn mu Mhinistearan gèidh'
+
+image: /images/2009-05-25-bbc-alba-deasbad-a-leantainn-mu-mhinistearan-geidh.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - alba
   - an-rioghachd-aonaichte
   - creideamh
-  - naidheachdan
+
 tags:
   - an Dtr. Urr.
   - an t-Urr
@@ -31,6 +42,7 @@ tags:
   - Seòras Whyte
 
 ---
+
 **Chaidh seo a thogail bho làrach-lìn a&#8217; BhBC. Airson tuilleadh fiosrachaidh tadhal air [Deasbad a&#8217; leantainn mu Mhinistearan gèidh][1].**
 
 <!--more-->

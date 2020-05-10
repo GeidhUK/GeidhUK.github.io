@@ -1,17 +1,28 @@
 ---
-title: Siridheach co-sheòrsach gu bhith a’ fuadach a-mach às an Rìoghachd Aonaichte
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2008-03-19 07:47:57
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-03-19-siridheach-co-sheorsach-gu-bhith-a-fuadach-a-mach-as-an-rioghachd-aonaichte.jpg
+
+title: Siridheach co-sheòrsach gu bhith a’ fuadach a-mach às an Rìoghachd Aonaichte
+
+image: /images/2008-03-19-siridheach-co-sheorsach-gu-bhith-a-fuadach-a-mach-as-an-rioghachd-aonaichte.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - alba
   - an-rioghachd-aonaichte
   - an-t-saoghal
   - lagh
-  - naidheachdan
   - poilitigs
+
 tags:
   - Alba
   - An Ear Mheadhanach
@@ -26,7 +37,9 @@ tags:
   - Riaghaltas Bhreatainn
   - Rùnaire na Dùthcha
   - tèarmann poileataigeach
+
 ---
+
 Tha deugaire Siridheach gu bhith a’ fuadach a-mach às an Rìoghachd Aonaichte air sgàth ’s gun do dhiùlt Rùnaire na Dùthcha an iarrtas aige airson tèarmann poileataigeach.
 
 <!--more-->

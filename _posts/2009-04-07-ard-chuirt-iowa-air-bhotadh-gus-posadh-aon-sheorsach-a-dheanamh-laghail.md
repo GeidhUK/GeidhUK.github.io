@@ -1,15 +1,26 @@
 ---
-title: Àrd-chùirt Iowa air bhòtadh gus pòsadh aon-sheòrsach a dhèanamh laghail
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2009-04-07 11:40:32
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2009-04-07-ard-chuirt-iowa-air-bhotadh-gus-posadh-aon-sheorsach-a-dheanamh-laghail.jpg
+
+title: Àrd-chùirt Iowa air bhòtadh gus pòsadh aon-sheòrsach a dhèanamh laghail
+
+image: /images/2009-04-07-ard-chuirt-iowa-air-bhotadh-gus-posadh-aon-sheorsach-a-dheanamh-laghail.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - an-t-saoghal
   - creideamh
-  - naidheachdan
   - poilitigs
+
 tags:
   - Aimearaga
   - America
@@ -30,6 +41,7 @@ tags:
   - United States
 
 ---
+
 Tha Àrd-chùirt Iowa air bhòtadh gus pòsadh aon-sheòrsach a dhèanamh laghail anns an stàit.
 
 <!--more-->

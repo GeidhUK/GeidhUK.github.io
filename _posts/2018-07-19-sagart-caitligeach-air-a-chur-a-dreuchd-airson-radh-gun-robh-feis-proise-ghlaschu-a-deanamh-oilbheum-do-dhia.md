@@ -1,15 +1,26 @@
 ---
-title: Sagart Caitligeach air a chur à dreuchd airson ràdh gun robh fèis-pròise Ghlaschu a’ dèanamh oilbheum do Dhia
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2018-07-19 21:15:00
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-07-19-sagart-caitligeach-air-a-chur-a-dreuchd-airson-radh-gun-robh-feis-proise-ghlaschu-a-deanamh-oilbheum-do-dhia.jpg
+
+title: Sagart Caitligeach air a chur à dreuchd airson ràdh gun robh fèis-pròise Ghlaschu a’ dèanamh oilbheum do Dhia
+
+image: /images/2018-07-19-sagart-caitligeach-air-a-chur-a-dreuchd-airson-radh-gun-robh-feis-proise-ghlaschu-a-deanamh-oilbheum-do-dhia.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - alba
   - creideamh
   - feisean-proise
-  - naidheachdan
+
 tags:
   - An Eaglais Chaitligeach
   - Caitligeach
@@ -23,6 +34,7 @@ tags:
   - Pride Glasgow
 
 ---
+
 Chaidh an sagart Caitligeach Mark Morris a chur à dreuchd le Oilthigh Cailleannach Ghlaschu as dèidh dha ràdh gun robh fèis-pròise Ghlaschu a&#8217; dèanamh oilbheum do Dhia.
 
 <!--more-->

@@ -1,14 +1,25 @@
 ---
-title: Bhiocair air ràdh gum bu chòir rabhadh slàinte a bhith stampadh air daoine LCDT
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2008-10-08 19:37:30
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-10-08-bhiocair-air-radh-gum-bu-choir-rabhadh-slainte-a-bhith-stampadh-air-daoine-lcdt.jpg
+
+title: Bhiocair air ràdh gum bu chòir rabhadh slàinte a bhith stampadh air daoine LCDT
+
+image: /images/2008-10-08-bhiocair-air-radh-gum-bu-choir-rabhadh-slainte-a-bhith-stampadh-air-daoine-lcdt.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - an-rioghachd-aonaichte
   - creideamh
-  - naidheachdan
+
 tags:
   - An Eaglais Shasannach
   - an t-Urr
@@ -25,6 +36,7 @@ tags:
   - SODOMY CAN SERIOUSLY DAMAGE YOUR HEALTH
 
 ---
+
 Tha bhiocair anns An Eaglais Shasannach air ràdh air a&#8217; bhlòg aige gum bu chòir rabhadh slàinte a bhith air stampadh air daoine LCDT.
 
 <!--more-->

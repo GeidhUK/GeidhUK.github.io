@@ -1,15 +1,26 @@
 ---
-title: Rionnagan Ameireaganach an-sàs ann an iomairt an-aghaidh cànan oilbheumach
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2008-11-26 16:15:39
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-11-26-rionnagan-ameireaganach-an-sas-ann-an-iomairt-an-aghaidh-canan-oilbheumach.jpg
+
+title: Rionnagan Ameireaganach an-sàs ann an iomairt an-aghaidh cànan oilbheumach
+
+image: /images/2008-11-26-rionnagan-ameireaganach-an-sas-ann-an-iomairt-an-aghaidh-canan-oilbheumach.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - an-t-saoghal
   - cultar
   - foghlam
-  - naidheachdan
+
 tags:
   - Aimearaga
   - America
@@ -36,6 +47,7 @@ tags:
   - Wanda Sykes
 
 ---
+
 Chaidh iomairt ùr a chur air bhog anns na Stàitean Aonaichte gus sgoilearan a theagasg mu dheidhinn am buaidh a tha aig cànan oilbheumach air daoine LCDTE.
 
 <!--more-->

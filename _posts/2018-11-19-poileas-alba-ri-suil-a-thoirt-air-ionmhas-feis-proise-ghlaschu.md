@@ -1,15 +1,26 @@
 ---
-title: Poileas Alba ri sùil a thoirt air ionmhas Fèis-pròise Ghlaschu
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2018-11-19 17:23:34
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-11-19-poileas-alba-ri-suil-a-thoirt-air-ionmhas-feis-proise-ghlaschu.jpg
+
+title: Poileas Alba ri sùil a thoirt air ionmhas Fèis-pròise Ghlaschu
+
+image: /images/2018-11-19-poileas-alba-ri-suil-a-thoirt-air-ionmhas-feis-proise-ghlaschu.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - alba
   - feisean-proise
   - lagh
-  - naidheachdan
+
 tags:
   - Alba
   - Chris Laing
@@ -24,6 +35,7 @@ tags:
   - Scotland
 
 ---
+
 Chaidh iarraidh air Poileas Alba sùil a thoirt air ionmhas Fèis-pròise Ghlaschu.
 
 <!--more-->

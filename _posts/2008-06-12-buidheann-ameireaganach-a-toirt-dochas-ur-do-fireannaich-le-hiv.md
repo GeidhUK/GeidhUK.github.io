@@ -1,14 +1,25 @@
 ---
-title: Buidheann Ameireaganach a’ toirt dòchas ùr do fhireannaich le HIV
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2008-06-12 14:46:11
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-06-12-buidheann-ameireaganach-a-toirt-dochas-ur-do-fireannaich-le-hiv.jpg
+
+title: Buidheann Ameireaganach a’ toirt dòchas ùr do fhireannaich le HIV
+
+image: /images/2008-06-12-buidheann-ameireaganach-a-toirt-dochas-ur-do-fireannaich-le-hiv.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - an-t-saoghal
-  - naidheachdan
   - slainte
+
 tags:
   - Acquired Immunodeficiency Syndrome
   - AIDS
@@ -36,6 +47,7 @@ tags:
   - United States
 
 ---
+
 Tha fireannaich HIV+ anns na Stàitean Aonaichte a&#8217; cur dòchas anns a&#8217; bhuidheann [Growing Generations][1] a tha ag ràdh gum faod iad a bhith nam pàrantan.
 
 <!--more-->

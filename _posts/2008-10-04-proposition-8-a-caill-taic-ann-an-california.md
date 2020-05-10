@@ -1,15 +1,26 @@
 ---
-title: Proposition 8 a’ caill taic ann an California
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2008-10-04 13:35:18
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-10-04-proposition-8-a-caill-taic-ann-an-california.jpg
+
+title: Proposition 8 a’ caill taic ann an California
+
+image: /images/2008-10-04-proposition-8-a-caill-taic-ann-an-california.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - an-t-saoghal
   - lagh
-  - naidheachdan
   - poilitigs
+
 tags:
   - Aimearaga
   - America
@@ -32,6 +43,7 @@ tags:
   - United States
 
 ---
+
 Tha cunntas-bheachd ùr a&#8217; sealltainn gu bheil Proposition 8 a&#8217; caill taic ann an California.
 
 <!--more-->

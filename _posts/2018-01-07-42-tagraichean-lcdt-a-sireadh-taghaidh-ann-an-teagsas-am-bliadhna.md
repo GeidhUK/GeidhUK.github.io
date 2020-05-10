@@ -1,14 +1,25 @@
 ---
-title: 42 tagraichean LCDT+ a’ sireadh taghaidh ann an Teagsas am bliadhna
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2018-01-07 18:02:27
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-01-07-42-tagraichean-lcdt-a-sireadh-taghaidh-ann-an-teagsas-am-bliadhna.jpg
+
+title: 42 tagraichean LCDT+ a’ sireadh taghaidh ann an Teagsas am bliadhna
+
+image: /images/2018-01-07-42-tagraichean-lcdt-a-sireadh-taghaidh-ann-an-teagsas-am-bliadhna.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - an-t-saoghal
-  - naidheachdan
   - poilitigs
+
 tags:
   - Aimearaga
   - America
@@ -26,6 +37,7 @@ tags:
   - United States
 
 ---
+
 A-rèir an iris [OutSmart][1] tha co-dhiù 42 tagraichean LCDT+ a&#8217; sireadh taghaidh ann an Teagsas am bliadhna.
 
 <!--more-->

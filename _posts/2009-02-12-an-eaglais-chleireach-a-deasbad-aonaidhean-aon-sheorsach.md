@@ -1,13 +1,23 @@
 ---
-title: An Eaglais Chlèireach a’ deasbad aonaidhean aon-sheòrsach
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2009-02-12 13:34:38
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2009-02-12-an-eaglais-chleireach-a-deasbad-aonaidhean-aon-sheorsach.jpg
+
+title: An Eaglais Chlèireach a’ deasbad aonaidhean aon-sheòrsach
+
+image: /images/2009-02-12-an-eaglais-chleireach-a-deasbad-aonaidhean-aon-sheorsach.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 categories:
   - an-t-saoghal
   - creideamh
-  - naidheachdan
+
 tags:
   - Aimearaga
   - America
@@ -33,6 +43,7 @@ tags:
   - United States
 
 ---
+
 Tha Eaglais Chlèireach nan Stàitean Aonaichte air comataidh ùr stèidheachadh gus sgrùdadh a dhèanamh air dè an t-àite a bu chòir a bhith aig aonaidhean aon-sheòrsach sa Chrìosdachd agus sa choimhearsnachd san fharsaingeachd.
 
 <!--more-->

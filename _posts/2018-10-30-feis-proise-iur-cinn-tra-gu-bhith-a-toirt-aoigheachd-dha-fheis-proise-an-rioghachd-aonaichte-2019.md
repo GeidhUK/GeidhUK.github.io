@@ -1,14 +1,25 @@
 ---
-title: Fèis-pròise Iúr Cinn Trá gu bhith a’ toirt aoigheachd dha Fhèis-pròise an Rìoghachd Aonaichte 2019
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2018-10-30 16:10:43
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-10-30-feis-proise-iur-cinn-tra-gu-bhith-a-toirt-aoigheachd-dha-fheis-proise-an-rioghachd-aonaichte-2019.jpg
+
+title: Fèis-pròise Iúr Cinn Trá gu bhith a’ toirt aoigheachd dha Fhèis-pròise an Rìoghachd Aonaichte 2019
+
+image: /images/2018-10-30-feis-proise-iur-cinn-tra-gu-bhith-a-toirt-aoigheachd-dha-fheis-proise-an-rioghachd-aonaichte-2019.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - an-rioghachd-aonaichte
   - feisean-proise
-  - naidheachdan
+
 tags:
   - An Rìoghachd Aonaichte
   - Caisteal Nuadh
@@ -27,6 +38,7 @@ tags:
   - United Kingdom
 
 ---
+
 Chaidh ainmeachadh gum bi Fèis-pròise Iúr Cinn Trá (_Newry_) a&#8217; toirt aoigheachd dha Fhèis-pròise an Rìoghachd Aonaichte 2019.
 
 <!--more-->

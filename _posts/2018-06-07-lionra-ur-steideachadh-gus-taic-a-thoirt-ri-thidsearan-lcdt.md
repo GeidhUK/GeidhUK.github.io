@@ -1,15 +1,26 @@
 ---
-title: Lìonra ùr stèideachadh gus taic a thoirt ri thidsearan LCDT+
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2018-06-07 21:30:35
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-06-07-lionra-ur-steideachadh-gus-taic-a-thoirt-ri-thidsearan-lcdt.jpg
+
+title: Lìonra ùr stèideachadh gus taic a thoirt ri thidsearan LCDT+
+
+image: /images/2018-06-07-lionra-ur-steideachadh-gus-taic-a-thoirt-ri-thidsearan-lcdt.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - an-rioghachd-aonaichte
   - foghlam
-  - naidheachdan
   - teicneolas
+
 tags:
   - Ambition School Leadership
   - Daniel Gray
@@ -27,6 +38,7 @@ tags:
   - tidsearan
 
 ---
+
 Chaidh lìonra air loidhne ùr stèidheachadh an seachdain seo gus taic a thoirt ri thidsearan LCDT+ san Rìoghachd Aonaichte.
 
 <!--more-->

@@ -1,15 +1,26 @@
 ---
-title: Reachd Ameireaganach ag ràdh gu bheil ainm pòsta co-sheòrsach mì-laghail
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2008-03-30 10:26:22
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-03-30-reachd-ameireaganach-ag-radh-gu-bheil-ainm-posta-co-sheorsach-mi-laghail.jpg
+
+title: Reachd Ameireaganach ag ràdh gu bheil ainm pòsta co-sheòrsach mì-laghail
+
+image: /images/2008-03-30-reachd-ameireaganach-ag-radh-gu-bheil-ainm-posta-co-sheorsach-mi-laghail.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - an-t-saoghal
   - lagh
-  - naidheachdan
   - poilitigs
+
 tags:
   - Aimearaga
   - America
@@ -39,6 +50,7 @@ tags:
   - United States Department of State
 
 ---
+
 Tha Roinn Stàit nan Stàitean Aonaichte ag ràdh nach urrainn gnìomhaiche AIDS cead-siubhail ùr fhaighinn air sgàth ’s gu bheil an ainm pòsta aige mì-laghail.
 
 <!--more-->

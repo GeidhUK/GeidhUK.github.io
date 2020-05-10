@@ -1,14 +1,25 @@
 ---
-title: Corr ’s 14,000 air na h-ainmean aca a chur ri athchuingean airson Fèis-pròise Inbhir Nis a dhol air adhart
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2018-09-19 10:32:24
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-09-19-corr-s-14000-air-na-h-ainmean-aca-a-chur-ri-athchuingean-airson-feis-proise-inbhir-nis-a-dhol-air-adhart.jpg
+
+title: Corr ’s 14,000 air na h-ainmean aca a chur ri athchuingean airson Fèis-pròise Inbhir Nis a dhol air adhart
+
+image: /images/2018-09-19-corr-s-14000-air-na-h-ainmean-aca-a-chur-ri-athchuingean-airson-feis-proise-inbhir-nis-a-dhol-air-adhart.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - alba
   - feisean-proise
-  - naidheachdan
+
 tags:
   - Bauer Radio Scotland
   - Bryan Rutherford
@@ -25,6 +36,7 @@ tags:
   - Rosemary Roscrow
 
 ---
+
 Tha còrr &#8217;s 14,000 duine air na h-ainmean aca a chur ri trì athchuingean gus an taic aca a shealltainn airson Fèis-pròise Inbhir Nis.
 
 <!--more-->

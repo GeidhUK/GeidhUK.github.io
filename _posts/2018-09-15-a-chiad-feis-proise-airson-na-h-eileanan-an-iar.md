@@ -1,14 +1,25 @@
 ---
-title: A’ Chiad Fèis-pròise airson na h-Eileanan an Iar
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2018-09-15 09:44:15
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-09-15-a-chiad-feis-proise-airson-na-h-eileanan-an-iar.jpg
+
+title: A’ Chiad Fèis-pròise airson na h-Eileanan an Iar
+
+image: /images/2018-09-15-a-chiad-feis-proise-airson-na-h-eileanan-an-iar.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - alba
   - feisean-proise
-  - naidheachdan
+
 tags:
   - Era Stornoway
   - fèis-pròise
@@ -25,6 +36,7 @@ tags:
   - Western Isles
 
 ---
+
 Chaidh ainmeachadh Diardaoin gun tèid a&#8217; chiad fèis-pròise a-riamh a chumail anns na h-Eileanan an Iar 6mh Dàmhair.
 
 <!--more-->

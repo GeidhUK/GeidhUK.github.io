@@ -1,15 +1,26 @@
 ---
-title: Ceannard LCDT ga mhurt ann am Baghdad
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2008-09-26 16:25:42
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-09-26-ceannard-lcdt-ga-mhurt-ann-am-baghdad.jpg
+
+title: Ceannard LCDT ga mhurt ann am Baghdad
+
+image: /images/2008-09-26-ceannard-lcdt-ga-mhurt-ann-am-baghdad.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - an-t-saoghal
   - creideamh
-  - naidheachdan
   - poilitigs
+
 tags:
   - An Ear Mheadhanach
   - asylum
@@ -29,6 +40,7 @@ tags:
   - tèarmann
 
 ---
+
 Chaidh ceannard LCDT a mhurt ann am Baghdad, Ioràc an-dè.
 
 <!--more-->

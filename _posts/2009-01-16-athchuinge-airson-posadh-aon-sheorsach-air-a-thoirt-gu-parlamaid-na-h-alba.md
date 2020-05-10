@@ -1,16 +1,27 @@
 ---
-title: Athchuinge airson pòsadh aon-sheòrsach air a thoirt gu Pàrlamaid na h-Alba
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2009-01-16 10:40:10
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2009-01-16-athchuinge-airson-posadh-aon-sheorsach-air-a-thoirt-gu-parlamaid-na-h-alba.jpg
+
+title: Athchuinge airson pòsadh aon-sheòrsach air a thoirt gu Pàrlamaid na h-Alba
+
+image: /images/2009-01-16-athchuinge-airson-posadh-aon-sheorsach-air-a-thoirt-gu-parlamaid-na-h-alba.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - alba
   - an-rioghachd-aonaichte
   - creideamh
-  - naidheachdan
   - poilitigs
+
 tags:
   - 1977 Marriage (Scotland) Act
   - Alba
@@ -32,6 +43,7 @@ tags:
   - Scotland
 
 ---
+
 Chaidh iomairt ùr a chur air bhog ann am [Pàrlamaid na h-Alba][1] Dimàirt gus cead pòsaidh slàn a thoirt do dhaoine LCDT.
 
 <!--more-->

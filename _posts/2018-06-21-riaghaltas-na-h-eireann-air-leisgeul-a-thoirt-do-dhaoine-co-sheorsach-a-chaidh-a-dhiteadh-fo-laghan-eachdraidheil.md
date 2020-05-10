@@ -1,15 +1,26 @@
 ---
-title: Riaghaltas na h-Èireann air leisgeul a thoirt do dhaoine co-sheòrsach a chaidh a dhìteadh fo laghan eachdraidheil
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2018-06-21 13:58:34
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-06-21-riaghaltas-na-h-eireann-air-leisgeul-a-thoirt-do-dhaoine-co-sheorsach-a-chaidh-a-dhiteadh-fo-laghan-eachdraidheil.jpg
+
+title: Riaghaltas na h-Èireann air leisgeul a thoirt do dhaoine co-sheòrsach a chaidh a dhìteadh fo laghan eachdraidheil
+
+image: /images/2018-06-21-riaghaltas-na-h-eireann-air-leisgeul-a-thoirt-do-dhaoine-co-sheorsach-a-chaidh-a-dhiteadh-fo-laghan-eachdraidheil.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - an-roinn-eorpa
   - eirinn
-  - naidheachdan
   - poilitigs
+
 tags:
   - Charlie Flanagan
   - Dáil Éireann
@@ -20,6 +31,7 @@ tags:
   - Seanadh na h-Éireann
 
 ---
+
 Tha Riaghaltas na h-Èireann air leisgeul foirmeil a thoirt do dhaoine co-sheòrsach a chaidh a dhìteadh fo laghan eachdraidheil.
 
 <!--more-->

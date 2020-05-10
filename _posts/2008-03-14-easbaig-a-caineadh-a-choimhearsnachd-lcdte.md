@@ -1,15 +1,26 @@
 ---
-title: Easbaig a’ càineadh a’ choimhearsnachd LCDTE
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2008-03-14 10:19:44
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-03-14-easbaig-a-caineadh-a-choimhearsnachd-lcdte.jpg
+
+title: Easbaig a’ càineadh a’ choimhearsnachd LCDTE
+
+image: /images/2008-03-14-easbaig-a-caineadh-a-choimhearsnachd-lcdte.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - alba
   - an-rioghachd-aonaichte
   - creideamh
-  - naidheachdan
+
 tags:
   - Caitligeach
   - Calum Irving
@@ -19,7 +30,9 @@ tags:
   - Joseph Devine
   - Oilthigh Ghlaschu
   - Stonewall Scotland
+
 ---
+
 Tha Easbaig Caitligeach a’ tagradh gu bheil daoine co-sheòrsach a’ dèanamh co-fheall an aghaidh dualchas Crìosdaidheachd.
 
 <!--more-->

@@ -1,13 +1,24 @@
 ---
-title: Càineadh mu phostair oilbheumach ann an taigh-seinnse Lìteach
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2018-03-20 20:53:48
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-03-20-caineadh-mu-phostair-oilbheumach-ann-an-taigh-seinnse-liteach.jpg
-categories:
+
+title: Càineadh mu phostair oilbheumach ann an taigh-seinnse Lìteach
+
+image: /images/2018-03-20-caineadh-mu-phostair-oilbheumach-ann-an-taigh-seinnse-liteach.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
+categories:
   - alba
-  - naidheachdan
+
 tags:
   - Dùn Èideann
   - gnèithealachd
@@ -17,6 +28,7 @@ tags:
   - The Office
 
 ---
+
 Chaidh càineadh a dhèanamh air an taigh-seinnse The Office ann an Lìte mu phostair oilbheumach a th&#8217; anns na taighean-beaga aca.
 
 <!--more-->

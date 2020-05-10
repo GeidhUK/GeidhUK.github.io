@@ -1,14 +1,24 @@
 ---
-title: Riaghailtean ùra air fhoillseachadh airson casaidean HIV
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2008-03-14 14:01:28
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-03-14-riaghailtean-ura-air-fhoillseachadh-airson-casaidean-hiv.jpg
+
+title: Riaghailtean ùra air fhoillseachadh airson casaidean HIV
+
+image: /images/2008-03-14-riaghailtean-ura-air-fhoillseachadh-airson-casaidean-hiv.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 categories:
   - an-rioghachd-aonaichte
-  - naidheachdan
   - poilitigs
   - slainte
+
 tags:
   - Acquired Immunodeficiency Syndrome
   - AIDS
@@ -28,6 +38,7 @@ tags:
   - THT
 
 ---
+
 Chaidh riaghailtean ùra fhoillseachadh le Seirbheis Casaid a’ Chrùin an-diugh airson stiùireadh a thoirt do luchd-casaid a’ dèiligeadh ri cùisean-lagha far a bheil daoine air HIV a sgaoileadh a dh’aona-ghnothach.
 
 <!--more-->

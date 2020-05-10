@@ -1,15 +1,26 @@
 ---
-title: Carthannas AIDS airson clann ionnsachadh mu dheidhinn feise co-sheòrsach sna sgoiltean
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2008-07-25 18:31:20
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-07-25-carthannas-aids-airson-clann-ionnsachadh-mu-dheidhinn-feise-co-sheorsach-sna-sgoiltean.jpg
+
+title: Carthannas AIDS airson clann ionnsachadh mu dheidhinn feise co-sheòrsach sna sgoiltean
+
+image: /images/2008-07-25-carthannas-aids-airson-clann-ionnsachadh-mu-dheidhinn-feise-co-sheorsach-sna-sgoiltean.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - an-rioghachd-aonaichte
   - foghlam
-  - naidheachdan
   - slainte
+
 tags:
   - Acquired Immunodeficiency Syndrome
   - AIDS
@@ -36,6 +47,7 @@ tags:
   - Urras Nàiseanta AIDS
 
 ---
+
 Tha an àireamh de bhalaich HIV+ air dùblachadh san 10 bliadhna mu dheireadh a-rèir figearan air fhoillseachadh le [Buidheann Dìon na Slàinte][1].
 
 <!--more-->

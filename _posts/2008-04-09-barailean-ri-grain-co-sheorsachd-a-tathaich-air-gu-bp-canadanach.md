@@ -1,14 +1,25 @@
 ---
-title: Barailean ri gràin-co-sheòrsachd a’ tathaich air gu BP Canadanach
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2008-04-09 12:51:01
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-04-09-barailean-ri-grain-co-sheorsachd-a-tathaich-air-gu-bp-canadanach.jpg
+
+title: Barailean ri gràin-co-sheòrsachd a’ tathaich air gu BP Canadanach
+
+image: /images/2008-04-09-barailean-ri-grain-co-sheorsachd-a-tathaich-air-gu-bp-canadanach.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - an-t-saoghal
-  - naidheachdan
   - poilitigs
+  
 tags:
   - Ball Pàrlamaid Chanada
   - BP
@@ -25,6 +36,7 @@ tags:
   - Tory
 
 ---
+
 Tha ball pàrlamaid ann an Canada air leisgeul a dhèanamh as dèidh bhidio fhoillseachadh anns a thuirt e gun robh daoine co-sheòrsach &#8220;galarach&#8221;.
 
 <!--more-->

@@ -1,14 +1,25 @@
 ---
-title: Riaghailtean nas fuasgailte a thaobh fireannaich co-sheòrsach a’ toirt seachad fala
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2017-11-26 11:25:13
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2017-11-26-riaghailtean-nas-fuasgailte-a-thaobh-fireannaich-co-sheorsach-a-toirt-seachad-fala.jpg
+
+title: Riaghailtean nas fuasgailte a thaobh fireannaich co-sheòrsach a’ toirt seachad fala
+
+image: /images/2017-11-26-riaghailtean-nas-fuasgailte-a-thaobh-fireannaich-co-sheorsach-a-toirt-seachad-fala.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - alba
-  - naidheachdan
   - slainte
+
 tags:
   - Acquired Immunodeficiency Syndrome
   - acupuncture
@@ -35,6 +46,7 @@ tags:
   - tattoo
 
 ---
+
 Tha Seirbheis Fala na h-Alba (SNBTS) air ràdh gun tèid na riaghailtean a thaobh fala a thoirt seachad atharrachadh a-màireach.
 
 <!--more-->

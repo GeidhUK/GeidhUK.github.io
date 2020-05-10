@@ -17,9 +17,9 @@ author: Crìstean MacMhìcheil
 comments: true
 
 categories:
-- blog
-- codachadh
-- jekyll
+    - blog
+    - codachadh
+    - jekyll
 
 tags:
 

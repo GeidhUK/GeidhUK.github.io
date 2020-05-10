@@ -1,14 +1,25 @@
 ---
-title: Sianar co-sheòrsach air am murt ann an Ioràc
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2009-04-05 19:02:10
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2009-04-05-sianar-co-sheorsach-air-am-murt-ann-an-iorac.jpg
+
+title: Sianar co-sheòrsach air am murt ann an Ioràc
+
+image: /images/2009-04-05-sianar-co-sheorsach-air-am-murt-ann-an-iorac.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - an-t-saoghal
   - creideamh
-  - naidheachdan
+
 tags:
   - An Ear Mheadhanach
   - Armachd Mahdi
@@ -27,6 +38,7 @@ tags:
   - Shiite Cleric
 
 ---
+
 Tha dithis marbh ann an Sadr City, roinn Shiite dhe Bhaghdad, air sgàth &#8217;s clèir ionadail a dhìt co-sheòrsachd.
 
 <!--more-->

@@ -1,13 +1,24 @@
 ---
-title: Chan fhaigh athair tar-ghnèitheach sochair-chloinne
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2018-09-22 07:59:45
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-09-22-chan-fhaigh-athair-tar-ghneitheach-sochair-chloinne.jpg
+
+title: Chan fhaigh athair tar-ghnèitheach sochair-chloinne
+
+image: /images/2018-09-22-chan-fhaigh-athair-tar-ghneitheach-sochair-chloinne.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - an-rioghachd-aonaichte
-  - naidheachdan
+
 tags:
   - athair
   - birth certificate
@@ -21,6 +32,7 @@ tags:
   - transgender
 
 ---
+
 Chan fhaigh athair tar-ghnèitheach sochair-chloinne air sgàth &#8217;s nach eil e airson a bhith clàraichte mar mhàthair air teisteanas breith an leanaibh.
 
 <!--more-->

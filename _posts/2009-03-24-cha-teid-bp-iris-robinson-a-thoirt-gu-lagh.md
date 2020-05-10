@@ -1,14 +1,25 @@
 ---
-title: Cha tèid BP Iris Robinson a thoirt gu lagh
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2009-03-24 18:53:05
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2009-03-24-cha-teid-bp-iris-robinson-a-thoirt-gu-lagh.jpg
+
+title: Cha tèid BP Iris Robinson a thoirt gu lagh
+
+image: /images/2009-03-24-cha-teid-bp-iris-robinson-a-thoirt-gu-lagh.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - an-rioghachd-aonaichte
-  - naidheachdan
   - poilitigs
+
 tags:
   - BBC Radio Ulaidh
   - BBC Radio Ulster
@@ -29,6 +40,7 @@ tags:
   - tinneas
 
 ---
+
 Cha tèid Iris Robinson, BP à Èirinn a Tuath, a thoirt gu lagh leis a&#8217; phoileas airson moladh gur e tinneas-inntinn a th&#8217; ann an co-sheòrsachd agus coimeas a dhèanamh eadar daoine co-sheòrsach agus _paedophiles_.
 
 <!--more-->

@@ -1,14 +1,25 @@
 ---
-title: Comhairliche tar-ghnèitheach Albannach a’ leigeil às an dreuchd mar thoradh air droch dhìol
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2018-08-15 09:11:01
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-08-15-comhairliche-tar-ghneitheach-albannach-a-leigeil-as-an-dreuchd-mar-thoradh-air-droch-dhiol.jpg
+
+title: Comhairliche tar-ghnèitheach Albannach a’ leigeil às an dreuchd mar thoradh air droch dhìol
+
+image: /images/2018-08-15-comhairliche-tar-ghneitheach-albannach-a-leigeil-as-an-dreuchd-mar-thoradh-air-droch-dhiol.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - alba
-  - naidheachdan
   - poilitigs
+
 tags:
   - Convener of Children and Family Services
   - council
@@ -23,6 +34,7 @@ tags:
   - SNP
 
 ---
+
 Tha an aon comhairliche tar-ghnèitheach ann an Alba air ainmeachadh gum bidh iad a&#8217; leigeil às chuid dhe na dreuchdan aca mar thoradh air &#8220;sreath de dhroch dhìol guineach agus seasmhach&#8221; a&#8217; toirt a-steach bagairtean bàis.
 
 <!--more-->

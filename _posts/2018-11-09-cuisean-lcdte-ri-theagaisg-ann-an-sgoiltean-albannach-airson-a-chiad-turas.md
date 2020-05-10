@@ -1,16 +1,27 @@
 ---
-title: Cùisean LCDTE ri theagaisg ann an sgoiltean Albannach airson a’ chiad turas
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2018-11-09 14:36:50
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-11-09-cuisean-lcdte-ri-theagaisg-ann-an-sgoiltean-albannach-airson-a-chiad-turas.jpg
+
+title: Cùisean LCDTE ri theagaisg ann an sgoiltean Albannach airson a’ chiad turas
+
+image: /images/2018-11-09-cuisean-lcdte-ri-theagaisg-ann-an-sgoiltean-albannach-airson-a-chiad-turas.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - alba
   - an-rioghachd-aonaichte
   - foghlam
-  - naidheachdan
   - poilitigs
+
 tags:
   - briathrachas
   - children
@@ -37,6 +48,7 @@ tags:
   - vocabulary
 
 ---
+
 Chaidh ainmeachadh le Riaghaltas na h-Alba Diardaoin gun tèid cùisean LCDTE a theagaisg ann an leasanan sgoile airson a&#8217; chiad turas.
 
 <!--more-->

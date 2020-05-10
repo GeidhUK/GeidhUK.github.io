@@ -1,15 +1,26 @@
 ---
-title: Ionnsaigh a thoirt air buidheann LCDT ann an Istanbul leis a’ Phoileas
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2008-04-15 08:35:40
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-04-15-ionnsaigh-a-thoirt-air-buidheann-lcdt-ann-an-istanbul-leis-a-phoileas.jpg
+
+title: Ionnsaigh a thoirt air buidheann LCDT ann an Istanbul leis a’ Phoileas
+
+image: /images/2008-04-15-ionnsaigh-a-thoirt-air-buidheann-lcdt-ann-an-istanbul-leis-a-phoileas.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - an-t-saoghal
   - lagh
-  - naidheachdan
   - poilitigs
+  
 tags:
   - An Ear Mheadhanach
   - An Tuirc
@@ -40,6 +51,7 @@ tags:
   - Turkey
 
 ---
+
 Tha Poileas ann an Istanbul, An Tuirc, air ionnsaigh a thoirt air buidheann LCDT agus tha iad air ràdh gun robh adhbhar aca air sgàth &#8217;s cho tric &#8217;s a bhios daoine tar-ghnèitheach a&#8217; tadhal air na h-oifisean aca.
 
 <!--more-->

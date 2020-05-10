@@ -1,16 +1,27 @@
 ---
-title: Google an aghaidh a’ chaisg air pòsadh aon-sheòrsach
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2008-10-02 21:10:55
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-10-02-google-an-aghaidh-a-chaisg-air-posadh-aon-sheorsach.jpg
+
+title: Google an aghaidh a’ chaisg air pòsadh aon-sheòrsach
+
+image: /images/2008-10-02-google-an-aghaidh-a-chaisg-air-posadh-aon-sheorsach.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - an-t-saoghal
   - lagh
-  - naidheachdan
   - poilitigs
   - teicneolas
+
 tags:
   - Aimearaga
   - America
@@ -37,6 +48,7 @@ tags:
   - United States
 
 ---
+
 Tha Google air ràdh gu bheil iad an aghaidh a&#8217; chaisg air pòsadh aon-sheòrsach ann an California.
 
 <!--more-->

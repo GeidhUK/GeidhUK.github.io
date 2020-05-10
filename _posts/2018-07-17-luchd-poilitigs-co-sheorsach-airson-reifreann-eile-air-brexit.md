@@ -1,15 +1,26 @@
 ---
-title: Luchd-poilitigs co-sheòrsach airson reifreann eile air Brexit
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2018-07-17 20:54:17
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-07-17-luchd-poilitigs-co-sheorsach-airson-reifreann-eile-air-brexit.jpg
+
+title: Luchd-poilitigs co-sheòrsach airson reifreann eile air Brexit
+
+image: /images/2018-07-17-luchd-poilitigs-co-sheorsach-airson-reifreann-eile-air-brexit.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - an-rioghachd-aonaichte
   - an-roinn-eorpa
-  - naidheachdan
   - poilitigs
+
 tags:
   - An Rìoghachd Aonaichte
   - Aonadh Eòrpach
@@ -21,6 +32,7 @@ tags:
   - Theresa May
 
 ---
+
 Tha Justine Greening, BP ag iarraidh reifreann eile air Brexit agus i air ràdh gur e &#8220;_fudge_&#8221; a th' ann am molaidhean a' Phrìomhaire Theresa May.
 
 <!--more-->

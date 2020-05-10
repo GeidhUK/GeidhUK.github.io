@@ -1,14 +1,25 @@
 ---
-title: A’ Chiad Fèis-pròise na h-Antartaig
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2018-06-03 15:23:59
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-06-03-a-chiad-feis-proise-na-h-antartaig.jpg
+
+title: A’ Chiad Fèis-pròise na h-Antartaig
+
+image: /images/2018-06-03-a-chiad-feis-proise-na-h-antartaig.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - an-t-saoghal
   - feisean-proise
-  - naidheachdan
+
 tags:
   - An Antartaig
   - Evan Townsend
@@ -17,6 +28,7 @@ tags:
   - Stèisean MacMhurchaidh
 
 ---
+
 Thathar an dùil gun tèid a&#8217; chiad fèis pròis na h-Antartaig a chumail an t-seachdain-sa.
 
 <!--more-->

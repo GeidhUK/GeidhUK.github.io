@@ -1,14 +1,25 @@
 ---
-title: Maoineachadh air a ghlachadh airson tachartas òigridh aig a’ chiad Fhèis Pròis Dhùn Dè
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2018-06-07 11:38:37
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-06-07-maoineachadh-air-a-ghlachadh-airson-tachartas-oigridh-aig-a-chiad-fheis-proise-dhun-de.jpg
+
+title: Maoineachadh air a ghlachadh airson tachartas òigridh aig a’ chiad Fhèis Pròis Dhùn Dè
+
+image: /images/2018-06-07-maoineachadh-air-a-ghlachadh-airson-tachartas-oigridh-aig-a-chiad-fheis-proise-dhun-de.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - alba
   - feisean-proise
-  - naidheachdan
+
 tags:
   - Barry Jordan
   - Dùn Dè
@@ -26,6 +37,7 @@ tags:
   - Year of Young People
 
 ---
+
 Chaidh maoineachadh de £2500 a ghlacadh leis a&#8217; bhuidheann-òigridh Purple Dragons gus tachartas òigridh a chumail mar phàirt dhen chiad Fhèis Pròis Dhùn Dè.
 
 <!--more-->

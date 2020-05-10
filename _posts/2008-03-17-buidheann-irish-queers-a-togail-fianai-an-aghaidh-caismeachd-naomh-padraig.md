@@ -1,14 +1,25 @@
 ---
-title: Buidheann Irish Queers a’ togail fianais an aghaidh caismeachd Naomh Pàdraig
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2008-03-17 18:31:22
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-03-17-buidheann-irish-queers-a-togail-fianai-an-aghaidh-caismeachd-naomh-padraig.jpg
+
+title: Buidheann Irish Queers a’ togail fianais an aghaidh caismeachd Naomh Pàdraig
+
+image: /images/2008-03-17-buidheann-irish-queers-a-togail-fianai-an-aghaidh-caismeachd-naomh-padraig.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - an-t-saoghal
   - creideamh
-  - naidheachdan
+
 tags:
   - Aimearaga
   - creideamh
@@ -18,7 +29,9 @@ tags:
   - Na Stàitean Aonaichte
   - Nuadh Eabhrac
   - Tierney Gleason
+
 ---
+
 Bha am buidheann _Irish Queers_ a’ togail fianais an aghaidh caismeachd Naomh Pàdraig ann an Nuadh Eabhrac an-diugh.
 
 <!--more-->

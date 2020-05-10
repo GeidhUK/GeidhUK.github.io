@@ -1,15 +1,26 @@
 ---
-title: Companasan-catharra ann an Èirinn gu bhith a’ cumail a-mach còirichean airson pàrantan LCDT
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2008-04-03 19:59:03
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-04-03-companasan-catharra-ann-an-eirinn-gu-bhith-a-cumail-a-mach-coirichean-airson-parantan-lcdt.jpg
+
+title: Companasan-catharra ann an Èirinn gu bhith a’ cumail a-mach còirichean airson pàrantan LCDT
+
+image: /images/2008-04-03-companasan-catharra-ann-an-eirinn-gu-bhith-a-cumail-a-mach-coirichean-airson-parantan-lcdt.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - eirinn
   - lagh
-  - naidheachdan
   - poilitigs
+  
 tags:
   - Bile nan Companasan-catharra
   - civil partnership
@@ -36,6 +47,7 @@ tags:
   - teaghlach
 
 ---
+
 Chaidh dùilean a briseadh ann an Èirinn as dèidh dhan Riaghaltas a dhearbhadh nach tèid còirichean co-ionann a thoirt ri pàrantan LCDT mar phàirt de lagh ùr a bhios ag aithneachadh companasan-catharra.
 
 <!--more-->

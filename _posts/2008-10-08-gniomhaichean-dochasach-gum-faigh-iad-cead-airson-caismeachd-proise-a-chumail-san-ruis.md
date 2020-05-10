@@ -1,17 +1,28 @@
 ---
-title: Gnìomhaichean dòchasach gum faigh iad cead airson caismeachd pròise a chumail san Ruis
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2008-10-08 18:42:49
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-10-08-gniomhaichean-dochasach-gum-faigh-iad-cead-airson-caismeachd-proise-a-chumail-san-ruis.jpg
+
+title: Gnìomhaichean dòchasach gum faigh iad cead airson caismeachd pròise a chumail san Ruis
+
+image: /images/2008-10-08-gniomhaichean-dochasach-gum-faigh-iad-cead-airson-caismeachd-proise-a-chumail-san-ruis.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - an-roinn-eorpa
   - an-t-saoghal
   - feisean-proise
   - lagh
-  - naidheachdan
   - poilitigs
+
 tags:
   - An Ruis
   - Anna Komarova
@@ -26,6 +37,7 @@ tags:
   - Tambov
 
 ---
+
 Tha gnìomhaichean Nicolas Alexeyev agus Anna Komarova ann an Tambov, an Ruis, an dùil tagradh a chur a-steach gus caismeachd pròise a chumail sa bhaile.
 
 <!--more-->

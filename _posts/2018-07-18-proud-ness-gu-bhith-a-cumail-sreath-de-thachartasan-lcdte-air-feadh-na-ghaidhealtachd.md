@@ -1,15 +1,26 @@
 ---
-title: Proud Ness gu bhith a’ cumail sreath de thachartasan LCDTE air feadh na Ghàidhealtachd
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2018-07-18 20:54:00
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-07-18-proud-ness-gu-bhith-a-cumail-sreath-de-thachartasan-lcdte-air-feadh-na-ghaidhealtachd.jpg
+
+title: Proud Ness gu bhith a’ cumail sreath de thachartasan LCDTE air feadh na Ghàidhealtachd
+
+image: /images/2018-07-18-proud-ness-gu-bhith-a-cumail-sreath-de-thachartasan-lcdte-air-feadh-na-ghaidhealtachd.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - alba
   - cultar
   - feisean-proise
-  - naidheachdan
+
 tags:
   - Cùirt an Easbaig
   - Eden Court
@@ -20,6 +31,7 @@ tags:
   - Proud Ness
 
 ---
+
 Chaidh a dhearbhadh le Fòram LCDTE na Gàidhealtachd an-diugh gun tèid fèis-pròise a chumail ann an Inbhir Nis 6mh An Dàmhair 2018.
 
 <!--more-->

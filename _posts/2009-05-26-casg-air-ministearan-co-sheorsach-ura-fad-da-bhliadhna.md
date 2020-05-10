@@ -1,15 +1,26 @@
 ---
-title: Casg air ministearan co-sheòrsach ùra fad dà bhliadhna
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2009-05-26 19:29:09
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2009-05-26-casg-air-ministearan-co-sheorsach-ura-fad-da-bhliadhna.jpg
+
+title: Casg air ministearan co-sheòrsach ùra fad dà bhliadhna
+
+image: /images/2009-05-26-casg-air-ministearan-co-sheorsach-ura-fad-da-bhliadhna.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - alba
   - an-rioghachd-aonaichte
   - creideamh
-  - naidheachdan
+
 tags:
   - Aberdeen
   - an t-Urr
@@ -29,6 +40,7 @@ tags:
   - The Kirk
 
 ---
+
 Tha Eaglais na h-Alba air casg a chur air ministearan co-sheòrsach ùra fad dà bhliadhna.
 
 <!--more-->

@@ -1,15 +1,25 @@
 ---
-title: Iorànach co-sheòrsach fhathast ri bhith fuadachadh a-mach às an RA
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2008-03-15 11:17:37
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-03-15-ioranach-co-sheorsach-fhathast-ri-bhith-fuadachadh-a-mach-as-an-ra.jpg
+
+title: Iorànach co-sheòrsach fhathast ri bhith fuadachadh a-mach às an RA
+
+image: /images/2008-03-15-ioranach-co-sheorsach-fhathast-ri-bhith-fuadachadh-a-mach-as-an-ra.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
 categories:
   - an-rioghachd-aonaichte
   - an-t-saoghal
-  - naidheachdan
   - poilitigs
+
 tags:
   - An Ear Mheadhanach
   - Ball Pàrlamaid na h-Eòrpa
@@ -28,7 +38,9 @@ tags:
   - Sarah Ludford
   - The Netherlands
   - Tìr Ìosal
+
 ---
+
 Tha gnìomhaichean LCDTE ag ràdh gum bu chòir do Riaghaltas Bhreatainn ath-sgrùdadh a dhèanamh air cùisean-lagha aig Iorànach co-sheòrsach eile as dèidh do chùis Medhi Kazemi allsachadh.
 
 <!--more-->

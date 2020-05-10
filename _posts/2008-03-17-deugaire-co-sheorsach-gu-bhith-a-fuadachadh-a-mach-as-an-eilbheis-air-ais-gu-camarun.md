@@ -1,15 +1,26 @@
 ---
-title: Deugaire co-sheòrsach gu bhith a’ fuadachadh a-mach às an Èilbheis air ais gu Camarun
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2008-03-17 18:36:35
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-03-17-deugaire-co-sheorsach-gu-bhith-a-fuadachadh-a-mach-as-an-eilbheis-air-ais-gu-camarun.jpg
+
+title: Deugaire co-sheòrsach gu bhith a’ fuadachadh a-mach às an Èilbheis air ais gu Camarun
+
+image: /images/2008-03-17-deugaire-co-sheorsach-gu-bhith-a-fuadachadh-a-mach-as-an-eilbheis-air-ais-gu-camarun.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - an-roinn-eorpa
   - lagh
-  - naidheachdan
   - poilitigs
+
 tags:
   - 1951 UN Refugee Convention
   - Afraga
@@ -29,7 +40,9 @@ tags:
   - political asylum
   - Sweden
   - tèarmann poileataigeach
+
 ---
+
 Tha deugaire co-sheòrsach gu bhith a’ fuadachadh a-mach às an Eilbheis air ais gu Camarun far am b’ urrainn dha a bhith ga chur an greim agus ga dhìteadh gu peanas corparra.
 
 <!--more-->

@@ -1,15 +1,26 @@
 ---
-title: Dùthaich nan Tàidh a’ gabhail ris a’ chasg air daoine co-sheòrsach agus dà-sheòrsach bho bhith a’ toirt seachad fala
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2008-04-05 18:35:16
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-04-05-duthaich-nan-taidh-a-gabhail-ris-a-chasg-air-daoine-co-sheorsach-agus-da-sheorsach-bho-bhith-a-toirt-seachad-fala.jpg
+
+title: Dùthaich nan Tàidh a’ gabhail ris a’ chasg air daoine co-sheòrsach agus dà-sheòrsach bho bhith a’ toirt seachad fala
+
+image: /images/2008-04-05-duthaich-nan-taidh-a-gabhail-ris-a-chasg-air-daoine-co-sheorsach-agus-da-sheorsach-bho-bhith-a-toirt-seachad-fala.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - an-t-saoghal
   - lagh
-  - naidheachdan
   - slainte
+  
 tags:
   - "a' Chrois Dhearg"
   - AIDS
@@ -30,6 +41,7 @@ tags:
   - Thailand
 
 ---
+
 Tha a&#8217; Chrois Dhearg ann an Dùthaich na Tàidh air co-dhùnadh a dhèanamh gum bi iad a&#8217; gabhail ri lagh a bhios a&#8217; cur casg air daoine co-sheòrsach agus dà-sheòrsach bho bhith a&#8217; toirt seachad fala.
 
 <!--more-->

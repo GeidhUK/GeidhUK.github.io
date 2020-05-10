@@ -1,14 +1,25 @@
 ---
-title: Aithisg ùr a’ sealltainn gu bheil sgaradh mhòr thar an Aonadh Eòrpach ann an làimhseachadh de dhaoine tar-ghnèitheach
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2008-04-30 08:48:49
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-04-30-aithisg-ur-a-sealltainn-gu-bheil-sgaradh-mhor-thar-an-aonadh-eorpach-ann-an-laimhseachadh-de-dhaoine-tar-ghneitheach.jpg
+
+title: Aithisg ùr a’ sealltainn gu bheil sgaradh mhòr thar an Aonadh Eòrpach ann an làimhseachadh de dhaoine tar-ghnèitheach
+
+image: /images/2008-04-30-aithisg-ur-a-sealltainn-gu-bheil-sgaradh-mhor-thar-an-aonadh-eorpach-ann-an-laimhseachadh-de-dhaoine-tar-ghneitheach.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - an-roinn-eorpa
-  - naidheachdan
   - poilitigs
+  
 tags:
   - bias
   - claon-bhreith
@@ -31,6 +42,7 @@ tags:
   - Transgender EuroStudy
 
 ---
+
 Tha [Comann Eadar-nàiseanta Leasbach agus Co-sheòrsach][1] (ILGA) air aithisg ùr fhoillseachadh a tha a&#8217; sealltainn gu bheil sgaradh mhòr thar an Aonadh Eòrpach ann an làimhseachadh de dhaoine tar-ghnèitheach.
 
 <!--more-->

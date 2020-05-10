@@ -1,15 +1,26 @@
 ---
-title: 18,000 air phòsadh ann an California ro bhòt Proposition 8
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2008-11-04 18:13:45
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-11-04-18000-air-phosadh-ann-an-california-ro-bhot-proposition-8.jpg
+
+title: 18,000 air phòsadh ann an California ro bhòt Proposition 8
+
+image: /images/2008-11-04-18000-air-phosadh-ann-an-california-ro-bhot-proposition-8.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - an-t-saoghal
   - lagh
-  - naidheachdan
   - poilitigs
+
 tags:
   - Aimearaga
   - America
@@ -38,6 +49,7 @@ tags:
   - United States
 
 ---
+
 Tha ionad-rannsachaidh anns na Stàitean Aonaichte air ràdh gu bheil còrr &#8217;s 18,000 daoine air phòsadh ann an California o chionn 17mh dhen t-Òg-mhios 2008 nuair a rinn na h-ùghdarrasan pòsadh aon-sheòrsach na lagh.
 
 <!--more-->

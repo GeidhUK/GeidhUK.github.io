@@ -1,15 +1,26 @@
 ---
-title: Fèis-pròise Lunnainn air iris ùr fhoillseachadh
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2008-06-12 12:57:36
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-06-12-feis-proise-lunnainn-air-iris-ur-fhoillseachadh.jpg
+
+title: Fèis-pròise Lunnainn air iris ùr fhoillseachadh
+
+image: /images/2008-06-12-feis-proise-lunnainn-air-iris-ur-fhoillseachadh.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - an-rioghachd-aonaichte
   - cultar
   - feisean-proise
-  - naidheachdan
+
 tags:
   - Emma Hands
   - fèis-pròise
@@ -20,6 +31,7 @@ tags:
   - Pride London
 
 ---
+
 Tha [Fèis-pròise Lunnainn][1] air iris ùr fhoillseachadh an còis an caismeachd fhèin leis an dùil barrachd daoine a tharraing ris an tachartas am-bliadhna.
 
 <!--more-->

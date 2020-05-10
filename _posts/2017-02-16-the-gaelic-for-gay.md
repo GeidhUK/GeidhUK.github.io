@@ -1,14 +1,25 @@
 ---
-title: “The Gaelic for Gay”
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2017-02-16 19:48:31
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2017-02-16-the-gaelic-for-gay.jpg
+
+title: “The Gaelic for Gay”
+
+image: /images/2017-02-16-the-gaelic-for-gay.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - foghlam
   - gaidhlig
-  - naidheachdan
+
 tags:
   - a’ tighinn a-mach
   - Acquired Immunodeficiency Syndrome
@@ -126,4 +137,5 @@ tags:
   - vocabulary
 
 ---
+
 Tha Dr. Emily McEwan air post inntinneach a sgrìobhadh air a&#8217; blog aice: <a href="http://gaelic.co/gay-gaelic/" target="_blank" rel="noopener noreferrer">Gaelic Revitalization: The Gaelic for Gay</a>.

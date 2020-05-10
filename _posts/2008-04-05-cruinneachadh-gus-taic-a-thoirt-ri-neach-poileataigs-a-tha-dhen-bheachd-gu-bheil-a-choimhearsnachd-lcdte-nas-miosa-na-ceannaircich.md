@@ -1,15 +1,26 @@
 ---
-title: Cruinneachadh gus taic a thoirt ri neach-poileataigs a tha dhen bheachd gu bheil a’ choimhearsnachd LCDTE nas miosa na ceannaircich
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2008-04-05 16:47:05
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-04-05-cruinneachadh-gus-taic-a-thoirt-ri-neach-poileataigs-a-tha-dhen-bheachd-gu-bheil-a-choimhearsnachd-lcdte-nas-miosa-na-ceannaircich.jpg
+
+title: Cruinneachadh gus taic a thoirt ri neach-poileataigs a tha dhen bheachd gu bheil a’ choimhearsnachd LCDTE nas miosa na ceannaircich
+
+image: /images/2008-04-05-cruinneachadh-gus-taic-a-thoirt-ri-neach-poileataigs-a-tha-dhen-bheachd-gu-bheil-a-choimhearsnachd-lcdte-nas-miosa-na-ceannaircich.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - an-t-saoghal
   - creideamh
-  - naidheachdan
   - poilitigs
+  
 tags:
   - Aimearaga
   - ceannairceachd
@@ -26,6 +37,7 @@ tags:
   - We Support Sally Kern
 
 ---
+
 Chruinnich còrr &#8217;s mìle daoine ann an Oklahoma Diciadain gus taic a thoirt ri Riochdaire Sally Kern.
 
 <!--more-->

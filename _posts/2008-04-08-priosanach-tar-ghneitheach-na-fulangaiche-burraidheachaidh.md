@@ -1,15 +1,26 @@
 ---
-title: Prìosanach tar-ghnèitheach na fulangaiche burraidheachaidh
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2008-04-08 15:23:08
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-04-08-priosanach-tar-ghneitheach-na-fulangaiche-burraidheachaidh.jpg
+
+title: Prìosanach tar-ghnèitheach na fulangaiche burraidheachaidh
+
+image: /images/2008-04-08-priosanach-tar-ghneitheach-na-fulangaiche-burraidheachaidh.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - an-rioghachd-aonaichte
   - lagh
-  - naidheachdan
   - poilitigs
+
 tags:
   - discrimination
   - gràin-tar-ghnèitheachd
@@ -26,6 +37,7 @@ tags:
   - transsexual
 
 ---
+
 Tha fianais ùr air nochdadh gun do rinn boireannach tar-ghnèitheach gearan mus do chur à dhì fèin gun robh prìosanaich eile ga burraidheachd air sgàth &#8217;s an gnè aice.
 
 <!--more-->

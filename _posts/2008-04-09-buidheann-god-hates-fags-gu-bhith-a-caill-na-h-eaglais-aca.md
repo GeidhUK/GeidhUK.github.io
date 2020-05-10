@@ -1,16 +1,27 @@
 ---
-title: Buidheann God Hates Fags gu bhith a’ caill na h-eaglais aca
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2008-04-09 09:08:35
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-04-09-buidheann-god-hates-fags-gu-bhith-a-caill-na-h-eaglais-aca.jpg
+
+title: Buidheann God Hates Fags gu bhith a’ caill na h-eaglais aca
+
+image: /images/2008-04-09-buidheann-god-hates-fags-gu-bhith-a-caill-na-h-eaglais-aca.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - an-t-saoghal
   - creideamh
   - lagh
-  - naidheachdan
   - poilitigs
+  
 tags:
   - Aimearaga
   - America
@@ -49,6 +60,7 @@ tags:
   - Westboro Baptist Church
 
 ---
+
 Tha breitheamh feadarail anns na Stàitean Aonaichte ag ràdh gum bu chòir dhan Westboro Baptist Church agus na h-oifisean aig Phelps-chartered Law a bhith air an toirt air falbh bhon luchd-seilbh aca gus càin de $5m a phàigheadh.
 
 <!--more-->

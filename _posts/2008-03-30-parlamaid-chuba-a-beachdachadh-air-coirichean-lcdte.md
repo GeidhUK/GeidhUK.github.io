@@ -1,15 +1,26 @@
 ---
-title: Pàrlamaid Chùba a’ beachdachadh air còirichean LCDTE
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2008-03-30 10:11:56
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-03-30-parlamaid-chuba-a-beachdachadh-air-coirichean-lcdte.jpg
+
+title: Pàrlamaid Chùba a’ beachdachadh air còirichean LCDTE
+
+image: /images/2008-03-30-parlamaid-chuba-a-beachdachadh-air-coirichean-lcdte.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - an-t-saoghal
   - lagh
-  - naidheachdan
   - poilitigs
+
 tags:
   - Am Muir Caraibeach
   - Ceann-suidhe Chùba
@@ -27,6 +38,7 @@ tags:
   - The Cuban Revolution
 
 ---
+
 Tha luchd-lagha anns a’ Chùba a’ beachdachadh air laghan ùra a dhèanamh gus còirichean co-ionann a thoirt ris a’ choimhearsnachd LCDTE.
 
 <!--more-->

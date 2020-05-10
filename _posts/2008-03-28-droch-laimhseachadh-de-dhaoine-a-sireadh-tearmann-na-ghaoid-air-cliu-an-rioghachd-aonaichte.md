@@ -1,15 +1,26 @@
 ---
-title: Droch-làimhseachadh de dhaoine a’ sireadh tèarmann na ghaoid air cliù an Rìoghachd Aonaichte
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2008-03-28 09:09:59
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-03-28-droch-laimhseachadh-de-dhaoine-a-sireadh-tearmann-na-ghaoid-air-cliu-an-rioghachd-aonaichte.jpg
+
+title: Droch-làimhseachadh de dhaoine a’ sireadh tèarmann na ghaoid air cliù an Rìoghachd Aonaichte
+
+image: /images/2008-03-28-droch-laimhseachadh-de-dhaoine-a-sireadh-tearmann-na-ghaoid-air-cliu-an-rioghachd-aonaichte.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - an-rioghachd-aonaichte
   - an-t-saoghal
-  - naidheachdan
   - poilitigs
+
 tags:
   - An Ear Mheadhanach
   - 'Border &amp; Immigration Agency'
@@ -24,7 +35,9 @@ tags:
   - Rùnaire na Dùthcha
   - tèarmann poileataigeach
   - The Netherlands
+  
 ---
+
 Tha coimisean a chaidh a stèidheachadh gus poileasaidhean tèarmann anns an Rìoghachd Aonaichte sgrùdadh ag ràdh nach eil na poileasaidhean cho àrd ’s a bu chòir dhaibh a bhith airson dùthaich “sìobhaltach”.
 
 <!--more-->

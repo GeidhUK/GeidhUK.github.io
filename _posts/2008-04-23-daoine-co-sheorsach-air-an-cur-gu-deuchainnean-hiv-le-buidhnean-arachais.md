@@ -1,14 +1,25 @@
 ---
-title: Daoine co-sheòrsach air an cur gu deuchainnean HIV le buidhnean àrachais
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2008-04-23 18:33:50
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-04-23-daoine-co-sheorsach-air-an-cur-gu-deuchainnean-hiv-le-buidhnean-arachais.jpg
+
+title: Daoine co-sheòrsach air an cur gu deuchainnean HIV le buidhnean àrachais
+
+image: /images/2008-04-23-daoine-co-sheorsach-air-an-cur-gu-deuchainnean-hiv-le-buidhnean-arachais.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - an-rioghachd-aonaichte
-  - naidheachdan
   - slainte
+  
 tags:
   - Acquired Immunodeficiency Syndrome
   - AEGON
@@ -31,6 +42,7 @@ tags:
   - Russ Whiteworth
 
 ---
+
 Chaidh sgrùdadh a dhèanamh le [Compass IFA][1], buidheann a tha a&#8217; toirt comhairle do dhaoine co-sheòrsach a thaobh ionmhais, a tha a&#8217; sealltainn gu bheil na buidhnean àrachais [Legal & General][2] agus [AEGON][3] fhathast a&#8217; cur daoine co-sheòrsach gu deuchainnean HIV mus faigh iad àrachas slàinte.
 
 <!--more-->

@@ -1,14 +1,25 @@
 ---
-title: Lagh an-aghaidh gràin-co-sheòrsachd a’ gluasad air adhart
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2008-03-14 10:30:13
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-03-14-lagh-an-aghaidh-grain-co-sheorsachd-a-gluasad-air-adhart.jpg
+
+title: Lagh an-aghaidh gràin-co-sheòrsachd a’ gluasad air adhart
+
+image: /images/2008-03-14-lagh-an-aghaidh-grain-co-sheorsachd-a-gluasad-air-adhart.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - an-rioghachd-aonaichte
-  - naidheachdan
   - poilitigs
+
 tags:
   - gràin-co-sheòrsachd
   - homophobe
@@ -16,7 +27,9 @@ tags:
   - homophobic
   - House of Lords
   - Taigh nam Morairean
+
 ---
+
 Chaidh deasbad a chumail ann an Taigh nam Morairean seachdain seo chaidh mu dheidhinn lagh ùr a bhios a’ ciallachadh gum bi gràin-co-sheòrsachd (_Homophobia_) mì-laghail.
 
 <!--more-->

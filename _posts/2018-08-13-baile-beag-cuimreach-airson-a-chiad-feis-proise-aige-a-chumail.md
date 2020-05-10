@@ -1,14 +1,25 @@
 ---
-title: Baile beag Cuimreach airson a’ chiad fèis-pròise aige a chumail
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2018-08-13 20:45:18
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-08-13-baile-beag-cuimreach-airson-a-chiad-feis-proise-aige-a-chumail.jpg
+
+title: Baile beag Cuimreach airson a’ chiad fèis-pròise aige a chumail
+
+image: /images/2018-08-13-baile-beag-cuimreach-airson-a-chiad-feis-proise-aige-a-chumail.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - an-rioghachd-aonaichte
   - feisean-proise
-  - naidheachdan
+
 tags:
   - "A' Chuimrigh"
   - An Rìoghachd Aonaichte
@@ -27,6 +38,7 @@ tags:
   - Welsh
 
 ---
+
 Tha coimhearsnachd beag anns a&#8217; Chuimrigh air tighinn còmhla gus fèis-pròise a phlanadh airson 1mh t-Sultain 2018.
 
 <!--more-->

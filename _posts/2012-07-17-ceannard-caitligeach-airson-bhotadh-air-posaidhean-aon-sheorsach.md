@@ -1,15 +1,26 @@
 ---
-title: Ceannard Caitligeach airson bhòtadh air pòsaidhean aon-sheòrsach
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2012-07-17 21:08:05
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2012-07-17-ceannard-caitligeach-airson-bhotadh-air-posaidhean-aon-sheorsach.jpg
+
+title: Ceannard Caitligeach airson bhòtadh air pòsaidhean aon-sheòrsach
+
+image: /images/2012-07-17-ceannard-caitligeach-airson-bhotadh-air-posaidhean-aon-sheorsach.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - alba
   - creideamh
-  - naidheachdan
   - poilitigs
+
 tags:
   - Alba
   - Càirdineal
@@ -31,6 +42,7 @@ tags:
   - Stonewall Scotland
 
 ---
+
 Tha ceannard Eaglais Chaitligeach na h-Alba air iarraidh gun tèid bhòt a chumail ann an Alba a thaobh pòsadh càraidean aon-sheòrsach.
 
 <!--more-->

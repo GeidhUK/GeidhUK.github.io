@@ -1,15 +1,26 @@
 ---
-title: Tha bhidio ùr air nochdadh an aghaidh Proposition 8
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2008-12-06 23:11:27
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-12-06-tha-bhidio-ur-air-nochdadh-an-aghaidh-proposition-8.jpg
+
+title: Tha bhidio ùr air nochdadh an aghaidh Proposition 8
+
+image: /images/2008-12-06-tha-bhidio-ur-air-nochdadh-an-aghaidh-proposition-8.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - an-t-saoghal
   - lagh
-  - naidheachdan
   - poilitigs
+
 tags:
   - Aimearaga
   - America
@@ -42,6 +53,7 @@ tags:
   - United States
 
 ---
+
 Chaidh bhidio ùr a chur air an làrach-lìn FunnyOrDie.com, a tha a’ togail fianais an aghaidh Proposition 8.
 
 <!--more-->

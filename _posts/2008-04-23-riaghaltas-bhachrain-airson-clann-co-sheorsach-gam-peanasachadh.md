@@ -1,16 +1,27 @@
 ---
-title: Riaghaltas Bhachrain airson clann co-sheòrsach gam peanasachadh
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2008-04-23 16:59:00
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-04-23-riaghaltas-bhachrain-airson-clann-co-sheorsach-gam-peanasachadh.jpg
+
+title: Riaghaltas Bhachrain airson clann co-sheòrsach gam peanasachadh
+
+image: /images/2008-04-23-riaghaltas-bhachrain-airson-clann-co-sheorsach-gam-peanasachadh.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - an-t-saoghal
   - creideamh
   - foghlam
-  - naidheachdan
   - poilitigs
+  
 tags:
   - An Ear Mheadhanach
   - Bachrain
@@ -48,6 +59,7 @@ tags:
   - tidsearan
 
 ---
+
 Tha Riaghaltas Bhachrain a&#8217; dèanamh iomairt gus co-sheòrsachd a chur às dhan dhùthaich.
 
 <!--more-->

@@ -1,15 +1,26 @@
 ---
-title: Companasan-catharra air a dhèanamh laghail ann an Èirinn
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2011-01-03 13:09:22
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2011-01-03-companasan-catharra-air-a-dheanamh-laghail-ann-an-eirinn.jpg
+
+title: Companasan-catharra air a dhèanamh laghail ann an Èirinn
+
+image: /images/2011-01-03-companasan-catharra-air-a-dheanamh-laghail-ann-an-eirinn.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - an-roinn-eorpa
   - eirinn
-  - naidheachdan
   - poilitigs
+
 tags:
   - civil union
   - co-ionnannachd pòsaidh
@@ -24,6 +35,7 @@ tags:
   - same-sex marriage
 
 ---
+
 Chaidh laghan ùra a chur an gnìomh ann an Èirinn Disathairne gus companasan-catharra a dhèanamh laghail anns an dùthaich.
 
 <!--more-->

@@ -1,14 +1,25 @@
 ---
-title: Juice1038 na chiad stèisean rèidio LCDTE ann an Èirinn a Tuath
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2018-07-24 12:46:59
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-07-24-juice1038-na-chiad-steisean-reidio-lcdte-ann-an-eirinn-a-tuath.jpg
+
+title: Juice1038 na chiad stèisean rèidio LCDTE ann an Èirinn a Tuath
+
+image: /images/2018-07-24-juice1038-na-chiad-steisean-reidio-lcdte-ann-an-eirinn-a-tuath.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - an-rioghachd-aonaichte
   - cultar
-  - naidheachdan
+
 tags:
   - Belfast
   - Beul Feirste
@@ -21,6 +32,7 @@ tags:
   - rèidio
 
 ---
+
 Tòisichidh [Juice1038][1] a&#8217; craoladh bho phrìomh-bhaile Èirinn a Tuath air 4mh An Lùnastal, an aon latha ri Fèis-pròise Bheul Feirste.
 
 <!--more-->

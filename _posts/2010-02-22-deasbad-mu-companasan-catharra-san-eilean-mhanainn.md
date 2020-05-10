@@ -1,16 +1,27 @@
 ---
-title: Deasbad mu companasan-catharra san Eilean Mhanainn
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2010-02-22 21:04:46
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2010-02-22-deasbad-mu-companasan-catharra-san-eilean-mhanainn.jpg
+
+title: Deasbad mu companasan-catharra san Eilean Mhanainn
+
+image: /images/2010-02-22-deasbad-mu-companasan-catharra-san-eilean-mhanainn.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - an-rioghachd-aonaichte
   - an-roinn-eorpa
   - an-t-saoghal
-  - naidheachdan
   - poilitigs
+
 tags:
   - Allan Bell
   - Bile Companasan-catharra
@@ -32,6 +43,7 @@ tags:
   - same-sex marriage
 
 ---
+
 Thathar gu bhith a&#8217; deasbad Bile Companasan-catharra anns an House of Keys a-màireach.
 
 <!--more-->

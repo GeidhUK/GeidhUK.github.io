@@ -1,15 +1,26 @@
 ---
-title: BPA a’ toirt taic do lagh an-aghaidh eucoirean gràineil
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2009-03-12 21:06:32
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2009-03-12-bpa-a-toirt-taic-do-lagh-an-aghaidh-eucoirean-graineil.jpg
+
+title: BPA a’ toirt taic do lagh an-aghaidh eucoirean gràineil
+
+image: /images/2009-03-12-bpa-a-toirt-taic-do-lagh-an-aghaidh-eucoirean-graineil.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - alba
   - an-rioghachd-aonaichte
-  - naidheachdan
   - poilitigs
+
 tags:
   - Ball Pàrlamaid na h-Alba
   - BPA
@@ -28,6 +39,7 @@ tags:
   - Scottish Parliament
 
 ---
+
 Tha lagh ùr gus brìgh eucoirean gràineil leasachadh a bhith a&#8217; toirt a-steach gràin-co-sheòrsachd air gluasad air adhart ann an Alba.
 
 <!--more-->

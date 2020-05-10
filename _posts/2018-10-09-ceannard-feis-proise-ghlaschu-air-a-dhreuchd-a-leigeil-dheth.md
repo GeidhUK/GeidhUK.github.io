@@ -1,14 +1,25 @@
 ---
-title: Ceannard Fèis-pròise Ghlaschu air a dhreuchd a leigeil dheth
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2018-10-09 13:34:57
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-10-09-ceannard-feis-proise-ghlaschu-air-a-dhreuchd-a-leigeil-dheth.jpg
+
+title: Ceannard Fèis-pròise Ghlaschu air a dhreuchd a leigeil dheth
+
+image: /images/2018-10-09-ceannard-feis-proise-ghlaschu-air-a-dhreuchd-a-leigeil-dheth.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - alba
   - feisean-proise
-  - naidheachdan
+
 tags:
   - "Alasdair Mac a' Ghobhainn"
   - Alastair Smith
@@ -18,6 +29,7 @@ tags:
   - Ross Stevenson
 
 ---
+
 Tha Alasdair Mac a&#8217; Ghobhainn, Ceannard Fèis-pròise Ghlaschu air a dhreuchd a leigeil dheth as dèidh 10 bliadhna mar thoradh air duilgheadasan an tachartais am-bliadhna.
 
 <!--more-->

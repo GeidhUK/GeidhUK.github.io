@@ -1,14 +1,25 @@
 ---
-title: Lìon-sòisealta ùr do phàrantan LCDT
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2008-04-08 19:29:20
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-04-08-lion-soisealta-ur-do-pharantan-lcdt.jpg
+
+title: Lìon-sòisealta ùr do phàrantan LCDT
+
+image: /images/2008-04-08-lion-soisealta-ur-do-pharantan-lcdt.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - an-rioghachd-aonaichte
-  - naidheachdan
   - teicneolas
+  
 tags:
   - Adoption UK
   - Andy May
@@ -33,6 +44,7 @@ tags:
   - website
 
 ---
+
 Chaidh lìon-sòisealta ùr do phàrantan LCDT a chruthachadh le càraid co-sheòrsach gus taic a thoirt ri càraidean LCDT eile a tha airson leanabh uchd-mhacachadh.
 
 <!--more-->

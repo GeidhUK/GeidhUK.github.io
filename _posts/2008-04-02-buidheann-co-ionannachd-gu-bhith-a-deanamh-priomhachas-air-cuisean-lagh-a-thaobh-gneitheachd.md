@@ -1,15 +1,26 @@
 ---
-title: Buidheann co-ionannachd gu bhith a’ dèanamh prìomhachas air cùisean-lagh a-thaobh gnèitheachd
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2008-04-02 10:43:52
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-04-02-buidheann-co-ionannachd-gu-bhith-a-deanamh-priomhachas-air-cuisean-lagh-a-thaobh-gneitheachd.jpg
+
+title: Buidheann co-ionannachd gu bhith a’ dèanamh prìomhachas air cùisean-lagh a-thaobh gnèitheachd
+
+image: /images/2008-04-02-buidheann-co-ionannachd-gu-bhith-a-deanamh-priomhachas-air-cuisean-lagh-a-thaobh-gneitheachd.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - an-rioghachd-aonaichte
   - lagh
-  - naidheachdan
   - poilitigs
+
 tags:
   - co-ionannachd
   - Coimisean nan Còirichean Daonna agus Co-ionannachd
@@ -22,6 +33,7 @@ tags:
   - Stonewall
 
 ---
+
 Chaidh sgeama stèidheachadh le Coimisean nan Còirichean Daonna agus Co-ionannachd (EHRC) a bhios a’ dèanamh prìomhachas air cùisean-lagha a-thaobh gnèitheachd.
 
 <!--more-->

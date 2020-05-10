@@ -1,15 +1,26 @@
 ---
-title: Fèis-pròise Innse Ghall air a chàineadh le Ministear na h-Eaglaise Saoire Leantainnich
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2018-09-21 19:19:21
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-09-21-feis-proise-innse-ghall-air-a-chaineadh-le-ministear-na-h-eaglaise-saoire-leantainnich.jpg
+
+title: Fèis-pròise Innse Ghall air a chàineadh le Ministear na h-Eaglaise Saoire Leantainnich
+
+image: /images/2018-09-21-feis-proise-innse-ghall-air-a-chaineadh-le-ministear-na-h-eaglaise-saoire-leantainnich.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - alba
   - creideamh
   - feisean-proise
-  - naidheachdan
+
 tags:
   - An Eaglais Shaor Leantainneach
   - an t-Urr
@@ -34,6 +45,7 @@ tags:
   - Steòrnabhagh
 
 ---
+
 Tha Ministear na h-Eaglaise Saoire Leantainnich air iomradh a thoirt air a&#8217; chiad fèis-pròise anns na h-Eileanan an Iar mar &#8220;duilich agus nàireach&#8221;.
 
 <!--more-->

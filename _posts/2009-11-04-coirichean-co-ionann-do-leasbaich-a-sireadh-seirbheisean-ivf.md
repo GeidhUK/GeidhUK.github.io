@@ -1,14 +1,25 @@
 ---
-title: Còirichean co-ionann do leasbaich a’ sireadh seirbheisean IVF
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2009-11-04 18:45:31
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2009-11-04-coirichean-co-ionann-do-leasbaich-a-sireadh-seirbheisean-ivf.jpg
+
+title: Còirichean co-ionann do leasbaich a’ sireadh seirbheisean IVF
+
+image: /images/2009-11-04-coirichean-co-ionann-do-leasbaich-a-sireadh-seirbheisean-ivf.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - an-rioghachd-aonaichte
-  - naidheachdan
   - slainte
+
 tags:
   - Caroline Harris
   - co-ionannachd
@@ -38,6 +49,7 @@ tags:
   - SNS
 
 ---
+
 Thathar an dùil gun tèid cead a thoirt do leasbaich Albannach IVF a shireadh bho Seirbheis Nàiseanta na Slàinte.
 
 <!--more-->

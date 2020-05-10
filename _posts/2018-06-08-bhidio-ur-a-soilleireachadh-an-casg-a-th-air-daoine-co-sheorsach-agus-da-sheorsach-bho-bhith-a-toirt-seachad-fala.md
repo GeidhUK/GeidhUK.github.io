@@ -1,13 +1,24 @@
 ---
-title: Bhidio ùr a’ soilleireachadh an casg a th’ air daoine co-sheòrsach agus dà-sheòrsach bho bhith a’ toirt seachad fala
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2018-06-08 12:27:20
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-06-08-bhidio-ur-a-soilleireachadh-an-casg-a-th-air-daoine-co-sheorsach-agus-da-sheorsach-bho-bhith-a-toirt-seachad-fala.jpg
+
+title: Bhidio ùr a’ soilleireachadh an casg a th’ air daoine co-sheòrsach agus dà-sheòrsach bho bhith a’ toirt seachad fala
+
+image: /images/2018-06-08-bhidio-ur-a-soilleireachadh-an-casg-a-th-air-daoine-co-sheorsach-agus-da-sheorsach-bho-bhith-a-toirt-seachad-fala.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
-  - naidheachdan
   - slainte
+
 tags:
   - blood ban
   - Blood Transfusion Service
@@ -18,6 +29,7 @@ tags:
   - slàinte
 
 ---
+
 Tha an iomairtiche airson còirichean LCDTE+, Peter Tatchell, air bhidio a sgaoileadh air YouTube gus an casg a th&#8217; air daoine co-sheòrsach agus dà-sheòrsach bho bhith a&#8217; toirt seachad fala a shoillearachadh.
 
 <!--more-->

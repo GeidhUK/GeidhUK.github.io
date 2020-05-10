@@ -1,15 +1,26 @@
 ---
-title: Bu chòir cùisean LCDT+ a bhith na phàirt “bunaiteach” de dh’fhoghlam chloinne
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2018-11-22 17:37:27
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-11-22-bu-choir-cuisean-lcdt-a-bhith-na-phairt-bunaiteach-de-dhfhoghlam-chloinne.jpg
+
+title: Bu chòir cùisean LCDT+ a bhith na phàirt “bunaiteach” de dh’fhoghlam chloinne
+
+image: /images/2018-11-22-bu-choir-cuisean-lcdt-a-bhith-na-phairt-bunaiteach-de-dhfhoghlam-chloinne.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - an-rioghachd-aonaichte
   - foghlam
-  - naidheachdan
   - slainte
+
 tags:
   - Bun-sgoil
   - children
@@ -28,6 +39,7 @@ tags:
   - Royal College of Paediatrics and Child Health
 
 ---
+
 Tha doctairean bho Cholaiste Rìoghail Leigheas agus Slàinte Chloinne ([RCPCH][1]) air aontachadh gum bu chòir cùisean LCDT a bhith na phàirt &#8220;bunaiteach&#8221; de dh&#8217;fhoghlam chloinne.
 
 <!--more-->

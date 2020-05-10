@@ -1,15 +1,26 @@
 ---
-title: Caismeachd-pròise Bhirmingham air a chur dheth
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2008-04-30 18:52:49
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-04-30-caismeachd-proise-bhirmingham-air-a-chur-dheth.jpg
+
+title: Caismeachd-pròise Bhirmingham air a chur dheth
+
+image: /images/2008-04-30-caismeachd-proise-bhirmingham-air-a-chur-dheth.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - an-rioghachd-aonaichte
   - cultar
   - feisean-proise
-  - naidheachdan
+
 tags:
   - Birmingham
   - Birmingham Pride
@@ -22,6 +33,7 @@ tags:
   - pride march
 
 ---
+
 Cha tèid caismeachd-pròise Bhirmingham air adhart am-bliadhna air sgàth &#8217;s trioblaidean ionmhais.
 
 <!--more-->

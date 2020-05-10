@@ -1,15 +1,26 @@
 ---
-title: Prìomhaire co-sheòrsach gu bhith aig Èirinn?
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2017-06-01 13:13:34
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2017-06-01-priomhaire-co-sheorsach-gu-bhith-aig-eirinn.jpg
+
+title: Prìomhaire co-sheòrsach gu bhith aig Èirinn?
+
+image: /images/2017-06-01-priomhaire-co-sheorsach-gu-bhith-aig-eirinn.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - an-roinn-eorpa
   - eirinn
-  - naidheachdan
   - poilitigs
+
 tags:
   - co-sheòrsach
   - Èirinn
@@ -26,6 +37,7 @@ tags:
   - Taoiseach
 
 ---
+
 Thathar an dùil gun tèid Leo Varadkar, 38 a thaghadh mar ceannard am pàrtaidh poilitigeach Fine Gael.
 
 <!--more-->

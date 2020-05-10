@@ -1,15 +1,26 @@
 ---
-title: Pòsadh… ‘the Final Frontier’
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2008-05-21 11:19:46
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-05-21-posadh-the-final-frontier.jpg
+
+title: Pòsadh… ‘the Final Frontier’
+
+image: /images/2008-05-21-posadh-the-final-frontier.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - an-t-saoghal
   - cultar
-  - naidheachdan
   - poilitigs
+
 tags:
   - Aimearaga
   - America
@@ -35,6 +46,7 @@ tags:
   - United States
 
 ---
+
 Tha George Takei air fhoillseachadh air an làrach-lìn aige gu bheil e an dùil a chompanach, Brad Altman, a phòsadh.
 
 <!--more-->

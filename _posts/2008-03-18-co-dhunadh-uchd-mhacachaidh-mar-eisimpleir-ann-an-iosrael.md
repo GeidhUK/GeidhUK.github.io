@@ -1,15 +1,26 @@
 ---
-title: Co-dhùnadh uchd-mhacachaidh mar eisimpleir ann an Iosrael
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2008-03-18 16:20:59
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-03-18-co-dhunadh-uchd-mhacachaidh-mar-eisimpleir-ann-an-iosrael.jpg
+
+title: Co-dhùnadh uchd-mhacachaidh mar eisimpleir ann an Iosrael
+
+image: /images/2008-03-18-co-dhunadh-uchd-mhacachaidh-mar-eisimpleir-ann-an-iosrael.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - an-t-saoghal
   - lagh
-  - naidheachdan
   - poilitigs
+
 tags:
   - An Ear Mheadhanach
   - Avi Shadiv
@@ -21,7 +32,9 @@ tags:
   - pàrantan
   - teaghlach
   - uchd-mhacachadh
+
 ---
+
 Tha cùirt ann an Iosrael air co-dhùnadh a dhèanamh gun urrainn do càraid co-sheòrsach a chlàradh mar athraichean an uchd-mhac.
 
 <!--more-->

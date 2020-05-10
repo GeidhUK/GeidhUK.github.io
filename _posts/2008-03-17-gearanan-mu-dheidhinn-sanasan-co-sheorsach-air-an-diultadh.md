@@ -1,15 +1,26 @@
 ---
-title: Gearanan mu dheidhinn sanasan co-sheòrsach air an diùltadh
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2008-03-17 11:56:45
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-03-17-gearanan-mu-dheidhinn-sanasan-co-sheorsach-air-an-diultadh.jpg
+
+title: Gearanan mu dheidhinn sanasan co-sheòrsach air an diùltadh
+
+image: /images/2008-03-17-gearanan-mu-dheidhinn-sanasan-co-sheorsach-air-an-diultadh.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - an-rioghachd-aonaichte
   - creideamh
   - foghlam
-  - naidheachdan
+
 tags:
   - Advertising Standards Authority
   - co-sheòrsach
@@ -22,7 +33,9 @@ tags:
   - Stonewall
   - Stonewall Scotland
   - Tha cuid de dhaoine gay. Gabh ris!
+
 ---
+
 Tha an ASA (Advertising Standards Authority) ag ràdh nach eil iomairt sanasachaidh a’ bhuidheann Stonewall a’ dol an-aghaidh an còd aca.
 
 <!--more-->

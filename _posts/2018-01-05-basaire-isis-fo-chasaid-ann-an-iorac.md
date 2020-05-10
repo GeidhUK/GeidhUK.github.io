@@ -1,14 +1,25 @@
 ---
-title: Bàsaire ISIS fo chasaid ann an Ioràc
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2018-01-05 22:56:37
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-01-05-basaire-isis-fo-chasaid-ann-an-iorac.jpg
+
+title: Bàsaire ISIS fo chasaid ann an Ioràc
+
+image: /images/2018-01-05-basaire-isis-fo-chasaid-ann-an-iorac.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - an-t-saoghal
   - creideamh
-  - naidheachdan
+
 tags:
   - Abu Omer
   - An Ear Mheadhanach
@@ -29,6 +40,7 @@ tags:
   - White Beard
 
 ---
+
 Tha feachdan tèarainteachd ann am Mosul, Ioràc air bàsaire ISIS a chur fo chasaid.
 
 <!--more-->

@@ -1,13 +1,24 @@
 ---
-title: Riaghailtean ùra gus dèiligeadh ri gràin-tar-ghnèitheachd air Twitter
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2018-11-26 12:33:21
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-11-26-riaghailtean-ura-gus-deiligeadh-ri-grain-tar-ghneitheachd-air-twitter.jpg
+
+title: Riaghailtean ùra gus dèiligeadh ri gràin-tar-ghnèitheachd air Twitter
+
+image: /images/2018-11-26-riaghailtean-ura-gus-deiligeadh-ri-grain-tar-ghneitheachd-air-twitter.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
-  - naidheachdan
   - teicneolas
+
 tags:
   - abuse
   - asexual
@@ -41,6 +52,7 @@ tags:
   - Twitter
 
 ---
+
 Tha Twitter air na riaghailtean aca ùrachadh gus dèiligeadh ri daoine a tha ri gràin-tar-ghnèitheachd.
 
 <!--more-->

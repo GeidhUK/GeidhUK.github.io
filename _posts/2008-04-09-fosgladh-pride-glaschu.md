@@ -1,15 +1,25 @@
 ---
-title: Fosgladh Fèis-pròise Ghlaschu
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2008-04-09 19:02:13
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-04-09-fosgladh-pride-glaschu.jpg
+
+title: Fosgladh Fèis-pròise Ghlaschu
+
+image: /images/2008-04-09-fosgladh-pride-glaschu.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 categories:
   - alba
   - an-rioghachd-aonaichte
   - cultar
   - feisean-proise
-  - naidheachdan
+
 tags:
   - Alba
   - fèis-pròise
@@ -21,6 +31,7 @@ tags:
   - Scotland
 
 ---
+
 Bu tòigh le Fèis-pròise Ghlaschu fàilte a chur air a h-uile duine a bhios airson tighinn ris am fosgladh aca.
 
 <!--more-->

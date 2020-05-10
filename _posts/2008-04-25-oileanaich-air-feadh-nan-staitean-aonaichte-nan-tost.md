@@ -1,15 +1,26 @@
 ---
-title: Oileanaich air feadh nan Stàitean Aonaichte nan tost
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2008-04-25 11:22:52
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-04-25-oileanaich-air-feadh-nan-staitean-aonaichte-nan-tost.jpg
+
+title: Oileanaich air feadh nan Stàitean Aonaichte nan tost
+
+image: /images/2008-04-25-oileanaich-air-feadh-nan-staitean-aonaichte-nan-tost.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - an-rioghachd-aonaichte
   - an-t-saoghal
   - foghlam
-  - naidheachdan
+
 tags:
   - Aimearaga
   - America
@@ -34,6 +45,7 @@ tags:
   - United States
 
 ---
+
 Bidh mìltean de dh&#8217;oileanaich nan tost anns na Stàitean Aonaichte an-diugh gus gràin-co-sheòrsachd ann an sgoiltean shoillseachadh.
 
 <!--more-->

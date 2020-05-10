@@ -1,15 +1,26 @@
 ---
-title: Caitligich Albannach air ràdh gu bheil co-sheòrsachd ag adhbharachadh bàis tràtha
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2009-01-29 19:55:46
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2009-01-29-caitligich-albannach-air-radh-gu-bheil-co-sheorsachd-ag-adhbharachadh-bais-tratha.jpg
+
+title: Caitligich Albannach air ràdh gu bheil co-sheòrsachd ag adhbharachadh bàis tràtha
+
+image: /images/2009-01-29-caitligich-albannach-air-radh-gu-bheil-co-sheorsachd-ag-adhbharachadh-bais-tratha.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - alba
   - an-rioghachd-aonaichte
   - creideamh
-  - naidheachdan
+
 tags:
   - bàis tràtha
   - Catholic Church
@@ -25,6 +36,7 @@ tags:
   - teaghlach
 
 ---
+
 Tha an Eaglais Chaitligeach ann an Alba air ionnsaigh a thoirt air daoine co-sheòrsach agus leasbaich a-rithist.
 
 <!--more-->

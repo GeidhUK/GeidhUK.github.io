@@ -1,14 +1,25 @@
 ---
-title: NHS anns a’ Chuimrigh airson seirbheisean co-ionann a thoirt ris a’ choimhearsnachd LCDTE
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2008-04-22 13:51:17
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-04-22-nhs-anns-a-chuimrigh-airson-seirbheisean-co-ionann-a-thoirt-dhan-a-choimhearsnachd-lcdte.jpg
+
+title: NHS anns a’ Chuimrigh airson seirbheisean co-ionann a thoirt ris a’ choimhearsnachd LCDTE
+
+image: /images/2008-04-22-nhs-anns-a-chuimrigh-airson-seirbheisean-co-ionann-a-thoirt-dhan-a-choimhearsnachd-lcdte.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - an-rioghachd-aonaichte
-  - naidheachdan
   - slainte
+
 tags:
   - "A' Chuimrigh"
   - Cymru
@@ -31,6 +42,7 @@ tags:
   - Welsh Health Minister
 
 ---
+
 Tha Edwina Hart, Ministear Slàinte na Cuimrigh air stiùireadh ùr a thoirt ris an NHS anns an dùthaich.
 
 <!--more-->

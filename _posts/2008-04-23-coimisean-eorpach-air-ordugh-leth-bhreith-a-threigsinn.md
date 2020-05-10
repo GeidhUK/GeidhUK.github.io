@@ -1,15 +1,26 @@
 ---
-title: Coimisean Eòrpach air òrdugh leth-bhreith a thrèigsinn
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2008-04-23 14:53:03
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-04-23-coimisean-eorpach-air-ordugh-leth-bhreith-a-threigsinn.jpg
+
+title: Coimisean Eòrpach air òrdugh leth-bhreith a thrèigsinn
+
+image: /images/2008-04-23-coimisean-eorpach-air-ordugh-leth-bhreith-a-threigsinn.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - an-roinn-eorpa
   - lagh
-  - naidheachdan
   - poilitigs
+
 tags:
   - "a' Ghearmailt"
   - Aonadh Eòrpach
@@ -24,6 +35,7 @@ tags:
   - leth-bhreith
 
 ---
+
 Air sgàth &#8217;s gearanan bhon a&#8217; Ghearmailt agus eile tha an t-Aonadh Eòrpach air òrdugh a bhiodh a&#8217; dìon daoine LCDT bho leth-bhreith a thrèigsinn.
 
 <!--more-->

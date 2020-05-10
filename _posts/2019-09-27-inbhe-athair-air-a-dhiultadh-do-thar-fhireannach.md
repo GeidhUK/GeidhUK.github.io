@@ -17,8 +17,8 @@ author: Crìstean MacMhìcheil
 comments: true
 
 categories:
-- an-rioghachd-aonaichte
-- lagh
+    - an-rioghachd-aonaichte
+    - lagh
 
 tags:
 

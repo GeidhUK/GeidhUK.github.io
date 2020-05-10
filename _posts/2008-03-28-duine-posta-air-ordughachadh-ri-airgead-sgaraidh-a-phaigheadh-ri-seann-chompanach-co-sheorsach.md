@@ -1,15 +1,26 @@
 ---
-title: Duine pòsta air òrdachadh ri airgead-sgaraidh a phàigheadh ri seann chompanach co-sheòrsach
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2008-03-28 08:30:43
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-03-28-duine-posta-air-ordughachadh-ri-airgead-sgaraidh-a-phaigheadh-ri-seann-chompanach-co-sheorsach.jpg
+
+title: Duine pòsta air òrdachadh ri airgead-sgaraidh a phàigheadh ri seann chompanach co-sheòrsach
+
+image: /images/2008-03-28-duine-posta-air-ordughachadh-ri-airgead-sgaraidh-a-phaigheadh-ri-seann-chompanach-co-sheorsach.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - an-t-saoghal
   - lagh
-  - naidheachdan
   - poilitigs
+
 tags:
   - Aimearaga
   - Aimearaga a Deas
@@ -23,7 +34,9 @@ tags:
   - maintenance
   - Na Stàitean Aonaichte
   - South America
+
 ---
+
 Tha cùirt ann am Braisil air ràdh gum feum duine airgead-sgaraidh a phàigheadh ri seann chompanach co-sheòrsach aige.
 
 <!--more-->

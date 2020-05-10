@@ -1,15 +1,26 @@
 ---
-title: Neach-poileataigs air tionndadh an aghaidh PFLAG
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2008-04-02 10:59:53
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-04-02-neach-poileataigs-air-tionndadh-an-aghaidh-pflag.jpg
+
+title: Neach-poileataigs air tionndadh an aghaidh PFLAG
+
+image: /images/2008-04-02-neach-poileataigs-air-tionndadh-an-aghaidh-pflag.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - an-t-saoghal
   - creideamh
-  - naidheachdan
   - poilitigs
+
 tags:
   - Aimearaga
   - ceannairceachd
@@ -30,6 +41,7 @@ tags:
   - We Support Sally Kern
 
 ---
+
 Tha Riochdaire Sally Kern air tionndadh an aghaidh PFLAG an dèidh coinneamh dòchasach còmhla riutha seachdain seo chaidh.
 
 <!--more-->

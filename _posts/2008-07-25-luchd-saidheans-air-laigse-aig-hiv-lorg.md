@@ -1,14 +1,25 @@
 ---
-title: Luchd-saidheans air laigse aig HIV lorg
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2008-07-25 17:49:16
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-07-25-luchd-saidheans-air-laigse-aig-hiv-lorg.jpg
+
+title: Luchd-saidheans air laigse aig HIV lorg
+
+image: /images/2008-07-25-luchd-saidheans-air-laigse-aig-hiv-lorg.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - an-t-saoghal
-  - naidheachdan
   - slainte
+
 tags:
   - Abzymes
   - AIDS
@@ -35,6 +46,7 @@ tags:
   - Texas University Medical School
 
 ---
+
 Tha luchd-rannsachaidh ag obair aig Sgoil Slàinte Oilthigh Texas ag ràdh gu bheil iad air laigse aig HIV (Bhioras Dìon-slàinte Daonna) a lorg.
 
 <!--more-->

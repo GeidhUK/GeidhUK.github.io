@@ -1,14 +1,25 @@
 ---
-title: 'BBC: Oidhirp gus beag-fhaclair LGBTI Gàidhlig a chruthachadh'
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2017-05-10 16:00:13
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2017-05-10-bbc-oidhirp-gus-beag-fhaclair-lgbti-gaidhlig-a-chruthachadh.jpg
+
+title: 'BBC: Oidhirp gus beag-fhaclair LGBTI Gàidhlig a chruthachadh'
+
+image: /images/2017-05-10-bbc-oidhirp-gus-beag-fhaclair-lgbti-gaidhlig-a-chruthachadh.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - foghlam
   - gaidhlig
-  - naidheachdan
+
 tags:
   - a’ tighinn a-mach
   - Acquired Immunodeficiency Syndrome
@@ -129,6 +140,7 @@ tags:
   - vocabulary
 
 ---
+
 **Nochd an sgeulachd seo air a&#8217; BhBC an-diugh:-**
 
 Chaidh iarraidh air luchd-labhairt na Gàidhlig cuideachadh gus liosta de dh&#8217;fhaclan agus briathrachas LGBTI a chruthachadh sa chànan.

@@ -1,13 +1,24 @@
 ---
-title: Comhairle Obair Dheathain a’ rannsachadh sgaoileadh de bhileagan a dh’fhaodadh a bhith gràineil ri daoine LCDTE
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2018-07-25 19:48:16
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-07-25-comhairle-obair-dheathain-a-rannsachadh-sgaoileadh-de-bhileagan-a-dhfhaodadh-a-bhith-graineil-ri-daoine-lcdte.jpg
+
+title: Comhairle Obair Dheathain a’ rannsachadh sgaoileadh de bhileagan a dh’fhaodadh a bhith gràineil ri daoine LCDTE
+
+image: /images/2018-07-25-comhairle-obair-dheathain-a-rannsachadh-sgaoileadh-de-bhileagan-a-dhfhaodadh-a-bhith-graineil-ri-daoine-lcdte.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - alba
-  - naidheachdan
+
 tags:
   - BBC
   - Evening Times
@@ -22,6 +33,7 @@ tags:
   - Obar Dheathain
 
 ---
+
 Chaidh rannsachadh a chur air bhog le Comhairle Obair Dheathain an dèidh sgaoileadh de bhileagan a dh&#8217;fhaodadh a bhith gràineil ri daoine LCDTE.
 
 <!--more-->

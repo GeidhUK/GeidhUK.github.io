@@ -1,15 +1,26 @@
 ---
-title: Bile ùr a’ brosnachadh co-ionannachd do dhaoine LCDT
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2008-06-22 18:03:15
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-06-22-bile-ur-a-brosnachadh-co-ionannachd-do-dhaoine-lcdt.jpg
+
+title: Bile ùr a’ brosnachadh co-ionannachd do dhaoine LCDT
+
+image: /images/2008-06-22-bile-ur-a-brosnachadh-co-ionannachd-do-dhaoine-lcdt.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - an-rioghachd-aonaichte
   - lagh
-  - naidheachdan
   - poilitigs
+
 tags:
   - British Parliament
   - co-ionannachd
@@ -24,6 +35,7 @@ tags:
   - Stonewall
 
 ---
+
 Thèid bile ùr a bhios a&#8217; brosnachadh co-ionannachd do dhaoine LCDT ainmeachadh gu h-oifigeil leis a&#8217; Bhanrigh anns an òraid aice san t-Samhain.
 
 <!--more-->

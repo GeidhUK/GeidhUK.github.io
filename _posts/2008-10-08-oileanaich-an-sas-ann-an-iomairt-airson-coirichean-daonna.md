@@ -1,16 +1,27 @@
 ---
-title: Oileanaich an sas ann an iomairt airson còirichean daonna
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2008-10-08 19:13:13
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-10-08-oileanaich-an-sas-ann-an-iomairt-airson-coirichean-daonna.jpg
+
+title: Oileanaich an sas ann an iomairt airson còirichean daonna
+
+image: /images/2008-10-08-oileanaich-an-sas-ann-an-iomairt-airson-coirichean-daonna.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - an-rioghachd-aonaichte
   - an-t-saoghal
   - foghlam
-  - naidheachdan
   - poilitigs
+  
 tags:
   - Afraga
   - Africa
@@ -35,6 +46,7 @@ tags:
   - Ugandan Government
 
 ---
+
 Bidh an iomairt [NUS LGBT][1] agus _Gay Rights Uganda_ a&#8217; togail fianais an-aghaidh Riaghaltas Uganda nach eil a&#8217; cur stad air geur-leanmhainn agus cràdh an daoine LCDT san dùthaich.
 
 <!--more-->

@@ -1,16 +1,27 @@
 ---
-title: Aonadh Èireannach air ràdh gu bheil leth-bhreith ceadaichte ann an sgoiltean
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2010-04-08 13:18:35
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2010-04-08-aonadh-eireannach-air-radh-gu-bheil-leth-bhreith-ceadaichte-ann-an-sgoiltean.jpg
+
+title: Aonadh Èireannach air ràdh gu bheil leth-bhreith ceadaichte ann an sgoiltean
+
+image: /images/2010-04-08-aonadh-eireannach-air-radh-gu-bheil-leth-bhreith-ceadaichte-ann-an-sgoiltean.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - an-roinn-eorpa
   - eirinn
   - foghlam
-  - naidheachdan
   - poilitigs
+
 tags:
   - co-ionannachd
   - Cumann Múinteoirí Éireann
@@ -26,6 +37,7 @@ tags:
   - sgoiltean
 
 ---
+
 Tha aonadh teagaisg Èireannach air ràdh gu bheil laghanan co-ionannachd a&#8217; toirt cead do sgoiltean cràbhach a bhith a&#8217; dèanamh leth-bhreith air tidsearan co-sheòrsach.
 
 <!--more-->

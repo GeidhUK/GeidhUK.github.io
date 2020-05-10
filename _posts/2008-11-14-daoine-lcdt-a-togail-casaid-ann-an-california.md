@@ -1,16 +1,27 @@
 ---
-title: Daoine LCDT a’ togail casaid ann an California
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2008-11-14 14:23:20
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-11-14-daoine-lcdt-a-togail-casaid-ann-an-california.jpg
+
+title: Daoine LCDT a’ togail casaid ann an California
+
+image: /images/2008-11-14-daoine-lcdt-a-togail-casaid-ann-an-california.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - an-t-saoghal
   - feisean-proise
   - lagh
-  - naidheachdan
   - poilitigs
+
 tags:
   - Aimearaga
   - America
@@ -39,6 +50,7 @@ tags:
   - United States
 
 ---
+
 Tha daoine LCDT air a bhith a&#8217; caismeachd air sràidean Chalifornia agus iad a&#8217; togail casaid as dèidh buaidhe Proposition 8.
 
 <!--more-->

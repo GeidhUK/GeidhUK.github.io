@@ -6,7 +6,7 @@ date: 2019-02-17 18:00:00
 
 title: A' gluasad bho Wordpress gu Jekyll
 
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2019-02-17-a-gluasad-bho-wordpress-gu-jekyll.jpg
+image: /images/2019-02-17-a-gluasad-bho-wordpress-gu-jekyll.jpg
 
 image-caption:
 
@@ -17,19 +17,19 @@ author: Crìstean MacMhìcheil
 comments: true
 
 categories:
-- blog
-- codachadh
-- jekyll
+    - blog
+    - codachadh
+    - jekyll
 
 tags: 
-- blog
-- GeidhUK
-- Naidheachdan Pinc
-- LCDTQ
-- Naidheachdan
-- ùrachadh
-- Jekyll
-- Wordpress
+    - blog
+    - GeidhUK
+    - Naidheachdan Pinc
+    - LCDTQ
+    - Naidheachdan
+    - ùrachadh
+    - Jekyll
+    - Wordpress
 
 ---
 

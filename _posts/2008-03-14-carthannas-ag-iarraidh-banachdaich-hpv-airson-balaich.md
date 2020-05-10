@@ -1,14 +1,25 @@
 ---
-title: Carthannas ag iarraidh banachdaich HPV airson balaich
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2008-03-14 09:33:41
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-03-14-carthannas-ag-iarraidh-banachdaich-hpv-airson-balaich.jpg
+
+title: Carthannas ag iarraidh banachdaich HPV airson balaich
+
+image: /images/2008-03-14-carthannas-ag-iarraidh-banachdaich-hpv-airson-balaich.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - an-rioghachd-aonaichte
-  - naidheachdan
   - slainte
+
 tags:
   - aillse
   - BDHF
@@ -20,7 +31,9 @@ tags:
   - oral
   - slàinte
   - testicular
+
 ---
+
 Tha an carthannas fiaclach as motha anns an Rìoghachd Aonaichte airson balaich a thoirt a-steach dhan phrògram a bhios a’ toirt a-mach banachdaich an-aghaidh an tinneas feise HPV (_Human papillomavirus_) gus bacadh a chur air aillse beòil.
 
 <!--more-->

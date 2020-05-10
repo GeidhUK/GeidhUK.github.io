@@ -1,16 +1,26 @@
 ---
-title: Iomairt Albannach ag amas air stad a chur air deugaire co-sheòrsach fuadach a-mach
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2008-03-29 09:22:09
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-03-29-iomairt-albannach-ag-amas-air-stad-a-chur-air-deugaire-co-sheorsach-fuadach-a-mach.jpg
+
+title: Iomairt Albannach ag amas air stad a chur air deugaire co-sheòrsach fuadach a-mach
+
+image: /images/2008-03-29-iomairt-albannach-ag-amas-air-stad-a-chur-air-deugaire-co-sheorsach-fuadach-a-mach.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 categories:
   - alba
   - an-rioghachd-aonaichte
   - an-t-saoghal
   - lagh
-  - naidheachdan
   - poilitigs
+
 tags:
   - Alba
   - An Eaglais Bhreac
@@ -33,7 +43,9 @@ tags:
   - Save JoJo Campaign
   - Special Rights
   - tèarmann poileataigeach
+  
 ---
+
 Chaidh iomairt a stèidheachadh gus deugaire co-sheòrsach, a tha gu bhith a’ fuadach a-mach às an Rìoghachd Aonaichte, a shàbhaladh.
 
 <!--more-->

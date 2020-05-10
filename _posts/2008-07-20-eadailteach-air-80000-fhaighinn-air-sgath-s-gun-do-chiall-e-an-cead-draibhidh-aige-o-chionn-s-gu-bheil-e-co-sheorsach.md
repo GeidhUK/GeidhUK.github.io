@@ -1,15 +1,26 @@
 ---
-title: Eadailteach air £80,000 fhaighinn air sgàth ’s gun do chiall e an cead-dràibhidh aige o chionn ’s gu bheil e co-sheòrsach
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2008-07-20 20:45:25
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-07-20-eadailteach-air-80000-fhaighinn-air-sgath-s-gun-do-chiall-e-an-cead-draibhidh-aige-o-chionn-s-gu-bheil-e-co-sheorsach.jpg
+
+title: Eadailteach air £80,000 fhaighinn air sgàth ’s gun do chiall e an cead-dràibhidh aige o chionn ’s gu bheil e co-sheòrsach
+
+image: /images/2008-07-20-eadailteach-air-80000-fhaighinn-air-sgath-s-gun-do-chiall-e-an-cead-draibhidh-aige-o-chionn-s-gu-bheil-e-co-sheorsach.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - an-roinn-eorpa
   - lagh
-  - naidheachdan
   - poilitigs
+
 tags:
   - airm
   - An Eadailt
@@ -36,6 +47,7 @@ tags:
   - sexuality
 
 ---
+
 Tha cùirt air Riaghaltas na h-Eadailt òrdachadh gus €100,000 (£80,000) a thoirt gu daoine co-sheòrsach a chiall an cead-dràibhidh aige o chionn &#8217;s an gnèitheachd aige.
 
 <!--more-->

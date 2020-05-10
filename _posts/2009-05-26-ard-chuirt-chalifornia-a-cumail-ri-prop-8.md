@@ -1,15 +1,26 @@
 ---
-title: Àrd-chùirt Chalifornia a’ cumail ri Prop 8
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2009-05-26 19:11:45
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2009-05-26-ard-chuirt-chalifornia-a-cumail-ri-prop-8.jpg
+
+title: Àrd-chùirt Chalifornia a’ cumail ri Prop 8
+
+image: /images/2009-05-26-ard-chuirt-chalifornia-a-cumail-ri-prop-8.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - an-t-saoghal
   - lagh
-  - naidheachdan
   - poilitigs
+
 tags:
   - Aimearaga
   - America
@@ -35,6 +46,7 @@ tags:
   - United States
 
 ---
+
 Tha Àrd-chùirt Chalifornia air bhòtadh gus cumail ri Proposition 8, an iomairt a chur casg air pòsadh aon-sheòrsach anns an stàit.
 
 <!--more-->

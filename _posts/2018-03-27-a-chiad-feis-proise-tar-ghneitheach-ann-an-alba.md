@@ -1,14 +1,25 @@
 ---
-title: A’ Chiad Fèis-pròise Tar-ghnèitheach ann an Alba
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2018-03-27 19:57:22
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-03-27-a-chiad-feis-proise-tar-ghneitheach-ann-an-alba.jpg
+
+title: A’ Chiad Fèis-pròise Tar-ghnèitheach ann an Alba
+
+image: /images/2018-03-27-a-chiad-feis-proise-tar-ghneitheach-ann-an-alba.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - alba
   - feisean-proise
-  - naidheachdan
+
 tags:
   - Alba
   - Dùn Èideann

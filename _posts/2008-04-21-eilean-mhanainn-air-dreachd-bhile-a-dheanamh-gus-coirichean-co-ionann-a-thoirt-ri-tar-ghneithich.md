@@ -1,15 +1,25 @@
 ---
-title: Eilean Mhanainn air dreachd bhile a dhèanamh gus còirichean co-ionann a thoirt ri daoine tar-ghnèitheach
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2008-04-21 14:39:07
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-04-21-eilean-mhanainn-air-dreachd-bhile-a-dheanamh-gus-coirichean-co-ionann-a-thoirt-ri-tar-ghneithich.jpg
+
+title: Eilean Mhanainn air dreachd bhile a dhèanamh gus còirichean co-ionann a thoirt ri daoine tar-ghnèitheach
+
+image: /images/2008-04-21-eilean-mhanainn-air-dreachd-bhile-a-dheanamh-gus-coirichean-co-ionann-a-thoirt-ri-tar-ghneithich.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 categories:
   - an-rioghachd-aonaichte
   - an-roinn-eorpa
   - an-t-saoghal
-  - naidheachdan
   - poilitigs
+
 tags:
   - An Roinn Eòrpa
   - An t-Eilean Mhanainn
@@ -30,6 +40,7 @@ tags:
   - Tony Brown
 
 ---
+
 Tha Eilean Mhanainn air dreachd bhile fhoillseachadh a bhios ag aithneachadh daoine tar-ghnèitheach gu h-oifigeil.
 
 <!--more-->

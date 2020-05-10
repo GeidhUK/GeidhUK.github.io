@@ -1,15 +1,26 @@
 ---
-title: Jeff Bezos air tabhartas de $10,800 a thoirt gu Seanadair Poblachdach a bhòtas gu cunbhalach an aghaidh còirichean LCDTE+
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2018-11-01 19:25:30
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-11-01-jeff-bezos-air-tabhartas-de-10800-a-thoirt-gu-seanadair-poblachdach-a-bhotas-gu-cunbhalach-an-aghaidh-coirichean-lcdte.jpg
+
+title: Jeff Bezos air tabhartas de $10,800 a thoirt gu Seanadair Poblachdach a bhòtas gu cunbhalach an aghaidh còirichean LCDTE+
+
+image: /images/2018-11-01-jeff-bezos-air-tabhartas-de-10800-a-thoirt-gu-seanadair-poblachdach-a-bhotas-gu-cunbhalach-an-aghaidh-coirichean-lcdte.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - an-t-saoghal
   - gniomhachas
-  - naidheachdan
   - poilitigs
+
 tags:
   - Amazon
   - Cory Gardner
@@ -24,6 +35,7 @@ tags:
   - Senator
 
 ---
+
 Tha Jeff Bezos, Ceannard [Amazon][1], air tabhartas de $10,800 a thoirt gu Seanadair Poblachdach a tha air bhòtadh gu cunbhalach an aghaidh còirichean LCDTE+.
 
 <!--more-->

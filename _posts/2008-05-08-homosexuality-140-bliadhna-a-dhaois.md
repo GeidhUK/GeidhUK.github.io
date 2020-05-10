@@ -1,13 +1,23 @@
 ---
-title: “Homosexuality” 140 bliadhna a dh’aois
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2008-05-08 16:56:56
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-05-08-homosexuality-140-bliadhna-a-dhaois.jpg
+
+title: “Homosexuality” 140 bliadhna a dh’aois
+
+image: /images/2008-05-08-homosexuality-140-bliadhna-a-dhaois.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 categories:
   - an-t-saoghal
   - foghlam
-  - naidheachdan
+
 tags:
   - bisexual
   - briathrachas
@@ -38,6 +48,7 @@ tags:
   - vocabulary
 
 ---
+
 B&#8217; ann air an 6mh den Chèitean 1868 a thàinig am facal &#8220;homosexuality&#8221; gu bith.
 
 <!--more-->

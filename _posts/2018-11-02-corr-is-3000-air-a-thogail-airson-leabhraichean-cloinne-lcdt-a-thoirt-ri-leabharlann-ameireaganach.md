@@ -1,16 +1,27 @@
 ---
-title: Còrr is $3000 air a thogail airson leabhraichean cloinne LCDT+ a thoirt ri leabharlann Ameireaganach
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2018-11-02 20:58:33
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-11-02-corr-is-3000-air-a-thogail-airson-leabhraichean-cloinne-lcdt-a-thoirt-ri-leabharlann-ameireaganach.jpg
+
+title: Còrr is $3000 air a thogail airson leabhraichean cloinne LCDT+ a thoirt ri leabharlann Ameireaganach
+
+image: /images/2018-11-02-corr-is-3000-air-a-thogail-airson-leabhraichean-cloinne-lcdt-a-thoirt-ri-leabharlann-ameireaganach.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - an-t-saoghal
   - cultar
   - foghlam
   - lagh
-  - naidheachdan
+
 tags:
   - Aimearaga
   - America
@@ -57,6 +68,7 @@ tags:
   - United States
 
 ---
+
 Tha an t-eadar-lìon air còrr is $3000 a thogail gus leabhraichean cloinne LCDT+ ùra a cheannach dhan leabharlann ann am Baile Orainds, Iowa.
 
 <!--more-->

@@ -1,13 +1,24 @@
 ---
-title: Pàipear-naidheachd Ugandach air liosta de dhaoine co-sheòrsach fhoillseachadh
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2010-10-22 09:59:38
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2010-10-22-paipear-naidheachd-ugandach-air-liosta-de-dhaoine-co-sheorsach-fhoillseachadh.jpg
+
+title: Pàipear-naidheachd Ugandach air liosta de dhaoine co-sheòrsach fhoillseachadh
+
+image: /images/2010-10-22-paipear-naidheachd-ugandach-air-liosta-de-dhaoine-co-sheorsach-fhoillseachadh.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - an-t-saoghal
-  - naidheachdan
+
 tags:
   - Afraga
   - Africa
@@ -23,6 +34,7 @@ tags:
   - Uganda
 
 ---
+
 Tha am pàipear-naidheachd Ugandach _Rolling Stone_ air liosta de dhaoine co-sheòrsach san dùthaich agus na dealbhan aca fhoillseachadh.
 
 <!--more-->

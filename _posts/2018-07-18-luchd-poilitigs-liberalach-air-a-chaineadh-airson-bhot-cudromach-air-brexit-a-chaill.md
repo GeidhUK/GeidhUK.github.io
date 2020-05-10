@@ -1,16 +1,27 @@
 ---
-title: Luchd-poilitigs Liberalach air a chàineadh airson bhòt cudromach air Brexit a chaill
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2018-07-18 21:45:04
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2018-07-18-luchd-poilitigs-liberalach-air-a-chaineadh-airson-bhot-cudromach-air-brexit-a-chaill.jpg
+
+title: Luchd-poilitigs Liberalach air a chàineadh airson bhòt cudromach air Brexit a chaill
+
+image: /images/2018-07-18-luchd-poilitigs-liberalach-air-a-chaineadh-airson-bhot-cudromach-air-brexit-a-chaill.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - an-rioghachd-aonaichte
   - an-roinn-eorpa
   - creideamh
-  - naidheachdan
   - poilitigs
+
 tags:
   - Brexit
   - crìosdaidh
@@ -19,6 +30,7 @@ tags:
   - Vince Cable
 
 ---
+
 Chaidh dithis neach-poilitigs Libearalach a chàineadh Dimàirt as dèidh dhan bhòt cudromach air Brexit a chaill sa Phàirlamaid a&#8217; ciallachadh gun dh&#8217;fhuair atharrachaidhean nan Tòraidhean air plana Brexit tron Phàrlamaid le dìreach trì bhòtaichean.
 
 <!--more-->

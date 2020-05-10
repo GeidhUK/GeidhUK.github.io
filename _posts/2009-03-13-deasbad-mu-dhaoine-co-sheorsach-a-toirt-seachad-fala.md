@@ -1,14 +1,25 @@
 ---
-title: Deasbad mu dhaoine co-sheòrsach a’ toirt seachad fala
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2009-03-13 22:11:34
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2009-03-13-deasbad-mu-dhaoine-co-sheorsach-a-toirt-seachad-fala.jpg
+
+title: Deasbad mu dhaoine co-sheòrsach a’ toirt seachad fala
+
+image: /images/2009-03-13-deasbad-mu-dhaoine-co-sheorsach-a-toirt-seachad-fala.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - an-rioghachd-aonaichte
-  - naidheachdan
   - slainte
+
 tags:
   - Acquired Immunodeficiency Syndrome
   - AIDS
@@ -38,6 +49,7 @@ tags:
   - SNS
 
 ---
+
 Thèid ath-sgrùdadh a dhèanamh air an casg a th&#8217; air fireannaich co-sheòrsach agus dà-sheòrsach bho bhith a&#8217; toirt seachad fala.
 
 <!--more-->

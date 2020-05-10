@@ -1,16 +1,27 @@
 ---
-title: Bile Gnè Mhanainneach air gluasad air adhart
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2009-03-14 20:33:39
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2009-03-14-bile-gne-mhanainneach-air-gluasad-air-adhart.jpg
+
+title: Bile Gnè Mhanainneach air gluasad air adhart
+
+image: /images/2009-03-14-bile-gne-mhanainneach-air-gluasad-air-adhart.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - an-rioghachd-aonaichte
   - an-roinn-eorpa
   - an-t-saoghal
-  - naidheachdan
   - poilitigs
+
 tags:
   - co-ionannachd
   - co-ionnannachd pòsaidh
@@ -25,6 +36,7 @@ tags:
   - Isle of Man
 
 ---
+
 Tha bile ùr gus an t-Eilean Mhanainn a thoirt gu ìre an Rìoghachd Aonaichte a-thaobh poileasaidhean gnè air faighinn tron a&#8217; chiad ceum dhen Chomhairle Lagha.
 
 <!--more-->

@@ -1,15 +1,26 @@
 ---
-title: Daoine LCDT a’ togail casaid an-aghaidh Riaghaltas Bhachrain
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2009-01-29 18:14:28
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2009-01-29-daoine-lcdt-a-togail-casaid-an-aghaidh-riaghaltas-bharain.jpg
+
+title: Daoine LCDT a’ togail casaid an-aghaidh Riaghaltas Bhachrain
+
+image: /images/2009-01-29-daoine-lcdt-a-togail-casaid-an-aghaidh-riaghaltas-bharain.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - an-t-saoghal
-  - naidheachdan
   - poilitigs
   - teicneolas
+
 tags:
   - An Ear Mheadhanach
   - Bachrain
@@ -27,6 +38,7 @@ tags:
   - social network
 
 ---
+
 Tha daoine LCDT ann am Bachrain a&#8217; togail casaid an-aghaidh riaghaltas an dùthaich as dèidh dhaibh casg a chur air lìn-sòisealta LCDT.
 
 <!--more-->

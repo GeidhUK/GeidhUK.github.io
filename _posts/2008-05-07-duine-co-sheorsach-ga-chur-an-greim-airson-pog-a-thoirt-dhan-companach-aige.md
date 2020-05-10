@@ -1,16 +1,27 @@
 ---
-title: Duine co-sheòrsach ga chur an grèim airson pòg a thoirt dhan companach aige
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2008-05-07 10:10:52
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-05-07-duine-co-sheorsach-ga-chur-an-greim-airson-pog-a-thoirt-dhan-companach-aige.jpg
+
+title: Duine co-sheòrsach ga chur an grèim airson pòg a thoirt dhan companach aige
+
+image: /images/2008-05-07-duine-co-sheorsach-ga-chur-an-greim-airson-pog-a-thoirt-dhan-companach-aige.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - an-rioghachd-aonaichte
   - an-t-saoghal
   - lagh
-  - naidheachdan
   - poilitigs
+
 tags:
   - Aaron Chandler
   - Am Muir Caraibeach
@@ -26,6 +37,7 @@ tags:
   - Royal Palms Resort
 
 ---
+
 Tha duine co-sheòrsach air a bhith ga chur an grèim anns na h-Eileanan Caimean airson pòg a thoirt dhan companach aige fhad &#8217;s a bha iad air saor-làithean anns a&#8217; Mhuir Charaibeach.
 
 <!--more-->

@@ -1,16 +1,27 @@
 ---
-title: Làrach-lìn air a chàineadh airson faighneachd dhan luchd-cleachdaidh mun gnèitheachd aca
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2008-04-09 08:30:36
-image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2008-04-09-larach-lin-air-a-chaineadh-airson-faighneachd-dhan-luchd-cleachdaidh-mun-gneitheachd-aca.jpg
+
+title: Làrach-lìn air a chàineadh airson faighneachd dhan luchd-cleachdaidh mun gnèitheachd aca
+
+image: /images/2008-04-09-larach-lin-air-a-chaineadh-airson-faighneachd-dhan-luchd-cleachdaidh-mun-gneitheachd-aca.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - an-t-saoghal
   - lagh
-  - naidheachdan
   - poilitigs
   - teicneolas
+  
 tags:
   - Aimearaga
   - Alex Kozinski
@@ -30,6 +41,7 @@ tags:
   - website
 
 ---
+
 Chaidh bacadh a chur air làrach-lìn, a tha a&#8217; toirt seachad seirbheis gus companaich flat a lorg, le cùirt anns na Stàitean Aonaichte air sgàth &#8217;s gun robh an làrach-lìn a&#8217; cur ceistean air na buill mu dheidhinn an gnèitheachd aca.
 
 <!--more-->

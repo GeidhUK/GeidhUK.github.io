@@ -17,17 +17,17 @@ author: Crìstean MacMhìcheil
 comments: true
 
 categories:
-- lagh
-- alba
+    - lagh
+    - alba
 
 tags:
-- derek-ogg
-- co-ionannachd
-- equality
-- coirichean-co-ionann
-- equal-rights
-- leth-bhreith
-- discrimination
+    - derek-ogg
+    - co-ionannachd
+    - equality
+    - coirichean-co-ionann
+    - equal-rights
+    - leth-bhreith
+    - discrimination
 
 ---
 
