@@ -1,17 +1,19 @@
 ---
 
+type: post
+
 title: Stad air a chur air an obair gus Achd Aithneachadh Gnè na h-Alba ath-leasachadh
 
 image: /images/2020-04-05-stad-air-a-chur-air-an-obair-gus-achd-aithneachadh-gne-na-h-alba-ath-leasachadh.jpg
 
-type: post
 date: 2020-04-05
+
 author: Crìstean MacMhìcheil
+
 comments: true
 
 categories:
 - alba
-- naidheachdan
 - poilitigs
 
 tags:

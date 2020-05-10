@@ -1,17 +1,18 @@
 ---
 
+type: post
+
 title: Derek Ogg air bàsachadh
 
 image: /images/2020-05-04-derek-ogg-air-basachadh.jpg
 
-
-type: post
 date: 2020-05-04
+
 author: Crìstean MacMhìcheil
+
 comments: true
 
 categories:
-- naidheachdan
 - lagh
 - alba
 
