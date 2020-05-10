@@ -6,7 +6,6 @@ image: /images/banner.jpg
 
 <div class="container">
     {% for post in paginator.posts %}
-      {% unless post.categories contains 'tachartasan' %}
         <div class="row">
           <div class="col-md-3">
             <a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ post.image }}" class="index-image"></a>
@@ -25,7 +24,6 @@ image: /images/banner.jpg
           </div>
         </div>
         <div class="section-divider"></div>
-      {% endunless %}
     {% endfor %}
   <!-- Pagination -->
   {% include pagination.html %}
