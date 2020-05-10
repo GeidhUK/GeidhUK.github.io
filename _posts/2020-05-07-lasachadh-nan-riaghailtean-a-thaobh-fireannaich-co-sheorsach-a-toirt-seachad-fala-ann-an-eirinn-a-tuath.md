@@ -7,7 +7,7 @@ image: /images/2020/05/07/lasachadh-nan-riaghailtean-a-thaobh-fireannaich-co-she
 excerpt: Chaidh ainmeachadh gun tèid an lagh atharrachadh ann an Èirinn a Tuath gus am bi fireannaich co-sheòrsach agus dà-sheòrsach comasach air fuil a thoirt seachad cho fhad ’s nach eil iad air a bhith ri feise le fireannach eile fad trì mìosan.
  
 type: post
-date: 2019-
+date: 2020-05-07 08:00:00
 author: Crìstean MacMhìcheil
 comments: true
 
