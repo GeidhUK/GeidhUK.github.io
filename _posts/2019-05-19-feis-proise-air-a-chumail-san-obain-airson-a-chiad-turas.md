@@ -1,15 +1,27 @@
 ---
-title: Fèis-pròise air a chumail san Òban airson a’ chiad turas
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2019-05-19 11:05:00
+
+title: Fèis-pròise air a chumail san Òban airson a’ chiad turas
+
 image: /images/2019-05-18-feis-proise-an-obain.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
 - alba
 - feisean-proise
-- naidheachdan
-tags: 
+
+tags:
+
 ---
 
 Chaidh caismeachd pròise a chumail san Òban an-dè airson a’ chiad turas a-riamh.

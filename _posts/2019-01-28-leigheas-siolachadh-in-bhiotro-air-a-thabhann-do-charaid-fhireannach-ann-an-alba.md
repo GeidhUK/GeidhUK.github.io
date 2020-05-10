@@ -1,15 +1,26 @@
 ---
-title: Leigheas sìolachadh in-bhiotro air a thabhann do chàraid fhireannach ann an Alba
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2019-01-28 19:51:39
+
+title: Leigheas sìolachadh in-bhiotro air a thabhann do chàraid fhireannach ann an Alba
+
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2019-01-28-leigheas-siolachadh-in-bhiotro-air-a-thabhann-do-charaid-fhireannach-ann-an-alba.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - alba
   - an-rioghachd-aonaichte
-  - naidheachdan
   - slainte
+
 tags:
   - Alba
   - Baby
@@ -38,6 +49,7 @@ tags:
   - teaghlach
 
 ---
+
 Thàinig e am follais Didòmhnaich gun deach leigheas sìolachadh in-bhiotro a thabhann do chàraid fhireannach co-sheòrsach ann an Alba airson a’ chiad turas a-riamh san Rìoghachd Aonaichte.
 
 <!--more-->

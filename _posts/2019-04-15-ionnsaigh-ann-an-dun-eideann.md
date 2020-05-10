@@ -1,16 +1,27 @@
 ---
-title: Ionnsaigh ann an Dùn Èideann
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2019-04-15 19:52
+
+title: Ionnsaigh ann an Dùn Èideann
+
 image: /images/2019-04-15-ionnsaigh-ann-an-dun-eideann.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
 - alba
 - lagh
-- naidheachdan
+
 tags:
-comments: true
+
 ---
 
 Tha [STV News](https://stv.tv/news/east-central/1437007-drag-artist-attacked-on-street-in-early-morning-attack/) ag aithris gu bheil am Poileas a’ rannsachadh ionnsaigh air fireannach, 40, ann an Dùn Èideann.

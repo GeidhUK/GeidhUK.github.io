@@ -1,16 +1,27 @@
 ---
-title: Buill SNP a’ càineadh a’ Prìomh Mhinisteir airson a seasamh a thaobh còirichean tar-ghnèitheach
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2019-04-19 17:50
+
+title: Buill SNP a’ càineadh a’ Prìomh Mhinisteir airson a seasamh a thaobh còirichean tar-ghnèitheach
+
 image: /images/2019-04-19-buill-snp-a-caineadh-a-phriomh-mhinisteir-airson-a-seasamh-a-thaobh-còirichean-tar-ghnèitheach.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
 - alba
-- naidheachdan
 - poilitigs
+
 tags:
-comments: true
+
 ---
 
 Chaidh teachdaireachdan a fhoillseachadh air loidhne anns a bheil triùir BPA SNP a’ càineadh seasamh a’ Phrìomh Mhinistear, Nicola Sturgeon, a thaobh  còirichean tar-ghnèitheach  agus ath-leasachaidhean air an Achd Aithne Gnè.

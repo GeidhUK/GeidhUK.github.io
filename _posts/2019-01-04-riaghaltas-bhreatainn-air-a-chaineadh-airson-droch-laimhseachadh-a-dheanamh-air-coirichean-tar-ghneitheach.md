@@ -1,15 +1,26 @@
 ---
-title: Riaghaltas Bhreatainn air a chàineadh airson droch-làimhseachadh a dhèanamh air còirichean tar-ghnèitheach
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2019-01-04 20:55:27
+
+title: Riaghaltas Bhreatainn air a chàineadh airson droch-làimhseachadh a dhèanamh air còirichean tar-ghnèitheach
+
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2019-01-04-riaghaltas-bhreatainn-air-a-chaineadh-airson-droch-laimhseachadh-a-dheanamh-air-coirichean-tar-ghneitheach.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - an-rioghachd-aonaichte
   - lagh
-  - naidheachdan
   - poilitigs
+
 tags:
   - Achd Aithneachadh Gnè
   - ath-leasachadh
@@ -28,6 +39,7 @@ tags:
   - Women and Equalties Committee
 
 ---
+
 Tha Maria Miller, cathraiche Comataidh nam Ban agus Co-ionannachd, air an riaghaltas a chàineadh airson droch-làimhseachadh a dhèanamh air còirichean tar-ghnèitheach.
 
 <!--more-->

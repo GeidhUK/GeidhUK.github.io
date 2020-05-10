@@ -2,11 +2,15 @@
 
 type: post
 
+date: 2020-03-29
+
 title: Àireamh de dhaoine a' cleachdadh loidhne-chuideachaidh LCDT+ air àrdachadh air sgàth Coròna-bhìoras
 
 image: /images/2020-03-29-aireamh-de-dhaoine-a-cleachdadh-loidhne-chuideachaidh-lcdt-air-ardachadh-air-sgath-corona-bhioras.jpg
 
-date: 2020-03-29
+image-caption:
+
+image-licence:
 
 author: Crìstean MacMhìcheil
 

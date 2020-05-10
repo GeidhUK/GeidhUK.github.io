@@ -1,16 +1,27 @@
 ---
-title: Iomairt airson tachartas pròise a chumail ann am Moireabh
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2019-08-22 20:30:00
+
+title: Iomairt airson tachartas pròise a chumail ann am Moireabh
+
 image: /images/2019-08-22-iomairt-airson-tachartas-proise-a-chumail-ann-am-moireabh.JPG
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
 - alba
 - feisean-proise
-- naidheachdan
+
 tags:
-comments: true
+
 ---
 
 Chaidh iomairt a stèidheachadh gus fèis-pròise a chumail ann am Moireabh an ath-bhliadhna.

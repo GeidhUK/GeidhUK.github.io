@@ -1,16 +1,27 @@
 ---
-title: Inbhe athair air a dhiùltadh do thar-fhireannach
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2019-09-27 16:00:00
+
+title: Inbhe athair air a dhiùltadh do thar-fhireannach
+
 image: /images/2019-09-27-inbhe-athair-air-a-dhiultadh-do-thar-fhireannach.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
 - an-rioghachd-aonaichte
 - lagh
-- naidheachdan
+
 tags:
-comments: true
+
 ---
 
 Tha an Àrd-chùirt ann an Lunnainn air co-dhùnadh nach fhaod tar-fhireannach, Freddy McConnell, clàradh mar athair air teisteanas-breith an leanabh aige air sgàth 's gun do rug e an leanabh.

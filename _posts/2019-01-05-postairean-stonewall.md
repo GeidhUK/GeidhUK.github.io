@@ -1,15 +1,28 @@
 ---
-title: Postairean Stonewall
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2019-01-05 21:50:34
+
+title: Postairean Stonewall
+
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2019-01-05-postairean-stonewall.png
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 featured: true
+
 categories:
   - blog
   - gaidhlig
   - naidheachdan
+
 tags:
   - agender
   - Aromantic

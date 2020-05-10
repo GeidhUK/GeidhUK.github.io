@@ -1,15 +1,27 @@
 ---
-title: Tagraiche taghaidh Obar Dheathain air a chur à rèim airson puist an-aghaidh nan Iudhach agus nan co-sheòrsach
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2019-11-20
+
+title: Tagraiche taghaidh Obar Dheathain air a chur à rèim airson puist an-aghaidh nan Iudhach agus nan co-sheòrsach
+
 image: /images/2019-11-20-tagraiche-taghaidh-obar-dheathain-air-a-chur-a-reim.JPG
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
 - alba
-- naidheachdan
 - poilitigs
-comments: true
+
+tags:
+
 ---
 
 Chaidh Ryan Houghton, tagraiche taghaidh Obar Dheathain a Tuath, a chur à rèim le Pàrtaidh Tòraidheach na h-Alba as dèidh dha puist an-aghaidh nam Muslamach, an-aghaidh nan Iùdhach agus an-aghaidh nan co-sheòrsach a sgrìobhadh ann am fòram air loidhne.

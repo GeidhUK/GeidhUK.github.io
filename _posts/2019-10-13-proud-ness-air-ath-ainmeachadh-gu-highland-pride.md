@@ -1,16 +1,27 @@
 ---
-title: Proud Ness air ath-ainmeachadh gu Highland Pride
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2019-10-13 17:40:00
+
+title: Proud Ness air ath-ainmeachadh gu Highland Pride
+
 image: /images/2019-10-13-proud-ness-air-ath-ainmeachadh-gu-highland-pride.JPG
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
 - alba
 - feisean-proise
-- naidheachdan
+
 tags:
-comments: true
+
 ---
 
 Tha eagraichean Fèis-pròise Inbhir Nis air ainmeachadh gun tèid am buidheann aca ath-ainmeachadh gu Highland Pride gus coimhearsnachd LCDT+ na sgìre air fad aithneachadh.

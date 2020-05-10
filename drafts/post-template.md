@@ -2,11 +2,15 @@
 
 type: post
 
+date: 
+
 title: 
 
 image: /images/
- 
-date: 
+
+image-caption:
+
+image-licence:
 
 author: Crìstean MacMhìcheil
 

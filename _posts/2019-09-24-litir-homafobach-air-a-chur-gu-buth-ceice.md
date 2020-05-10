@@ -1,16 +1,27 @@
 ---
-title: Litir homafòbach air a chur gu bùth cèice
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2019-09-24 13:45:00
+
+title: Litir homafòbach air a chur gu bùth cèice
+
 image: /images/2019-09-24-litir-homafobach-air-a-chur-gu-buth-ceice.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
 - lagh
-- naidheachdan
 - alba
+
 tags:
-comments: true
+
 ---
 
 Bha iongnadh air luchd-obrach aig bùth cèice ann am Baile Udain Diardaoin as dèidh dhaibh litir homafòbach fhaighinn tron phost.

@@ -1,16 +1,28 @@
 ---
-title: Obair-taighe
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2019-11-17 12:30:00
+
+title: Obair-taighe
+
 image: /images/2019-11-17-obair-taighe.PNG
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
 - blog
 - codachadh
 - jekyll
-- naidheachdan
-comments: true
+
+tags:
+
 ---
 
 Tha mi duilich gu bheil Geidh.uk air a bhith sàmhach o chionn ghoirid ach tha mi air a bhith trang leis m' obair làitheil. Nuair a tha ùine shaor air a bhith agam tha mi air a bhith ag obair air còd Geidh.uk a sgioblachadh agus a dhèanamh nas èifeachdaiche.

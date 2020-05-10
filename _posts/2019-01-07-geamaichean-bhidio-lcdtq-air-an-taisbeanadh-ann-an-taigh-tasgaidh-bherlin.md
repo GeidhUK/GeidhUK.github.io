@@ -1,15 +1,26 @@
 ---
-title: Geamaichean-bhidio LCDTQ air an taisbeanadh ann an taigh-tasgaidh Bherlin
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2019-01-07 16:12:28
+
+title: Geamaichean-bhidio LCDTQ air an taisbeanadh ann an taigh-tasgaidh Bherlin
+
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2019-01-07-geamaichean-bhidio-lcdtq-air-an-taisbeanadh-ann-an-taigh-tasgaidh-bherlin.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - an-roinn-eorpa
   - cultar
-  - naidheachdan
   - teicneolas
+
 tags:
   - Adrienne Shaw
   - Berlin
@@ -29,6 +40,7 @@ tags:
   - video games
 
 ---
+
 Tha [Taigh-tasgaidh Schwules][1] ann am Berlin air taisbeanadh ùr fhosgladh gus geamaichean-bhidio LCDTQ a chomharrachadh.
 
 <!--more-->

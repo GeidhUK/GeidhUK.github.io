@@ -1,17 +1,28 @@
 ---
-title: Carragh-cuimhne do dhaoine co-sheòrsach a dh’fhulaing geur-leanmhainn nan Nàsach air a mhilleadh
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2019-08-20 17:17:00
+
+title: Carragh-cuimhne do dhaoine co-sheòrsach a dh’fhulaing geur-leanmhainn nan Nàsach air a mhilleadh
+
 image: /images/2019-08-20-carragh-cuimhne-do-dhaoine-co-sheorsach-a-dh-fhulaing-geur-leanmhainn-nan-nasach-air-a-mhilleadh.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
 - an-roinn-eorpa
 - cultar
 - lagh
-- naidheachdan
+
 tags:
-comments: true
+
 ---
 
 Tha AP News anns a’ Ghearmailt ag aithris gun deach carragh-cuimhne do dhaoine co-sheòrsach a dh’fhulaing geur-leanmhainn nan Nàsach a mhilleadh.

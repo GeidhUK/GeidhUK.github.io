@@ -1,21 +1,33 @@
 ---
-title: Planaichean Fèis-pròise Ghlaschu air a dhiùltadh leis a' chomhairle
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2019-04-01 21:30:00
+
+title: Planaichean Fèis-pròise Ghlaschu air a dhiùltadh leis a' chomhairle
+
 image: /images/2019-04-01-planaichean-feis-proise-ghlaschu-air-a-dhiultadh-leis-a-chomhairle.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
 - alba
 - feisean-proise
 - naidheachdan
+
 tags:
 - pride
 - glasgow
 - feis-proise
 - glaschu
 - mardigla
-comments: true
+
 ---
 
 Tha [Glasgow Life](https://www.glasgowlife.org.uk/) air dearbhadh nach tèid Fèis-pròise Ghlaschu a chumail aig Taigh-tasgaidh Taobh na h-Aibhne am-bliadhna air sgàth 's suim airgid a tha fhathast ri phàigheadh ris a' chomhairle airson tachartasan roimhe.

@@ -1,14 +1,25 @@
 ---
-title: Talla-spors Dhùn Èideann a’ tabhann chlasaichean fallaineachd an-asgaidh do dhaoine tar-gnèitheach agus neo-bhìnearaidh
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2019-01-11 14:56:18
+
+title: Talla-spors Dhùn Èideann a’ tabhann chlasaichean fallaineachd an-asgaidh do dhaoine tar-gnèitheach agus neo-bhìnearaidh
+
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/2019-01-11-talla-spors-dhun-eideann-a-tabhann-chlasaichean-fallaineachd-an-asgaidh-do-dhaoine-tar-gneitheach-agus-neo-bhinearaidh.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
   - alba
-  - naidheachdan
   - slainte
+
 tags:
   - Dùn Èideann
   - Edinburgh
@@ -32,6 +43,7 @@ tags:
   - transsexual
 
 ---
+
 Tha an talla-spòrs neo-phrothaideach [Projekt 42][1] ann an Lìte air ainmeachadh gum bi iad a’ tabhann chlasaichean fallaineachd seachdaineil an-asgaidh do dhaoine tar-ghnèitheach agus neo-bhìnearaidh.
 
 <!--more-->

@@ -1,15 +1,27 @@
 ---
-title: Tagraiche taghaidh Ghleann Rathais air cogadh a ghairm an-aghaidh na coimhearsnachd LCDTQ
-author: Crìstean MacMhìcheil
+
 type: post
+
 date: 2019-11-20
+
+title: Tagraiche taghaidh Ghleann Rathais air cogadh a ghairm an-aghaidh na coimhearsnachd LCDTQ
+
 image: /images/2019-11-20-tagraiche-taghaidh-ghleann-rathais-air-cogadh-a-ghairm-an-aghaidh-na-coimhearsnachd-lcdtq.jpg
+
+image-caption:
+
+image-licence:
+
+author: Crìstean MacMhìcheil
+
 comments: true
+
 categories:
 - alba
-- naidheachdan
 - poilitigs
-comments: true
+
+tags:
+
 ---
 
 Tha tagraiche taghaidh ann an Gleann Rathais air taic a’ Phàrtaidh Bhrexit a chall as dèidh dha cogadh a ghairm an-aghaidh na coimhearsnachd LCDTQ+.
