@@ -1,16 +1,29 @@
 ---
+
 title: Derek Ogg air bàsachadh
-author: Crìstean MacMhìcheil
+
+image: /images/2020-05-04-derek-ogg-air-basachadh.jpg
+
+
 type: post
 date: 2020-05-04
-image: /images/2020-05-04-derek-ogg-air-basachadh.jpg
+author: Crìstean MacMhìcheil
 comments: true
+
 categories:
 - naidheachdan
 - lagh
 - alba
+
 tags:
-comments: true
+- derek-ogg
+- co-ionannachd
+- equality
+- coirichean-co-ionann
+- equal-rights
+- leth-bhreith
+- discrimination
+
 ---
 
 Tha Derek Ogg, an neach-lagha a stiùir an iomairt gus maitheanas a thoirt do dh’fhireannaich gèidh agus dà-sheòrsach a chaidh a dhìteadh airson eucoirean feise ann an Alba, air bàsachadh aig aois 65.
