@@ -1,16 +1,21 @@
 ---
+
 title: Stad air a chur air an obair gus Achd Aithneachadh Gnè na h-Alba ath-leasachadh
-author: Crìstean MacMhìcheil
+
+image: /images/2020-04-05-stad-air-a-chur-air-an-obair-gus-achd-aithneachadh-gne-na-h-alba-ath-leasachadh.jpg
+
 type: post
 date: 2020-04-05
-image: /images/2020-04-05-stad-air-a-chur-air-an-obair-gus-achd-aithneachadh-gne-na-h-alba-ath-leasachadh.jpg
+author: Crìstean MacMhìcheil
 comments: true
+
 categories:
 - alba
 - naidheachdan
 - poilitigs
+
 tags:
-comments: true
+
 ---
 
 Dhearbh Graeme Dey, Ministear airson Gnothaichean na Pàrlamaid agus Seann-saighdearan, an seachdain seo gun deach dàil a chur air obair a’ Phàrlamaid air cìs turasachd, ath-leasachaidhean gnè agus reachdas Brexit gus an urrainn do BhPA fòcas a dhèanamh air èiginn a’ Choròna-bhìoras.
