@@ -1,14 +1,21 @@
 ---
+
 title: 
-author: Crìstean MacMhìcheil
+
+image: /images/
+
+excerpt: 
+ 
 type: post
-date: 2019-
-image: /images/.jpg
+date: 
+author: Crìstean MacMhìcheil
 comments: true
+
 categories:
-- naidheachdan
+- 
+
 tags:
-comments: true
+- 
+
 ---
 
-<!--more-->
