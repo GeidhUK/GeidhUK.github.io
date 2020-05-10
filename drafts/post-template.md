@@ -3,8 +3,6 @@
 title: 
 
 image: /images/
-
-excerpt: 
  
 type: post
 date: 
@@ -19,3 +17,5 @@ tags:
 
 ---
 
+
+<!--more-->
