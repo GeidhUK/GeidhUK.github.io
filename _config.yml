@@ -52,19 +52,3 @@ featured-color: "#7e3c8d"
 # Separator to mark end of post excerpt
 excerpt_separator: <!--more-->
 
-collections:
-  feisean-proise:
-      output: true
-      permalink: /tachartasan/feisean-proise/:path/
-  ceol:
-      output: true
-      permalink: /tachartasan/ceol/:path/
-  oigridh:
-      output: true
-      permalink: /tachartasan/oigridh/:path/
-  inbhich:
-      output: true
-      permalink: /tachartasan/inbhich/:path/
-  spors:
-      output: true
-      permalink: /tachartasan/spors/:path/
