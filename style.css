@@ -200,11 +200,11 @@ a {
     color: #f3f3f3;
 }
 
-.social-links {
+.footer .social-links {
   margin: 0px 15px;
 }
 
-.social-links:hover {
+.footer .social-links:hover {
   text-decoration: none;
 }
 
