@@ -200,6 +200,14 @@ a {
     color: #f3f3f3;
 }
 
+.social-links {
+  margin: 0px 15px;
+}
+
+.social-links:hover {
+  text-decoration: none;
+}
+
 @media (max-width: 767px){
   .mobile {
     display: block;
