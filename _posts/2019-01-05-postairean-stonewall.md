@@ -21,7 +21,6 @@ featured: true
 categories:
   - blog
   - gaidhlig
-  - naidheachdan
 
 tags:
   - agender
