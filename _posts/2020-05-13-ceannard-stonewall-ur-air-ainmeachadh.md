@@ -24,7 +24,7 @@ tags:
 
 ---
 
-Chaidh ainmeachadh Dimàirt gur e Nancy Kelley ceannard ùr a' charthannais LGBT+ Stonewall.
+Chaidh [ainmeachadh](https://www.stonewall.org.uk/about-us/news/stonewall-welcomes-nancy-kelley-new-ceo) Dimàirt gur e Nancy Kelley ceannard ùr a' charthannais LGBT+ Stonewall.
 
 <!--more-->
 
