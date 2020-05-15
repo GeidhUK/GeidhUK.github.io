@@ -28,7 +28,7 @@ Tha [HIV Scotland](https://www.hiv.scot/) agus [Waverley Care](https://www.waver
 
 <!--more-->
 
-Tha [HIV Self-test Scotland](https://hivtest.scot) ag ràdh gu bheil iad airson dòigh shìmplidh fèin-deuchainn a thabhann do dhaoine air feadh na h-Alba, gu h-àraid ri linn a' Choròna-bhìoras nuair nach eil a h-uile duine comasach air siubhal.
+Tha [HIV Self-test Scotland](https://hivtest.scot) ag ràdh gu bheil iad airson dòigh shìmplidh fèin-dheuchainn a thabhann do dhaoine air feadh na h-Alba, gu h-àraid ri linn a' Choròna-bhìoras nuair nach eil a h-uile duine comasach air siubhal.
 
 Bidh na deuchainnean a' sgrùdadh boinne-fala gus anti-cuirp HIV a lorg agus tha an stiùireadh aca ag ràdh gu bheil iad comasach air toradh a thoirt seachad ann an 15 mionaid agus gu bheil ìre-mionaideachd de 99.7% aca.
 
