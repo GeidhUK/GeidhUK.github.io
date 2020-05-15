@@ -32,4 +32,4 @@ Tha [HIV Self-test Scotland](https://hivtest.scot) ag ràdh gu bheil iad airson 
 
 Bidh na deuchainnean a' sgrùdadh boinne-fala gus anti-cuirp HIV a lorg agus tha an stiùireadh aca ag ràdh gu bheil iad comasach air toradh a thoirt seachad ann an 15 mionaid agus gu bheil ìre-mionaideachd de 99.7% aca.
 
-Faodar deuchainnean òrdachadh an-asgaidh bho [hivtest.scot](https://hivtest.scot) agus thèid an cur tron phost ann am pacaigeadh neo-nochdaidh taobh a-staigh 48 uair a thìde.
+Faodar deuchainnean òrdachadh an-asgaidh bho [hivtest.scot/order](https://hivtest.scot/order) agus thèid an cur tron phost ann am pacaigeadh neo-nochdaidh taobh a-staigh 48 uair a thìde.
