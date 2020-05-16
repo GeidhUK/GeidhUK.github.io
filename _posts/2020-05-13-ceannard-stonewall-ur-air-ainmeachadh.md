@@ -28,7 +28,7 @@ Chaidh [ainmeachadh](https://www.stonewall.org.uk/about-us/news/stonewall-welcom
 
 <!--more-->
 
-Tha Kelley an-dràsta ag obair aig an Ionad Nàiseanta airson Rannsachadh Sòisealta (NatCen) far a bheil i na Leas-cheannard agus Stiùiriche an Ionaid-rannsachaidh Poileasaidh.
+Tha Kelley an-dràsta ag obair aig an [Ionad Nàiseanta airson Rannsachadh Sòisealta (NatCen)](http://natcen.ac.uk) far a bheil i na Leas-cheannard agus Stiùiriche an Ionaid-rannsachaidh Poileasaidh.
 
 Bha an obair aice aig NatCen an-lùib rannsachaidh air beachdan a' mhòr-shluaigh air coimhearsnachdan LGBT+ agus air leth-bhreith agus às-dùnadh sòisealta a-measg daoine LGBT+ agus mion-bhuidhnean eile.
 
