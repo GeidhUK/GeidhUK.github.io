@@ -4,9 +4,9 @@ layout: post
 
 date: 2020-05-17
 
-title: A’ chiad chàraid co-sheòrsach gus làimhseachadh IVF fhaighinn tro NHS na h-Alba an dùil ri leanabh
+title: A’ chiad chàraid cho-sheòrsach gus làimhseachadh IVF fhaighinn tro NHS na h-Alba an dùil ri leanabh
 
-image: /images/2020-05-17-a-chiad-charaid-co-sheorsach-gus-laimhseachadh-ivf-fhaighinn-tro-nhs-na-h-alba-an-duil-ri-leanabh.jpg
+image: /images/2020-05-17-a-chiad-charaid-cho-sheorsach-gus-laimhseachadh-ivf-fhaighinn-tro-nhs-na-h-alba-an-duil-ri-leanabh.jpg
 
 image-caption:
 
@@ -25,7 +25,7 @@ tags:
 
 ---
 
-Chaidh ainmeachadh gu bheil càraid co-sheòrsach ann an Dùn Èideann an dùil ri leanabh as t-samhradh as dèidh dhaibh làimhseachadh IVF fhaighinn tro NHS na h-Alba.
+Chaidh ainmeachadh gu bheil càraid cho-sheòrsach ann an Dùn Èideann an dùil ri leanabh as t-samhradh as dèidh dhaibh làimhseachadh IVF fhaighinn tro NHS na h-Alba.
 
 <!--more-->
 
