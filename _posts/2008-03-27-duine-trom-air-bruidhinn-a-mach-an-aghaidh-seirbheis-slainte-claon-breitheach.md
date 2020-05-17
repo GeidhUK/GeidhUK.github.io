@@ -1,6 +1,6 @@
 ---
 
-type: post
+layout: post
 
 date: 2008-03-27 08:52:10
 

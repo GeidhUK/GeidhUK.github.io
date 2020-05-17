@@ -1,6 +1,6 @@
 ---
 
-type: post
+layout: post
 
 date: 2020-01-04
 

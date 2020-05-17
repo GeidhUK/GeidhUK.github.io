@@ -1,6 +1,6 @@
 ---
 
-type: post
+layout: post
 
 date: 2018-05-21 18:22:52
 
