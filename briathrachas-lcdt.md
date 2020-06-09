@@ -197,9 +197,9 @@ An dòigh anns a bhios cuideigin a' toirt iomradh air an gnè aca. Dh'fhaodadh e
 
 #### Eadar-ghnèitheach
 
-<div class="text-muted">(non-binary)</div>
+<div class="text-muted">(intergender)</div>
 
-Tha eadar-ghnèitheach a' toirt iomradh air cuideigin aig nach eil dearbh aithne boireann no fireann. Ma dh'fhaodte gum bi iad a' toirt iomradh orra fhèin mar mheasgachadh dhen dà chuid, mar eadar-ghnèitheach no mar rudeigin gu tur eadar-dhealaichte.
+Mìneachadh
 
 #### Eadar-sheòrsach
 
