@@ -1,7 +1,7 @@
 <div class="comments">
   {% if page.comments %}
 
-  <p>Faodar beachdan mun alt seo a chur thugam air <a href="{{ page.twitter }}">Twitter</a>, <a href="{{ page.instagram }}">Instagram</a> no <a href="{{ page.facebook }}">Facebook</a>.</p>
+  <p>Faodar beachdan mun alt seo a chur thugam air <a {% if page.twitter %} href="{{ page.twitter }}" {% else %} href="https://www.twitter.com/GeidhUK">Twitter</a>, <a href="{{ page.instagram }}">Instagram</a> no <a href="{{ page.facebook }}">Facebook</a>.</p>
 
   <!--
   <div id="disqus_thread"></div>
