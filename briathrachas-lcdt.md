@@ -329,7 +329,7 @@ Tha ioma-sheòrsach a' toirt iomradh air cuideigin aig a bheil miann air iomadh 
 
 <div class="text-muted">(LGBT+)</div>
 
-Lesbach, Co-ghnèitheach, Dà-ghnèitheach, Tar-ghnèitheach
+Lesbach, Co-sheòrsach, Dà-sheòrsach, Tar-ghnèitheach
 
 #### Leasbach
 
@@ -367,11 +367,11 @@ Tha leth-ghnèitheach a' toirt iomradh air cuideigin aig a bheil ceangal pàirti
 
 Tha leth-sheòrsach a' toirt iomradh air cuideigin aig nach eil miann feise air daoine eile mura h-eil ceangal faireachail eadarra cuideachd.
 
-#### LGDT+
+#### LGDTCE+
 
-<div class="text-muted">(LGBT+)</div>
+<div class="text-muted">(LGBTQI+)</div>
 
-Leasbach, Gèidh, Dà-ghnèitheach, Tar-ghnèitheach
+Leasbach, Gèidh, Dà-sheòrsach, Tar-ghnèitheach, Cuèir, Eadar-ghnèitheach
 
 #### Luchd-gèidh
 
