@@ -23,9 +23,9 @@ categories:
 tags:
     -
 
-twitter:
-instagram:
-facebook:
+twitter: https://twitter.com/GeidhUK/status/1278215287721070592
+instagram: https://www.instagram.com/p/CCFxRg8A2A7/
+facebook: https://www.facebook.com/GeidhUK/posts/3156015527754315
 
 ---
 
