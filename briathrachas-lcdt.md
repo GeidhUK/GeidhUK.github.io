@@ -261,6 +261,12 @@ Tha taobhadh-feise no feisealachd a' toirt iomradh air a' phàtran de mhiann fai
 
 Mar as trice tha gèidh a' toirt iomradh air fireannach aig a bheil miann air fireannaich eile, ach tha e cuideachd air a chleachdadh gus iomradh a thoirt air a' choimhearsnachd LCDT+ san fharsaingeachd.
 
+#### Gèidheal
+
+<div class="text-muted">(an LGBTQI+ Gaelic speaker)</div>
+
+Gàidheal LGDTCE+.
+
 #### Gnè-nòrmadach
 
 <div class="text-muted">(gender normative)</div>
