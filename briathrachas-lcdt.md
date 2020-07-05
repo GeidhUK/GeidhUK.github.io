@@ -7,9 +7,9 @@ image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/briat
 
 <button onclick="topFunction()" id="myBtn" title="Dhan mhullach"><i class="fas fa-arrow-alt-circle-up"></i></button>
 
-'S e seo liosta dhen briathrachas LCDTE+ a bhios mi a' cleachdadh air an làrach-lìn seo. Cuiribh fios thugam air [Twitter](https://twitter.com/intent/tweet?screen_name=GeidhUK) no [Post-d](mailto:chris@macmhicheil.uk) ma lorgas sibh mearachd no facal a tha a dhìth.
+'S e seo liosta dhen briathrachas LGDTCE+ a bhios mi a' cleachdadh air an làrach-lìn seo. Cuiribh fios thugam air [Twitter](https://twitter.com/intent/tweet?screen_name=GeidhUK) no [Post-d](mailto:chris@macmhicheil.uk) ma lorgas sibh mearachd no facal a tha a dhìth.
 
-_Below is a list of the LGBTI+ vocabulary used on this site. Let me know on [Twitter](https://twitter.com/intent/tweet?screen_name=GeidhUK) or [Email](mailto:chris@macmhicheil.uk) if you spot a mistake or a missing word._
+_Below is a list of the LGBTQI+ vocabulary used on this site. Let me know on [Twitter](https://twitter.com/intent/tweet?screen_name=GeidhUK) or [Email](mailto:chris@macmhicheil.uk) if you spot a mistake or a missing word._
 
 ### [A](#A) | [B](#B) | [C](#C) | [D](#D) | [E](#E) | [F](#F) | [G](#G) | [H](#H) | [I](#I) | [L](#L) | [M](#M) | [N](#N) | [O](#O) | [P](#P) | [R](#R) | [S](#S) | [T](#T) | [U](#U)
 
