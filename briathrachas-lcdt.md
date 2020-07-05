@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Briathrachas LCDTQ+
+title: Briathrachas LGDTCE+
 permalink: /briathrachas-lcdt/
 image: https://raw.githubusercontent.com/MacMhicheil/GeidhUK/master/images/briathrachas-lcdt.png
 ---
