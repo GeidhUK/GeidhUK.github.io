@@ -22,7 +22,7 @@ categories:
 tags:
     - 
 
-twitter: https://twitter.com/geidhuk/status/1281895745323491329
+twitter: https://twitter.com/geidhuk/status/1281896396539531266
 instagram: https://www.instagram.com/p/CCfzWYdgzOr/
 facebook: https://www.facebook.com/GeidhUK/posts/3183314391691095
 
