@@ -15,11 +15,20 @@ Gu h-ìosal tha liosta de cheanglaichean a dh'fhaodadh a bhith feumail no inntin
 #### Boireannaich
 
 * [Highland Hearts](http://www.highlandhearts.net/)
+* [Shakti Women's Aid](http://shaktiedinburgh.co.uk/lgbti/)
 
 #### Buidhnean Iomairt
 
 * [Equality Network](https://www.equality-network.org)
 * [Stonewall Scotland](http://www.stonewallscotland.org.uk/)
+
+#### Buidhnean Ionadail
+
+* [Dumfries & Galloway LGBT Plus](https://lgbtplus.org.uk)
+* [Four Pillar](https://www.fourpillarsuk.org)
+* [Grampian Tfolk](https://www.facebook.com/groups/358763980879889/)
+* [Just Be Yourself](https://justbeyourself.org.uk/welcome/)
+* [Perth TG Group](https://www.facebook.com/groups/perthtggroup/)
 
 #### Buidhnean Òigridh
 
@@ -44,6 +53,7 @@ Gu h-ìosal tha liosta de cheanglaichean a dh'fhaodadh a bhith feumail no inntin
 
 #### Comhairle
 
+* [LGBT Foundation](https://lgbt.foundation)
 * [LGBT Health & Wellbeing](http://www.lgbthealth.org.uk/)
 * [LGBT Helpline](http://www.lgbthealth.org.uk/helpline/)
 * [LGBT Switchboad](https://switchboard.lgbt/)
@@ -79,6 +89,10 @@ Gu h-ìosal tha liosta de cheanglaichean a dh'fhaodadh a bhith feumail no inntin
 * [Pink Saltire](https://pinksaltire.com/)
 * [ScotsGay Magazine](http://www.scotsgay.co.uk/)
 
+#### Neo-bhìnearaidh
+
+* [Non-binary Scotland](http://www.nonbinaryscotland.org/)
+
 #### Pàrantan
 
 * [Equality Network: Parenting](https://www.equality-network.org/your-rights/parenting/)
@@ -106,5 +120,14 @@ Gu h-ìosal tha liosta de cheanglaichean a dh'fhaodadh a bhith feumail no inntin
 
 #### Tar-ghnèitheach
 
+* [Beyond Gender](https://www.facebook.com/beyondgenderyouth)
+* [Edinburgh Trans Women](http://www.edinburghtranswomen.org.uk)
+* [The Gender Trust](http://www.gendertrust.org.uk/)
+* [GIRES (The Gender Identity Research and Education Society)](https://www.gires.org.uk/)
+* [Grampian Tfolk](https://www.facebook.com/groups/358763980879889/)
+* [Mermaids](https://mermaidsuk.org.uk/)
 * [Scottish Trans Alliance](https://www.scottishtrans.org/)
+* [Seahorses Swimming Group](https://www.facebook.com/Seahorsesglasgow)
 * [Swans of Scotland](http://www.spanglefish.com/SwansofScotland/)
+* [Trans Men Scotland](http://www.transmenscotland.org.uk/)
+* [Transgender Fife](https://transgenderfife.com/)
