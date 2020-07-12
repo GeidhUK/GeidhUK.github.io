@@ -54,7 +54,7 @@ Beagan fiosrachaidh mu dheidhinn dleastanasan agus còirichean phàrant, uchd-mh
 
 Tuairisgeul
 
-### Ceanglaichean Feumail
+## Ceanglaichean Feumail
 
 #### [**Childline**](https://www.childline.org.uk/info-advice/your-feelings/sexual-identity/)
 
@@ -98,16 +98,16 @@ Bidh Stonewall Scotland ag iomairt airson còirichean LCDT+ air feadh na h-Alba.
 
 **Fòn:** 0131 474 8019
 
-# Seirbheisean Èiginn
+## Seirbheisean Èiginn
 
-### **999** Seirbheisean Èiginn
+#### **999** Seirbheisean Èiginn
 
 (Suidheachaidhean èiginneach a-mhàin)
 
-### **101** Police Alba
+#### **101** Police Alba
 
 _(Mura h-eil e èiginneach)_
 
-### **111** NHS 24
+#### **111** NHS 24
 
 _(Mura h-eil e èiginneach)_
