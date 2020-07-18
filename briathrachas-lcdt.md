@@ -623,6 +623,12 @@ Tha tar-sheòrsach a' toirt iomradh air daoine tar-ghnèitheach a tha air eadar-
 
 Bidh cuid de dhaoine a' cleachdadh tar-ghnèitheach, tar-sheòrsach no an giorrachadh _trans_ an àite a chèile.
 
+#### Teiripe iompachadh co-sheòrsachd
+
+<div class="text-muted">(gay conversion therapy)</div>
+
+Mìneachadh
+
 #### Teiripe ionadachadh bhrodagan
 
 <div class="text-muted">(hormone replacement therapy)</div>
