@@ -41,7 +41,7 @@ Tha iad air an Riaghaltas a chàineadh airson dàil a chur air foillseachadh ath
 
 "Leis an sin, tha sinn a' cur an cèill ar taic airson an còir a th' aig tar-dhaoine air fèin-aithneachadh."
 
-Cuideachd thug iad iomradh air aithis an Sunday Times a thuirt gun robh an Riaghaltas a' dèanamh planaichean gus casg a chur air teiripe iompachadh co-sheòrsachd gus a' choimhearsnachd LGDTCE+ a chiùineachadh.
+Cuideachd thug iad iomradh air aithris an Sunday Times a thuirt gun robh an Riaghaltas a' dèanamh planaichean gus casg a chur air teiripe iompachadh co-sheòrsachd gus a' choimhearsnachd LGDTCE+ a chiùineachadh.
 
 "Tha am beachd gun tèid an reachdas seo a thoirt a-steach gus daoine LGDT+ a chiùineachadh an àite ath-leasachaidhean air Achd Aithneachadh Gnè tàireil. Chan eil còirichean daonna ri bharganachadh agus tha e coltach nach eil an riaghaltas a’ tuigsinn gu bheil daoine anns a' choimhearsnachd LGDT+ a’ fulang neo-ionannachd agus fòirneart ann an diofar dhòighean."
 
