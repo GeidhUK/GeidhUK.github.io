@@ -23,6 +23,10 @@ categories:
 tags:
     - 
 
+twitter: https://twitter.com/geidhuk/status/1297586529045549058?s=21
+instagram: https://www.instagram.com/p/CEPb5D0gsnz/
+facebook: https://www.facebook.com/1644824018873481/posts/3312955755393624/
+
 ---
 
 Chaidh binn prìosain 18 mìosan air athair à Phlymouth a thug ionnsaigh air a mhac, a tha 15 bliadhna a dh’aois, as dèidh dha faighinn a-mach gun do chleachd am balach an aplacaid gèidh fèillmhor, Grindr, air an fhòn-làimhe aige.
