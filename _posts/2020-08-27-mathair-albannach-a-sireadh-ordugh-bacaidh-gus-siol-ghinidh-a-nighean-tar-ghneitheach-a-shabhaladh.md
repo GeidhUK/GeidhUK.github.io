@@ -21,13 +21,18 @@ categories:
     - lagh
 
 tags:
-    - 
+    -
+
+twitter: https://twitter.com/GeidhUK/status/1298998471618224128
+instagram: https://www.instagram.com/p/CEZciOug7Vu/
+facebook: https://www.facebook.com/GeidhUK/posts/3325347517487781
 
 ---
 Tha màthair Albannach a’ sireadh òrdugh-bacaidh gus casg a chur air dotairean sìolachaidh sgrios a dhèanamh air sìol-ghinidh a nighean tar-ghnèitheach.
-Bhàsaich Ellie Anderson, 16, gu h-obann san Iuchar.
 
 <!--more-->
+
+Bhàsaich Ellie Anderson, 16, gu h-obann san Iuchar.
 
 Thòisich Ellie ag aithneachadh mar nighean nuair a bha i a 3 bliadhna a dh’aois, agus bha dùil aice air obair-lannsa daingneachadh gnè nuair a ruigeadh i 18 bliadhna a dh’aois.
 
