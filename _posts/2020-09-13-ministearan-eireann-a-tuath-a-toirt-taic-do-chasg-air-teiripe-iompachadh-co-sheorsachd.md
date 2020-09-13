@@ -26,7 +26,7 @@ tags:
 
 ---
 
-Tha ministearan ann an Èirinn a Tuath air dearbhadh bheil iad airson casg a chur air teiripe iompachadh co-sheòrsachd.
+Tha ministearan ann an Èirinn a Tuath air dearbhadh gu bheil iad airson casg a chur air teiripe iompachadh co-sheòrsachd.
 
 <!--more-->
 
