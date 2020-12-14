@@ -23,6 +23,12 @@ categories:
 
 tags:
     - 
+    
+twitter: https://twitter.com/geidhuk/status/1338573588534845440?s=21
+
+instagram: https://www.instagram.com/p/CIynqSVrHpO/
+
+facebook: https://www.facebook.com/1644824018873481/posts/3650602088295654/
 
 ---
 
