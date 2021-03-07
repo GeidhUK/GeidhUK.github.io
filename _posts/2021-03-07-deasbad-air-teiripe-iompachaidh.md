@@ -31,6 +31,10 @@ facebook: https://www.facebook.com/GeidhUK/posts/3873123159376878
 
 ---
 
-Bidh BPan ann an Taigh nan Cumantan a’ deasbad Diluain teiripe iompachaidh a dhèanamh mì-laghail san Rìoghachd Aonaichte. Bidh an deasbad ri fhaicinn air YouTube aig: https://youtu.be/vl38dzzn1wc. Tha barrachd fhiosrachaidh mu theiripe iompachaidh aig https://www.banconversiontherapy.com còmhla ri foirm far an urrainn dhut sgrìobhadh chun BhP ionadail agad gus do thaic a thoirt dhan a’ chasg.
+Bidh BPan ann an Taigh nan Cumantan a’ deasbad Diluain teiripe iompachaidh a dhèanamh mì-laghail san Rìoghachd Aonaichte.
+
+Bidh an deasbad ri fhaicinn air YouTube aig: [https://youtu.be/vl38dzzn1wc](https://youtu.be/vl38dzzn1wc).
+
+Tha barrachd fhiosrachaidh mu theiripe iompachaidh aig [https://www.banconversiontherapy.com](https://www.banconversiontherapy.com) còmhla ri foirm far an urrainn dhut sgrìobhadh chun BhP ionadail agad gus do thaic a thoirt dhan a’ chasg.
 
 <!--more-->
