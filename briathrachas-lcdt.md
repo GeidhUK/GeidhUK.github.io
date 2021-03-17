@@ -447,7 +447,7 @@ Tha neo-ghnèitheach a' toirt iomradh air cuideigin gun ghnè.
 
 <div class="text-muted">(gender non-conforming)</div>
 
-Cuideigin nach bhios a' leantainn nam beachdan no gnàth-èomhaighean mun choltas no dòigh-giùlain a bu chòir a bhith aca a-rèir a' ghnè bhoireinn no firinn fon deach an clàradh aig àm breith.
+Cuideigin nach bhios a' leantainn nam beachdan no gnàth-ìomhaighean mun choltas no dòigh-giùlain a bu chòir a bhith aca a-rèir a' ghnè bhoireinn no firinn fon deach an clàradh aig àm breith.
 
 #### Neo-romansach
 
