@@ -10,7 +10,8 @@ image: /images/taic.jpg
         <div class="col-md-4">
             <h4>
                 999
-                <hr />
+            </h4>
+            <h4>
                 Seirbheisean Èiginn
             </h4>
             <p>
@@ -20,7 +21,8 @@ image: /images/taic.jpg
         <div class="col-md-4">
             <h4>
                 101
-                <hr />
+            </h4>
+            <h4>
                 Police Alba
             </h4>
             <p>
@@ -30,7 +32,8 @@ image: /images/taic.jpg
         <div class="col-md-4">
             <h4>
                 111
-                <hr />
+            </h4>
+            <h4>
                 NHS 24
             </h4>
             <p>
