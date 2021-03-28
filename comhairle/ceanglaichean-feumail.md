@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Comhairle
-permalink: /comhairle/
+permalink: /comhairle/ceanglaichean-feumail/
 ---
 
 #### [**Childline**](https://www.childline.org.uk/info-advice/your-feelings/sexual-identity/)
