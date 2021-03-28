@@ -64,14 +64,38 @@
   url: #
   description:
   sublinks:
-    - title: Tighinn a-mach
+    - title: A' tighinn a-mach
       url: /comhairle/tighinn-a-mach/
+      description:
+    - title: Aithneachadh Gnè
+      url: /comhairle/aithneachadh-gne/
+      description:
+    - title: Buarraidheachd
+      url: /comhairle/buarraidheachd/
       description:
     - title: Còirichean & Reachdas
       url: /comhairle/coirichean-reachdas/
       description:
     - title: Ceanglaichean Feumail
       url: /comhairle/ceanglaichean-feumail/
+      description:
+    - title: Dàimhean
+      url: /comhairle/daimhean/
+      description:
+    - title: Eucoirean Gràineil
+      url: /comhairle/eucoirean-graineil/
+      description:
+    - title: Feise
+      url: /comhairle/feise/
+      description:
+    - title: Leth-bhreith
+      url: /comhairle/leth-bhreith/
+      description:
+    - title: Pàrantachd
+      url: /comhairle/parantachd/
+      description:
+    - title: Slàinte
+      url: /comhairle/slainte/
       description:
 
 # - title: Tachartasan
