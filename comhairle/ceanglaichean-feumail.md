@@ -5,6 +5,26 @@ permalink: /comhairle/ceanglaichean-feumail/
 image: /images/taic.jpg
 ---
 
+<div class="container">
+    <div class="row">
+        <div class="col-4">
+        #### Seirbheisean Èiginn
+        <br />
+        **999** (Suidheachaidhean èiginneach a-mhàin)
+        </div>
+        <div class="col-4">
+        #### Police Alba
+        <br />
+        **101** _(Mura h-eil e èiginneach)_
+        </div>
+        <div class="col-4">
+        #### NHS 24
+        <br />
+        **111** _(Mura h-eil e èiginneach)_
+        </div>
+    </div>    
+</div>
+
 #### [**Childline**](https://www.childline.org.uk/info-advice/your-feelings/sexual-identity/)
 
 Bidh ChildLine a' toirt comhairle do chlann agus daoine òga fo aois 19 san Rìoghachd Aonaichte.
@@ -62,15 +82,3 @@ Bidh Stonewall Scotland ag iomairt airson còirichean LCDT+ air feadh na h-Alba.
 **Post-d:** info@stonewallscotland.org.uk
 
 **Fòn:** 0131 474 8019
-
-#### Seirbheisean Èiginn
-
-**999** (Suidheachaidhean èiginneach a-mhàin)
-
-#### Police Alba
-
-**101** _(Mura h-eil e èiginneach)_
-
-#### NHS 24
-
-**111** _(Mura h-eil e èiginneach)_
