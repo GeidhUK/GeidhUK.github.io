@@ -5,27 +5,29 @@ permalink: /comhairle/ceanglaichean-feumail/
 image: /images/taic.jpg
 ---
 
-<div class="row">
-    <div class="col-4">
-    <h4 style="text-align: center;">Seirbheisean Èiginn
-    <br />
-    999
-    <br />
-    (Suidheachaidhean-èiginn)</h4>
-    </div>
-    <div class="col-4">
-    <h4 style="text-align: center;">Police Alba
-    <br />
-    101
-    <br />(Mura h-eil e èiginneach)</h4>
-    </div>
-    <div class="col-4">
-    <h4 style="text-align: center;">NHS 24
-    <br />
-    111
-    <br />(Mura h-eil e èiginneach)</h4>
-    </div>
-    <div class="section-divider"></div>
+<div class="container">
+    <div class="row">
+        <div class="col-md-4">
+        <h4 style="text-align: center;">Seirbheisean Èiginn
+        <br />
+        999
+        <br />
+        (Suidheachaidhean-èiginn)</h4>
+        </div>
+        <div class="col-md-4">
+        <h4 style="text-align: center;">Police Alba
+        <br />
+        101
+        <br />(Mura h-eil e èiginneach)</h4>
+        </div>
+        <div class="col-md-4">
+        <h4 style="text-align: center;">NHS 24
+        <br />
+        111
+        <br />(Mura h-eil e èiginneach)</h4>
+        </div>
+        <div class="section-divider"></div>
+    </div>    
 </div>
 
 #### [**Childline**](https://www.childline.org.uk/info-advice/your-feelings/sexual-identity/)
