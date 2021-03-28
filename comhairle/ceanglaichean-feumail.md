@@ -12,7 +12,7 @@ image: /images/taic.jpg
         <br />
         999
         <br />
-        (Suidheachaidhean èiginneach a-mhàin)</h4>
+        (Suidheachaidhean-èiginn)</h4>
         </div>
         <div class="col-4">
         <h4 style="text-align: center;">Police Alba
