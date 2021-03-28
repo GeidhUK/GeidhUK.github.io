@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Comhairle
+title: Ceanglaichean feumail
 permalink: /comhairle/ceanglaichean-feumail/
 ---
 
