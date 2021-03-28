@@ -8,19 +8,19 @@ image: /images/taic.jpg
 <div class="container">
     <div class="row">
         <div class="col-4">
-        #### Seirbheisean Èiginn
+        <h4>Seirbheisean Èiginn
         <br />
-        **999** (Suidheachaidhean èiginneach a-mhàin)
+        999 (Suidheachaidhean èiginneach a-mhàin)</div>h4>
         </div>
         <div class="col-4">
-        #### Police Alba
+        <h4>Police Alba
         <br />
-        **101** _(Mura h-eil e èiginneach)_
+        101 (Mura h-eil e èiginneach)</div>h4>
         </div>
         <div class="col-4">
-        #### NHS 24
+        <h4>NHS 24
         <br />
-        **111** _(Mura h-eil e èiginneach)_
+        111 (Mura h-eil e èiginneach)</div>h4>
         </div>
     </div>    
 </div>
