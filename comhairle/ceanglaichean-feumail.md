@@ -6,25 +6,35 @@ image: /images/taic.jpg
 ---
 
 <div class="container">
-    <div class="row">
+    <div class="row" style="text-align: center;">
         <div class="col-md-4">
-        <h4 style="text-align: center;">Seirbheisean Èiginn
-        <br />
-        999
-        <br />
-        (Suidheachaidhean-èiginn)</h4>
+            <h4>
+                999
+            </h4>
+            <p>
+                Seirbheisean Èiginn
+                (Suidheachaidhean-èiginn)
+            </p>
         </div>
         <div class="col-md-4">
-        <h4 style="text-align: center;">Police Alba
-        <br />
-        101
-        <br />(Mura h-eil e èiginneach)</h4>
+            <h4>
+                101
+            </h4>
+            <p>
+                Police Alba
+                <br />
+                (Mura h-eil e èiginneach)
+            </p>
         </div>
         <div class="col-md-4">
-        <h4 style="text-align: center;">NHS 24
-        <br />
-        111
-        <br />(Mura h-eil e èiginneach)</h4>
+            <h4>
+                111
+            </h4>
+            <p>
+                NHS 24
+                <br />
+                (Mura h-eil e èiginneach)
+            </p>
         </div>
         <div class="section-divider"></div>
     </div>    
