@@ -15,11 +15,15 @@ Bidh ChildLine a' toirt comhairle do chlann agus daoine òga fo aois 19 san Rìo
 
 #### [**LGBT Health & Wellbeing**](http://www.lgbthealth.org.uk/)
 
+(Tuairisgeul an seo)
+
 **Post-d:** admin@lgbthealth.org.uk
 
 **Fòn:** 0131 523 1100
 
 #### [**LGBT Helpline**](http://www.lgbthealth.org.uk/helpline/)
+
+(Tuairisgeul an seo)
 
 **Post-d:** helpline@lgbthealth.org.uk
 
@@ -27,15 +31,21 @@ Bidh ChildLine a' toirt comhairle do chlann agus daoine òga fo aois 19 san Rìo
 
 #### [**LGBT Switchboard**](https://switchboard.lgbt/)
 
+(Tuairisgeul an seo)
+
 **Post-d:** chris@switchboard.lgbt
 
 **Fòn:** 0300 330 0630
 
 #### [**LGBT Youth Scotland**](https://www.lgbtyouth.org.uk/)
 
+(Tuairisgeul an seo)
+
 **Fòn:** 0131 555 3940 / 0141 552 7425
 
 #### [**Samh**](https://www.samh.org.uk)
+
+(Tuairisgeul an seo)
 
 **Fòn:** 0141 530 1000
 
@@ -47,16 +57,14 @@ Bidh Stonewall Scotland ag iomairt airson còirichean LCDT+ air feadh na h-Alba.
 
 **Fòn:** 0131 474 8019
 
-## Seirbheisean Èiginn
+#### Seirbheisean Èiginn
 
-#### **999** Seirbheisean Èiginn
+**999** (Suidheachaidhean èiginneach a-mhàin)
 
-(Suidheachaidhean èiginneach a-mhàin)
+#### Police Alba
 
-#### **101** Police Alba
+**101** _(Mura h-eil e èiginneach)_
 
-_(Mura h-eil e èiginneach)_
+#### NHS 24
 
-#### **111** NHS 24
-
-_(Mura h-eil e èiginneach)_
+**111** _(Mura h-eil e èiginneach)_
