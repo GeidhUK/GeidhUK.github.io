@@ -61,8 +61,15 @@
   description: Geàrr-chunntas ghoirid de dh'eachdraidh LCDT na h-Alba&#013;A short history of LGBT Scotland
 
 - title: Comhairle
-  url: /comhairle
+  url: #
   description:
+  sublinks:
+    - title: Tighinn a-mach
+       url: /comhairle/tighinn-a-mach/
+       description:
+    - title: Còirichean & Reachdas
+     url: /comhairle/coirichean-reachdas/
+     description:
 
 # - title: Tachartasan
 #  url: /roinn-seorsa/tachartasan
