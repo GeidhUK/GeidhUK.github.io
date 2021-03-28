@@ -2,7 +2,7 @@
 layout: page
 title: Ceanglaichean feumail
 permalink: /comhairle/ceanglaichean-feumail/
-image: /images/loidhne-thaice.jpg
+image: /images/taic.jpg
 ---
 
 #### [**Childline**](https://www.childline.org.uk/info-advice/your-feelings/sexual-identity/)
