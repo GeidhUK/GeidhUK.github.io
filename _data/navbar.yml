@@ -76,9 +76,6 @@
     - title: Còirichean & Reachdas
       url: /comhairle/coirichean-reachdas/
       description:
-    - title: Ceanglaichean Feumail
-      url: /comhairle/ceanglaichean-feumail/
-      description:
     - title: Dàimhean
       url: /comhairle/daimhean/
       description:
@@ -96,6 +93,9 @@
       description:
     - title: Slàinte
       url: /comhairle/slainte/
+      description:
+    - title: Ceanglaichean Feumail
+      url: /comhairle/ceanglaichean-feumail/
       description:
 
 # - title: Tachartasan
