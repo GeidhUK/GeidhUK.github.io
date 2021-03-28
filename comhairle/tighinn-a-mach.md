@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tighinn a-mach
+title: A' tighinn a-mach
 permalink: /comhairle/tighinn-a-mach/
 image: /images/tighinn-a-mach.jpeg
 ---
