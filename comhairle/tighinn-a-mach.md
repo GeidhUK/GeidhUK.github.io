@@ -35,4 +35,4 @@ Chan eil dòigh ceart no ceàrr ann airson tighinn a-mach ach mus tig thu a-mach
 
 #### Barrachd fhiosrachaidh
 
-Faodar barrachd chomhairle mu bhith a’ tighinn a-mach a lorg air làraichean-lìn [LGBT Youth Scotland](https://www.lgbtyouth.org.uk/resources/?topic=Coming) agus [Stonewall](https://www.stonewall.org.uk/help-advice/coming-out-0).
+Faodar barrachd chomhairle mu bhith a’ tighinn a-mach a lorg air làraichean-lìn [LGBT Youth Scotland](https://www.lgbtyouth.org.uk/groups-and-support/lgbt-advice-centre/coming-out/) agus [Stonewall](https://www.stonewall.org.uk/help-advice/coming-out-0).
