@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ceanglaichean feumail
+title: Ceanglaichean Feumail
 permalink: /comhairle/ceanglaichean-feumail/
 image: /images/taic.jpg
 ---
