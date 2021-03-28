@@ -10,29 +10,30 @@ image: /images/taic.jpg
         <div class="col-md-4">
             <h4>
                 999
+                <hr />
+                Seirbheisean Èiginn
             </h4>
             <p>
-                Seirbheisean Èiginn
                 (Suidheachaidhean-èiginn)
             </p>
         </div>
         <div class="col-md-4">
             <h4>
                 101
+                <hr />
+                Police Alba
             </h4>
             <p>
-                Police Alba
-                <br />
                 (Mura h-eil e èiginneach)
             </p>
         </div>
         <div class="col-md-4">
             <h4>
                 111
+                <hr />
+                NHS 24
             </h4>
             <p>
-                NHS 24
-                <br />
                 (Mura h-eil e èiginneach)
             </p>
         </div>
