@@ -49,6 +49,12 @@ Bidh ChildLine a' toirt comhairle do chlann agus daoine òga fo aois 19 san Rìo
 
 **Fòn:** 0141 530 1000
 
+#### [**Scottish Transgender Alliance**](https://www.scottishtrans.org)
+
+(Tuairisgeul an seo)
+
+**Fòn:** 0131 467 6039
+
 #### [**Stonewall Scotland**](http://www.stonewallscotland.org.uk/)
 
 Bidh Stonewall Scotland ag iomairt airson còirichean LCDT+ air feadh na h-Alba. Cuideachd tha oifisean roinneil aca ann an Lunainn (Stonewall) agus Caerdydd (Stonewall Cymru) a bhios ag iomairt anns an Rìoghachd Aonaichte agus a' Chuimrigh.
