@@ -3,7 +3,6 @@ layout: page
 title: Còirichean & Reachdas
 permalink: /comhairle/coirichean-reachdas/
 ---
-[Comhairle]({{site.baseurl}}/comhairle/) / Còirichean & Reachdas
 
 # Reachdas LCDT+ na h-Alba
 
