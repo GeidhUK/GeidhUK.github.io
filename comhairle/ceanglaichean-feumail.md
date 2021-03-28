@@ -26,6 +26,7 @@ image: /images/taic.jpg
         111
         <br />(Mura h-eil e èiginneach)</h4>
         </div>
+        <br />
     </div>    
 </div>
 
