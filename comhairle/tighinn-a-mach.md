@@ -2,6 +2,7 @@
 layout: page
 title: Tighinn a-mach
 permalink: /comhairle/tighinn-a-mach/
+image: /images/tighinn-a-mach.jpeg
 ---
 
 #### Dè a th’ ann?
