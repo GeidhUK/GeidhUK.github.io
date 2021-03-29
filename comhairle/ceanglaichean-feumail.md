@@ -2,6 +2,7 @@
 layout: comhairle
 title: Ceanglaichean Feumail
 permalink: /comhairle/ceanglaichean-feumail/
+image: /images/ceanglaichean-feumail.jpg
 ---
 
 <div class="container">

@@ -2,6 +2,7 @@
 layout: comhairle
 title: Feise
 permalink: /comhairle/feise/
+image: /images/feise.jpg
 ---
 
 Ma thòisicheas tu a’ dol a-mach le cuideigin, is dòcha gum bi thu airson dàimh feiseil a thòiseachadh leotha.

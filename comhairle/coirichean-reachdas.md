@@ -2,6 +2,7 @@
 layout: comhairle
 title: Còirichean & Reachdas
 permalink: /comhairle/coirichean-reachdas/
+image: /images/coirichean-reachdas.jpg
 ---
 
 # Reachdas LCDT+ na h-Alba
