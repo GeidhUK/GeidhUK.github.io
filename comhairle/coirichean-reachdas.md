@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: comhairle
 title: Còirichean & Reachdas
 permalink: /comhairle/coirichean-reachdas/
 ---

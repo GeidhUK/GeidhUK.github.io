@@ -1,8 +1,7 @@
 ---
-layout: page
+layout: comhairle
 title: Ceanglaichean Feumail
 permalink: /comhairle/ceanglaichean-feumail/
-image: /images/taic.jpg
 ---
 
 <div class="container">

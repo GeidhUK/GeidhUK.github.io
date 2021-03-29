@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: comhairle
 title: Leth-bhreith
 permalink: /comhairle/leth-bhreith/
 image: /images/leth-bhreith.jpg
