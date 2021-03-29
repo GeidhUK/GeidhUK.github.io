@@ -16,7 +16,7 @@ Tha burraidheachd a' toirt iomradh air giùlan sam bith leis an dùil cron a dh�
 *   Tarraing às
 *   Milleadh no goid de nithean pearsanta
 
-Mar as trice bidh burraidheachd a' tachairt air sgàth claon-bhreithe an-aghaidh eadar-dhealachadh air choireigin. Tha [Achd na Co-ionannachd 2010]({{site.baseurl}}/comhairle/coirichean-agus-reachdas/) ag ràdh gu bheil claon-bhreith air adhbharachadh le gin de na leanas mì-laghail:-
+Mar as trice bidh burraidheachd a' tachairt air sgàth claon-bhreithe an-aghaidh eadar-dhealachadh air choireigin. Tha [Achd na Co-ionannachd 2010]({{site.baseurl}}/comhairle/coirichean-reachdas/) ag ràdh gu bheil claon-bhreith air adhbharachadh le gin de na leanas mì-laghail:-
 
 *   Aois
 *   Cinneadh
