@@ -5,21 +5,11 @@ layout: default
 
 <div class="container">
     <img src="{{ page.image }}" class="post-image"><br>
-  
-  <div class="row">
-    <div class="col-md-10">
-      <div class="post">
-        <!--<h3 class="post-title">{{ page.title }}</h3>
-        <br />-->
-    
-        {{ content }}
-    
-      </div>
+    <div class="post">
+      <!--<h3 class="post-title">{{ page.title }}</h3>
+      <br />-->
+      {{ content }}
     </div>
-    <div class="col-md-2">
-      {% include comhairle.html %}
-    </div>
-  </div>
 </div>
 
 {% else %}
@@ -29,7 +19,6 @@ layout: default
     <h3 class="post-title">{{ page.title }}</h3>
     <br />
     {{ content }}
-
   </div>
 </div>
 
