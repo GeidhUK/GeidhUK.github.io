@@ -2,7 +2,7 @@
 layout: comhairle
 title: A' tighinn a-mach
 permalink: /comhairle/tighinn-a-mach/
-image: /images/tighinn-a-mach.jpeg
+image: /images/tighinn-a-mach.jpg
 ---
 
 #### Dè a th’ ann?
