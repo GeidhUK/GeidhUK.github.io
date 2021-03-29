@@ -39,5 +39,5 @@ Ma tha thu a' fulang burraidheachd, gràin-co-sheòrsachd no gràin-tar-ghnèith
 *   Bruidhinn ri buidheann LGDT+.
 *   Cuir fios gu [Victim Support Scotland](http://www.victimsupportsco.org.uk) ma tha thu air eucoir gràineil a dh'fhulang.
 
-####Barrachd Chomhairle
+#### Barrachd Chomhairle
  Gheibhear barrachd chomhairle mu bhurraidheachd air an làrach-lìn [Respect Me](http://www.respectme.org.uk) no bhith a’ cur fòn gu gìn de na loidhnichean-taice a th’ air [an duilleag seo]({{site.baseurl}}/comhairle/).
