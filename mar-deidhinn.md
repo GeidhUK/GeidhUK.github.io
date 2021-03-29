@@ -2,6 +2,7 @@
 layout: page
 title: Mar Deidhinn
 permalink: /mar-deidhinn/
+image: /images/mar-deidhinn.jpg
 ---
 
 Bidh Geidh.uk **[^1]** a’ toirt thugaibh sa Ghàidhlig na naidheachdan LGBT+ as ùire le fòcas àraidh air naidheachd Albannach.
