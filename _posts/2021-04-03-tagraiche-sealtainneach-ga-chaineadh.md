@@ -24,11 +24,11 @@ categories:
 tags:
     - 
 
-twitter:
+twitter: https://twitter.com/geidhuk/status/1378368067898634243
 
-instagram:
+instagram: https://www.instagram.com/p/CNNV5I1L23O/
 
-facebook:
+facebook: https://www.facebook.com/GeidhUK/posts/3953518638003996
 
 ---
 
