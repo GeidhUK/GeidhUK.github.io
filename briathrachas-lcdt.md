@@ -27,12 +27,6 @@ Innse do dhaoine eile mu do fheisealachd no do dhearbh-aithne gnè.
 
 Achd Pàrlamaid an Rìoghachd Aonaichte a bhios a' toirt cead do dhaoine a bhith ag atharrachadh an gnè aca gu laghail.
 
-#### Annlachd Inneamh Dìon-slàinte
-
-<div class="text-muted">(Acquired Immunodeficiency Syndrome / AIDS)</div>
-
-Buidheann de ghalaran agus tinneasan a bhios cuid de dh'euslaintich le HIV a' fulang nuair a tha an HIV air an siostam dìon-slàinte aca a mhilleadh.
-
 #### Annas dhen dà-sheòrsachd
 
 <div class="text-muted">(bicurious)</div>
@@ -75,17 +69,17 @@ Boireannach co-sheòrsach no boireannach aig a bheil miann air boireannaich eile
 
 Fèistear fireannach a bhios a' cur air aodach "boireannaich" mar phàirt de thaisbeanadh.
 
-#### Bhìoras Dìon-slàinte Daonna
-
-<div class="text-muted">(Human Immunodeficiency Virus / HIV)</div>
-
-Bhìoras a bhios a' milleadh ceallan anns an t-siostam dìon-slàinte agus a' lagachadh an comas a bhith a' sabaid galaran agus tinneasan. Nuair a tha an siostam dìon-slàinte air a mhilleadh bidh cuid de dh’euslaintich a' fulang buidheann de ghalaran agus tinneasan a tha air an ainmeachadh AIDS.
-
 #### Bìnearachd gnè
 
 <div class="text-muted">(gender binary)</div>
 
 Siostam seòrsachaidh gnè le dà ghnè no dà sheòrsa eadar-dhealaichte .i. boireann is fireann. Tha an siostam seo an dùil ri seòrsa, gnè agus feisealachd a tha uile co-ionann ri chèile .i. fear le coltas, feartan agus dearbh-aithne gnè fireannach agus aig a bheil miann eile-sheòrsach air boireannaich.
+
+#### Bìoras Easbhaidh Ion-dhìon Daonna
+
+<div class="text-muted">(Human Immunodeficiency Virus / HIV)</div>
+
+Bhìoras a bhios a' milleadh ceallan anns an t-siostam dìon-slàinte agus a' lagachadh an comas a bhith a' sabaid galaran agus tinneasan. Nuair a tha an siostam dìon-slàinte air a mhilleadh bidh cuid de dh’euslaintich a' fulang buidheann de ghalaran agus tinneasan a tha air an ainmeachadh AIDS.
 
 #### Brodag
 
@@ -574,6 +568,12 @@ Tha cuideigin sa chlòsaid nuair nach eil iad air aithneachadh do dhaoine eile, 
 <div class="text-muted">(artificial insemination)</div>
 
 Leigheas a tha ag amas air neach a chuidheachadh le bhith a' fàs trom le leanabh.
+
+#### Sionndram Easbhaidh Ion-dhìon Togte
+
+<div class="text-muted">(Acquired Immunodeficiency Syndrome / AIDS)</div>
+
+Buidheann de ghalaran agus tinneasan a bhios cuid de dh'euslaintich le HIV a' fulang nuair a tha an HIV air an siostam dìon-slàinte aca a mhilleadh.
 
 #### Speactram gnè
 
