@@ -161,6 +161,12 @@ Bidh cuid de dhaoine a' cleachdadh am facal cuèir gus iomradh a thoirt air a' c
 
 **Thoir an àire:** Ann am Breatainn b' e facal lùghdachail a bh' ann an cuèir gu h-eachdraidheil. Ged a tha a' choimhearsnachd air a thoirt air ais, tha cuid ann a tha a' smaoineachadh gur e facal lùghdaichail a th' ann fhathast.
 
+#### Cuèir-ghnèitheach
+
+<div class="text-muted">(genderqueer / non-binary)</div>
+
+Tha cuèir-ghnèitheach a' toirt iomradh air cuideigin aig nach eil dearbh aithne boireann no fireann. Ma dh'fhaodte gum bi iad a' toirt iomradh orra fhèin mar mheasgachadh dhen dà chuid, mar far-ghnèitheach no mar rudeigin gu tur eadar-dhealaichte.
+
 #### Cùisean co-cheangailte ri gnè
 
 <div class="text-muted">(gender issues)</div>
