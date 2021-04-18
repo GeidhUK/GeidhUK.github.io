@@ -15,23 +15,6 @@ _Below is a list of the LGBTQI+ vocabulary used on this site. Let me know on [Tw
 
 ### **<a name="A"></a>A**
 
-<div class="accordion" id="accordionExample">
-  <div class="accordion-item">
-	<h4 class="accordion-header" id="headingOne">
-	  <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-		A’ tighinn a-mach
-	  </button>
-	</h4>
-	<div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
-	  <div class="accordion-body">
-		<div class="text-muted">(coming out)</div>
-		
-		<p>Innse do dhaoine eile mu do fheisealachd no do dhearbh-aithne gnè.</p>
-	  </div>
-	</div>
-  </div>
-</div>
-
 #### A’ tighinn a-mach
 
 <div class="text-muted">(coming out)</div>
