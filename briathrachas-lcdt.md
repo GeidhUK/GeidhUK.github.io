@@ -187,6 +187,12 @@ Tha dà-ghnèitheach a' toirt iomradh air cuideigin a bhios ag aithneachadh mar 
 
 Mar as trice tha dà-sheòrsach a' toirt iomradh air cuideigin aig a bheil miann air boireannaich agus fireannaich, ach tha e cuideachd a' toirt iomradh air cuideigin aig a bheil miann air daoine eile ge b' e an gnè aca.
 
+#### Dà-spioradach
+
+<div class="text-muted">(two-spirit)</div>
+
+Mìneachadh
+
 #### Dearbh-aithne gnè
 
 <div class="text-muted">(gender identity)</div>
@@ -342,6 +348,18 @@ Lesbach, Co-sheòrsach, Dà-sheòrsach, Tar-ghnèitheach
 <div class="text-muted">(lesbian)</div>
 
 Tha leasbach a' toirt iomradh air boireanna(i)ch co-sheòrsach no boireannach aig a bheil miann air boireannaich eile.
+
+#### Leigheas ro-chasgach iar-ghabhalach
+
+<div class="text-muted">(post-exposure prophylaxis (PEP))</div>
+
+Mìneachadh
+
+#### Leigheas ro-chasgach ro-ghabhalach
+
+<div class="text-muted">(pre-exposure prophylaxis (PrEP))</div>
+
+Mìneachadh
 
 #### Leigheas torrachais
 
