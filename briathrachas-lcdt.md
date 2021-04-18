@@ -485,6 +485,12 @@ An duilgheadas a bhios cuideigin a' fulang nuair nach eil an dearbh-aithne aca c
 
 Tha neo-sheòrsach a' toirt iomradh air cuideigin gun mhiann feise air daoine eile.
 
+#### Neodroiseach
+
+<div class="text-muted">(neutrois)</div>
+
+Mìneachadh
+
 #### Nochdadh gnè
 
 <div class="text-muted">(gender expression)</div>
