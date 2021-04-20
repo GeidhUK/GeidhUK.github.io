@@ -6,7 +6,7 @@ image: /images/banner.jpg
 
 <div class="container">
   <div class="row">
-    <div class="col-md-10">
+    <div class="col-md-8">
       {% for post in paginator.posts %}
           <div class="row">
             <div class="col-md-3">
@@ -30,7 +30,9 @@ image: /images/banner.jpg
       <!-- Pagination -->
       {% include pagination.html %}
     </div>
-    <div class="col-md-2">
+    <div class="col-md-1">
+    </div>
+    <div class="col-md-3">
       {% include roinnean-seorsa.html %}
     </div>
   </div>
