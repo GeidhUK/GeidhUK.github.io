@@ -1,56 +1,56 @@
-- title: <i class="fas fa-home"></i>
+- title: Naidheachdan
   url: /
-  description: Dachaigh&#013;Home
+  description: Naidheachdan&#013;News
 
-- title: Roinnean-seòrsa
-  url: #
-  description:
-  sublinks:
-    - title: Alba
-      url: /roinn-seorsa/alba
-      description:
-    - title: An Rìoghachd Aonaichte
-      url: /roinn-seorsa/an-rioghachd-aonaichte
-      description:
-    - title: An Roinn-Eòrpa
-      url: /roinn-seorsa/an-roinn-eorpa
-      description:
-    - title: Blog
-      url: /roinn-seorsa/blog
-      description: Blog
-    - title: Creideamh
-      url: /roinn-seorsa/creideamh
-      description:
-    - title: Cùltar
-      url: /roinn-seorsa/cultar
-      description:
-    - title: Èirinn
-      url: /roinn-seorsa/eirinn
-      description:
-    - title: Fèisean-pròise
-      url: /roinn-seorsa/feisean-proise
-      description:
-    - title: Foghlam
-      url: /roinn-seorsa/foghlam
-      description:
-    - title: Gàidhlig
-      url: /roinn-seorsa/gaidhlig
-      description:
-    - title: Gnìomhachas
-      url: /roinn-seorsa/gniomhachas
-      description:
-    - title: Lagh
-      url: /roinn-seorsa/lagh
-      description:
-    - title: Poilitigs
-      url: /roinn-seorsa/poilitigs
-      description:
-    - title: Slàinte
-      url: /roinn-seorsa/slainte
-      description:
-    - title: Teicneòlas
-      url: /roinn-seorsa/teicneolas
-      description:
+# - title: Roinnean-seòrsa
+#  url: #
+#  description:
+#  sublinks:
+#    - title: Alba
+#      url: /roinn-seorsa/alba
+#      description:
+#    - title: An Rìoghachd Aonaichte
+#      url: /roinn-seorsa/an-rioghachd-aonaichte
+#      description:
+#    - title: An Roinn-Eòrpa
+#      url: /roinn-seorsa/an-roinn-eorpa
+#      description:
+#    - title: Blog
+#      url: /roinn-seorsa/blog
+#      description: Blog
+#    - title: Creideamh
+#      url: /roinn-seorsa/creideamh
+#      description:
+#    - title: Cùltar
+#      url: /roinn-seorsa/cultar
+#      description:
+#    - title: Èirinn
+#      url: /roinn-seorsa/eirinn
+#      description:
+#    - title: Fèisean-pròise
+#      url: /roinn-seorsa/feisean-proise
+#      description:
+#    - title: Foghlam
+#      url: /roinn-seorsa/foghlam
+#      description:
+#    - title: Gàidhlig
+#      url: /roinn-seorsa/gaidhlig
+#      description:
+#    - title: Gnìomhachas
+#      url: /roinn-seorsa/gniomhachas
+#      description:
+#    - title: Lagh
+#      url: /roinn-seorsa/lagh
+#      description:
+#    - title: Poilitigs
+#      url: /roinn-seorsa/poilitigs
+#      description:
+#    - title: Slàinte
+#      url: /roinn-seorsa/slainte
+#      description:
+#    - title: Teicneòlas
+#      url: /roinn-seorsa/teicneolas
+#      description:
 
 - title: Briathrachas LGDTCE+
   url: /briathrachas-lcdt
