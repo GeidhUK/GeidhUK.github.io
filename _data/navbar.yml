@@ -102,10 +102,6 @@
 #  url: /roinn-seorsa/tachartasan
 #  description: Liosta de thachartasan LCDTQ+ a' tachairt air feadh na h-Alba&#013;A list of LGBTQ+ events from around Scotland
 
-- title: <i class="fas fa-store"></i>
-  url: https://shop.spreadshirt.co.uk/geidhuk
-  description: Bùth Bhathair&#013;Merch Store
-
 - title: Ceanglaichean
   url: /ceanglaichean
   description: Liosta de cheanglaichean feumail&#013;A list of useful links
@@ -117,3 +113,7 @@
 - title: Lorg
   url: /lorg
   description: Lorg sna postaichean&#013;Search the posts
+
+  - title: <i class="fas fa-store"></i> Bùth Bhathair
+    url: https://shop.spreadshirt.co.uk/geidhuk
+    description: Bùth Bhathair&#013;Merch Store
