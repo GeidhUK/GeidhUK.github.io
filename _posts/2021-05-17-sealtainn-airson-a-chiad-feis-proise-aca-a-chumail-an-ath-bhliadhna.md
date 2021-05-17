@@ -24,6 +24,12 @@ categories:
 tags:
     -
 
+twitter: https://twitter.com/GeidhUK/status/1394191813557297152
+
+instagram: https://www.instagram.com/p/CO96oberBFR/
+
+facebook: https://www.facebook.com/GeidhUK/posts/4083847084971150
+
 ---
 
 Chaidh ainmeachadh gun tèid a’ chiad fèis-pròise a-riamh ann an Sealtainn a chumail san Ògmhios 2022.
