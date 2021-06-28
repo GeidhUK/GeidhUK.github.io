@@ -31,7 +31,7 @@ Chan urrainn dhut a bhith cinnteach dè na riochdairean a bhios cuideigin a’ c
 
 Is e an dòigh as fheàrr faighinn a-mach dè na riochdairean a th’ air cuideigin a bhith ag innse dhaibh na riochdairean a th’ ort fhèin.
 
-![](/images/riochdairean-pearsanta.jpg)
+![](/images/riochdairean-pearsanta.jpg){: .post-image }
 
 #### Mura h-eil fios agad dè na riochdairean  a th’ air cuideigin
 
